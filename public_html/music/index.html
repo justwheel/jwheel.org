@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+<head>
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8">
+	<meta name="description" content="IOS 7 AudioPlayer - Keyners Freebie">
+	<meta name="keywords" content="IOS 7 AudioPlayer - Keyners Freebie" >
+	<meta name="author" content="KEYNERS">
+	<title>IOS 7 AudioPlayer - Keyners Freebie</title>
+
+	<!-- Mobile Specific Metas
+  ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+
+
+	<!-- CSS
+  ================================================== -->	
+  	<!-- Open Sans -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lato:100,400' rel='stylesheet' type='text/css'>
+
+
+	<link rel="stylesheet" href="css/reset.css">	
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="js/player/new/mediaelementplayer.css" />
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- JS
+  ================================================== -->	
+	<script src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/media.js"></>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-55319213-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+</head>
+<body>
+	<div class='slogan'>
+		<img src='images/ios7.png' alt='ios7'>
+	</div>
+	<div class='slogan'>
+		<span>Styled music player by <a href='http://keyners.pl/' title='Keyners' target='_blank'>Keyners</span>
+	</div>
+
+	<div class='iphone'>	
+
+		<div class='player'>
+			<div class='playerabout'>
+				<span class='what'>Get Lucky (feat. Pharrell Williams)</span><span class='who'>Daft Punk - Random Access Memories</span>
+			</div>
+			<a href='#' class='download'></a>
+			<a href='#' class='next'></a>
+			<audio id="player2" src="http://keyners.pl/audio/08_Get_Lucky_(feat._Pharrell_Williams).mp3" type="audio/mp3"></audio>
+		</div>
+
+		
+
+		<a href='http://keyners.pl/freebie/ios7-audioplayer' class='directDownload'>Download here</a>
+	</div>
+	
+
+
+
+<script type="text/javascript">
+		
+
+		/*
+		* Autoplay function
+		*/
+	    function autoplay() {
+	        $('.mejs-button button').trigger('click');
+	    }
+
+		
+	    $('audio').mediaelementplayer({
+		    features: ['playpause','current','progress','duration', 'volume'],
+
+		});
+
+		/* 
+		* This triggers auto play
+		*/
+	    setTimeout('autoplay()', 500);
+
+
+    </script>
+
+
+	<!-- Google  -->    
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21038689-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body>
+<footer>
+	<p align="center"><em><a href="/music/lyrics/">See my archived lyrics</a></em></p>
+	<br />
+</footer>
+</html>

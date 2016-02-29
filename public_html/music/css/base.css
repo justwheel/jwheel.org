@@ -1,0 +1,63 @@
+
+/*
+*  IOS 7 AUDIOPLAYER By KEYNERS
+*  http://keyners.pl
+*/
+
+body {margin:0; padding: 0; font-family: "Open Sans", Arial, sans-serif; background: #fff; padding-top: 15px; border-top: 3px solid #ff3773;}
+
+a {text-decoration: none;}
+
+/*
+* Slogan
+*/
+.slogan { margin: 0 0 5px; text-align: center; font-family: 'Lato'; font-weight: 200; font-size: 28px;}
+.slogan a {color: #ff3773;}
+
+
+
+/*
+* Iphone
+*/
+.iphone {width: 345px; height: 740px; margin: 40px auto 20px; padding: 126px 0 0 29px; background: url(../images/iphone.png) no-repeat 0 0; position: relative;}
+
+ 
+
+
+/*
+* Player
+*/
+.player {width: 289px; height: 461px; float: left; padding-bottom: 35px; clear: both; background: #f6f6f6; position: relative; overflow: hidden;}	
+
+
+.player .playerabout {position: absolute; top: 355px; left: 0; width: 280px; padding: 0 10px; float: left; color: #111; text-align: left; z-index: 1;}
+.player .playerabout span {width: 270px; float: left; clear: both; font-size: 12px; color: #111; font-family: 'Lato', 'Open Sans'; font-weight: 400; text-align: center;}
+.player .playerabout span.what {margin-bottom: 4px; font-size: 18px;}
+.player .playerabout span.who { font-size: 14px}
+
+/*
+* Next & Dwonlaod
+*/
+a.next, a.download {position: absolute; top: 410px; display: block; width: 32px; height: 32px; opacity: .3;}
+a.next:hover, a.download:hover {opacity: .7;}
+a.next {right: 40px; background: url(../images/player/next.png) no-repeat 0 0;}
+a.download {left: 50px; background: url(../images/player/download.png) no-repeat 0 0;}
+
+
+/*
+* Background / Cover
+*/
+.mejs-controls .mejs-button.mejs-playpause-button {background: url(../images/cover.jpg) center no-repeat;}
+
+
+
+
+.directDownload {position: absolute; right: -250px; bottom: 300px; padding: 10px 20px; background: #ff3773; font-family: 'Lato'; font-weight: 400; color: #fff; font-size: 22px; text-transform: uppercase;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+
+
+

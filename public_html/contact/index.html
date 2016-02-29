@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact Me - Justin W. Flory</title>
+	<link rel="stylesheet" type="text/css" href="/css/styles.css">
+	<!--<script src='https://www.google.com/recaptcha/api.js'></script>-->
+</head>
+
+<style>
+input, textarea {
+    padding: 5px;
+    margin: 10px;
+    font-size: medium;
+    font-weight: bold;
+    outline: none;
+}
+input[type=text], textarea {
+    width: 350px;
+    background-color: #DDEDFF;
+    border: 1px solid #97C9FF;
+}
+input[type=submit] {
+    width: 100px;
+    background-color: #669900;
+    border: 1px solid #336600;
+    font-size: large;
+    color: #FFFFFF;
+}
+input[type=submit]:hover {
+    background-color: #78B300;
+    cursor: pointer;
+}
+input[type=submit]:active {
+    background-color: #4A6F00;
+}
+body {
+    padding: 10px;
+}
+</style>
+
+<body>
+	<header>
+		<div id="header">
+			<h2>Contact me</h2>
+			<p>Need to reach me? Shoot me an email.</p>
+		</div>
+		<div id="nav">
+			<h6><a href="/">Home</a></h6>
+			<h6><a href="http://blog.justinwflory.com">Blog</a></h6>
+			<h6><a href="/chat">Chat</a></h6>
+			<h6><a href="http://s.j-f.co/1WrXkHA">Last.fm</a></h6>
+			<h6><a href="/lit">Literature</a></h6>
+			<h6><a href="/ap">AP Exam Books</a></h6>
+			<h6><a href="/irc">IRC Logs</a></h6>
+			<h6><a href="/music">Music</a></h6>
+		</div>
+	</header>
+
+	<main>
+    	<div id="section">
+		    <form action="mailer.php" method="POST">
+		        <div>
+		            <p>Name</p>
+		            <input name="name" type="text"> <br>
+		        </div>
+		        <div>
+		            <p>Email (Optional)</p>
+		            <input name="email" type="text">
+		            <br>
+		        </div>
+		        <div>
+		            <p>Comment</p>
+		            <textarea cols="30" name="comment" rows="9"></textarea>
+		            <br>
+		        </div>
+		        <!--<div class="g-recaptcha" data-sitekey="6LemWAITAAAAADU4lRxl2gIWuERr6s0B1ek52PYs"></div>-->
+		        <div>
+		        	<input name="submit" type="submit" value="Send">
+		        </div>
+		    </form>
+    	</div>
+	</main>
+
+	<footer>
+		<div id="footer">
+			Copyright &copy; 2015-2016 Justin W. Flory<br />
+			Find this site on <a href="https://github.com/jflory7/justinwflory.com">GitHub</a>.<br />
+			<a href=".">Contact me</a>
+		</div>
+	</footer>
+</body>
+</html>
