@@ -23,10 +23,10 @@ cd $GITDIR && git pull
 #####################################################
 # Delete all known files in web server directory    #
 #####################################################
-cd $WEBDIR && rm -r ap/ blog/ chat/ contact/ css/ irc/ lit/ music/ old/ index.html robots.txt
+cd $WEBDIR && rm -r ap/ blog/ chat/ contact/ css/ fossmc/ irc/ lit/ music/ old/ index.html robots.txt
 
 #####################################################
 # Copy the files from the git repo into virtualhost #
 #####################################################
 cd $GITDIR
-cp -r ap/ blog/ chat/ contact/ css/ irc/ lit/ music/ old/ index.html robots.txt $WEBDIR
+cp -r ap/ blog/ chat/ contact/ css/ fossmc/ irc/ lit/ music/ old/ index.html robots.txt $WEBDIR
