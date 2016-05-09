@@ -13,7 +13,7 @@
 #
 
 WEBDIR=/var/www/justinwflory.com/public_html
-GITDIR=$HOME/justinwflory.com/public_html
+GITDIR=$HOME/websites/justinwflory.com/public_html
 
 #####################################################
 # Pull down the latest changes from GitHub          #
