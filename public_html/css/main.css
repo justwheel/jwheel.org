@@ -1,0 +1,109 @@
+/* ===[ Global styling ]=== */
+
+* {
+    background-color: linen;
+    color: #330000;
+    font-family: "Merriweather Sans", Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Overpass, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkorchid;
+    font-size: 40pt;
+}
+
+h2 {
+    color: darkslateblue;
+    font-size: 24pt;
+}
+
+
+
+/* ===[ Site navigation styling ]=== */
+
+nav {
+	font-family: Overpass, Helvetica, sans-serif;
+	font-size: 12pt;
+    text-align: center;
+}
+
+nav .active {
+    background-color: cornflowerblue;
+}
+
+nav ul {
+    background-color: darkorchid;
+    list-style-type: none;
+    margin: -10px -9px 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    background-color: darkorchid;
+    color: linen;
+    display: block;
+    padding: 16px 24px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: royalblue;
+    text-decoration: underline;
+    text-decoration-color: skyblue;
+    text-decoration-style: dotted;
+}
+
+
+
+/* ===[ Main body styling ]=== */
+
+main .section {
+    padding: 2% 15%;
+}
+
+main .project {
+    padding: 1% 0;
+}
+
+
+main .section img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+/* ===[ Footer styling ]=== */
+
+footer {
+    font-family: Overpass, Helvetica, sans-serif;
+    font-size: 10pt;
+    text-align: center;
+}
+
+footer ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+footer ul li, footer ul li a, #year {
+    background-color: darkorchid;
+    color: linen;
+    text-decoration: none;
+    text-decoration-style: dotted;
+}
+
+footer ul li a:hover {
+    color: skyblue;
+    text-decoration: underline;
+    text-decoration-color: skyblue;
+    text-decoration-style: dashed;
+}
