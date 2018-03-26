@@ -8,39 +8,37 @@
 	<link href="https://fonts.googleapis.com/css?family=Merriweather+Sans" rel="stylesheet" type="text/css">
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal website of Justin W. Flory, a student and open source contributor in the United States.">
-	<meta name="keywords" content="Justin W. Flory, Flory, jflory7, jwf, open source, RIT, Rochester Institute of Technology, Fedora Project">
+	<meta name="keywords" content="Justin W. Flory, Flory, jflory7, jwf, student, open source, RIT, Rochester Institute of Technology, Fedora Project">
 	<meta name="author" content="Justin W. Flory">
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/javascript"> 
+    $(function(){
+      $("nav").load("nav.html");
+      $("header").load("header.html");
+      $("footer").load("footer.html");
+    });
+    </script>
 </head>
+
 <body>
-	<nav>
-        <ul>
-            <li><a href="#" class="active">Home</a></li>
-    		<li><a href="ap/">AP Exam Books</a>
-    		<li><a href="https://blog.justinwflory.com" target="_blank">Blog</a></li>
-    		<li><a href="https://github.com/jflory7" target="_blank">GitHub</a></li>
-    		<li><a href="https://www.last.fm/user/jflory7" target="_blank">Last.fm</a></li>
-    		<li><a href="https://www.linkedin.com/in/justinwflory/" target="_blank">LinkedIn</a></li>
-    		<li><a href="https://listenbrainz.org/user/jflory" target="_blank">ListenBrainz</a></li>
-    		<li><a href="lit/">Literature reviews</a></li>
-    		<li><a href="irc/">IRC logs</a></li>
-    		<li><a href="https://twitter.com/jflory7" target="_blank">Twitter</a></li>
-        </ul>
-	</nav>
-	<header>
-		<h1>Justin W. Flory</h1>
-	</header>
+	<nav></nav>
+
+	<header></header>
+
 	<main>
         <div class="section" id="whoami">
     		<h2>Who am I</h2>
     		<p>I'm Justin W. Flory. I'm currently a student at the <a href="https://www.rit.edu/" target="_blank">Rochester Institute of Technology</a> in Rochester, NY. I'm pursuing an undergraduate degree in <a href="http://nsa.rit.edu/" target="_blank">Networking and Systems Administration</a>, minoring in <a href="http://foss.rit.edu/" target="_blank">Free and Open Source Software</a>. I also participate in various free and open source software communities.</p>
         </div>
+
 		<div class="section" id="projects">
             <h2>What I do</h2>
 			<div id="current">
 				<div class="project" id="fedora">
 					<h3>Fedora Project</h3>
 					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/2000px-Fedora_logo.svg.png" alt="Fedora Project logo" title="Fedora Project (getfedora.org)" height="50" width="50">
-					<p>I am a contributor to the <a href="https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html" target="_blank">Fedora Project</a> since August 2015. I currently focus on community management and analysis through data. My <a href="https://fedoraproject.org/wiki/User:Jflory7" target="_blank">wiki page</a> has more details of my Fedora contributions. In short, I spend a lot of time in these areas:</p>
+					<p>I am a contributor to the <a href="https://docs.fedoraproject.org/fedora-project/project/fedora-overview.html" target="_blank">Fedora Project</a> since August 2015. I currently focus on community management and data analysis. My <a href="https://fedoraproject.org/wiki/User:Jflory7" target="_blank">wiki page</a> has more details of my Fedora contributions. In short, I spend a lot of time in these areas:</p>
 					<ul>
 						<li><strong><a href="https://fedoraproject.org/wiki/CommOps" target="_blank">Community Operations</a></strong>: Founding member, current lead</li>
 						<li><strong><a href="https://fedoraproject.org/wiki/Diversity" target="_blank">Diversity Working Group</a></strong>: Founding member</li>
@@ -58,53 +56,25 @@
 						<li><strong><a href="https://fedoraproject.org/wiki/Marketing" target="_blank">Marketing</a></strong>: Leading member</li>
 					</ul>
 				</div>
-				<div class="project" id="metabrainz">
-					<h3>MetaBrainz / MusicBrainz</h3>
-					<img src="https://metabrainz.org/static/img/navbar_logo.svg" alt="MetaBrainz logo" title="MetaBrainz (metabrainz.org)" height="25" width="150">
-					<p>I contribute to some of the <a href="https://metabrainz.org/" target="_blank">MetaBrainz Foundation</a> projects, but mostly <a href="https://musicbrainz.org/doc/About" target="_blank">MusicBrainz</a> and <a href="https://listenbrainz.org" target="_blank">ListenBrainz</a>. I contribute in the following ways:</p>
-					<ul>
-						<li><strong><a href="https://musicbrainz.org/user/jflory" target="_blank">MusicBrainz metadata</a></strong>: Contributing metadata for new music</li>
-						<li><strong><a href="https://listenbrainz.org/user/jflory">ListenBrainz hacker</a></strong>: Helping develop and grow ListenBrainz</li>
-					</ul>
-				</div>
 				<div class="project" id="osdc">
 					<h3>Opensource.com</h3>
-					<img src="https://opensource.com/sites/all/themes/opensource/logo.svg" alt="Opensource.com logo" title="Opensource.com" height="25" width="150">
-					<p>I am a community moderator for <a href="https://opensource.com" target="_blank">Opensource.com</a>, a popular online publication that promotes open source software, communities, and people. I <a href="https://opensource.com/users/jflory" target="_blank">contribute articles</a> and help tell others why it's <a href="https://opensource.com/how-submit-article" target="_blank">so awesome</a> to write for Opensource.com.</p>
+					<img src="https://opensource.com/sites/all/themes/opensource/images/footer_logo.svg" alt="Opensource.com logo" title="Opensource.com" height="75" width="75">
+					<p>I am a community moderator for <a href="https://opensource.com" target="_blank">Opensource.com</a>, a popular online publication that promotes open source software, communities, and people. I <a href="https://opensource.com/users/jflory" target="_blank">contribute articles</a> and help tell others why it's so awesome to <a href="https://opensource.com/how-submit-article" target="_blank">write for Opensource.com</a>.</p>
 				</div>
 				<div class="project" id="ritlug">
 					<h3>RIT Linux Users Group (RITlug)</h3>
 					<img src="https://mirror.justinwflory.com/pub/images/rit/ritlug/ritlug-vertical-logo.svg" alt="RIT Linux Users Group logo" title="RIT Linux Users Group (ritlug.com)" height="75" width="75">
-					<p>I am the acting president of the <a href="http://ritlug.com" target="_blank">RIT Linux Users Group</a> at the <a href="https://www.rit.edu" target="_blank">Rochester Institute of Technology</a>. I work with the executive board members to teach members new skills with open source, support projects happening in the community, and keep the club organized and healthy.</p>
+					<p>I am the acting president of the <a href="http://ritlug.com" target="_blank">RIT Linux Users Group</a> at the <a href="https://www.rit.edu" target="_blank">Rochester Institute of Technology</a>. I work with other executive board members to teach our members new skills, support community projects, and keep the club organized and healthy.</p>
 				</div>
-				<!-- Later, to include CrystalCraftMC
-				<div id="ccmc">
-
-				</div>
-				-->
 			</div>
-			<!-- Later, to include SpigotMC:
-			<div id="past">
-				https://www.spigotmc.org/
-                https://www.spigotmc.org/members/jflory7.5099/
-			</div>
-			-->
 		</div>
+        
         <div class="section" id="gpg">
     		<h2>GPG</h2>
     		<p>My GPG keyid is <a href="https://keys.fedoraproject.org/pks/lookup?search=0x39E45FB6014131E4&fingerprint=on&op=vindex" target="_blank">0x39E45FB6014131E4</a>. Feel free to send me encrypted email by default.</p>
         </div>
 	</main>
-	<footer>
-        <ul>
-    		<li><a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC-BY-SA 4.0</a> 2015-<span id="year"></span> Justin W. Flory</li>
-    		<li>Find this site on <a href="https://github.com/jflory7/justinwflory.com">GitHub</a></li>
-    		<li><a href="contact/">Contact me</a></li>
-        </ul>
-	</footer>
 
-	<script>
-		document.getElementById("year").innerHTML = new Date().getFullYear();
-  	</script>
+	<footer></footer>
 </body>
 </html>
