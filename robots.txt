@@ -1,5 +1,4 @@
 User-agent: *
 Disallow: /blog/
-Disallow: /cgi-bin/
 Disallow: /v1/
 Disallow: /v2/

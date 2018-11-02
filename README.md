@@ -1,11 +1,20 @@
-# justinwflory.com
+justinwflory.com
+================
 
-*Website beyond your wildest imagination*
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
+Personal website and project portfolio
 
 
 ## What
-This repository contains the contents of Justin W. Flory's website. The site is primarily used as a general information source for anyone looking to learn more about me as well as bring some more exposure to some of the projects and other things I am working on.
 
+This repository is for my personal website.
+It's a source of information for anyone looking to learn more about me.
+It also gives some exposure and background to what I'm working on.
 
-## Where
 [justinwflory.com](https://justinwflory.com)
+
+## Legal
+
+Licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/).
+
