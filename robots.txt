@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /blog/
 Disallow: /v1/
 Disallow: /v2/
+Disallow: /v3/
+Allow: /v3/music/lyrics/m83/echoes-of-mine/
