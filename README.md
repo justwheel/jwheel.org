@@ -1,7 +1,8 @@
-justinwflory.com
-================
+[justinwflory.com](https://justinwflory.com)
+============================================
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Build Status](https://travis-ci.org/jwflory/jwflory.github.io.svg?branch=master)](https://travis-ci.org/jwflory/jwflory.github.io)
 
 Personal website and project portfolio
 
@@ -9,12 +10,11 @@ Personal website and project portfolio
 ## What
 
 This repository is for my personal website.
-It's a source of information for anyone looking to learn more about me.
-It also gives some exposure and background to what I'm working on.
+It is a Jekyll-based site inspired by the [FOSSRIT/fossrit.github.io](https://github.com/FOSSRIT/fossrit.github.io) website, created by [Christian Martin](https://ctmartin.me/).
+I collect an assortment of information about me and also show some of the different projects I am working on here.
 
-[justinwflory.com](https://justinwflory.com)
 
 ## Legal
 
-Licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/).
+Licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
