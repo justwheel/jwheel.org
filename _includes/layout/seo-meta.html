@@ -56,7 +56,7 @@
         "@context": "http://schema.org",
         "@type": "Person",
         "name": "{{ site.name }}",
-        "gender": ""
+        "gender": "{{ site.gender }}",
         "logo": "{{ site.url }}{{ site.logo_path }}",
         "email": "{{ site.email }}",
         "url": "{{ site.url }}",
@@ -68,6 +68,6 @@
         ],
         "knowsAbout": [
             {{ site.knows_about }}
-        ],
+        ]
     }
     </script>
