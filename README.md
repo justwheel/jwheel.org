@@ -1,5 +1,5 @@
-[justinwflory.com](https://justinwflory.com)
-============================================
+[jwf.io](https://jwf.io)
+========================
 
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![Build Status](https://travis-ci.org/jwflory/jwflory.github.io.svg?branch=master)](https://travis-ci.org/jwflory/jwflory.github.io)
