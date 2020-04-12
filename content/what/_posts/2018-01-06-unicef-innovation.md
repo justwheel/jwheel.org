@@ -2,8 +2,6 @@
 title: UNICEF Innovation
 slug: unicef
 icon: /static/unicef-innovation-logo.png
-icon-height: "18%"
-icon-width: "18%"
 
 ---
 

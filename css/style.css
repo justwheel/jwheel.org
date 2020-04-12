@@ -12,18 +12,20 @@ h1, h2, h3 {
     text-align: center;
 }
 
-h1 {
-    color: darkorchid;
-    font-size: 48pt;
+h1 { color: darkorchid; }
+
+h2 { color: darkslateblue; }
+
+@media screen and (min-width: 601px) {
+  h1 { font-size: 48pt; }
+  h2 { font-size: 32pt; }
+  h3 { font-size: 24pt; }
 }
 
-h2 {
-    color: darkslateblue;
-    font-size: 32pt;
-}
-
-h3 {
-    font-size: 24pt;
+@media screen and (max-width: 600px) {
+  h1 { font-size: 14vw; }
+  h2 { font-size: 10vw; }
+  h3 { font-size: 7vw; }
 }
 
 
@@ -31,9 +33,9 @@ h3 {
 /* ===[ Site navigation styling ]=== */
 
 nav {
-    font-family: 'Montserrat', sans-serif;
-	font-size: 12pt;
-    text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12pt;
+  text-align: center;
 }
 
 nav .active {
@@ -72,32 +74,35 @@ nav li a:hover {
 /* ===[ Main body styling ]=== */
 
 main .section {
-    padding: 2% 15%;
-}
-
-main .project {
-    padding: 1% 0;
+  padding: 2% 15%;
 }
 
 main .section img {
-    display: block;
-    margin: 0 auto;
+  display: block;
+  margin: 0 auto;
+  width: auto;
+}
+
+main .project {
+  padding: 1% 0;
 }
 
 main .rounded-profile img {
-    border-radius: 50%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: auto;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
 }
 
 @media screen and (min-width: 601px) {
   main .rounded-profile img { max-width: 250px; }
+  main .section img { max-height: 5vw; }
 }
 
 @media screen and (max-width: 600px) {
   main .rounded-profile img { max-width: 140px; }
+  main .section img { max-height: 20vw; }
 }
 
 

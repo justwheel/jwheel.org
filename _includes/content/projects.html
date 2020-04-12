@@ -5,7 +5,7 @@
     {% for item in site.categories.what %}
     <div class="project" id="{{ page.slug }}">
         <h3>{{ item.title }}</h3>
-        <img src="{{ item.icon }}" alt="{{ item.title }} logo" title="{{ item.title }} logo" height="{{ item.icon-height | default: "auto" }}" width="{{ item.icon-width | default: "auto" }}">
+        <img src="{{ item.icon }}" alt="{{ item.title }} logo" title="{{ item.title }} logo">
         {{ item.content }}
     </div>
     {% endfor %}
