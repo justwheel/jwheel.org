@@ -65,11 +65,13 @@ theme: minima
 exclude:
   - .sass-cache/
   - .jekyll-cache/
+  - CNAME
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - LICENSE.txt
   - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+  - Rakefile
+  - README.md
+  - tmp
+  - vendor
