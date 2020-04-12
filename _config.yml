@@ -17,9 +17,10 @@ year: "2020"
 
 # --- general settings ---
 
-baseurl: "/"  # the subpath of your site, e.g. /blog
+baseurl: ""  # the subpath of your site, e.g. /blog
 github_repo: "https://github.com/jwflory/jwflory.github.io"
-logo_path: "/img/logo.jpg"
+favicon_path: "/static/favicon.ico"
+logo_path: "/static/logo.jpg"
 
 
 # --- biography site information ---
