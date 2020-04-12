@@ -52,6 +52,7 @@ markdown: GFM
 permalink: pretty  # no .html extensions
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 theme: minima
 
 
