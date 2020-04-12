@@ -79,10 +79,25 @@ main .project {
     padding: 1% 0;
 }
 
-
 main .section img {
     display: block;
     margin: 0 auto;
+}
+
+main .rounded-profile img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+}
+
+@media screen and (min-width: 601px) {
+  main .rounded-profile img { max-width: 250px; }
+}
+
+@media screen and (max-width: 600px) {
+  main .rounded-profile img { max-width: 140px; }
 }
 
 
