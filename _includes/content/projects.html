@@ -1,0 +1,12 @@
+<div class="section" id="projects">
+    <h2>What I do</h2>
+    <p>I participate in free and open source software communities since 2013.</p>
+
+    {% for item in site.categories.what %}
+    <div class="project" id="{{ page.slug }}">
+        <h3>{{ item.title }}</h3>
+        <img src="{{ item.icon }}" alt="{{ item.title }} logo" title="{{ item.title }} logo" height="{{ item.icon-height | default: "auto" }}" width="{{ item.icon-width | default: "auto" }}">
+        {{ item.content }}
+    </div>
+    {% endfor %}
+</div>
