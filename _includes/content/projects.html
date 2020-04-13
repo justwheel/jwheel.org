@@ -2,11 +2,11 @@
     <h2>What I do</h2>
     <p>I participate in free and open source software communities since 2013.</p>
 
-    {% for item in site.categories.what %}
-    <div class="project" id="{{ page.slug }}">
-        <h3>{{ item.title }}</h3>
-        <img src="{{ item.icon }}" alt="{{ item.title }} logo" title="{{ item.title }} logo">
-        {{ item.content }}
+    {% for project in site.categories.what %}
+    <div class="project" id="{{ project.slug }}">
+        <h3>{{ project.title }}</h3>
+        <img src="{{ project.icon }}" alt="{{ project.title }} logo" title="{{ project.title }} logo">
+        {{ project.content }}
     </div>
     {% endfor %}
 </div>
