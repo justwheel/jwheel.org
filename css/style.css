@@ -12,7 +12,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
-h1 { color: darkorchid; }
+h1 {
+  color: darkorchid;
+  padding-top: 6.5rem;
+}
 
 h2 { color: darkslateblue; }
 
@@ -33,9 +36,12 @@ h2 { color: darkslateblue; }
 /* ===[ Site navigation styling ]=== */
 
 nav {
+  box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
   font-size: 12pt;
-  text-align: center;
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%;
 }
 
 nav .active {
@@ -45,8 +51,7 @@ nav .active {
 nav ul {
     background-color: darkorchid;
     list-style-type: none;
-    margin: -10px -9px 0;
-    margin-top: 0;
+    margin-top: 0; margin-right: -9px; margin-bottom: 0; margin-left: -3rem;
     overflow: hidden;
 }
 
