@@ -106,8 +106,7 @@ main .project {
 main .rounded-profile img {
   border-radius: 50%;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: auto; margin-right: auto;
   height: auto;
 }
 
@@ -126,25 +125,38 @@ main .rounded-profile img {
 /* ===[ Footer styling ]=== */
 
 footer {
+  color: var(--secondary-color);
   font-size: 10pt;
+  overflow: hidden;
   text-align: center;
 }
 
 footer ul {
+  display: block;
   list-style-type: none;
-  overflow: hidden;
 }
 
-footer ul li, footer ul li a, #year {
-  background-color: var(--primary-color);
+footer ul li { background-color: var(--primary-color); }
+
+@media screen and (min-width: 601px) {
+  footer ul li {
+    margin-left: 12rem; margin-right: 12rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  footer ul li {
+    font-size: 12pt;
+    margin-left: -2rem; margin-right: 1rem;
+  }
+}
+
+footer ul li a {
   color: var(--secondary-color);
-  text-decoration: none;
   text-decoration-style: dotted;
 }
 
 footer ul li a:hover {
   color: skyblue;
-  text-decoration: underline;
-  text-decoration-color: skyblue;
   text-decoration-style: dashed;
 }
