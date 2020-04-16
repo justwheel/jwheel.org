@@ -22,6 +22,11 @@ github_repo: "https://github.com/jwflory/jwflory.github.io"
 favicon_path: "/static/favicon.ico"
 logo_path: "/static/logo.jpg"
 
+# Are you looking for new opportunities? Set hire_me to "true" if you want your
+# LinkedIn to show on the nav bar and for boilerplate text on how to get in
+# touch with me.
+hire_me: false
+
 
 # --- biography site information ---
 # https://schema.org/
