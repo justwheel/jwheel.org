@@ -1,23 +1,34 @@
 /* ===[ Global styling ]=== */
 
+:root {
+  /* Default colors */
+  --primary-color: darkorchid;
+  --secondary-color: linen;
+  --accent-color: darkslateblue;
+
+  /* Default fonts */
+  --default-font: "Public Sans";
+  --header-font: "Bungee Shade";
+}
+
 body {
-    background-color: linen;
-    color: #330000;
-    font-family: 'Public Sans', sans-serif;
+  background-color: var(--secondary-color);
+  color: #330000;
+  font-family: var(--default-font), sans-serif;
     margin: 0;
 }
 
 h1, h2, h3 {
-    font-family: 'Bungee Shade', cursive;
-    text-align: center;
+  font-family: var(--header-font), cursive;
+  text-align: center;
 }
 
 h1 {
-  color: darkorchid;
+  color: var(--primary-color);
   padding-top: 6.5rem;
 }
 
-h2 { color: darkslateblue; }
+h2 { color: var(--accent-color); }
 
 @media screen and (min-width: 601px) {
   h1 { font-size: 48pt; }
@@ -36,16 +47,10 @@ h2 { color: darkslateblue; }
 /* ===[ Site navigation styling ]=== */
 
 nav {
-  box-sizing: border-box;
-  font-family: 'Montserrat', sans-serif;
   font-size: 12pt;
   position: fixed;
   top: 0; left: 0;
   width: 100%;
-}
-
-nav .active {
-    background-color: cornflowerblue;
 }
 
 nav ul {
@@ -60,11 +65,13 @@ nav li {
 }
 
 nav li a {
-    background-color: darkorchid;
-    color: linen;
-    display: block;
-    padding: 16px 24px;
-    text-decoration: none;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  display: block;
+  padding-top: 16px; padding-bottom: 16px;
+  padding-left: 24px; padding-right: 24px;
+  text-align: center;
+  text-decoration: none;
 }
 
 nav li a:hover {
@@ -115,9 +122,8 @@ main .rounded-profile img {
 /* ===[ Footer styling ]=== */
 
 footer {
-    font-family: 'Public Sans', sans-serif;
-    font-size: 10pt;
-    text-align: center;
+  font-size: 10pt;
+  text-align: center;
 }
 
 footer ul {
@@ -126,10 +132,10 @@ footer ul {
 }
 
 footer ul li, footer ul li a, #year {
-    background-color: darkorchid;
-    color: linen;
-    text-decoration: none;
-    text-decoration-style: dotted;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  text-decoration: none;
+  text-decoration-style: dotted;
 }
 
 footer ul li a:hover {
