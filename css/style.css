@@ -55,13 +55,13 @@ nav {
 
 nav ul {
     background-color: darkorchid;
-    list-style-type: none;
     margin-top: 0; margin-right: -9px; margin-bottom: 0; margin-left: -3rem;
     overflow: hidden;
 }
 
 nav li {
-    float: left;
+  float: left;
+  list-style-type: none;
 }
 
 nav li a {
@@ -75,10 +75,10 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: royalblue;
-    text-decoration: underline;
-    text-decoration-color: skyblue;
-    text-decoration-style: dotted;
+  background-color: royalblue;
+  text-decoration: underline;
+  text-decoration-color: skyblue;
+  text-decoration-style: dotted;
 }
 
 
@@ -127,8 +127,8 @@ footer {
 }
 
 footer ul {
-    list-style-type: none;
-    overflow: hidden;
+  list-style-type: none;
+  overflow: hidden;
 }
 
 footer ul li, footer ul li a, #year {
@@ -139,8 +139,8 @@ footer ul li, footer ul li a, #year {
 }
 
 footer ul li a:hover {
-    color: skyblue;
-    text-decoration: underline;
-    text-decoration-color: skyblue;
-    text-decoration-style: dashed;
+  color: skyblue;
+  text-decoration: underline;
+  text-decoration-color: skyblue;
+  text-decoration-style: dashed;
 }
