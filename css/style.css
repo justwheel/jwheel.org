@@ -15,7 +15,6 @@ body {
   background-color: var(--secondary-color);
   color: #330000;
   font-family: var(--default-font), sans-serif;
-    margin: 0;
 }
 
 h1, h2, h3 {
@@ -47,16 +46,9 @@ h2 { color: var(--accent-color); }
 /* ===[ Site navigation styling ]=== */
 
 nav {
-  font-size: 12pt;
   position: fixed;
-  top: 0; left: 0;
-  width: 100%;
-}
-
-nav ul {
-    background-color: darkorchid;
-    margin-top: 0; margin-right: -9px; margin-bottom: 0; margin-left: -3rem;
-    overflow: hidden;
+  overflow: hidden;
+  top: -1rem; left: -3rem;  /* pins navbar to top-left corner of screen */
 }
 
 nav li {
@@ -68,8 +60,6 @@ nav li a {
   background-color: var(--primary-color);
   color: var(--secondary-color);
   display: block;
-  padding-top: 16px; padding-bottom: 16px;
-  padding-left: 24px; padding-right: 24px;
   text-align: center;
   text-decoration: none;
 }
@@ -79,6 +69,20 @@ nav li a:hover {
   text-decoration: underline;
   text-decoration-color: skyblue;
   text-decoration-style: dotted;
+}
+
+@media screen and (min-width: 601px) {
+  nav li a {
+    font-size: 12pt;
+    padding: 16px 24px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  nav li a {
+    font-size: 10pt;
+    padding: 12px 20px;
+  }
 }
 
 
