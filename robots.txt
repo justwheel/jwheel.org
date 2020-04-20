@@ -1,9 +1,7 @@
 User-agent: *
-Allow: /archive/v3/music/lyrics/m83/echoes-of-mine/
-Disallow: /archive/v1/
-Disallow: /archive/v2/
-Disallow: /archive/v3/
+Disallow: /archive/
 Disallow: /content/
+Allow: /archive/v3/music/lyrics/m83/echoes-of-mine/
 
 Sitemap: https://jwf.io/sitemap.xml
 Sitemap: https://jwf.io/heuristics/sitemap.xml
