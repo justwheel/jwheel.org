@@ -2,6 +2,7 @@
 title: RIT LibreCorps
 slug: librecorps
 icon: https://avatars0.githubusercontent.com/u/52762233
+sitemap: false
 
 ---
 
