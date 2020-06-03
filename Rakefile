@@ -7,7 +7,7 @@ task :test do
   options = {
     :check_html => true,
     :empty_alt_ignore => true,
-    :http_status_ignore => [0,999],
+    :http_status_ignore => [0,503,999],
     :url_ignore => ["/archive/v3/irc/"],
     :cache => {
       :timeframe => "6w"
