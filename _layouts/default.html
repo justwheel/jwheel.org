@@ -7,7 +7,9 @@
 
 {% include layout/nav.html %}
 
+{% unless page.title %}
 {% include layout/header.html %}
+{% endunless %}
 
     <main class="page-content" aria-label="Content">
         <div class="wrapper">

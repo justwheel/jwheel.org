@@ -55,7 +55,7 @@ twitter_username: jflory7
 
 # --- build settings ---
 
-markdown: GFM
+markdown: kramdown
 permalink: pretty  # no .html extensions
 plugins:
   - jekyll-feed
