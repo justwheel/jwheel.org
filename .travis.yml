@@ -3,7 +3,7 @@ os: linux
 dist: bionic
 language: ruby
 rvm:
-  - 2.6.5
+  - 2.7
 
 addons:
   apt_packages:
