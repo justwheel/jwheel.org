@@ -1,6 +1,14 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 4.1.1"
+gem "minima", "~> 2.5"
+
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-paginate"
+  gem "jekyll-relative-links"
+  gem "jekyll-sitemap"
+end
 
 group :test do
   gem "html-proofer"
@@ -16,4 +24,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
