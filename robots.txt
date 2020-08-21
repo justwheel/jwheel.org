@@ -3,4 +3,3 @@ Disallow: /archive/
 Disallow: /content/
 
 Sitemap: https://jwf.io/sitemap.xml
-Sitemap: https://jwf.io/heuristics/sitemap.xml

@@ -18,7 +18,7 @@ year: "2020"
 # --- general settings ---
 
 baseurl: ""  # the subpath of your site, e.g. /blog
-github_repo: "https://github.com/jwflory/jwflory.github.io"
+git_repo: "https://gitlab.com/jwflory/jwflory.gitlab.io"
 favicon_path: "/static/favicon.ico"
 logo_path: "/static/logo.jpg"
 
@@ -48,6 +48,7 @@ knows_about: >
 
 # -- social media --
 github_username: jwflory
+gitlab_username: jwflory
 lastfm_username: jflory7
 linkedin_url: justinwflory
 twitter_username: jflory7
