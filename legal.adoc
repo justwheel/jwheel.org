@@ -1,10 +1,13 @@
----
-title: "Legal notice"
-layout: default
-
----
+= Legal notice
+{{ site.title }} <{{ site.email }}>
+v0.0.2, 2020-09-07
+:page-layout: default
+:toc:
 
 *This notice is applicable to any company, enterprise, organization, or individual with digital services (the Service Provider) that stores any Contribution created by me, Justin W. Flory (the Original Creator).*
+
+
+== Goal
 
 Any Contribution shared by the Original Creator via the World Wide Web with a Service Provider is shared under a Current Default License.
 A Contribution assumes a Current Default License if the Contribution is not explicitly licensed by the Original Creator.
@@ -52,6 +55,6 @@ A Contribution consists either of Code or of Content.
 
 "Current Default License", with respect to a Contribution, means:
 
-[arabic]
+[lowerroman]
 . If the Contribution is Code, the https://opensource.org/licenses/BSD-3-Clause[3-Clause BSD License];
 . If the Contribution is Content, the CC BY.
