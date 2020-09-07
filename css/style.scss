@@ -57,6 +57,8 @@ h2, h4 { color: var(--accent-color); }
 
 .dropdown-menu { background-color: var(--accent-color); }
 
+.navbar-light .navbar-nav .nav-link { color: var(--secondary); }
+
 .navbar li a {
   background-color: var(--primary);
   border-color: var(--accent-color);
