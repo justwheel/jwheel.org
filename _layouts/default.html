@@ -6,7 +6,12 @@
 <body>
 
 {% include layout/nav.html %}
-{% include layout/header.html %}
+
+<header>
+    <div class="container-fluid">
+        <h1>{{ page.title | default: "Justin W. Flory" }}</h1>
+    </div>
+</header>
 
 <main class="container" aria-label="Content">
     {{ content }}
