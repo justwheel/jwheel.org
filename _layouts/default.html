@@ -6,16 +6,11 @@
 <body>
 
 {% include layout/nav.html %}
-
-{% unless page.title %}
 {% include layout/header.html %}
-{% endunless %}
 
-    <main class="page-content" aria-label="Content">
-        <div class="wrapper">
-            {{ content }}
-        </div>
-    </main>
+<main class="container" aria-label="Content">
+    {{ content }}
+</main>
 
 {% include layout/footer.html %}
 
