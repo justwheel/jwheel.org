@@ -5,6 +5,7 @@ desc "Build website with jekyll and test with html-proofer"
 task :test do
   sh "bundle exec jekyll build"
   options = {
+    :allow_hash_href => true,
     :check_html => true,
     :empty_alt_ignore => true,
     :http_status_ignore => [0,503,999],
