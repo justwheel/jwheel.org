@@ -58,6 +58,8 @@ twitter_username: jflory7
 
 markdown: kramdown
 permalink: pretty  # no .html extensions
+sass:
+  style: compressed
 theme: minima
 
 

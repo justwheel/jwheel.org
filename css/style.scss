@@ -1,9 +1,12 @@
+---
+---
+
 /* ===[ Global styling ]=== */
 
 :root {
   /* Default colors */
-  --primary-color: darkorchid;
-  --secondary-color: linen;
+  --primary: darkorchid;
+  --secondary: linen;
   --accent-color: darkslateblue;
 
   /* Default fonts */
@@ -12,7 +15,7 @@
 }
 
 body {
-  background-color: var(--secondary-color);
+  background-color: var(--secondary);
   color: #330000;
   font-family: var(--default-font), sans-serif;
 }
@@ -23,7 +26,7 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-  color: var(--primary-color);
+  color: var(--primary);
   padding-top: 2rem;
 }
 
@@ -47,20 +50,9 @@ h2, h4 { color: var(--accent-color); }
 
 /* ===[ Site navigation styling ]=== */
 
-nav {
-  position: fixed;
-  overflow: hidden;
-  top: -1rem; left: -3rem;  /* pins navbar to top-left corner of screen */
-}
-
-nav li {
-  float: left;
-  list-style-type: none;
-}
-
 nav li a {
-  background-color: var(--primary-color);
-  color: var(--secondary-color);
+  background-color: var(--primary);
+  color: var(--secondary);
   display: block;
   text-align: center;
   text-decoration: none;
@@ -134,7 +126,7 @@ main .rounded-profile img {
 /* ===[ Footer styling ]=== */
 
 footer {
-  color: var(--secondary-color);
+  color: var(--secondary);
   font-size: 10pt;
   overflow: hidden;
   text-align: center;
@@ -145,7 +137,7 @@ footer ul {
   list-style-type: none;
 }
 
-footer ul li { background-color: var(--primary-color); }
+footer ul li { background-color: var(--primary); }
 
 @media screen and (min-width: 601px) {
   footer ul li {
@@ -161,7 +153,7 @@ footer ul li { background-color: var(--primary-color); }
 }
 
 footer ul li a {
-  color: var(--secondary-color);
+  color: var(--secondary);
   text-decoration-style: dotted;
 }
 
