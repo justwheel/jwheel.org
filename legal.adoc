@@ -1,6 +1,7 @@
 = Legal notice
 {{ site.title }} <{{ site.email }}>
 v0.0.2, 2020-09-07
+:page-excerpt: Legal notice to Service Providers that store Contributions created by me, Justin W. Flory.
 :page-layout: default
 :toc:
 

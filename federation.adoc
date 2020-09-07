@@ -1,6 +1,7 @@
 = Federation of Intersectional Communities
 Justin W. Flory
 v0.0.1
+:page-excerpt: Concept note (draft) for the Federation of Intersectional Communities, its goals and values, and more.
 :page-layout: default
 :page-liquid:
 :revdate: 2020-09-07
