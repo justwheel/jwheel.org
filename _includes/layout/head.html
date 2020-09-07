@@ -1,5 +1,5 @@
 <head>
-    {% if page.title %}
+    {% if page.title != site.title %}
     <title>{{ page.title }} | {{ site.title }}</title>
     {% else %}
     <title>{{ site.title }}</title>
