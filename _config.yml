@@ -58,9 +58,6 @@ twitter_username: jflory7
 
 markdown: kramdown
 permalink: pretty  # no .html extensions
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
 theme: minima
 
 

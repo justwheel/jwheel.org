@@ -21,6 +21,8 @@ GEM
       rainbow (~> 3.0)
       typhoeus (~> 1.3)
       yell (~> 2.0)
+    htmlbeautifier (1.3.1)
+    htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     i18n (1.8.5)
       concurrent-ruby (~> 1.0)
@@ -50,6 +52,10 @@ GEM
       jekyll (>= 3.3, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-tidy (0.2.2)
+      htmlbeautifier
+      htmlcompressor
+      jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.3.0)
@@ -73,7 +79,7 @@ GEM
     parallel (1.19.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.5)
+    public_suffix (4.0.6)
     rainbow (3.0.0)
     rake (13.0.1)
     rb-fsevent (0.10.4)
@@ -107,6 +113,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-relative-links
   jekyll-sitemap
+  jekyll-tidy
   minima (~> 2.5)
   rake
   tzinfo (~> 1.2)
