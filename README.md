@@ -2,7 +2,6 @@
 ========================
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Build Status](https://travis-ci.org/jwflory/jwflory.github.io.svg?branch=master)](https://travis-ci.org/jwflory/jwflory.github.io)
 
 Personal website and project portfolio
 
@@ -16,4 +15,4 @@ I collect an assortment of information about me and also show some of the differ
 
 ## Legal
 
-Licensed under the [GNU Public License 3.0](https://www.gnu.org/licenses/gpl-3.0) or any later version.
+Licensed under the [GNU Public License 3.0](https://www.gnu.org/licenses/gpl-3.0) or any later version published by the Free Software Foundation.
