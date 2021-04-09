@@ -1,23 +1,23 @@
 ---
-- name: Home
+- name: home
   link: /
 
-- name: Blog
+- name: blog
   link: https://blog.jwf.io/
 
-- name: FOSS Heuristics
-  link: https://jwflory.gitlab.io/heuristics/
+- name: "#open"
+  link: https://unicef.github.io/inventory/
 
-- name: Social
+- name: social
   dropdown:
-    - name: GitLab
+    - name: gitlab
       link: https://gitlab.com/jwflory
 
-    - name: GitHub
+    - name: github
       link: https://github.com/jwflory
 
-    - name: Twitter
+    - name: twitter
       link: https://twitter.com/jwf_foss
 
-- name: Legal
+- name: legal
   link: /legal/
