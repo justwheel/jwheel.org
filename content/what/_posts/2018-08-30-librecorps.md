@@ -1,7 +1,7 @@
 ---
 title: RIT LibreCorps
 slug: librecorps
-icon: https://avatars0.githubusercontent.com/u/52762233
+icon: https://cdn.rit.edu/images/news/2021-04/LibrecorpsLogo-for-web2.jpg
 sitemap: false
 
 ---
