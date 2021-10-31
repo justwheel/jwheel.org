@@ -1,7 +1,7 @@
 [jwf.io](https://jwf.io)
 ========================
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 Personal website and project portfolio
 
@@ -15,4 +15,4 @@ I collect an assortment of information about me and also show some of the differ
 
 ## Legal
 
-Licensed under the [GNU Public License 3.0](https://www.gnu.org/licenses/gpl-3.0) or any later version published by the Free Software Foundation.
+Licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) or any later version published by the Mozilla Foundation.
