@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /archive/
-Disallow: /content/
+Disallow: /what/
 
 Sitemap: https://jwf.io/sitemap.xml
