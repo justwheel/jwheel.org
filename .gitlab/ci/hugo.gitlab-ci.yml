@@ -1,7 +1,8 @@
 ---
-image: cibuilds/hugo:latest
-
 hugo_build:
+  image: cibuilds/hugo:latest
+  stage: build
+
   # Cache HTMLProofer data across builds
   cache:
     paths:

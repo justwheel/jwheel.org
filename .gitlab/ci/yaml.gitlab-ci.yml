@@ -3,6 +3,8 @@
 # This uses rules from project root `.yamllint`.
 yaml_lint:
   image: pipelinecomponents/yamllint:latest
+  stage: .pre
+
   cache: {}
   script:
     - yamllint --config-file .gitlab/ci/yamllintrc config.yaml

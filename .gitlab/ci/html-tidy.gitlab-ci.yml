@@ -1,0 +1,15 @@
+---
+html_tidy:
+  image: cimg/ruby:3.0
+  stage: build
+
+  needs: ["hugo_build"]
+
+  before_script:
+    - gem install htmlbeautifier
+  script: htmlbeautifier --tab $(find public/ -name '*.html' -print)
+  after_script: []
+
+  artifacts:
+    paths:
+      - public
