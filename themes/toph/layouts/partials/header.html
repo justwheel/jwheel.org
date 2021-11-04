@@ -1,0 +1,9 @@
+<header>
+    <div class="container-fluid">
+        {{ if .IsHome }}
+        <h1>{{ .Site.Title }}</h1>
+        {{ else }}
+        <h1>{{ .Title }}</h1>
+        {{ end }}
+    </div>
+</header>

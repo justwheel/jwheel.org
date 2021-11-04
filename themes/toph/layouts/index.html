@@ -1,0 +1,27 @@
+{{ define "main" }}
+  {{ if .Site.Home.Content }}
+    {{ partial "rounded-profile.html" . }}
+    {{ if $.Site.Params.hire_me }}
+        <h2>Hire me</h2>
+        <p>
+            <strong>I'm currently seeking new opportunities.</strong>
+            Please reach out to me if you would like me to join your organization!
+            Reach out via <a href="mailto:{{ $.Site.Params.biography.email }}">email</a> or <a href="https://www.linkedin.com/in/{{ $.Site.Params.social.linkedin_url }}" target="_blank">LinkedIn</a> to get in touch.
+        </p>
+    {{ end }}
+    {{ .Site.Home.Content }}
+    {{ partial "projects.html" . }}
+  {{ else }}
+    <h2>Customize your own home page</h2>
+    <p>
+      The site is working.
+	  Don't forget to customize this homepage with your own.
+	  You typically have 3 choices:
+    </p>
+    <ol>
+      <li>Create an _index.md document in <b>content</b> folder and fill it with Markdown content</li>
+      <li>Create an <b>index.html</b> file in the <b>static</b> folder and fill the file with HTML content</li>
+      <li>Configure your server to automatically redirect home page to one your documentation page</li>
+    </ol>
+  {{ end }}
+{{ end }}

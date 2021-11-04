@@ -1,0 +1,68 @@
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta property="og:url" content="{{ site.BaseURL }}{{ .RelPermalink }}" />
+    <meta property="og:site_name" content="{{ site.Title }}" />
+    <meta name="application-name" content="{{ site.Title }}" />
+    <meta name="twitter:site" content="@{{ $.Site.Params.social.twitter_username }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    {{ with .Description }}
+    <meta name="description" content="{{ . | truncate 155 }}" />
+    <meta property="og:description" content="{{ . }}" />
+    <meta name="twitter:description" content="{{ . | truncate 200 }}" />
+    {{ else }}
+    <meta name="description" content="{{ $.Site.Params.description | truncate 155 }}" />
+    <meta property="og:description" content="{{ $.Site.Params.description }}" />
+    <meta name="twitter:description" content="{{ $.Site.Params.description | truncate 200 }}" />
+    {{ end }}
+
+    {{ if (isset .Params ".Date") }}
+        <meta property="og:type" content="article" />
+        <meta property="og:article:published_date" content="{{ .Date.Format "1999-12-31" }}" />
+        
+        {{ if (isset .Params "author") }}
+            <meta name="author" content="{{ $.Param "author" }}" />
+            <meta property="og:article:author" content="{{ $.Param "author" }}" />
+            {{ else }}
+            <meta name="author" content="{{ .Params.biography.name }}" />
+            <meta property="og:article:author" content="{{ .Params.biography.name }}" />
+        {{ end }}
+
+        {{ if (isset .Params "categories") }}
+            <meta property="og:article:section" content="{{ .Params.categories }}" />
+        {{ end }}
+
+        {{ if (isset .Params "tags") }}
+            {{ range .Params.tags }}
+            <meta property="og:article:tag" content="{{ . }}" />
+            {{ end }}
+        {{ end}}
+
+        {{ else }}
+            <meta property="og:type" content="website" />
+    {{ end }}
+
+    <meta property="og:image" content="{{ site.BaseURL }}{{ .Params.paths.logo }}" />
+    <meta name="twitter:image" content="{{ site.BaseURL }}{{ .Params.paths.logo }}" />
+
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "name": "{{ $.Site.Params.biography.name }}",
+        "gender": "{{ $.Site.Params.biography.gender }}",
+        "logo": "{{ site.BaseURL }}{{ $.Site.Params.paths.logo }}",
+        "email": "{{ $.Site.Params.biography.email }}",
+        "url": "{{ site.BaseURL }}",
+        "sameAs": [
+            "https://github.com/{{ $.Site.Params.social.github_username }}",
+            "https://gitlab.com/{{ $.Site.Params.social.gitlab_username }}",
+            "https://www.last.fm/user/{{ $.Site.Params.social.lastfm_username}}",
+            "https://www.linkedin.com/in/{{ $.Site.Params.social.linkedin_url }}/",
+            "https://twitter.com/{{ $.Site.Params.social.twitter_username }}"
+        ],
+        "knowsAbout": [
+            {{ $.Site.Params.biography.knows_about }}
+        ]
+    }
+    </script>

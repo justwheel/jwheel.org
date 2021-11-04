@@ -1,0 +1,28 @@
+---
+image: cibuilds/hugo:latest
+
+hugo_build:
+  # Cache HTMLProofer data across builds
+  cache:
+    paths:
+      - tmp/.htmlproofer
+
+  before_script:
+    - sudo apt install -y asciidoctor
+  script:
+    - HUGO_ENV=production hugo --verbose
+    - htmlproofer public
+        --allow-hash-href
+        --check-favicon
+        --check-html
+        --check-img-http
+        --empty-alt-ignore
+        --enforce-https
+        --http-status-ignore 0,400,503,999
+        --url-ignore "/archive/v3/irc/"
+        --timeframe 6w
+  after_script: []
+
+  artifacts:
+    paths:
+      - public
