@@ -3,7 +3,6 @@ title: Legal notice
 author: Justin W. Flory
 description: Legal notice to Service Providers that store Contributions created by me, Justin W. Flory.
 lastmod: 2020-09-07
-url: /legal/
 tags: ["bsd-3.0", "creative-commons", "cc-by"]
 
 ---

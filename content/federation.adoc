@@ -3,7 +3,6 @@ title: Federation of Intersectional Communities
 author: Justin W. Flory
 description: Concept note (draft) for the Federation of Intersectional Communities, its goals and values, and more.
 lastmod: 2020-09-07
-url: /federation/
 
 ---
 :toc:
