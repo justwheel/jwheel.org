@@ -1,30 +1,26 @@
-<nav class="navbar navbar-expand-lg navbar-light">
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
+<nav class="navbar navbar-expand-lg navbar-light ms-3 mt-2">
+    <div class="container-fluid">
+        <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav">
-        {{ range $tab := $.Site.Data.nav }}
-            {{ if isset $tab "dropdown" }}
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ $tab.name }}</a>
-                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        {{ range $item := $tab.dropdown }}
-                        <a class="dropdown-item" href="{{ $item.link }}">{{ $item.name }}</a>
-                        {{ end }}
-                    </div>
-                </li>
-            {{ else }}
-                {{ if eq (relURL .) $tab.link }}
-                    <li class="nav-item active">
-                    {{ else }}
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.nav }}
                     <li class="nav-item">
+                        <a class="nav-link{{ if eq .URL $currentPage.URL }} active" aria-current="page"{{ else }}"{{ end }} href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
                 {{ end }}
-                <a class="nav-link" href="{{ $tab.link }}">{{ $tab.name }}</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">social</a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    {{ range .Site.Menus.social }}
+                        <li><a class="dropdown-item" href="{{ .URL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                    </ul>
                 </li>
-            {{ end }}
-        {{ end }}
-        </ul>
+            </ul>
+        </div>
     </div>
 </nav>

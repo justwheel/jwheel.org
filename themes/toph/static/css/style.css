@@ -7,8 +7,9 @@
   --accent-color: darkslateblue;
 
   /* Default fonts */
-  --default-font: "Public Sans";
-  --header-font: "Bungee Shade";
+  --default-font: "Open Sans";
+  --title-font: "Bungee Shade";
+  --header-font: "Roboto Slab";
 }
 
 body {
@@ -17,12 +18,9 @@ body {
   font-family: var(--default-font), sans-serif;
 }
 
-h1, h2, h3, h4 { font-family: var(--header-font), serif; }
+h1 { font-family: var(--title-font), serif; }
 
-h1, h3, h4 {
-  padding-top: 2rem;
-  text-align: center;
-}
+h2, h3, h4 { font-family: var(--header-font), serif; }
 
 h1 {
   color: var(--primary);
@@ -45,7 +43,6 @@ h2, h4 { color: var(--accent-color); }
   h3 { font-size: 8vw; }
   h4 { font-size: 5vw; }
 }
-
 
 
 /* ===[ Site navigation styling ]=== */
@@ -71,36 +68,12 @@ h2, h4 { color: var(--accent-color); }
   text-decoration-style: dotted;
 }
 
-@media screen and (min-width: 601px) {
-  .navbar li a {
-    font-size: 12pt;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  .navbar li a {
-    font-size: 10pt;
-  }
-}
-
-
 
 /* ===[ Main body styling ]=== */
 
-/* Center iframes on page */
-main iframe {
-  display: block;
-  margin: 0 auto;
-}
-
-main .section img {
-  display: block;
-  margin: 0 auto;
-  width: auto;
-}
-
-main .project {
-  padding: 1% 0;
+main #projects h3 { 
+  background-color: var(--primary);
+  color: var(--secondary);
 }
 
 main .rounded-profile img {
@@ -112,51 +85,29 @@ main .rounded-profile img {
 
 @media screen and (min-width: 601px) {
   main .rounded-profile img { max-width: 250px; }
-  main .section img { max-height: 5vw; }
 }
 
 @media screen and (max-width: 600px) {
   main .rounded-profile img { max-width: 140px; }
-  main .section img { max-height: 20vw; }
 }
-
 
 
 /* ===[ Footer styling ]=== */
 
-footer {
+footer { overflow: hidden; }
+
+footer #footer-box {
+  background-color: var(--primary);
   color: var(--secondary);
-  font-size: 10pt;
-  overflow: hidden;
-  text-align: center;
+  font-size: 0.8rem;
 }
 
-footer ul {
-  display: block;
-  list-style-type: none;
-}
-
-footer ul li { background-color: var(--primary); }
-
-@media screen and (min-width: 601px) {
-  footer ul li {
-    margin-left: 12rem; margin-right: 12rem;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  footer ul li {
-    font-size: 12pt;
-    margin-left: -2rem; margin-right: 1rem;
-  }
-}
-
-footer ul li a {
+footer #footer-box a {
   color: var(--secondary);
   text-decoration-style: dotted;
 }
 
-footer ul li a:hover {
+footer #footer-box a:hover {
   color: skyblue;
   text-decoration-style: dashed;
 }
