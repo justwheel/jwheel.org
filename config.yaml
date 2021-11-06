@@ -5,6 +5,7 @@
 #                                                                             #
 ###############################################################################
 
+
 # --- base website settings ---
 
 title: Justin W. Flory
@@ -14,12 +15,50 @@ languageCode: en-us
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: false
-
 googleAnalytics: G-7YT6EE93RQ
+
+
+# --- markup settings ---
 
 markup:
   asciidocExt:
     preserveTOC: true
+
+
+# --- navigation menu ---
+
+menu:
+  nav:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
+    - identifier: blog
+      name: blog
+      url: https://blog.jwf.io/
+      weight: 20
+    - identifier: open
+      name: "#open"
+      url: https://unicef.github.io/inventory/
+      weight: 30
+    - identifier: legal
+      name: legal
+      url: /legal/
+      weight: 40
+  social:
+    - identifier: gitlab
+      name: GitLab
+      url: https://gitlab.com/jwflory
+      weight: 10
+    - identifier: github
+      name: GitHub
+      url: https://github.com/jwflory
+      weight: 20
+    - identifier: twitter
+      name: Twitter
+      url: https://twitter.com/jwf_foss
+      weight: 30
+
 
 # --- custom settings ---
 

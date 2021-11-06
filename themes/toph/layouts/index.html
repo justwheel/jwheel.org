@@ -1,6 +1,8 @@
 {{ define "main" }}
   {{ if .Site.Home.Content }}
-    {{ partial "rounded-profile.html" . }}
+    <span class="rounded-profile">
+      <img src="{{ $.Site.Params.paths.logo }}" alt="Picture of {{ $.Site.Params.biography.name }}" title="Picture of {{ $.Site.Params.biography.name }}">
+    </span>
     {{ if $.Site.Params.hire_me }}
         <h2>Hire me</h2>
         <p>
