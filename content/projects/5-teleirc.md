@@ -4,7 +4,7 @@ date: 2016-05-01
 slug: teleirc
 icon: "https://github.com/RITlug/teleirc/raw/master/assets/png/horizontal_color.png"
 sitemap: false
-categories: ["what"]
+categories: ["projects"]
 
 ---
 

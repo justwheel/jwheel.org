@@ -4,7 +4,7 @@ date: 2020-01-01
 slug: fedora
 icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/2880px-Fedora_logo_%282021%29.svg.png"
 sitemap: false
-categories: ["what"]
+categories: ["projects"]
 
 ---
 

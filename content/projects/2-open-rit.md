@@ -4,7 +4,7 @@ date: 2020-09-09
 slug: open-rit
 icon: /img/rit.png
 sitemap: false
-categories: ["what"]
+categories: ["projects"]
 
 ---
 

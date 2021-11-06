@@ -1,6 +1,6 @@
 <div class="section" id="projects">
-    {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice "what") }}
     <div class="project" id="{{ .Param "slug" }}">
+    {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice "projects") }}
         <h3>{{ .Param "title" }}</h3>
         <img src="{{ .Param "icon" }}" alt="{{ .Param "title" }} logo" title="{{ .Param "title" }} logo">
         {{ .Content }}

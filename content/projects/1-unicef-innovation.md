@@ -4,7 +4,7 @@ date: 2020-11-10
 slug: unicef
 icon: /img/unicef-innovation-logo.png
 sitemap: false
-categories: ["what"]
+categories: ["projects"]
 
 ---
 
