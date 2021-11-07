@@ -1,0 +1,24 @@
+<div id="projects-carousel" class="carousel carousel-dark slide carousel-fade" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    {{ range $index, $value := where .Site.RegularPages ".Params.categories" "intersect" (slice "projects") }}
+    <button type="button" data-bs-target="#projects-carousel" data-bs-slide-to="{{ $index }}"{{ if eq $index 0 }} class="active" aria-current="true"{{ end }} aria-label="{{ $value.Title }}"></button>
+    {{ end }}
+  </div>
+  <div class="carousel-inner">
+      {{ range $index, $value := where .Site.RegularPages ".Params.categories" "intersect" (slice "projects") }}
+      <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
+        <a href="#{{ .Slug }}">
+          <img src="{{ $value.Param "icon" }}" class="img-fluid d-block my-5 mx-auto" style="height: 20vh;" alt="{{ $value.Title }} logo" title="{{ $value.Title }} logo">
+        </a>
+      </div>
+      {{ end }}
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#projects-carousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#projects-carousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
