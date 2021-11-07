@@ -1,7 +1,7 @@
 == Who am I
 
 My name is Justin W. Flory.
-I am an Open Source contributor and Free Culture advocate, currently based in Albania.
+I am an Open Source contributor and Free Culture advocate from the United States, currently based in Europe.
 I hold a Bachelor of Science in https://www.rit.edu/computing/study/computing-and-information-technologies-bs[Networking & Systems Administration] with a double-minor in https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor[Free and Open Source Software and Free Culture] and https://www.rit.edu/liberalarts/study/womens-and-gender-studies-minor[Women's and Gender Studies] from the https://www.rit.edu/[Rochester Institute of Technology].
 
 
