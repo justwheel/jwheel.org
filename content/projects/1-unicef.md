@@ -1,14 +1,14 @@
 ---
-title: UNICEF Innovation
+title: UNICEF
 date: 2020-11-10
 slug: unicef
-icon: /img/unicef-innovation-logo.png
+icon: /img/unicef.png
 sitemap: false
 categories: ["projects"]
 
 ---
 
-#### Open Source Technical Advisor
+#### Open Source Technical Advisor, Office of Innovation
 
 Since June 2020, I work full-time at the [UNICEF Office of Innovation][1].
 There, I support the [UNICEF Innovation Fund][2] as the first _Open Source Technical Advisor_ at UNICEF.
@@ -21,7 +21,7 @@ My responsibilities include the following, related to all things Free and Open S
 * Metrics assessment
 * Sustainability assessment
 
-#### UNICEF MagicBox
+#### UNICEF MagicBox, Office of Innovation
 
 From January - May 2018, I was the first, full-time co-op placement to work exclusively on Open Source community for [UNICEF Office of Innovation][1].
 
