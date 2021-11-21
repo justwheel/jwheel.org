@@ -3,7 +3,7 @@ title: RIT LibreCorps
 date: 2018-08-30
 slug: librecorps
 icon: https://cdn.rit.edu/images/news/2021-04/LibrecorpsLogo-for-web2.jpg
-sitemap: false
+hide_sitemap: true
 categories: ["projects"]
 
 ---

@@ -3,7 +3,7 @@ title: SpigotMC
 date: 2014-04-15
 slug: spigotmc
 icon: "https://static.spigotmc.org/img/spigot-og.png"
-sitemap: false
+hide_sitemap: true
 categories: ["projects"]
 
 ---

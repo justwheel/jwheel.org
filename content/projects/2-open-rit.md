@@ -3,7 +3,7 @@ title: "Open@RIT"
 date: 2020-09-09
 slug: open-rit
 icon: /img/rit.png
-sitemap: false
+hide_sitemap: true
 categories: ["projects"]
 
 ---
