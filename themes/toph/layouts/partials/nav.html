@@ -9,7 +9,7 @@
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.nav }}
                     <li class="nav-item">
-                        <a class="nav-link{{ if eq .URL $currentPage.URL }} active" aria-current="page"{{ else }}"{{ end }} href="{{ .URL }}">{{ .Name }}</a>
+                        <a class="nav-link{{ if eq .URL $currentPage.RelPermalink }} active" aria-current="page"{{ else }}"{{ end }} href="{{ .URL }}">{{ .Name }}</a>
                     </li>
                 {{ end }}
                 <li class="nav-item dropdown">
