@@ -33,8 +33,8 @@ I served in the following positions previously (_see [Fedora Linux release histo
 * [**Diversity and Inclusion Team**][2]:
   Founding member & core contributor (_Fedora Linux releases 24 to 33_)
 * [**Fedora Council**][8]:
-  Elected member (_Fedora Linux release 26_);
-  [Diversity & Inclusion Advisor][16] (_Fedora Linux releases 33, 34_)
+  * Elected member (_Fedora Linux release 26_)
+  * [Diversity & Inclusion Advisor][16] (_Fedora Linux releases 33, 34_)
 * [**Fedora Happiness Packets**][9]:
   Outreachy 2019 mentor, project manager (_Fedora Linux releases 29 to 31_)
 * [**Fedora Magazine**][10]:
