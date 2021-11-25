@@ -1,8 +1,8 @@
 <footer class="text-center">
     <div class="container-fluid">
-        <a class="p-2" href="https://sfconservancy.org/sustainer/"><img src="https://sfconservancy.org/img/supporter-badge.png" width="194" height="90" alt="Become a Conservancy Sustainer!" style="border: 0"/></a>
-        <a class="p-2" href="https://protonmail.com/"><img src="/img/proton.svg" width="194" height="90" alt="ProtonMail Visionary user" style="border: 0"/></a>
-        <a class="p-2" href="https://archive.org/about/"><img src="/img/archive.svg" width="194" height="90" alt="Internet Archive supporter" style="border: 0"/></a>
+        {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice "footer") }}
+        {{ .Content }}
+        {{ end }}
     </div>
     <div class="container-fluid rounded m-2" id="footer-box">
         {{ site.Title }} &copy; <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike 4.0 International" target="_blank">CC BY-SA 4.0</a>. 2014-{{ now.Format "2006" }}.<br />

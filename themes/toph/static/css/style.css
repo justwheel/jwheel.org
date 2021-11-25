@@ -98,6 +98,11 @@ main .rounded-profile img {
 
 footer { overflow: hidden; }
 
+footer .imageblock {
+  display: inline-block;
+  padding: 0.5rem;
+}
+
 footer #footer-box {
   background-color: var(--primary);
   color: var(--secondary);

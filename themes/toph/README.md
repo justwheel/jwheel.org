@@ -17,6 +17,7 @@ Toph: a lightweight, responsive theme for a biography site, for use with [Hugo](
 - Responsive-ready
 - Template-driven layout system
   - [Project profiles](#project-profiles)
+  - [Dynamic footer badges](#dynamic-footer-badges)
 - Schema.org support
 - Search Engine Optimization boosts included
 
@@ -115,6 +116,49 @@ Otherwise what we like to refer to in aggregate as _Open Work_.
 [2]: https://www.rit.edu/research/open
 [3]: https://www.rit.edu/
 ```
+
+### Dynamic footer badges
+
+Toph can show affiliation or supporter badges in the footer of the site.
+The footer badges are images, meant to imply an endorsement or message of support to another website or organization.
+Use these to note endorsements, sponsors, or some other badge to include in the site footer.
+
+#### How to use
+
+1. Create a new "footers" section.
+1. Create a new AsciiDoc or Markdown file for each badge.
+  1. In each badge, add `categories: ["footer"]` and `hide_sitemap: true` to the front matter.
+  1. Add one and _only one_ image to the file.
+     Images may be wrapped by an external hyperlink.
+1. Rebuild the site.
+   The footer now shows the footer badges.
+
+Example of a dynamic footer badge, found in `content/footer/`:
+
+```asciidoc
+---
+categories: ["footer"]
+hide_sitemap: true
+
+---
+
+[link=https://sfconservancy.org/sustainer/]
+image::https://sfconservancy.org/img/supporter-badge.png[Become a Conservancy Sustainer!]
+```
+
+#### Badge art requirements
+
+The height and width of all badges is fixed.
+Keep in mind these requirements when adding new footer badges.
+
+* **DPI**:
+  25.40 dpi
+* **Height**:
+  90 pixels
+* **Width**:
+  194 pixels
+* **Style suggestions**:
+  * Add a light-gray (RGBA: `#272b35ff`) border around the badge.
 
 
 ## Contributing
