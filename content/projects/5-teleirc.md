@@ -2,7 +2,7 @@
 title: TeleIRC
 date: 2016-05-01
 slug: teleirc
-icon: "https://github.com/RITlug/teleirc/raw/master/assets/png/horizontal_color.png"
+icon: "https://github.com/RITlug/teleirc/raw/main/assets/png/horizontal_color.png"
 hide_sitemap: true
 categories: ["projects"]
 
