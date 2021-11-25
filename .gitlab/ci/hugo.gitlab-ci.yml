@@ -8,8 +8,6 @@ hugo_build:
     paths:
       - tmp/.htmlproofer
 
-  before_script:
-    - sudo apt install -y asciidoctor
   script:
     - HUGO_ENV=production hugo --verbose
     - htmlproofer public
