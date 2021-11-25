@@ -1,9 +1,11 @@
 <footer class="text-center">
+    {{ if .Site.GetPage "/footer" }}
     <div class="container-fluid">
         {{ range where .Site.RegularPages ".Params.categories" "intersect" (slice "footer") }}
         {{ .Content }}
         {{ end }}
     </div>
+    {{ end }}
     <div class="container-fluid rounded m-2" id="footer-box">
         {{ site.Title }} &copy; <a href="https://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike 4.0 International" target="_blank">CC BY-SA 4.0</a>. 2014-{{ now.Format "2006" }}.<br />
         <a href="{{ .Site.Params.git_repo }}">Find this site on GitLab</a>
