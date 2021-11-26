@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ if .Site.Home.Content }}
     <span class="rounded-profile">
-      <img src="{{ $.Site.Params.paths.logo }}" alt="Picture of {{ $.Site.Params.biography.name }}" title="Picture of {{ $.Site.Params.biography.name }}">
+      <img src="{{ $.Site.Params.paths.logo }}" alt="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}" title="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}">
     </span>
     {{ if .Param "hire_me" }}
       {{ partial "for-hire.html" . }}
@@ -10,16 +10,12 @@
     {{ partial "projects-carousel.html" . }}
     {{ partial "projects.html" . }}
   {{ else }}
-    <h2>Customize your home page</h2>
-    <p>
-      The site is working.
-      Start customizing this homepage to your liking.
-      You have three ways to change this index page:
-    </p>
+    <h2>{{ i18n "index.default.header" | safeHTML }}</h2>
+    <p>{{ i18n "index.default.body" | safeHTML }}</p>
     <ol>
-      <li>Create an <code>_index.en.md</code> or <code>_index.en.adoc</code> document in the <code><b>content/</b></code> folder. Fill it with Markdown or AsciiDoc content.</li>
-      <li>Create an <b>index.html</b> file in the <b>static</b> folder. Fill it with HTML content.</li>
-      <li>Configure your web server to automatically redirect home page traffic to a specific page.</li>
+      <li>{{ i18n "index.default.customize_step1" | safeHTML }}</li>
+      <li>{{ i18n "index.default.customize_step2" | safeHTML }}</li>
+      <li>{{ i18n "index.default.customize_step3" | safeHTML }}</li>
     </ol>
   {{ end }}
 {{ end }}
