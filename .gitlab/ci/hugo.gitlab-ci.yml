@@ -17,6 +17,7 @@ hugo_build:
         --check-img-http
         --empty-alt-ignore
         --enforce-https
+        --internal-domains jwf.io
         --http-status-ignore 0,400,503,999
         --url-ignore "/archive/v3/irc/"
         --timeframe 6w
