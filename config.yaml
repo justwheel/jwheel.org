@@ -138,8 +138,6 @@ params:
   images:
     - /img/logo.jpg
   git_repo: https://gitlab.com/jwflory/jwflory.gitlab.io
-  # Are you looking for new opportunities? Set hire_me to "true" if you want your LinkedIn to show on the nav bar and
-  # for boilerplate text on how to get in touch.
   hire_me: false
   social:
     github_username: jwflory
@@ -147,3 +145,20 @@ params:
     lastfm_username: jflory7
     linkedin_url: justinwflory
     x_username: jwf_foss
+
+
+# --- internationalization settings ---
+
+defaultContentLang: en
+languages:
+  ar:
+    disabled: true
+    languageDirection: rtl
+    languageName: عربي
+  en:
+    languageName: English
+  es:
+    languageName: español
+  hi:
+    disabled: true
+    languageName: हिन्दी

@@ -7,7 +7,7 @@ description = "Custom theme for Justin W. Flory's personal website."
 homepage = "https://jwf.io"
 tags = ["biography", "minimal"]
 features = []
-min_version = "0.88.1"
+min_version = "0.112.0"
 
 [author]
   name = "Justin W. Flory"

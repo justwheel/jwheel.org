@@ -22,7 +22,7 @@ googleAnalytics: ""
 
 security:
   exec:
-    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+    allow: ['^dart-sass-embedded$', '^git$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
 
 
 # --- markup settings ---
@@ -106,3 +106,18 @@ params:
     lastfm_username: ""
     linkedin_url: company/the-king-center-for-nonviolent-social-change/
     x_username: mlk_institute
+
+
+# --- internationalization settings ---
+
+defaultContentLang: en
+languages:
+  ar:
+    disabled: true
+    languageDirection: rtl
+    languageName: عربي
+  en:
+    languageName: English
+  es:
+    disabled: true
+    languageName: español

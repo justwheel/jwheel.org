@@ -1,0 +1,11 @@
+== Quién soy
+
+¡Hola y bienvenidos a mi página de inicio!
+Mi nombre es Justin W. Flory (_él_).
+Soy originario de los Estados Unidos.
+
+Soy un colaborador de Open Source y defensor de la Free Culture.
+Participo en comunidades de tecnología Free y Open Source desde 2013.
+Por lo general, enfoco mi tiempo de Open Source en proyectos de infraestructura digital, software Free y Open Source humanitario (HFOSS), comunidades de práctica de la industria y el ecosistema de desarrolladores de Linux.
+
+Tengo una licenciatura en https://www.rit.edu/computing/study/computing-and-information-technologies-bs[Networking & Systems Administration] con una doble especialización en https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor[Free and Open Source Software and Free Culture] y https://www.rit.edu/liberalarts/study/womens-and-gender-studies-minor[Women's and Gender Studies] del https://www.rit.edu/[Rochester Institute of Technology].
