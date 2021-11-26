@@ -78,6 +78,8 @@ params:
       "Fedora Project",
       "UNICEF"
   description: Home of Justin W. Flory, an Open Source contributor and Free Software advocate from the United States.
+  images:
+    - /img/logo.jpg
   git_repo: https://gitlab.com/jwflory/jwflory.gitlab.io
   # Are you looking for new opportunities? Set hire_me to "true" if you want your LinkedIn to show on the nav bar and
   # for boilerplate text on how to get in touch.

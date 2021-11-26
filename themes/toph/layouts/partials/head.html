@@ -16,6 +16,11 @@
     {{ "<!-- Google Analytics template -->" | safeHTML }}
     {{ template "_internal/google_analytics.html" . }}
 
+    {{ "<!-- OpenGraph template -->" | safeHTML }}
+    {{ template "_internal/opengraph.html" . }}
+
+    {{ "<!-- Twitter Cards template -->" | safeHTML }}
+    {{ template "_internal/twitter_cards.html" . }}
 
     <!-- favicon -->
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
