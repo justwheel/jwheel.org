@@ -68,6 +68,7 @@ params:
     gender: Male
     email: contact@jwf.io
     blog: https://blog.jwf.io
+    first_online: 2014
     knows_about: >
       "Justin W. Flory",
       "jflory7",
