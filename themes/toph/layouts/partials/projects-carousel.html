@@ -8,7 +8,11 @@
       {{ range $index, $value := where .Site.RegularPages ".Params.categories" "intersect" (slice "projects") }}
       <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
         <a href="#{{ .Slug }}">
-          <img src="{{ $value.Param "icon" }}" class="img-fluid d-block my-5 mx-auto" alt="{{ i18n "misc.logo" . }}" title="{{ i18n "misc.logo" . }}">
+          {{ if .Param "icon" }}
+            <img src="{{ $value.Param "icon" }}" class="img-fluid d-block my-5 mx-auto" alt="{{ i18n "misc.logo" . }}" title="{{ i18n "misc.logo" . }}">
+          {{ else }}
+            <h4 class="d-flex justify-content-center my-5">{{ $value.Param "title" }}</h4>
+          {{ end }}
         </a>
       </div>
       {{ end }}

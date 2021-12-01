@@ -2,7 +2,6 @@
 title: UNICEF
 date: 2020-11-10
 slug: unicef
-icon: /img/unicef.png
 hide_sitemap: true
 categories: ["projects"]
 
