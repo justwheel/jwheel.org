@@ -71,8 +71,7 @@ h2, h4 { color: var(--accent-color); }
 
 /* ===[ Main body styling ]=== */
 
-main #projects-carousel h4 { height: 10vh; }
-main #projects-carousel img { height: 10vh; }
+main #projects-carousel .pc-fixed-height { height: 10vh; }
 
 main #projects h3 { 
   background-color: var(--primary);

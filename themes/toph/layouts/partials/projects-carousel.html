@@ -9,9 +9,9 @@
       <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
         <a href="#{{ .Slug }}">
           {{ if .Param "icon" }}
-            <img src="{{ $value.Param "icon" }}" class="img-fluid d-block my-5 mx-auto" alt="{{ i18n "misc.logo" . }}" title="{{ i18n "misc.logo" . }}">
+            <img src="{{ $value.Param "icon" }}" class="img-fluid d-block my-5 mx-auto pc-fixed-height" alt="{{ i18n "misc.logo" . }}" title="{{ i18n "misc.logo" . }}">
           {{ else }}
-            <h4 class="d-flex justify-content-center my-5">{{ $value.Param "title" }}</h4>
+            <h4 class="d-flex align-items-center justify-content-center my-5 pc-fixed-height">{{ $value.Param "title" }}</h4>
           {{ end }}
         </a>
       </div>
