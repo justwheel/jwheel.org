@@ -25,6 +25,20 @@ markup:
     preserveTOC: true
 
 
+# --- privacy settings ---
+
+privacy:
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+  twitter:
+    enableDNT: true
+  vimeo:
+    enableDNT: true
+  youtube:
+    privacyEnhanced: true
+
+
 # --- navigation menu ---
 
 menu:
