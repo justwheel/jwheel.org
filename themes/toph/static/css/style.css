@@ -47,7 +47,10 @@ h2, h4 { color: var(--accent-color); }
 
 /* ===[ Site navigation styling ]=== */
 
-.navbar { position: fixed; }
+.navbar {
+  position: fixed;
+  z-index: 100;
+}
 
 .dropdown-menu { background-color: var(--accent-color); }
 
