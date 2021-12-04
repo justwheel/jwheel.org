@@ -34,8 +34,13 @@
             "https://twitter.com/{{ $.Site.Params.social.twitter_username }}"
         ],
         "knowsAbout": [
-            {{- range $.Site.Params.biography.knows_about }}
+            {{- $len_knowsAbout := len $.Site.Params.biography.knows_about }}
+            {{- range $index, $knowsAbout := $.Site.Params.biography.knows_about }}
+                {{- if ne (add $index 1) $len_knowsAbout }}
             {{ . }},
+                {{- else }}
+            {{ . }}
+                {{- end }}
             {{- end }}
         ]
     }
