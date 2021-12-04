@@ -25,7 +25,7 @@
         "gender": "{{ $.Site.Params.biography.gender }}",
         "image": {{ printf "%s" (index $.Site.Params.images 0) }},
         "email": "mailto:{{ $.Site.Params.biography.email }}",
-        "url": "{{ site.BaseURL }}",
+        "url": {{ printf "%s" site.BaseURL }},
         "sameAs": [
             "https://github.com/{{ $.Site.Params.social.github_username }}",
             "https://gitlab.com/{{ $.Site.Params.social.gitlab_username }}",
