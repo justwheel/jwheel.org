@@ -23,7 +23,7 @@
         "name": "{{ $.Site.Params.biography.name }}",
         "familyName": "{{ index (findRE "(\\w|[-])+$" $.Site.Params.biography.name) 0 }}",
         "gender": "{{ $.Site.Params.biography.gender }}",
-        "logo": "{{ site.BaseURL }}{{ $.Site.Params.paths.logo }}",
+        "image": {{ printf "%s" (index $.Site.Params.images 0) }},
         "email": "mailto:{{ $.Site.Params.biography.email }}",
         "url": "{{ site.BaseURL }}",
         "sameAs": [

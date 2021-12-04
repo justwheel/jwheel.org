@@ -102,7 +102,6 @@ params:
   hire_me: false
   paths:
     favicon: favicon.ico
-    logo: img/logo.jpg
   social:
     github_username: jwflory
     gitlab_username: jwflory

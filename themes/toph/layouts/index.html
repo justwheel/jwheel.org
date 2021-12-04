@@ -1,7 +1,7 @@
 {{ define "main" }}
   {{ if .Site.Home.Content }}
     <span class="rounded-profile">
-      <img src="{{ $.Site.Params.paths.logo }}" alt="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}" title="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}">
+      <img src="{{ index $.Site.Params.images 0 }}" alt="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}" title="{{ i18n "index.rounded_profile_image" }} {{ $.Site.Params.biography.name }}">
     </span>
     {{ if .Param "hire_me" }}
       {{ partial "for-hire.html" . }}
