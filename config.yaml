@@ -84,14 +84,34 @@ params:
     blog: https://blog.jwf.io
     first_online: 2014
     knows_about: [
-      "Justin W. Flory",
+      "Ansible",
+      "CentOS",
+      "community management",
+      "continuous integration (CI)",
+      "CSS",
+      "diversity",
+      "Docker",
+      "equity",
+      "Fedora Project",
+      "feminism",
+      "Free Software",
+      "gender",
+      "git",
+      "HTML",
+      "inclusion",
       "jflory7",
       "jwf",
+      "Linux",
       "open source",
+      "Red Hat",
+      "Red Hat Enterprise Linux (RHEL)",
       "RIT",
       "Rochester Institute of Technology",
-      "Fedora Project",
-      "UNICEF"
+      "RPM package management",
+      "TeleIRC",
+      "UNICEF",
+      "user experience",
+      "web development"
     ]
   description: Home of Justin W. Flory, an Open Source contributor and Free Software advocate from the United States.
   images:
