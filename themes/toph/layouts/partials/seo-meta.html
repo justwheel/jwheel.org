@@ -21,9 +21,10 @@
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "{{ $.Site.Params.biography.name }}",
+        "familyName": "{{ index (findRE "(\\w|[-])+$" $.Site.Params.biography.name) 0 }}",
         "gender": "{{ $.Site.Params.biography.gender }}",
         "logo": "{{ site.BaseURL }}{{ $.Site.Params.paths.logo }}",
-        "email": "{{ $.Site.Params.biography.email }}",
+        "email": "mailto:{{ $.Site.Params.biography.email }}",
         "url": "{{ site.BaseURL }}",
         "sameAs": [
             "https://github.com/{{ $.Site.Params.social.github_username }}",
