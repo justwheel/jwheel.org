@@ -18,7 +18,7 @@
 
     <script type="application/ld+json">
     {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "@type": "Person",
         "name": "{{ $.Site.Params.biography.name }}",
         "gender": "{{ $.Site.Params.biography.gender }}",
@@ -33,7 +33,9 @@
             "https://twitter.com/{{ $.Site.Params.social.twitter_username }}"
         ],
         "knowsAbout": [
-            {{ $.Site.Params.biography.knows_about }}
+            {{- range $.Site.Params.biography.knows_about }}
+            {{ . }},
+            {{- end }}
         ]
     }
     </script>
