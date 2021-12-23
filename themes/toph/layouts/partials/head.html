@@ -11,7 +11,7 @@
     {{ end }}
 
     {{ "<!-- Theme SEO template -->" | safeHTML }}
-    {{- partial "seo-meta.html" . -}}
+    {{ partial "seo-meta.html" . }}
 
     {{ "<!-- Google Analytics template -->" | safeHTML }}
     {{ template "_internal/google_analytics.html" . }}

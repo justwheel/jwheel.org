@@ -3,11 +3,11 @@
     <meta name="twitter:site" content="@{{ $.Site.Params.social.twitter_username }}" />
         
     {{ if (isset .Params "author") }}
-    <meta name="author" content="{{ $.Param "author" }}" />
-    <meta property="article:author" content="{{ $.Param "author" }}" />
+    <meta name="author" content="{{ .Param "author" }}" />
+    <meta property="article:author" content="{{ .Param "author" }}" />
     {{ else }}
-    <meta name="author" content="{{ .Params.biography.name }}" />
-    <meta property="article:author" content="{{ .Params.biography.name }}" />
+    <meta name="author" content="{{ $.Site.Params.biography.name }}" />
+    <meta property="article:author" content="{{ $.Site.Params.biography.name }}" />
     {{ end }}
 
     {{ if (isset .Params "tags") }}
