@@ -127,8 +127,10 @@ params:
   description: Home of Justin W. Flory, an Open Source contributor and Free Software advocate from the United States.
   fonts:
     default: Open Sans
+    default_weight: ":wght@500"
     title: Bungee Shade
     header: Roboto Slab
+    header_weight: ":wght@500"
   images:
     - /img/logo.jpg
   git_repo: https://gitlab.com/jwflory/jwflory.gitlab.io
