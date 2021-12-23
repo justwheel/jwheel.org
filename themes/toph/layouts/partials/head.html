@@ -40,9 +40,9 @@
     <style type="text/css">
     :root {
         {{ "/* Default colors */" | safeCSS }}
-        --primary: {{ if eq (substr $color_primary 0 1) "#" }}"{{ $color_primary }}"{{ else }}{{ $color_primary }}{{ end }};
-        --secondary: {{ if eq (substr $color_secondary 0 1) "#" }}"{{ $color_secondary }}"{{ else }}{{ $color_secondary }}{{ end }};
-        --accent-color: {{ if eq (substr $color_accent 0 1) "#" }}"{{ $color_accent }}"{{ else }}{{ $color_accent }}{{ end }};
+        --primary: {{ $color_primary }};
+        --secondary: {{ $color_secondary }};
+        --accent-color: {{ $color_accent }};
 
         {{ "/* Default fonts */" | safeCSS }}
         --default-font: "{{ $font_default }}";
