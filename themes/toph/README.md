@@ -19,7 +19,8 @@ Toph: a lightweight, responsive theme for a biography site, for use with [Hugo](
   - [Project profiles](#project-profiles)
   - [Dynamic footer badges](#dynamic-footer-badges)
 - Schema.org support
-- Search Engine Optimization boosts included
+- Search Engine Optimization enhancements
+- [Easy customization of colors and fonts in Hugo configuration](#custom-colors-and-fonts)
 
 
 ## Examples
@@ -159,6 +160,59 @@ Keep in mind these requirements when adding new footer badges.
   194 pixels
 * **Style suggestions**:
   * Add a light-gray (RGBA: `#272b35ff`) border around the badge.
+
+### Custom colors and fonts
+
+Toph supports quick and easy customization of colors and fonts in the Hugo config file.
+The site features three colors and three fonts used across all layouts:
+
+* **Colors**:
+  * Primary:
+    Dominant color used across all layouts in highly visible locations.
+  * Secondary:
+    Background or secondary color.
+    Most notable use in background color of all pages.
+  * Accent:
+    Color to accent or emphasize content in contrast to the primary color.
+* **Fonts**:
+  * Default:
+    Used as typeface for almost all content across the site.
+  * Title:
+    Used in page titles only.
+  * Header:
+    Used in all headers other than the page title.
+
+#### How to use
+
+Include the following in your Hugo configuration file:
+
+**YAML**:
+
+```yaml
+params:
+  colors:
+    primary: darkorchid
+    secondary: linen
+    accent: darkslateblue
+  fonts:
+    default: Open Sans
+    title: Bungee Shade
+    header: Roboto Slab
+```
+
+**TOML**:
+
+```toml
+[params.colors]
+primary = "darkorchid"
+secondary = "linen"
+accent = "darkslateblue"
+
+[params.fonts]
+default = "Open Sans"
+title = "Bungee Shade"
+header = "Roboto Slab"
+```
 
 
 ## Contributing

@@ -22,16 +22,37 @@
     {{ "<!-- Twitter Cards template -->" | safeHTML }}
     {{ template "_internal/twitter_cards.html" . }}
 
-    <!-- favicon -->
+    {{ "<!-- favicon -->" | safeHTML }}
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="/favicon.ico" type="image/x-icon">
 
-    <!-- stylesheets -->
+    {{ "<!-- colors and fonts from Hugo config -->" | safeHTML }}
+    <style type="text/css">
+    :root {
+        {{ "/* Default colors */" | safeCSS }}
+        {{ $color_primary := $.Param "colors.primary" -}}
+        {{- $color_secondary := $.Param "colors.secondary" -}}
+        {{- $color_accent := $.Param "colors.accent" -}}
+        --primary: {{ if eq (substr $color_primary 0 1) "#" }}"{{ $color_primary }}"{{ else }}{{ $color_primary }}{{ end }};
+        --secondary: {{ if eq (substr $color_secondary 0 1) "#" }}"{{ $color_secondary }}"{{ else }}{{ $color_secondary }}{{ end }};
+        --accent-color: {{ if eq (substr $color_accent 0 1) "#" }}"{{ $color_accent }}"{{ else }}{{ $color_accent }}{{ end }};
+
+        {{ "/* Default fonts */" | safeCSS }}
+        {{ $font_default := $.Param "fonts.default" -}}
+        {{- $font_title := $.Param "fonts.title" -}}
+        {{- $font_header := $.Param "fonts.header" -}}
+        --default-font: "{{ $font_default }}";
+        --title-font: "{{ $font_title }}";
+        --header-font: "{{ $font_header }}";
+    }
+    </style>
+
+    {{ "<!-- stylesheets -->" | safeHTML }}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/css/style.css" />
 
-    <!-- fonts -->
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap">
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap">
+    {{ "<!-- font stylesheets -->" | safeHTML }}
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family={{ $font_default }}:wght@500&display=swap">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family={{ $font_title }}&display=swap">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family={{ $font_header }}:wght@500&display=swap">
 </head>

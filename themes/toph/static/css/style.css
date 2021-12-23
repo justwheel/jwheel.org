@@ -1,17 +1,5 @@
 /* ===[ Global styling ]=== */
 
-:root {
-  /* Default colors */
-  --primary: darkorchid;
-  --secondary: linen;
-  --accent-color: darkslateblue;
-
-  /* Default fonts */
-  --default-font: "Open Sans";
-  --title-font: "Bungee Shade";
-  --header-font: "Roboto Slab";
-}
-
 body {
   background-color: var(--secondary);
   color: #330000;
