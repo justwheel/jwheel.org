@@ -23,24 +23,25 @@
     {{ template "_internal/twitter_cards.html" . }}
 
     {{ "<!-- favicon -->" | safeHTML }}
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-    <link rel="apple-touch-icon" href="/favicon.ico" type="image/x-icon">
+    {{- $favicon := $.Param "favicon" | default "/favicon.ico" }}
+    <link rel="shortcut icon" href="{{ $favicon }}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{{ $favicon }}" type="image/x-icon">
 
     {{ "<!-- colors and fonts from Hugo config -->" | safeHTML }}
+    {{- $color_primary := $.Param "colors.primary" -}}
+    {{- $color_secondary := $.Param "colors.secondary" -}}
+    {{- $color_accent := $.Param "colors.accent" -}}
+    {{- $font_default := $.Param "fonts.default" -}}
+    {{- $font_title := $.Param "fonts.title" | default "Arial" -}}
+    {{- $font_header := $.Param "fonts.header" }}
     <style type="text/css">
     :root {
         {{ "/* Default colors */" | safeCSS }}
-        {{ $color_primary := $.Param "colors.primary" -}}
-        {{- $color_secondary := $.Param "colors.secondary" -}}
-        {{- $color_accent := $.Param "colors.accent" -}}
         --primary: {{ if eq (substr $color_primary 0 1) "#" }}"{{ $color_primary }}"{{ else }}{{ $color_primary }}{{ end }};
         --secondary: {{ if eq (substr $color_secondary 0 1) "#" }}"{{ $color_secondary }}"{{ else }}{{ $color_secondary }}{{ end }};
         --accent-color: {{ if eq (substr $color_accent 0 1) "#" }}"{{ $color_accent }}"{{ else }}{{ $color_accent }}{{ end }};
 
         {{ "/* Default fonts */" | safeCSS }}
-        {{ $font_default := $.Param "fonts.default" -}}
-        {{- $font_title := $.Param "fonts.title" -}}
-        {{- $font_header := $.Param "fonts.header" -}}
         --default-font: "{{ $font_default }}";
         --title-font: "{{ $font_title }}";
         --header-font: "{{ $font_header }}";
