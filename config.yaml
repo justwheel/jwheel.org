@@ -18,6 +18,13 @@ enableRobotsTXT: false
 googleAnalytics: G-7YT6EE93RQ
 
 
+# --- security settings ---
+
+security:
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+
+
 # --- markup settings ---
 
 markup:
