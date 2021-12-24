@@ -7,8 +7,10 @@ hugo_build:
   cache:
     paths:
       - tmp/.htmlproofer
+      - themes/toph/exampleSite/tmp/.htmlproofer
 
   script:
+    # build main site
     - HUGO_ENV=production hugo --verbose
     - htmlproofer public
         --allow-hash-href
@@ -20,6 +22,22 @@ hugo_build:
         --internal-domains jwf.io
         --http-status-ignore 0,400,503,999
         --url-ignore "/archive/v3/irc/"
+        --timeframe 6w
+
+    # build example site
+    - cd themes/toph/exampleSite
+    - HUGO_ENV=production hugo
+        --verbose
+        --themesDir=../../
+    - htmlproofer public
+        --allow-hash-href
+        --check-html
+        --check-img-http
+        --empty-alt-ignore
+        --enforce-https
+        --internal-domains jwflory.gitlab.io
+        --http-status-ignore 0,400,503,999
+        --url-ignore "/toph-hugo/"
         --timeframe 6w
   after_script: []
 
