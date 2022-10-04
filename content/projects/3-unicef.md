@@ -1,6 +1,6 @@
 ---
 title: UNICEF
-date: 2020-11-10
+date: 2022-09-20
 slug: unicef
 hide_sitemap: true
 categories: ["projects"]
@@ -9,16 +9,11 @@ categories: ["projects"]
 
 #### Open Source Technical Advisor, Office of Innovation
 
-Since June 2020, I work full-time at the [UNICEF Office of Innovation][1].
-There, I support the [UNICEF Innovation Fund][2] as the first _Open Source Technical Advisor_ at UNICEF.
-My responsibilities include the following, related to all things Free and Open Source:
-
-* Technical assistance
-* Open source support
-* Cohort collaboration
-* Assessment support
-* Metrics assessment
-* Sustainability assessment
+From June 2020 to September 2022, I was the first _Open Source Technical Advisor_ at the [UNICEF Office of Innovation][1].
+There, I supported [UNICEF Venture Fund][2] startup companies in launching Open Source products, one of the requirements to receive funding from UNICEF.
+In all, I mentored 23 companies from 19 countries on community strategies for their Open Source products.
+Of those, fourteen achieved global recognition as [Digital Public Goods][6] and three were acquired in multi-million dollar acquisitions.
+Additionally, I also designed a fixed-term Open Source community mentoring program for startup companies and developer communities that later expanded to Technical Assistance programs for software development and data science & A.I.
 
 #### UNICEF MagicBox, Office of Innovation
 
@@ -34,3 +29,4 @@ This was an engagement highlighted by Jim Whitehurst, former President of I.B.M.
 [3]: https://www.unicef.org/innovation/Magicbox
 [4]: https://www.redhat.com/en/services/consulting/open-innovation-labs
 [5]: https://youtu.be/Ui-n-n_w8Ok?t=4401
+[6]: https://digitalpublicgoods.net/digital-public-goods/

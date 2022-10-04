@@ -1,6 +1,6 @@
 ---
 title: Fedora Project
-date: 2020-01-01
+date: 2022-10-01
 slug: fedora
 icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fedora_logo_%282021%29.svg/2880px-Fedora_logo_%282021%29.svg.png"
 hide_sitemap: true
@@ -10,16 +10,22 @@ categories: ["projects"]
 
 I am a contributor to [Fedora Linux][19] since August 2015.
 Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project Community][1]
-(_see [certification][21]_).
-Currently, I focus on [documentation][18] and maintaining a few packages.
-Here is a list of the things I am currently doing in Fedora:
+(_see [recognition][21]_).
+
+#### Current volunteering in Fedora
+
+Here is a list of the things I am currently doing in Fedora (_see [Fedora Linux release history][22]_):
 
 * [**Community Operations**][7]:
-  Founding member and former team lead (_August 2015 – May 2019, December 2020 – present_)
+  Founding member and former team lead (_Fedora Linux releases 22 to 30, 33 to present_)
+* [**Diversity, Equity, and Inclusion Team**][2]:
+  Founding member & core contributor (_Fedora Linux releases 24 to present_)
 * [**Documentation Team**][18]:
-  Contributor & writer (_March 2018 – present_)
+  Contributor & writer (_Fedora Linux releases 27 to present_)
 * [**Packager**][3]:
-  `mpris-scrobbler`, `playerctl`, `zork`, `protonvpn-cli` (_August 2017 – present_)
+  `mpris-scrobbler`, `playerctl`, `zork`, `protonvpn-cli` (_Fedora Linux releases 26 to present_)
+
+#### Past volunteering in Fedora
 
 I have done more in the Fedora Project over the years.
 I served in the following positions previously (_see [Fedora Linux release history][22]_):
@@ -30,8 +36,6 @@ I served in the following positions previously (_see [Fedora Linux release histo
   Sponsored system administrator (_Fedora Linux releases 24 to 32_)
 * [**Community Blog**][6]:
   Editor-in-chief (_Fedora Linux releases 22 to 29_)
-* [**Diversity and Inclusion Team**][2]:
-  Founding member & core contributor (_Fedora Linux releases 24 to 33_)
 * [**Fedora Council**][8]:
   * Elected member (_Fedora Linux release 26_)
   * [Diversity & Inclusion Advisor][16] (_Fedora Linux releases 33, 34_)
@@ -71,6 +75,6 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [17]: https://docs.fedoraproject.org/en-US/i3/
 [18]: https://docs.fedoraproject.org/en-US/fedora-docs/
 [19]: https://getfedora.org
-[20]: https://digitalpublicgoods.net/about/
+[20]: https://digitalpublicgoods.net/digital-public-goods/
 [21]: https://digitalpublicgoods.net/registry/fedora-linux.html
 [22]: https://en.wikipedia.org/wiki/Fedora_version_history#Version_history
