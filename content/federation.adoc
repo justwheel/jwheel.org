@@ -120,7 +120,7 @@ firm adherence to a code of especially moral or artistic values : incorruptibili
 We believe our individual and collective actions must be bound by rigid Integrity.
 To help serve as reference for FIC's interpretation of Integrity, we pledge commitment underneath the values of two doctrines:
 
-. https://www.un.org/en/about-us/universal-declaration-of-human-rights[Universal Declaration of Human Rights]
+. https://web.archive.org/web/20221001133102/https://www.un.org/en/about-us/universal-declaration-of-human-rights[Universal Declaration of Human Rights]
 . https://techautonomy.org/[Declaration of Digital Autonomy] (v0.1 or a later version)
 
 Our work must never stand against the Universal Declaration of Human Rights.
