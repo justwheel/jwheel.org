@@ -6,6 +6,6 @@ I am originally from the United States.
 
 I am an Open Source contributor and Free Culture advocate.
 I participate in Free and Open Source technology communities since 2013.
-Generally, I focus my Open Source time towards digital infrastructure projects, humanitarian Free and Open Source Software (H.F.O.S.S.), industry communities of practice, and the Linux developer ecosystem.
+Generally, I focus my Open Source time towards digital infrastructure projects, humanitarian Free and Open Source Software (HFOSS), industry communities of practice, and the Linux developer ecosystem.
 
 I hold a Bachelor of Science in https://www.rit.edu/computing/study/computing-and-information-technologies-bs[Networking & Systems Administration] with a double-minor in https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor[Free and Open Source Software and Free Culture] and https://www.rit.edu/liberalarts/study/womens-and-gender-studies-minor[Women's and Gender Studies] from the https://www.rit.edu/[Rochester Institute of Technology].

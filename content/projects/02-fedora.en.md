@@ -43,13 +43,13 @@ I served in the following positions previously (_see [Fedora Linux release histo
   Outreachy 2019 mentor, project manager (_Fedora Linux releases 29 to 31_)
 * [**Fedora Magazine**][10]:
   Editor-in-chief (_Fedora Linux releases 24 to 26_)
-* [**Games S.I.G.**][11]:
+* [**Games SIG**][11]:
   Moderator (_Fedora Linux releases 24 to 28_)
 * [**Google Summer of Code 2016**][12]:
   Student intern (_Fedora Linux releases 23, 24_)
-* [**i3wm S.I.G.**][17]:
+* [**i3wm SIG**][17]:
   Core contributor (_Fedora Linux releases 33, 34_)
-* [**Join S.I.G.**][13]:
+* [**Join SIG**][13]:
   Mentor (_Fedora Linux releases 23 to 28_)
 * [**Marketing**][14]:
   Former team lead (_Fedora Linux releases 23 to 28_)
