@@ -1,6 +1,6 @@
 ---
 html_tidy:
-  image: cimg/ruby:3.0
+  image: cimg/ruby:3.2
   stage: build
 
   needs: ["hugo_build"]

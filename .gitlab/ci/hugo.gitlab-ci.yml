@@ -21,7 +21,7 @@ hugo_build:
         --enforce-https
         --internal-domains jwf.io
         --http-status-ignore 0,400,503,999
-        --url-ignore "/archive/v3/irc/"
+        --url-ignore "/archive/v3/irc/,/spigotmc.org/"
         --timeframe 6w
 
     # build example site
