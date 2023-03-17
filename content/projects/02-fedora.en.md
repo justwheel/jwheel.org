@@ -16,12 +16,8 @@ Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project Commu
 
 Here is a list of the things I am currently doing in Fedora (_see [Fedora Linux release history][22]_):
 
-* [**Community Operations**][7]:
-  Founding member and former team lead (_Fedora Linux releases 22 to 30, 33 to present_)
-* [**Diversity, Equity, and Inclusion Team**][2]:
+* [**Diversity, Equity, and Inclusion (DEI) Team**][2]:
   Founding member & core contributor (_Fedora Linux releases 24 to present_)
-* [**Documentation Team**][18]:
-  Contributor & writer (_Fedora Linux releases 27 to present_)
 * [**Packager**][3]:
   `mpris-scrobbler`, `playerctl`, `zork`, `protonvpn-cli` (_Fedora Linux releases 26 to present_)
 
@@ -36,9 +32,13 @@ I served in the following positions previously (_see [Fedora Linux release histo
   Sponsored system administrator (_Fedora Linux releases 24 to 32_)
 * [**Community Blog**][6]:
   Editor-in-chief (_Fedora Linux releases 22 to 29_)
+* [**Community Operations** (CommOps)][7]:
+  Founding member and former team lead (_Fedora Linux releases 22 to 30, 33 to 36_)
+* [**Documentation Team**][18]:
+  Core team contributor & writer (_Fedora Linux releases 27 to 32_)
 * [**Fedora Council**][8]:
   * Elected member (_Fedora Linux release 26_)
-  * [Diversity & Inclusion Advisor][16] (_Fedora Linux releases 33, 34_)
+  * [DEI Advisor][16] (_Fedora Linux releases 33, 34_)
 * [**Fedora Happiness Packets**][9]:
   Outreachy 2019 mentor, project manager (_Fedora Linux releases 29 to 31_)
 * [**Fedora Magazine**][10]:
@@ -71,7 +71,7 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [13]: https://docs.fedoraproject.org/en-US/fedora-join/
 [14]: https://fedoraproject.org/wiki/Marketing
 [15]: https://docs.fedoraproject.org/en-US/mindshare-committee/
-[16]: https://docs.fedoraproject.org/en-US/council/diversity-advisor/
+[16]: https://docs.fedoraproject.org/en-US/diversity-inclusion/roles/council-advisor/
 [17]: https://docs.fedoraproject.org/en-US/i3/
 [18]: https://docs.fedoraproject.org/en-US/fedora-docs/
 [19]: https://getfedora.org
