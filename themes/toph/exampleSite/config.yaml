@@ -65,7 +65,7 @@ menu:
       weight: 10
     - identifier: twitter
       name: Twitter
-      url: https://twitter.com/mlk_institute
+      url: https://twitter.com/MLKInstitute
       weight: 20
 
 
