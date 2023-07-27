@@ -75,10 +75,14 @@ menu:
       name: GitHub
       url: https://github.com/jwflory
       weight: 20
-    - identifier: twitter
-      name: Twitter
-      url: https://twitter.com/jwf_foss
+    - identifier: mastodon
+      name: Mastodon
+      url: https://floss.social/@jwf
       weight: 30
+    - identifier: twitter
+      name: "Twitter / X / whatever"
+      url: https://twitter.com/jwf_foss
+      weight: 40
 
 
 # --- custom settings ---
