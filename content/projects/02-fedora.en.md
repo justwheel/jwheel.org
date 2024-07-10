@@ -62,7 +62,7 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [4]: https://fedoraproject.org/wiki/Ambassadors
 [5]: https://docs.fedoraproject.org/en-US/badges/
 [6]: https://communityblog.fedoraproject.org/author/jflory7/
-[7]: https://docs.fedoraproject.org/en-US/commops/latest/contribute/commops-landing/
+[7]: https://docs.fedoraproject.org/en-US/commops/contribute/commops-landing/
 [8]: https://docs.fedoraproject.org/en-US/council/
 [9]: https://pagure.io/fedora-commops/fedora-happiness-packets
 [10]: https://fedoramagazine.org/author/jflory7/
