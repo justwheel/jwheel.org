@@ -21,7 +21,7 @@ hugo_build:
         --enforce-https
         --internal-domains jwf.io
         --http-status-ignore 0,400,503,999
-        --url-ignore "/archive/v3/irc/,/spigotmc.org/,/twitter.com/"
+        --url-ignore "/archive/v3/irc/,/spigotmc.org/"
         --timeframe 6w
 
     # build example site
@@ -37,7 +37,7 @@ hugo_build:
         --enforce-https
         --internal-domains jwflory.gitlab.io
         --http-status-ignore 0,400,503,999
-        --url-ignore "/toph-hugo/,/twitter.com/"
+        --url-ignore "/toph-hugo/"
         --timeframe 6w
   after_script: []
 

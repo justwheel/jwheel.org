@@ -1,6 +1,6 @@
     <meta property="og:site_name" content="{{ site.Title }}" />
     <meta name="application-name" content="{{ site.Title }}" />
-    <meta name="twitter:site" content="@{{ $.Site.Params.social.twitter_username }}" />
+    <meta name="twitter:site" content="@{{ $.Site.Params.social.x_username }}" />
         
     {{ if (isset .Params "author") }}
     <meta name="author" content="{{ .Param "author" }}" />
@@ -31,7 +31,7 @@
             "https://gitlab.com/{{ $.Site.Params.social.gitlab_username }}",
             "https://www.last.fm/user/{{ $.Site.Params.social.lastfm_username}}",
             "https://www.linkedin.com/in/{{ $.Site.Params.social.linkedin_url }}/",
-            "https://twitter.com/{{ $.Site.Params.social.twitter_username }}"
+            "https://x.com/{{ $.Site.Params.social.x_username }}"
         ],
         "knowsAbout": [
             {{- $len_knowsAbout := len $.Site.Params.biography.knows_about }}

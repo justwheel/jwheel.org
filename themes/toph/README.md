@@ -113,7 +113,7 @@ Its goals are to discover and grow RIT's impact on all things Open including, bu
 Otherwise what we like to refer to in aggregate as _Open Work_.
 
 
-[1]: https://twitter.com/jflory7/status/1303783881582104577
+[1]: https://x.com/jflory7/status/1303783881582104577
 [2]: https://www.rit.edu/research/open
 [3]: https://www.rit.edu/
 ```

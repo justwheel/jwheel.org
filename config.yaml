@@ -79,9 +79,9 @@ menu:
       name: Mastodon
       url: https://floss.social/@jwf
       weight: 30
-    - identifier: twitter
+    - identifier: x
       name: "Twitter / X / whatever"
-      url: https://twitter.com/jwf_foss
+      url: https://x.com/jwf_foss
       weight: 40
 
 
@@ -146,4 +146,4 @@ params:
     gitlab_username: jwflory
     lastfm_username: jflory7
     linkedin_url: justinwflory
-    twitter_username: jwf_foss
+    x_username: jwf_foss

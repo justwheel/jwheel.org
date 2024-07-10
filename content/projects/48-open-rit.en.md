@@ -20,7 +20,7 @@ The Advisory Board provides me an opportunity to contribute back to many program
 * [LibreCorps][6] co-op program
 
 
-[1]: https://twitter.com/jflory7/status/1303783881582104577
+[1]: https://x.com/jflory7/status/1303783881582104577
 [2]: https://www.rit.edu/research/open
 [3]: https://www.rit.edu/
 [4]: https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor

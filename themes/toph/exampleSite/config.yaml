@@ -63,9 +63,9 @@ menu:
       name: Facebook
       url: https://www.facebook.com/KingInstitute
       weight: 10
-    - identifier: twitter
-      name: Twitter
-      url: https://twitter.com/MLKInstitute
+    - identifier: x
+      name: Twitter/X
+      url: https://x.com/MLKInstitute
       weight: 20
 
 
@@ -105,4 +105,4 @@ params:
     gitlab_username: ""
     lastfm_username: ""
     linkedin_url: company/the-king-center-for-nonviolent-social-change/
-    twitter_username: mlk_institute
+    x_username: mlk_institute
