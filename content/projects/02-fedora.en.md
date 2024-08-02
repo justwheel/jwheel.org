@@ -9,7 +9,7 @@ categories: ["projects"]
 ---
 
 I am a contributor to [Fedora Linux][19] since August 2015.
-Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project Community][1]
+Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project community][1]
 (_see [recognition][21]_).
 
 #### Current volunteering in Fedora
@@ -18,6 +18,17 @@ Here is a list of the things I am currently doing in Fedora (_see [Fedora Linux 
 
 * [**Diversity, Equity, and Inclusion (DEI) Team**][2]:
   Founding member & core contributor (_Fedora Linux releases 24 to present_)
+* [**Community Blog**][6]:
+  Editor-in-chief (_Fedora Linux releases 22 to 29, 39 to present_)
+* [**Community Operations** (CommOps)][7]:
+  Founding member and team co-lead (_Fedora Linux releases 22 to 30, 33 to 36, 40 to present_)
+* [**Fedora Council**][8]:
+    * Elected member (_Fedora Linux release 26_)
+    * [DEI Advisor][16] (_Fedora Linux releases 33, 34_)
+    * [Community Architect][23] (_Fedora Linux releases 37 to present_)
+* [**Marketing**][14]:
+    * Team lead (_Fedora Linux releases 25 to 28_)
+    * Core contributor (_Fedora Linux releases 23 to 28, 39 to present_)
 * [**Packager**][3]:
   `mpris-scrobbler`, `playerctl`, `zork`, `protonvpn-cli` (_Fedora Linux releases 26 to present_)
 
@@ -30,15 +41,8 @@ I served in the following positions previously (_see [Fedora Linux release histo
   North America representative (_Fedora Linux releases 25 to 29_)
 * [**Badges**][5]:
   Sponsored system administrator (_Fedora Linux releases 24 to 32_)
-* [**Community Blog**][6]:
-  Editor-in-chief (_Fedora Linux releases 22 to 29_)
-* [**Community Operations** (CommOps)][7]:
-  Founding member and former team lead (_Fedora Linux releases 22 to 30, 33 to 36_)
 * [**Documentation Team**][18]:
   Core team contributor & writer (_Fedora Linux releases 27 to 32_)
-* [**Fedora Council**][8]:
-  * Elected member (_Fedora Linux release 26_)
-  * [DEI Advisor][16] (_Fedora Linux releases 33, 34_)
 * [**Fedora Happiness Packets**][9]:
   Outreachy 2019 mentor, project manager (_Fedora Linux releases 29 to 31_)
 * [**Fedora Magazine**][10]:
@@ -51,8 +55,6 @@ I served in the following positions previously (_see [Fedora Linux release histo
   Core contributor (_Fedora Linux releases 33, 34_)
 * [**Join SIG**][13]:
   Mentor (_Fedora Linux releases 23 to 28_)
-* [**Marketing**][14]:
-  Former team lead (_Fedora Linux releases 23 to 28_)
 * [**Mindshare Committee**][15]:
   Founding member (_Fedora Linux releases 27, 28_)
 
@@ -78,3 +80,4 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [20]: https://digitalpublicgoods.net/digital-public-goods/
 [21]: https://digitalpublicgoods.net/registry/fedora-linux.html
 [22]: https://en.wikipedia.org/wiki/Fedora_version_history#Version_history
+[23]: https://docs.fedoraproject.org/en-US/council/fca/
