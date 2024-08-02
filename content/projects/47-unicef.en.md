@@ -27,7 +27,7 @@ There, I worked together with UNICEF personnel and [Red Hat Open Innovations Lab
 This was an engagement highlighted by Jim Whitehurst, former President of IBM and Red Hat CEO, during his [Red Hat Summit 2018 keynote][5].
 
 [1]: https://www.unicef.org/innovation/
-[2]: https://www.unicefinnovationfund.org/
+[2]: https://www.unicefventurefund.org/
 [3]: https://www.unicef.org/innovation/Magicbox
 [4]: https://www.redhat.com/en/services/consulting/open-innovation-labs
 [5]: https://youtu.be/Ui-n-n_w8Ok?t=4401

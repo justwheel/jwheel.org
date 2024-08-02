@@ -17,6 +17,6 @@ You can read more about this work on Opensource.com: [_LibreCorps mentors humani
 
 [1]: https://fossrit.github.io/librecorps/
 [2]: https://fossrit.github.io/about/
-[3]: https://unicefinnovationfund.org/
+[3]: https://www.unicefventurefund.org/
 [4]: https://www.rit.edu/directory/sxjics-stephen-jacobs
 [5]: https://opensource.com/article/19/12/humanitarian-startups-open-source
