@@ -22,7 +22,7 @@ googleAnalytics: G-7YT6EE93RQ
 
 security:
   exec:
-    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
+    allow: ['^dart-sass-embedded$', '^git$', '^go$', '^npx$', '^postcss$', '^asciidoctor$']
 
 
 # --- markup settings ---
