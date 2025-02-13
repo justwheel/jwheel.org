@@ -1,7 +1,7 @@
 == Who am I
 
 Hello and welcome to my homepage!
-My name is Justin W. Flory (_he/him_).
+My name is Justin W. Wheeler (_he/him_).
 I am originally from the United States.
 
 I am an Open Source contributor and Free Culture advocate.

@@ -8,7 +8,7 @@
 
 # --- base website settings ---
 
-title: Justin W. Flory
+title: Justin W. Wheeler
 baseURL: https://jwf.io/
 theme: toph
 languageCode: en-us
@@ -69,7 +69,7 @@ menu:
   social:
     - identifier: gitlab
       name: GitLab
-      url: https://gitlab.com/jwflory
+      url: https://gitlab.com/jwwheeler
       weight: 10
     - identifier: github
       name: GitHub
@@ -89,9 +89,9 @@ menu:
 
 params:
   biography:
-    name: Justin W. Flory
+    name: Justin W. Wheeler
     gender: Male
-    email: contact@jwf.io
+    email: contact@jww.sh
     blog: https://blog.jwf.io
     first_online: 2014
     knows_about: [
@@ -128,7 +128,7 @@ params:
     primary: darkorchid
     secondary: linen
     accent: darkslateblue
-  description: Home of Justin W. Flory, an Open Source contributor and Free Software advocate from the United States.
+  description: Home of Justin W. Wheeler, an Open Source contributor and Free Software advocate from the United States.
   fonts:
     default: Open Sans
     default_weight: ":wght@500"
@@ -137,11 +137,11 @@ params:
     header_weight: ":wght@500"
   images:
     - /img/logo.jpg
-  git_repo: https://gitlab.com/jwflory/jwflory.gitlab.io
+  git_repo: https://gitlab.com/jwwheeler/jwwheeler.gitlab.io
   hire_me: false
   social:
     github_username: jwflory
-    gitlab_username: jwflory
+    gitlab_username: jwwheeler
     lastfm_username: jflory7
     linkedin_url: justinwflory
     x_username: jwf_foss

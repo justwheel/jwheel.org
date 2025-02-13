@@ -25,7 +25,7 @@ Toph: a lightweight, responsive theme for a biography site, for use with [Hugo](
 
 ## Examples
 
-* [Justin W. Flory](https://jwf.io)
+* [Justin W. Wheeler](https://jwf.io)
 
 
 ## Installation

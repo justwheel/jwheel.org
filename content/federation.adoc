@@ -1,19 +1,19 @@
 ---
 title: Federation of Intersectional Communities
-author: Justin W. Flory
+author: Justin W. Wheeler
 description: Concept note (draft) for the Federation of Intersectional Communities, its goals and values, and more.
 lastmod: 2020-09-07
 
 ---
 :toc:
-:_txt-convener: Justin W. Flory
+:_txt-convener: Justin W. Wheeler
 
 *DRAFT DRAFT DRAFT*
 
 [link=https://creativecommons.org/licenses/by-nc-sa/4.0/]
 image::https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg[License: *CC BY-NC-SA 4.0*]
 
-© 2020, Justin W. Flory, CC BY-NC-SA 4.0
+© 2020, Justin W. Wheeler, CC BY-NC-SA 4.0
 
 This page is a concept note for the Federation of Intersectional Communities (shortened F.I.C.).
 It provides an overview of the following topics:

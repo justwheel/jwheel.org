@@ -1,7 +1,7 @@
 == Quién soy
 
 ¡Hola y bienvenidos a mi página de inicio!
-Mi nombre es Justin W. Flory (_él_).
+Mi nombre es Justin W. Wheeler (_él_).
 Soy originario de los Estados Unidos.
 
 Soy un colaborador de Open Source y defensor de la Free Culture.
