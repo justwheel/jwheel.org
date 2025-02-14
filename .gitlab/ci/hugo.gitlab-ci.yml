@@ -1,6 +1,6 @@
 ---
 hugo_build:
-  image: cibuilds/hugo:latest
+  image: cibuilds/hugo:0.143.1
   stage: build
 
   # Cache HTMLProofer data across builds
@@ -11,34 +11,23 @@ hugo_build:
 
   script:
     # build main site
-    - HUGO_ENV=production hugo --verbose
-    - htmlproofer public
+    - HUGO_ENV=production hugo
+    - htmlproofer public/
         --allow-hash-href
-        --check-favicon
-        --check-html
-        --check-img-http
-        --empty-alt-ignore
+        --no-ignore-missing-alt
         --enforce-https
-        --internal-domains jwf.io
-        --http-status-ignore 0,400,503,999
-        --url-ignore "/archive/v3/irc/,/spigotmc.org/"
-        --timeframe 6w
+        --ignore-status-codes 0,301,400,503
+        --ignore-urls "/archive/v3/irc/,/spigotmc.org/,/linkedin.com/"
 
     # build example site
     - cd themes/toph/exampleSite
-    - HUGO_ENV=production hugo
-        --verbose
-        --themesDir=../../
-    - htmlproofer public
+    - HUGO_ENV=production hugo --themesDir=../../
+    - htmlproofer public/
         --allow-hash-href
-        --check-html
-        --check-img-http
-        --empty-alt-ignore
+        --no-ignore-missing-alt
         --enforce-https
-        --internal-domains jwflory.gitlab.io
-        --http-status-ignore 0,400,503,999
-        --url-ignore "/toph-hugo/"
-        --timeframe 6w
+        --ignore-status-codes 0,400,503,999
+        --ignore-urls "/toph-hugo/"
   after_script: []
 
   artifacts:

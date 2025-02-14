@@ -78,6 +78,6 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [18]: https://docs.fedoraproject.org/en-US/fedora-docs/
 [19]: https://getfedora.org
 [20]: https://digitalpublicgoods.net/digital-public-goods/
-[21]: https://digitalpublicgoods.net/registry/fedora-linux.html
-[22]: https://en.wikipedia.org/wiki/Fedora_version_history#Version_history
+[21]: https://www.digitalpublicgoods.net/r/fedora-linux
+[22]: https://en.wikipedia.org/wiki/Fedora_version_history#Release_history
 [23]: https://docs.fedoraproject.org/en-US/council/fca/
