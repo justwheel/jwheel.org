@@ -60,7 +60,7 @@ menu:
       weight: 20
     - identifier: open
       name: "#open"
-      url: https://unicef.github.io/inventory/
+      url: https://docs.fedoraproject.org/en-US/commops/
       weight: 30
     - identifier: legal
       name: legal
@@ -80,7 +80,7 @@ menu:
       url: https://floss.social/@jwf
       weight: 30
     - identifier: x
-      name: "Twitter / X / whatever"
+      name: X
       url: https://x.com/jwf_foss
       weight: 40
 
