@@ -25,4 +25,4 @@ The Advisory Board provides me an opportunity to contribute back to many program
 [3]: https://www.rit.edu/
 [4]: https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor
 [5]: https://fossrit.github.io/about/
-[6]: /#librecorps
+[6]: https://fossrit.github.io/librecorps/

@@ -8,7 +8,7 @@
 
 # --- base website settings ---
 
-title: Justin W. Wheeler
+title: Justin Wheeler
 baseURL: https://jwf.io/
 theme: toph
 languageCode: en-us
@@ -79,19 +79,15 @@ menu:
       name: Mastodon
       url: https://floss.social/@jwf
       weight: 30
-    - identifier: x
-      name: X
-      url: https://x.com/jwf_foss
-      weight: 40
 
 
 # --- custom settings ---
 
 params:
   biography:
-    name: Justin W. Wheeler
+    name: Justin Wheeler
     gender: Male
-    email: contact@jww.sh
+    email: contact@jwheel.org
     blog: https://blog.jwf.io
     first_online: 2014
     knows_about: [
@@ -128,7 +124,7 @@ params:
     primary: darkorchid
     secondary: linen
     accent: darkslateblue
-  description: Home of Justin W. Wheeler, an Open Source contributor and Free Software advocate from the United States.
+  description: Homepage of Justin Wheeler, an Open Source contributor and Free Software advocate from Georgia, USA.
   fonts:
     default: Open Sans
     default_weight: ":wght@500"
