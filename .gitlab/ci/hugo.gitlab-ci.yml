@@ -17,7 +17,7 @@ hugo_build:
         --no-ignore-missing-alt
         --enforce-https
         --ignore-status-codes 0,301,400,503
-        --ignore-urls "/archive/v3/irc/,/spigotmc.org/,/linkedin.com/"
+        --ignore-urls "/archive/v3/irc/,/spigotmc.org/,/linkedin.com/,/x.com/"
 
     # build example site
     - cd themes/toph/exampleSite
@@ -27,7 +27,7 @@ hugo_build:
         --no-ignore-missing-alt
         --enforce-https
         --ignore-status-codes 0,400,503,999
-        --ignore-urls "/toph-hugo/"
+        --ignore-urls "/toph-hugo/,/x.com/"
   after_script: []
 
   artifacts:
