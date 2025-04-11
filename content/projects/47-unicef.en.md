@@ -3,7 +3,6 @@ title: UNICEF
 date: 2022-09-20
 slug: unicef
 hide_sitemap: true
-categories: ["projects"]
 
 ---
 

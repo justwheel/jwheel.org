@@ -18,8 +18,6 @@ Here is a list of the things I am currently doing in Fedora (_see [Fedora Linux 
 
 * [**Diversity, Equity, and Inclusion (DEI) Team**][2]:
   Founding member & core contributor (_Fedora Linux releases 24 to present_)
-* [**Community Blog**][6]:
-  Editor-in-chief (_Fedora Linux releases 22 to 29, 39 to present_)
 * [**Community Operations** (CommOps)][7]:
   Founding member and team co-lead (_Fedora Linux releases 22 to 30, 33 to 36, 40 to present_)
 * [**Fedora Council**][8]:
@@ -41,6 +39,8 @@ I served in the following positions previously (_see [Fedora Linux release histo
   North America representative (_Fedora Linux releases 25 to 29_)
 * [**Badges**][5]:
   Sponsored system administrator (_Fedora Linux releases 24 to 32_)
+* [**Community Blog**][6]:
+  Editor-in-chief (_Fedora Linux releases 22 to 29, 39 to 41_)
 * [**Documentation Team**][18]:
   Core team contributor & writer (_Fedora Linux releases 27 to 32_)
 * [**Fedora Happiness Packets**][9]:
