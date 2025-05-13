@@ -1,5 +1,5 @@
 ---
-title: Legal notice
+title: Legal Notice and Declaration of Licensing Terms
 author: Justin Wheeler
 description: This document declares the default licensing terms applicable to Contributions by Justin Wheeler when stored or processed by Service Providers.
 lastmod: 2025-05-12
@@ -7,26 +7,53 @@ tags: ["bsd-3.0", "creative-commons", "cc-by"]
 
 ---
 :toc:
+:sectnums:
 
-*This notice is applicable to any company, enterprise, organization, or individual with digital services (the Service Provider) that stores any Contribution created by me, Justin Wheeler (the Original Creator).*
+[[declaration]]
+== Declaration and Intent
+
+This document (hereinafter "Notice") serves as a public declaration by Justin Wheeler (the "Original Creator") of the default licensing terms governing all Code and Content (as defined herein) created by the Original Creator (collectively, "Contributions").
+
+It is the Original Creator's intent to proactively establish clear, open licensing for all Contributions.
+This Notice applies to any company, enterprise, organization, or individual offering digital services (the "Service Provider") that stores, hosts, processes, transmits, or otherwise interacts with any Contribution.
+
+Service Providers are put on notice that by choosing to store or otherwise make use of any Contribution from the Original Creator, they acknowledge these terms.
+Service Providers agree that such Contributions are governed by the "Current Default License" (as defined herein), unless a separate, explicit written agreement signed by the Original Creator dictates otherwise for a specific Contribution.
+An exception exists where the Service Provider's own published terms of service, affirmatively and explicitly agreed to by the Original Creator for a specific service, directly and unavoidably conflict with a specific provision herein regarding the scope of license granted *to that specific Service Provider for the operation of its service*.
 
 
-== Goal
+[[application]]
+== Application of Default Licensing
 
-Any Contribution shared by the Original Creator via the World Wide Web with a Service Provider is shared under a Current Default License.
-A Contribution assumes a Current Default License if the Contribution is not explicitly licensed by the Original Creator.
-The Service Provider is held accountable for all Contributions by the Original Creator under the terms of a Current Default License.
+. All Contributions made available by the Original Creator are offered under a "Current Default License" as defined in this Notice.
+. A Contribution is governed by the Current Default License from the moment of its creation and fixation.
+. This applies especially if the Contribution is not accompanied by separate, explicit licensing terms by the Original Creator that override this Notice.
+. The Service Provider is expected to fully comply with all terms and conditions of the applicable Current Default License for any Contribution they store, host, process, or otherwise utilize.
+. This includes, but is not limited to, requirements for attribution, modification, and redistribution as specified by the respective license.
+. Non-compliance with the terms of the Current Default License by the Service Provider constitutes a violation of the license under which the Contribution is offered.
 
 
+[[interpretation]]
+== Primacy and Interpretation
+
+This Notice establishes the foundational licensing terms for all Contributions.
+Any ambiguity between this Notice and any other general terms or policies of a Service Provider (not explicitly and separately agreed to in writing by the Original Creator) shall be resolved in favor of the terms set forth in this Notice.
+This resolution applies to the maximum extent permitted by law.
+This Notice acts as the Original Creator's standing instruction and licensing declaration for all Contributions.
+
+
+[[definitions]]
 == Definitions
 
 The section below contains definitions needed to understand other aspects of this legal notice.
 
+[[define-cc-by]]
 === CC BY
 
 "CC BY" means the https://creativecommons.org/licenses/by/4.0/legalcode[Creative Commons Attribution 4.0 International license] (CC BY 4.0), as published at https://creativecommons.org/licenses/by/4.0/legalcode.
 You have the option of following the terms and conditions either of that numbered version, or of any later version published by the Creative Commons.
 
+[[define-code]]
 === Code
 
 "Code" means:
@@ -35,8 +62,9 @@ You have the option of following the terms and conditions either of that numbere
 . Software code;
 . Any other functional material whose principal purpose is to control or facilitate the building of packages, such as an RPM spec file;
 . Font files;
-. Other kinds of copyrightable material that the Original Creator has classified as "code" rather than "content".
+. Other kinds of copyrightable material that the Original Creator explicitly classifies as "Code" and states is subject to this Notice.
 
+[[define-content]]
 === Content
 
 "Content" means any copyrightable material that is not Code, such as, without limitation:
@@ -48,13 +76,31 @@ You have the option of following the terms and conditions either of that numbere
 . Music files;
 . Graphic image files;
 . Help files;
-. Other kinds of copyrightable material that the Original Creator has classified as content rather than "code".
+. Other kinds of copyrightable material that the Original Creator explicitly classifies as "Content" and states is subject to this Notice.
 
+[[define-contribution]]
 === Contribution
 
-"Contribution" means a Work that created by the Original Creator, excluding any portion that was created by someone else.
-A Contribution consists either of Code or of Content.
+"Contribution" means any original work of authorship created and fixed in any tangible medium of expression by the Original Creator.
+This excludes any portion that was demonstrably created by another party and not incorporated with permission or under license.
+A Contribution consists either of "Code" or of "Content" as defined herein.
 
+Contributions are intentionally defined broadly.
+They may include, but are not limited to:
+
+* Software, scripts, and configuration files;
+* Digital artwork, photographs, videos, and multimedia productions;
+* Written texts such as articles, blog posts, comments, documentation, and literary works;
+* Musical compositions, sound recordings, and podcasts;
+* 3D models, schematics, blueprints, and design specifications;
+* Scientific or research data sets, analyses, and visualizations;
+* Educational materials, tutorials, and presentations;
+* Social media posts, forum entries, messages, and other forms of digital communication;
+* Any other sequence of characters, data, or digital artifact that embodies the Original Creator's original expression.
+
+If the Original Creator explicitly designates a specific item as a "Contribution" subject to this Notice (for example, through metadata or an accompanying statement), that designation is definitive.
+
+[[define-current-default]]
 === Current Default License
 
 "Current Default License", with respect to a Contribution, means:
