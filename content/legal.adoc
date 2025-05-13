@@ -1,14 +1,14 @@
 ---
 title: Legal notice
-author: Justin W. Wheeler
-description: Legal notice to Service Providers that store Contributions created by me, Justin W. Wheeler.
+author: Justin Wheeler
+description: Legal notice to Service Providers that store Contributions created by me, Justin Wheeler.
 lastmod: 2025-02-13
 tags: ["bsd-3.0", "creative-commons", "cc-by"]
 
 ---
 :toc:
 
-*This notice is applicable to any company, enterprise, organization, or individual with digital services (the Service Provider) that stores any Contribution created by me, Justin W. Wheeler (the Original Creator).*
+*This notice is applicable to any company, enterprise, organization, or individual with digital services (the Service Provider) that stores any Contribution created by me, Justin Wheeler (the Original Creator).*
 
 
 == Goal
