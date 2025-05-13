@@ -1,8 +1,8 @@
 ---
 title: Legal notice
 author: Justin Wheeler
-description: Legal notice to Service Providers that store Contributions created by me, Justin Wheeler.
-lastmod: 2025-02-13
+description: This document declares the default licensing terms applicable to Contributions by Justin Wheeler when stored or processed by Service Providers.
+lastmod: 2025-05-12
 tags: ["bsd-3.0", "creative-commons", "cc-by"]
 
 ---

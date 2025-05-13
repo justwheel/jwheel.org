@@ -2,7 +2,7 @@
 
 name = "Toph"
 license = "MPL-2.0"
-licenselink = "https://gitlab.com/jwflory/jwflory.gitlab.io/-/blob/main/LICENSE.txt"
+licenselink = "https://gitlab.com/jwwheeler/jwwheeler.gitlab.io/-/blob/main/LICENSE.txt"
 description = "Custom theme for Justin Wheeler's personal website."
 homepage = "https://jwf.io"
 tags = ["biography", "minimal"]

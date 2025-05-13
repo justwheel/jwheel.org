@@ -9,7 +9,7 @@
 # --- base website settings ---
 
 title: Example Hugo site with Toph theme
-baseURL: https://jwflory.gitlab.io/toph-hugo/
+baseURL: https://jwwheeler.gitlab.io/toph-hugo/
 theme: toph
 languageCode: en-us
 enableEmoji: true
@@ -96,7 +96,7 @@ params:
   images:
     - /toph-hugo/img/septima.jpg
   favicon: /toph-hugo/favicon.ico
-  git_repo: https://gitlab.com/jwflory/toph-hugo
+  git_repo: https://gitlab.com/jwwheeler/toph-hugo
   # Are you looking for new opportunities? Set hire_me to "true" if you want your LinkedIn to show on the nav bar and
   # for boilerplate text on how to get in touch.
   hire_me: false

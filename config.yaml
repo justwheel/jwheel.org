@@ -73,7 +73,7 @@ menu:
       weight: 10
     - identifier: github
       name: GitHub
-      url: https://github.com/jwflory
+      url: https://github.com/justjwheelin
       weight: 20
     - identifier: mastodon
       name: Mastodon
@@ -136,7 +136,7 @@ params:
   git_repo: https://gitlab.com/jwwheeler/jwwheeler.gitlab.io
   hire_me: false
   social:
-    github_username: jwflory
+    github_username: justjwheelin
     gitlab_username: jwwheeler
     lastfm_username: jflory7
     linkedin_url: justinwflory

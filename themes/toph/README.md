@@ -221,7 +221,7 @@ There are a few ways to contribute to this theme.
 
 ### Share feedback
 
-[Open a new issue to report bugs and request new features.](https://gitlab.com/jwflory/jwflory.gitlab.io/-/issues/new)
+[Open a new issue to report bugs and request new features.](https://gitlab.com/jwwheeler/jwheel.org/-/issues/new)
 
 ### Contribute code
 
