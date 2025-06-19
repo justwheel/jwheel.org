@@ -1,0 +1,3 @@
+[submodule "themes/toph"]
+	path = themes/toph
+	url = git@github.com:justjwheelin/toph-hugo-theme.git
