@@ -141,7 +141,6 @@ params:
 defaultContentLang: en
 languages:
   ar:
-    disabled: true
     languageDirection: rtl
     languageName: عربي
   en:
@@ -149,5 +148,4 @@ languages:
   es:
     languageName: español
   hi:
-    disabled: true
     languageName: हिन्दी
