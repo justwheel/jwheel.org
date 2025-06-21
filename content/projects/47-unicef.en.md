@@ -3,6 +3,7 @@ title: UNICEF
 date: 2022-09-20
 slug: unicef
 hide_sitemap: true
+categories: ["projects"]
 
 ---
 
@@ -31,7 +32,7 @@ This was an engagement highlighted by Jim Whitehurst, former President of IBM an
 [4]: https://www.redhat.com/en/services/consulting/open-innovation-labs
 [5]: https://youtu.be/Ui-n-n_w8Ok?t=4401
 [6]: https://digitalpublicgoods.net/digital-public-goods/
-[7]: https://melchua.com/
-[8]: https://www.rit.edu/directory/sxjics-stephen-jacobs
+[7]: https://web.archive.org/web/20241108144815/http://melchua.com/
+[8]: https://web.archive.org/web/20250621211908/https://www.rit.edu/directory/sxjics-stephen-jacobs
 [9]: https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor
 [10]: https://www.rit.edu/study/undergraduate
