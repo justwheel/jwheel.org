@@ -9,7 +9,7 @@
 # --- base website settings ---
 
 title: Justin Wheeler
-baseURL: https://jwf.io/
+baseURL: https://jwheel.org/
 theme: toph
 languageCode: en-us
 enableEmoji: true
@@ -38,7 +38,7 @@ privacy:
   googleAnalytics:
     anonymizeIP: true
     respectDoNotTrack: true
-  twitter:
+  x:
     enableDNT: true
   vimeo:
     enableDNT: true
@@ -94,28 +94,21 @@ params:
       "Ansible",
       "CentOS",
       "community management",
-      "continuous integration (CI)",
-      "CSS",
-      "diversity",
-      "Docker",
-      "equity",
       "Fedora Project",
-      "feminism",
       "Free Software",
-      "gender",
       "git",
+      "GitHub",
       "HTML",
       "inclusion",
       "jflory7",
       "jwf",
+      "jwheel",
       "Linux",
       "open source",
       "Red Hat",
       "Red Hat Enterprise Linux (RHEL)",
       "RIT",
       "Rochester Institute of Technology",
-      "RPM package management",
-      "TeleIRC",
       "UNICEF",
       "user experience",
       "web development"
@@ -133,7 +126,7 @@ params:
     header_weight: ":wght@500"
   images:
     - /img/logo.jpg
-  git_repo: https://gitlab.com/jwwheeler/jwwheeler.gitlab.io
+  git_repo: https://github.com/justjwheelin/jwheel.org
   hire_me: false
   social:
     github_username: justjwheelin
