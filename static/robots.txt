@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /archive/
 Disallow: /projects/
 
-Sitemap: https://jwf.io/sitemap.xml
+Sitemap: https://jwheel.org/sitemap.xml
