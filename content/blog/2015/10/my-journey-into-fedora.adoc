@@ -1,0 +1,66 @@
+---
+title: My journey into Fedora
+author: Justin Wheeler
+date: 2015-10-21T01:00:45Z
+description: I am learning a lot as I become more involved and active with the Fedora Project and could not be happier to begin my journey.
+categories: ["Fedora Linux", "Perspective"]
+tags: ["Fedora Linux", "Fedora Planet"]
+
+---
+
+These past few weeks have been particularly exciting for me as I become more involved in the world of free and open source software.
+For a long time, I've sat and idled in the various realms of the Fedora community, and I've sat on the sidelines thinking that I would be unable to contribute anything significant because of my inability to write fancy code or design super slick images or write documentation for the fancy code.
+However, I have gladly been proven wrong.
+
+.Fedora is a free and open source Linux distribution.
+image::../Full-Logo.png[Fedora is a free and open source Linux distribution.,width=600,height=182]
+
+
+[[flock-to-fedora]]
+== Flock to Fedora
+
+My first major interaction and experience with the Fedora community was at Flock 2015, the annual contributor's conference where people from around the world come together to work on the project.
+I had been looking forward to this conference for months, and after finding out that it would be hosted in the same city I would be moved to for college in a few months, I knew I had no choice but to go.
+I moved up early just to make sure I could attend!
+
+When I arrived, I was almost overwhelmed by the incredible people and companies that were here.
+I went to all kinds of workshops and sessions, such as "link:https://fedoramagazine.org/state-fedora-2015-edition/[The State of Fedora]", a talk led by the Fedora Project Leader, improving Fedora's link:https://flock2015.sched.org/event/2cfc9bbc773861571ee264957d11e830[visibility in schools], an overview of link:https://flock2015.sched.org/event/4c98dbee79c98ae988e0e210ff6a1648[gaming on Fedora] over the years, "link:https://flock2015.sched.org/event/22bf72706a632f0802e4ac00edfcb5d8[Marketing is not a spectator sport]", and so much more.
+However, the thing that really stuck out to me was how this community of people weren't just here to /just/ work on software, or /just/ work on internal projects.
+The people there were a community of individuals all passionate and dedicated to working on a project that makes an impact on the real, everyday world.
+And that's something beautiful in itself.
+To say the least, I was hooked.
+Even though I was a complete and total newcomer, I felt welcomed and most definitely a part of the community.
+
+
+[[software-freedom-day]]
+== Software Freedom Day
+
+Not too long after Flock, on the weekend of September 19th to the 20th, my university, the Rochester Institute of Technology, hosted a Software Freedom Day event on campus.
+I knew this was something that interested me and I made plans to show up to the hackathon.
+
+Fedora Community Lead link:https://fedoraproject.org/wiki/User:Decause[Remy DeCausemaker] was there representing Fedora by launching a Fedora Badge-athon event, which was a contest among participants to work towards gaining the most badges.
+I knew it might be a little hard for me since I had all of the "really easy" ones out of the way, like making an account, changing your password, and so on, so I decided I would put forth the effort into really earning some of the badges!
+
+I started with checking out the link:https://lists.fedoraproject.org/archives/list/infrastructure@lists.fedoraproject.org/thread/YBJQEVGTOBHSK6KN3YK4532PXELTZDV2/[Fedora Package Tagger], which is a fun organizational tool that anyone can use to contribute to the project by sorting through tags for the various packages in Fedora, and either upvoting or downvoting the existing ones or adding new, relevant ones.
+I spent a good amount of time doing this, and I earned a good number of badges for both voting on tags and adding my own to the packages of Fedora.
+
+Afterwards, I set to work on helping with wiki gardening tasks for the link:https://fedoraproject.org/wiki/Fedora_Project_Wiki[Fedora Wiki], as where we left with our wiki workshop from Flock.
+I sorted through a large number of outdated pages and attempted to update them with current information or I categorized them as old pages to be deleted or reviewed in the future.
+I also helped categorize the poor orphan pages without a category to call home.
+
+Finally, the last task I did was the beginning of a longer-term commitment: I sent out an email to the Fedora Marketing mailing list inquiring to become an author for the Fedora Magazine.
+
+
+[[marketing-magazine]]
+== Marketing and the Magazine
+
+Most recently, I have been working closely with the Marketing team as a contributor to the Magazine.
+I have already published a link:https://fedoramagazine.org/author/jflory7/[couple of articles], with my best pieces so far being link:https://fedoramagazine.org/run-a-minecraft-server-using-spigot/[Using Spigot to Run a Minecraft Server] and link:https://fedoramagazine.org/in-summary-flock-to-fedora-2015/[In Summary: Flock to Fedora 2015].
+I already have a few more planned in the near future, including articles featuring using OpenVPN to protect your privacy and ZNC to make your IRC experience way more convenient.
+Watch for them in the near future!
+
+
+[[in-summary]]
+== In summary…
+
+My adventures into Fedora and the magic of free and open source are just beginning, and I eagerly anticipate the upcoming future as I become more involved and make my impact in the Fedora community!
