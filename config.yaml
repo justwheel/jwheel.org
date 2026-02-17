@@ -75,10 +75,6 @@ menu:
       name: GitHub
       url: https://github.com/justwheel
       weight: 20
-    - identifier: mastodon
-      name: Mastodon
-      url: https://floss.social/@jwf
-      weight: 30
 
 
 # --- custom settings ---
@@ -132,8 +128,7 @@ params:
     github_username: justwheel
     gitlab_username: jwwheeler
     lastfm_username: jflory7
-    linkedin_url: justinwflory
-    x_username: jwf_foss
+    linkedin_url: jwwheel
 
 
 # --- internationalization settings ---
