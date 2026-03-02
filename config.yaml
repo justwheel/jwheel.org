@@ -69,7 +69,7 @@ menu:
   social:
     - identifier: gitlab
       name: GitLab
-      url: https://gitlab.com/jwwheeler
+      url: https://gitlab.com/justwheel
       weight: 10
     - identifier: github
       name: GitHub
@@ -126,7 +126,7 @@ params:
   hire_me: false
   social:
     github_username: justwheel
-    gitlab_username: jwwheeler
+    gitlab_username: justwheel
     lastfm_username: jflory7
     linkedin_url: jwwheel
 
