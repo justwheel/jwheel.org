@@ -1,9 +1,0 @@
----
-categories: ["footer"]
-hide_sitemap: true
-
----
-
-++++
-<a rel="me" href="https://floss.social/@jwf">Find me on Mastodon</a>
-++++
