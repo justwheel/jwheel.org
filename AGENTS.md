@@ -40,10 +40,12 @@ If `themes/toph/` does not exist or is empty, the git submodule has not been clo
 - `content/blog/` — Blog posts (Markdown), organized by `YYYY/MM/slug.md`. Front matter: `title`, `date`, `categories`, `tags`. See the "Blog Migration" section below for critical rules.
 - `content/projects/` — Project profiles with numeric prefix ordering (e.g., `01-red-hat.en.md`). Front matter requires: `title`, `date`, `slug`, `icon`, `hide_sitemap: true`, `categories: ["projects"]`. Translations use `.<lang>.md` suffix.
 - `content/footer/` — Dynamic footer badges. Front matter requires: `categories: ["footer"]`, `hide_sitemap: true`.
+- `content/categories/` — Category term `_index.md` files with human-readable `title` and optional `hide_sitemap: true` to hide from listings.
+- `content/tags/` — Tag term `_index.md` files. Tags with `hide_sitemap: true` are hidden from the word cloud and taxonomy listings.
 - `content/*.adoc` — Root pages (index, legal) use AsciiDoc format.
 - `static/img/` — Images; `static/archive/` — archived assets.
 
-Structural categories (`footer`, `projects`) are filtered from taxonomy pages via `params.taxonomy_exclude` in config.
+Structural categories (`footer`, `projects`) are filtered from taxonomy pages via `params.taxonomy_exclude` in config. Individual categories and tags can also be hidden via `hide_sitemap: true` in their `_index.md` front matter.
 
 ## Blog Migration
 
@@ -58,10 +60,27 @@ Blogging capabilities are being actively built into the Toph theme to support th
 ## Configuration
 
 `config.yaml` (YAML, not TOML). Key sections:
+- `taxonomies` — explicit `category: categories`, `tag: tags` mapping
 - `params.colors` — primary, secondary, accent
 - `params.fonts` — default, title, header (with weights)
 - `params.taxonomy_exclude` — categories hidden from taxonomy listings
 - `languages` — 4 languages: en (default), es, ar (RTL), hi
+
+## Taxonomy Templates
+
+The theme provides taxonomy-specific layouts:
+- `layouts/categories/terms.html` — three-column magazine-style cards with images, descriptions, and recent posts
+- `layouts/tags/terms.html` — word cloud with font-size/opacity scaling by post count, pill-shaped buttons, default sort by most-used
+- `layouts/_default/terms.html` — fallback list with sort toggle and exclusion filtering
+- `layouts/_default/term.html` — single term page with post list and plaintext excerpts
+
+Tags are always lowercase. Categories use Title Case from their `_index.md` title field.
+
+Content filtering: `hide_sitemap: true` in a category/tag `_index.md` hides it from taxonomy listing pages and the tag word cloud. This reuses the same front matter field used by structural content (projects, footer).
+
+Date display format: `2006 January 02` (e.g., "2023 May 09") across all templates. `datetime` HTML attributes use ISO `2006-01-02`.
+
+Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without HTML entity artifacts.
 
 ## Git Conventions (CRITICAL)
 
