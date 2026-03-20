@@ -123,6 +123,7 @@ params:
   images:
     - /img/logo.jpg
   git_repo: https://github.com/justwheel/jwheel.org
+  taxonomy_exclude: ["footer", "projects"]
   hire_me: false
   social:
     github_username: justwheel
