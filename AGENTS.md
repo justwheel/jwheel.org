@@ -93,6 +93,12 @@ Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without H
 - **NEVER** use `--no-gpg-sign` or skip hooks
 - User creates branches and approves all changes
 
+## JavaScript Conventions
+
+- Vanilla JS only (no dependencies beyond Bootstrap)
+- Use `const` for variables that are not reassigned; `var` only when reassignment is needed
+- Always provide explicit radix to `parseInt()` (e.g., `parseInt(value, 10)`)
+
 ## Style Guide for Agents
 
 When demonstrating or suggesting bash commands, always use the fully-expanded form of flags and parameters (e.g., `--signoff` instead of `-s`, `--file` instead of `-F`, `--init` instead of `-i`). This promotes learning for the user.
