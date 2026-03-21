@@ -10,6 +10,11 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# Opt into Node.js 24 for all actions to avoid deprecation warnings.
+# See: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
