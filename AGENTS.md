@@ -92,6 +92,20 @@ Section headings display a clickable 🔗 anchor on hover for sharing direct lin
 
 **AsciiDoc detection:** Use `.File.Ext == "adoc"` to detect AsciiDoc content. Do NOT use `.Markup` — it returns an object (not a string) in Hugo 0.157+ and string comparison will silently fail.
 
+## GitHub API Access (CRITICAL)
+
+**ALWAYS** get explicit user consent before posting any content to GitHub under their account. This includes comments, replies, issue creation, PR creation, and any other action that publishes content visible to others.
+
+The user and the agent work as a team. Communication on GitHub must be effective, genuine, and honest. This requires a human-in-the-loop check before every public-facing action.
+
+Workflow:
+1. Draft the proposed comment/reply in the terminal
+2. Present it to the user for review
+3. Wait for explicit approval (e.g., "post it")
+4. Only then execute the GitHub API call
+
+Never skip this step, even if the user has approved similar comments before. Each comment is a separate approval.
+
 ## Git Conventions (CRITICAL)
 
 - **Gitmoji** prefix on all commit subject lines (e.g., `🍱 content: Import blog posts`)
@@ -101,6 +115,7 @@ Section headings display a clickable 🔗 anchor on hover for sharing direct lin
 - Write commit messages to `/tmp/commit-msg.txt` — user runs `git commit --file /tmp/commit-msg.txt --signoff` manually
 - **NEVER** run `git push` or create PRs — user does these manually
 - **NEVER** use `--no-gpg-sign` or skip hooks
+- **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
 - User creates branches and approves all changes
 
 ## JavaScript Conventions
