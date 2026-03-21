@@ -134,6 +134,12 @@ params:
     lastfm_username: jflory7
     linkedin_url: jwwheel
 
+  # --- layout configuration ---
+  layouts:
+    categories:
+      recent_posts: 2
+      excerpt_length: 200
+
 
 # --- internationalization settings ---
 defaultContentLang: en
