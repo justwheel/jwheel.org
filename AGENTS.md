@@ -82,6 +82,16 @@ Date display format: `2006 January 02` (e.g., "2023 May 09") across all template
 
 Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without HTML entity artifacts.
 
+## Heading Anchors
+
+Section headings display a clickable 🔗 anchor on hover for sharing direct links to sections.
+
+- **Markdown:** Uses a render hook at `layouts/_default/_markup/render-heading.html`
+- **AsciiDoc:** Uses `replaceRE` on `.Content` in `single.html` since Asciidoctor bypasses Hugo render hooks
+- Both produce identical `hanchor` class markup and share the same CSS
+
+**AsciiDoc detection:** Use `.File.Ext == "adoc"` to detect AsciiDoc content. Do NOT use `.Markup` — it returns an object (not a string) in Hugo 0.157+ and string comparison will silently fail.
+
 ## Git Conventions (CRITICAL)
 
 - **Gitmoji** prefix on all commit subject lines (e.g., `🍱 content: Import blog posts`)
