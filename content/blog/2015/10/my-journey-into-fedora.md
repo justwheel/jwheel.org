@@ -11,7 +11,7 @@ tags:
 
 These past few weeks have been particularly exciting for me as I become more involved in the world of free and open-source software. For a long time, I've sat and idled in the various realms of the Fedora community, and I've sat on the sidelines thinking that I would be unable to contribute anything significant because of my inability to write fancy code or design super slick images or write documentation for the fancy code. However, I have gladly been proven wrong.
 
-\[caption id="attachment\_17" align="aligncenter" width="600"\][![Fedora is a free and open-source Linux distribution.](http://blog.justinwflory.com/wp-content/uploads/2015/10/Full-Logo.png)](http://blog.justinwflory.com/wp-content/uploads/2015/10/Full-Logo.png) Fedora is a free and open-source Linux distribution.\[/caption\]
+\[caption id="attachment\_17" align="aligncenter" width="600"\][![Fedora is a free and open-source Linux distribution.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/10/Full-Logo.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/10/Full-Logo.png) Fedora is a free and open-source Linux distribution.\[/caption\]
 
 <!--more-->
 

@@ -18,7 +18,7 @@ This post serves as the project proposal for me and my team's [Humanitarian Free
 
 In this project proposal, we take a look at the game idea we are looking at completing for this project, based on the New York [4th grade math curriculum](https://hfoss-ritjoe.rhcloud.com/static/decks/nysp12cclsmath-grade4only.pdf). Our game idea is based off of a minigame from [_Logical Journey of the Zoombinis_](https://en.wikipedia.org/wiki/Zoombinis), a puzzle-solving educational game.
 
-\[caption id="attachment\_229" align="aligncenter" width="480"\][![HFOSS Final Project: Zoombinis Pizza Pass minigame](https://blog.justinwflory.com/wp-content/uploads/2016/04/Zoombinis-Pizza-Maker.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/04/Zoombinis-Pizza-Maker.jpg) Screenshot from 1996's "Logical Journey of the Zoombinis" Pizza Pass level.\[/caption\]
+\[caption id="attachment\_229" align="aligncenter" width="480"\][![HFOSS Final Project: Zoombinis Pizza Pass minigame](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/04/Zoombinis-Pizza-Maker.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/04/Zoombinis-Pizza-Maker.jpg) Screenshot from 1996's "Logical Journey of the Zoombinis" Pizza Pass level.\[/caption\]
 
 <!--more-->
 

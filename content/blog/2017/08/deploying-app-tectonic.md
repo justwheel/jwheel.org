@@ -16,7 +16,7 @@ tags:
   - "system-administration"
 ---
 
-_This is a short series to introduce Kubernetes, what it does, and how to experiment with it on Fedora. This is a beginner-oriented series to help introduce some higher level concepts and give examples of using it on Fedora. In the first post, we covered [key concepts in Kubernetes](https://fedoramagazine.org/introduction-kubernetes-fedora/). The second post showed how to build a [single-node Kubernetes deployment](https://fedoramagazine.org/minikube-kubernetes/) on your own computer. The last post and this post build on top of the Fedora Magazine series. The third post introduced how to [deploy CoreOS Tectonic](https://blog.justinwflory.com/2017/07/tectonic-amazon-web-services-aws/) to Amazon Web Services (AWS). This fourth post teaches how to deploy a simple web application to your Tectonic installation._
+_This is a short series to introduce Kubernetes, what it does, and how to experiment with it on Fedora. This is a beginner-oriented series to help introduce some higher level concepts and give examples of using it on Fedora. In the first post, we covered [key concepts in Kubernetes](https://fedoramagazine.org/introduction-kubernetes-fedora/). The second post showed how to build a [single-node Kubernetes deployment](https://fedoramagazine.org/minikube-kubernetes/) on your own computer. The last post and this post build on top of the Fedora Magazine series. The third post introduced how to [deploy CoreOS Tectonic](https://jwfblog.wpenginepowered.com/2017/07/tectonic-amazon-web-services-aws/) to Amazon Web Services (AWS). This fourth post teaches how to deploy a simple web application to your Tectonic installation._
 
 * * *
 

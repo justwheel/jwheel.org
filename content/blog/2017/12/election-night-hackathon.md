@@ -42,7 +42,7 @@ Pratik demoed some of the work, which he is continuing part-time on campus this 
 
 ## Where can I vote?
 
-\[caption id="attachment\_819" align="alignright" width="788"\][![Chris Bitler demonstrated his "Where can I vote?" app at the end of the Election Night Hackathon](https://blog.justinwflory.com/wp-content/uploads/2017/11/election-night-hackathon-2017-demo-time-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/11/election-night-hackathon-2017-demo-time.jpg) [Chris Bitler](https://github.com/Chris-Bitler) demonstrated his "[_Where can I vote?_](https://github.com/Chris-Bitler/Where-Can-I-Vote)" app at the end of the night\[/caption\]
+\[caption id="attachment\_819" align="alignright" width="788"\][![Chris Bitler demonstrated his "Where can I vote?" app at the end of the Election Night Hackathon](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/election-night-hackathon-2017-demo-time-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/election-night-hackathon-2017-demo-time.jpg) [Chris Bitler](https://github.com/Chris-Bitler) demonstrated his "[_Where can I vote?_](https://github.com/Chris-Bitler/Where-Can-I-Vote)" app at the end of the night\[/caption\]
 
 Third-year student [Chris Bitler](https://github.com/Chris-Bitler) created a tool to make it easier to get to the polling booth. His web application, "_Where can I vote?_", takes a specific election and your address, and gives you directions from your address to the closest polling location. It uses the [Google Civic Information API](https://developers.google.com/civic-information/) to find election data and calculate a specific address's voting district and candidates.
 

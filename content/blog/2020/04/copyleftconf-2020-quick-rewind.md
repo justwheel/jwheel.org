@@ -39,7 +39,7 @@ This was my first time attending CopyleftConf. I attended on behalf of [RIT Libr
 
 <figure>
 
-![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](https://blog.justinwflory.com/wp-content/uploads/2020/04/IMG_20200203_094048593_HDR-768x1024.jpg)
+![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_094048593_HDR-768x1024.jpg)
 
 <figcaption>
 
@@ -62,7 +62,7 @@ Event reports take many forms. Since CopyleftConf 2020 is structured in a unique
 
 If you’re here for the quick overview, this is it.
 
-CopyleftConf 2020 is one of the best conferences I have attended. I bought my ticket the morning of the conference. Karen Sandler and Bradley Kuhn fired me up the day before in their [FOSDEM 2020 talk](https://blog.justinwflory.com/2020/03/fosdem-2020-pt-1-play-by-play/). My initial reluctance to go was because I assumed it was a conference for FOSS lawyers. While it definitely includes that group, it isn't exclusive to that group. CopyleftConf 2020 collected people from a diverse range of experiences and backgrounds in the open source world.
+CopyleftConf 2020 is one of the best conferences I have attended. I bought my ticket the morning of the conference. Karen Sandler and Bradley Kuhn fired me up the day before in their [FOSDEM 2020 talk](https://jwfblog.wpenginepowered.com/2020/03/fosdem-2020-pt-1-play-by-play/). My initial reluctance to go was because I assumed it was a conference for FOSS lawyers. While it definitely includes that group, it isn't exclusive to that group. CopyleftConf 2020 collected people from a diverse range of experiences and backgrounds in the open source world.
 
 However, I also realized the "movers and shakers" in the Free Software world have been around a while. Many people there are embedded in this ecosystem for the last 10, 20, or even 30 years. I _think_ I was the youngest person there. I realized Free Software has not done an excellent job of including my generation. This left me with interesting reflections on the future of copyleft and its ability to transfer lessons and values on to the next generation.
 
@@ -142,7 +142,7 @@ I loved this quote that Luis dropped: "**Movement building is the only way to in
 
 <figure>
 
-![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](https://blog.justinwflory.com/wp-content/uploads/2020/04/IMG_20200203_105508557_HDR-1024x768.jpg)
+![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_105508557_HDR-1024x768.jpg)
 
 <figcaption>
 
@@ -158,7 +158,7 @@ However, I think Luis's goal was to define, not to prescribe. He implied that bu
 
 There was a [panel](https://2020.copyleftconf.org/schedule/presentation/13/) on copyleft expansion and what should and shouldn't be at the table. At some point, the role of "the next generation" came up in heralding the values of copyleft licensing forward in light of the popularity of permissive licenses.
 
-This was personal. My first experience in the open source world was as a community member and later a volunteer staff member of the largest open source Minecraft server software project. In my time in that community, I learned a lot. I saw a [major breakdown of the GPL](https://blog.justinwflory.com/2020/04/open-source-minecraft-bukkit-gpl/) for a community of hundreds of thousands of young adults, teenagers, and children. So, indeed, how is "the next generation" going to herald these values of copyleft licensing?
+This was personal. My first experience in the open source world was as a community member and later a volunteer staff member of the largest open source Minecraft server software project. In my time in that community, I learned a lot. I saw a [major breakdown of the GPL](https://jwfblog.wpenginepowered.com/2020/04/open-source-minecraft-bukkit-gpl/) for a community of hundreds of thousands of young adults, teenagers, and children. So, indeed, how is "the next generation" going to herald these values of copyleft licensing?
 
 ### Talk _with_ us, not _at_ us
 
@@ -182,7 +182,7 @@ The hottest discussions I participated in were from [The Rising Ethical Storm in
 
 <figure>
 
-![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](https://blog.justinwflory.com/wp-content/uploads/2020/04/IMG_20200203_140443994_HDR-1024x768.jpg)
+![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_140443994_HDR-1024x768.jpg)
 
 <figcaption>
 

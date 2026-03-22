@@ -31,7 +31,7 @@ coverImage: "riot-matrix-osdc.png"
 
 As a result, Riot becomes most useful in its implementation as the default Matrix client. It's convenient and decentralized, as anyone is able to launch their own Matrix "homeserver" and connect it with Riot. However, Matrix by default has servers bridged with [Freenode](https://freenode.net/), [Mozilla IRC](https://wiki.mozilla.org/IRC#Connect_to_the_Mozilla_IRC_server), and more. This lets you use Riot as a persistent client that keeps you connected to IRC even when you're not there.
 
-\[caption id="attachment\_619" align="alignright" width="788"\][![Riot desktop application on Fedora Linux using Matrix](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-01-logged-in-1024x741.png)](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-01-logged-in.png) Riot desktop application\[/caption\]
+\[caption id="attachment\_619" align="alignright" width="788"\][![Riot desktop application on Fedora Linux using Matrix](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-01-logged-in-1024x741.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-01-logged-in.png) Riot desktop application\[/caption\]
 
 Outside of the web application, you can also find it as a [desktop application](https://riot.im/desktop.html) for Mac, Windows, and Linux, or a mobile application for iOS and Android. In this guide, you'll learn how to get started using Riot as a full-time messaging client with the default Matrix / IRC integration servers.
 
@@ -61,7 +61,7 @@ One of the first things you'll see after signing into Riot is the directory. In 
 
 For example, if we want to find `#opensource.com` on Freenode, you can select the Freenode option and search for `#opensource.com`. Once it's there, you can join and say hello to the rest of the Opensource.com community hanging out in IRC.
 
-\[caption id="attachment\_623" align="aligncenter" width="788"\][![Searching for #opensource.com on Freenode from Matrix / Riot client](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-05-join-opensource.com_-1024x555.png)](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-05-join-opensource.com_.png) Searching for #opensource.com on Freenode from Riot client\[/caption\]
+\[caption id="attachment\_623" align="aligncenter" width="788"\][![Searching for #opensource.com on Freenode from Matrix / Riot client](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-05-join-opensource.com_-1024x555.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-05-join-opensource.com_.png) Searching for #opensource.com on Freenode from Riot client\[/caption\]
 
 Alternatively, if you would prefer directly joining a room, you can type the following as a command from any chat window in Riot.
 
@@ -71,7 +71,7 @@ Alternatively, if you would prefer directly joining a room, you can type the fol
 
 #### Setting your IRC nick
 
-\[caption id="attachment\_624" align="alignright" width="788"\][![Send a message to @appservice-irc:matrix.org to change your IRC nick in Matrix / Riot](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-07-message-appservice-1024x555.png)](https://blog.justinwflory.com/wp-content/uploads/2017/03/intro-riot-07-message-appservice.png) Send a message to `@appservice-irc:matrix.org` to change your IRC nick\[/caption\]
+\[caption id="attachment\_624" align="alignright" width="788"\][![Send a message to @appservice-irc:matrix.org to change your IRC nick in Matrix / Riot](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-07-message-appservice-1024x555.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/03/intro-riot-07-message-appservice.png) Send a message to `@appservice-irc:matrix.org` to change your IRC nick\[/caption\]
 
 By default, your IRC nick, or username, will be similar to your display name in Riot. Sometimes it will have a `[m]` appended to the end. However, after you connect to a channel, you can [change your nick](https://github.com/matrix-org/matrix-appservice-irc/blob/master/HOWTO.md#changing-nicks) on the IRC side as well. You'll need to start a new conversation with the IRC integration bot between Riot and Freenode.
 

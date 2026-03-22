@@ -38,7 +38,7 @@ But is access to free knowledge like Wikipedia truly inaccessible for even the m
 
 <figure>
 
-[![Global advertising spending from 2014 to 2021 (in billion U.S. dollars). Shows increase of spending by 268.96 billion dollars in advertising from 2014 projected to 2021. Sourced from Statista.](https://i0.wp.com/blog.justinwflory.com/wp-content/uploads/2018/10/statistic_id273288_media-spending-worldwide-2014-2021.png?fit=1000%2C743&ssl=1)](https://www.statista.com/statistics/273288/advertising-spending-worldwide/)
+[![Global advertising spending from 2014 to 2021 (in billion U.S. dollars). Shows increase of spending by 268.96 billion dollars in advertising from 2014 projected to 2021. Sourced from Statista.](https://i0.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2018/10/statistic_id273288_media-spending-worldwide-2014-2021.png?fit=1000%2C743&ssl=1)](https://www.statista.com/statistics/273288/advertising-spending-worldwide/)
 
 <figcaption>
 

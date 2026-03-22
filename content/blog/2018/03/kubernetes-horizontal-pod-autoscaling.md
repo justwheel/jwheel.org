@@ -14,7 +14,7 @@ tags:
   - "system-administration"
 ---
 
-Scale is a critical part of how we develop applications in today's world of infrastructure. Now, containers and container orchestration like Docker and [Kubernetes](https://blog.justinwflory.com/2017/07/introduction-kubernetes-fedora/) make it easier to think about scale. One of the "magical" things about The potential of Kubernetes is fully realized when you have a sudden increase in load, your infrastructure scales up and grows to accommodate. How does this work? With **Horizontal Pod Autoscaling**, Kubernetes adds more pods when you have more load and drops them once things return to normal.
+Scale is a critical part of how we develop applications in today's world of infrastructure. Now, containers and container orchestration like Docker and [Kubernetes](https://jwfblog.wpenginepowered.com/2017/07/introduction-kubernetes-fedora/) make it easier to think about scale. One of the "magical" things about The potential of Kubernetes is fully realized when you have a sudden increase in load, your infrastructure scales up and grows to accommodate. How does this work? With **Horizontal Pod Autoscaling**, Kubernetes adds more pods when you have more load and drops them once things return to normal.
 
 This article covers Horizontal Pod Autoscaling, what it is, and how to try it out with the [Kubernetes guestbook](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) example. By the end of this article, you will…
 
@@ -32,7 +32,7 @@ This article covers Horizontal Pod Autoscaling, what it is, and how to try it ou
 - **Pod**: Your deployable units in Kubernetes
 - **Autoscaling**: Automatically scaling out when needed
 
-\[caption id="attachment\_741" align="alignright" width="788"\][![Diagram to explain how Horizontal Pod Autoscaler (HPA) works](https://blog.justinwflory.com/wp-content/uploads/2017/08/k8s-hpa-1024x768.png)](https://blog.justinwflory.com/wp-content/uploads/2017/08/k8s-hpa.png) Diagram to explain how a Horizontal Pod Autoscaler (HPA) works. From [Kubernetes documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/).\[/caption\]
+\[caption id="attachment\_741" align="alignright" width="788"\][![Diagram to explain how Horizontal Pod Autoscaler (HPA) works](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/08/k8s-hpa-1024x768.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/08/k8s-hpa.png) Diagram to explain how a Horizontal Pod Autoscaler (HPA) works. From [Kubernetes documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/).\[/caption\]
 
 To help visualize it, imagine you have a [Python Flask](http://flask.pocoo.org/) web server that reads and writes data to a [Redis](https://redis.io/) back-end. Your web server is the front-end for all of your incoming traffic. You run it with three pods in Kubernetes, with 512MB of RAM and 50m of CPU. Now, suddenly, BuzzFeed writes an article about your app, Kanye West name drops the app in a TV interview, and the president of the United States retweets a link to your site.
 

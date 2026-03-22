@@ -34,7 +34,7 @@ But how do we collect and store this data? For example, if we want to collect da
 
 ## Introducing time-series concepts
 
-\[caption id="attachment\_691" align="alignright" width="390"\][![Example of table, or how a RDBMS like MySQL stores data](https://blog.justinwflory.com/wp-content/uploads/2017/07/rbdms-table-example.gif)](https://blog.justinwflory.com/wp-content/uploads/2017/07/rbdms-table-example.gif) Example of table, or how a RDBMS like MySQL stores data. Image from [DevShed](http://www.devshed.com/c/a/php/using-the-active-record-pattern-with-php-and-mysql/).\[/caption\]
+\[caption id="attachment\_691" align="alignright" width="390"\][![Example of table, or how a RDBMS like MySQL stores data](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/rbdms-table-example.gif)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/rbdms-table-example.gif) Example of table, or how a RDBMS like MySQL stores data. Image from [DevShed](http://www.devshed.com/c/a/php/using-the-active-record-pattern-with-php-and-mysql/).\[/caption\]
 
 If you're familiar with relational database management software (RDBMS), like MySQL, [tables, columns, and primary keys](http://www.informit.com/articles/article.aspx?p=377067&seqNum=3) are familiar terms. Everything is like a spreadsheet, with columns and rows. Some data might be unique, other parts might be the same as other rows. RBDMS's like MySQL are widely used and are great for **reliable transactions** that follow [ACID](https://en.wikipedia.org/wiki/ACID) (Atomicity, Consistency, Isolation, Durability) compliance.
 
@@ -44,13 +44,13 @@ With relational database software, you're usually working with data that is some
 
 And this is where time-series data makes sense. Let's say you're collecting data about a city traffic, temperature from farming equipment, or the production rate of an assembly line. Instead of going into a table with rows and columns, imagine pushing multiple rows of data that are uniquely sorted by a timestamp. This visual might help make more sense of this.
 
-\[caption id="attachment\_692" align="aligncenter" width="562"\][![Imagine rows and rows of data, uniquely sorted by timestamps](https://blog.justinwflory.com/wp-content/uploads/2017/07/picture-the-cloud.gif)](https://blog.justinwflory.com/wp-content/uploads/2017/07/picture-the-cloud.gif) Imagine rows and rows of data, uniquely sorted by timestamps. Image from [Timescale](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563).\[/caption\]
+\[caption id="attachment\_692" align="aligncenter" width="562"\][![Imagine rows and rows of data, uniquely sorted by timestamps](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/picture-the-cloud.gif)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/picture-the-cloud.gif) Imagine rows and rows of data, uniquely sorted by timestamps. Image from [Timescale](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563).\[/caption\]
 
 Having the data in this format makes it easier to track and watch change over time. When data accumulates, you can see how something behaved in the past, how it's behaving now, and how it might behave in the future. Your options to make smarter data decisions expands!
 
 Curious how the data is stored and formatted? It depends on the time-series database (TSDB) you use. InfluxDB stores the data in the [Line Protocol](https://docs.influxdata.com/influxdb/v1.3/write_protocols/line_protocol_tutorial/) format. [Queries](https://docs.influxdata.com/influxdb/v1.3/tools/api/#query) return the data in JSON.
 
-\[caption id="attachment\_693" align="aligncenter" width="638"\][![How InfluxDB stores time-series data in JSON](https://blog.justinwflory.com/wp-content/uploads/2017/07/influxdb-data-format.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/07/influxdb-data-format.jpg) How InfluxDB stores time-series data in [Line Protocol](https://docs.influxdata.com/influxdb/v1.3/write_protocols/line_protocol_tutorial/). Image from [Roberto Gaudenzi](https://www.slideshare.net/RobertoGaudenzi1/introduction-to-influx-db).\[/caption\]
+\[caption id="attachment\_693" align="aligncenter" width="638"\][![How InfluxDB stores time-series data in JSON](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/influxdb-data-format.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/influxdb-data-format.jpg) How InfluxDB stores time-series data in [Line Protocol](https://docs.influxdata.com/influxdb/v1.3/write_protocols/line_protocol_tutorial/). Image from [Roberto Gaudenzi](https://www.slideshare.net/RobertoGaudenzi1/introduction-to-influx-db).\[/caption\]
 
 If you're still confused or trying to understand time-series data or why you would want to use it over another solution, you can read an excellent, in-depth explanation from [Timescale's blog](https://blog.timescale.com/what-the-heck-is-time-series-data-and-why-do-i-need-a-time-series-database-dcf3b1b18563) or [InfluxData's blog](https://www.influxdata.com/modern-time-series-platform/).
 
@@ -71,7 +71,7 @@ InfluxData creates a platform based on four open source projects that work and p
 
 These tools work and integrate well with the other pieces by design. However, it's also easy to substitute one piece out for another tool of your choice. For this article, we'll explore three parts of the TICK stack: InfluxDB, Telegraf, and Kapacitor.
 
-\[caption id="attachment\_703" align="aligncenter" width="661"\][![Diagram of how the different components of the InfluxDB TICK stack connect with each other](https://blog.justinwflory.com/wp-content/uploads/2017/07/tick-stack-diagram.png)](https://blog.justinwflory.com/wp-content/uploads/2017/07/tick-stack-diagram.png) Diagram of how the different components of the TICK stack connect with each other. From [influxdata.com](https://www.influxdata.com/time-series-platform/).\[/caption\]
+\[caption id="attachment\_703" align="aligncenter" width="661"\][![Diagram of how the different components of the InfluxDB TICK stack connect with each other](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/tick-stack-diagram.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/07/tick-stack-diagram.png) Diagram of how the different components of the TICK stack connect with each other. From [influxdata.com](https://www.influxdata.com/time-series-platform/).\[/caption\]
 
 #### [InfluxDB](https://docs.influxdata.com/influxdb/)
 

@@ -43,7 +43,7 @@ Originally, we looked at songs from different artists, but decided to look at fi
 
 <figure>
 
-![How five Queen songs went mainstream in totally different ways](https://blog.justinwflory.com/wp-content/uploads/2018/10/Queen-data-visualization.png)
+![How five Queen songs went mainstream in totally different ways](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/10/Queen-data-visualization.png)
 
 <figcaption>
 

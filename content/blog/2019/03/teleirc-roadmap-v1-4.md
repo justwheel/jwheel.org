@@ -45,7 +45,7 @@ At the developer meeting on March 23rd, we discussed the scope of this sprint an
 
 ## Recap of TeleIRC v1.3 sprint
 
-The [TeleIRC v1.3 release](https://blog.justinwflory.com/2019/02/teleirc-v1-3-next-release/) follows the v1.2.2 release on December 8th, 2018. This release is a significant change in how project development is done. For the first time, a special interest group inside of [RITlug](https://ritlug.com/) exists around the project. The team shifted to an agile-like development practice to fit inside of the [RIT](https://www.rit.edu/) student academic schedule.
+The [TeleIRC v1.3 release](https://jwfblog.wpenginepowered.com/2019/02/teleirc-v1-3-next-release/) follows the v1.2.2 release on December 8th, 2018. This release is a significant change in how project development is done. For the first time, a special interest group inside of [RITlug](https://ritlug.com/) exists around the project. The team shifted to an agile-like development practice to fit inside of the [RIT](https://www.rit.edu/) student academic schedule.
 
 A special shout-out is earned by [Tim Zabel](https://twitter.com/Tjzabel21) for his support and participation as a core contributor during the v1.3 sprint.
 

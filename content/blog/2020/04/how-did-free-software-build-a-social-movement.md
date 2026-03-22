@@ -110,6 +110,6 @@ So, if we are in the middle of this societal shift from software as a commodity 
 
 * * *
 
-_At time of publication, I am still wrestling with these questions. As are a lot of people! To get a wider picture of what is on my mind in 2020, [read my event reports](https://blog.justinwflory.com/tag/2020-foss-conferences/) from my pre-coronavirus 2020 travels._
+_At time of publication, I am still wrestling with these questions. As are a lot of people! To get a wider picture of what is on my mind in 2020, [read my event reports](https://jwfblog.wpenginepowered.com/tag/2020-foss-conferences/) from my pre-coronavirus 2020 travels._
 
 _Photo by [Shane Rounce](https://unsplash.com/@shanerounce?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/together)._

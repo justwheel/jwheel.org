@@ -14,13 +14,13 @@ tags:
 coverImage: "spigotmc-california-minecon.jpg"
 ---
 
-Every year, [Mojang](http://mojang.com/) holds the annual [Minecraft](https://minecraft.net/en/) convention, MINECON. [MINECON](https://en.wikipedia.org/wiki/Minecon) is a convention where Minecraft players, software developers, content creators, and others in the Minecraft gaming world come together for a weekend of panels, activities, shows, and most importantly, comradery. I traveled to [Anaheim, California](https://en.wikipedia.org/wiki/Anaheim,_California) to see the [SpigotMC](https://www.spigotmc.org/) team again and help represent the open source cause. The convention was from September 24-25, 2016. This is my second time going to MINECON – [last year](https://blog.justinwflory.com/2016/02/2015-year-review/), I went to London with the team as well.
+Every year, [Mojang](http://mojang.com/) holds the annual [Minecraft](https://minecraft.net/en/) convention, MINECON. [MINECON](https://en.wikipedia.org/wiki/Minecon) is a convention where Minecraft players, software developers, content creators, and others in the Minecraft gaming world come together for a weekend of panels, activities, shows, and most importantly, comradery. I traveled to [Anaheim, California](https://en.wikipedia.org/wiki/Anaheim,_California) to see the [SpigotMC](https://www.spigotmc.org/) team again and help represent the open source cause. The convention was from September 24-25, 2016. This is my second time going to MINECON – [last year](https://jwfblog.wpenginepowered.com/2016/02/2015-year-review/), I went to London with the team as well.
 
 <!--more-->
 
 ## Arriving in Anaheim
 
-\[caption id="attachment\_492" align="alignright" width="788"\][![SpigotMC team grabs lunch on Friday and meets others in the community at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0115-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0115.jpg) SpigotMC team grabs lunch on Friday and meets others in the community\[/caption\]
+\[caption id="attachment\_492" align="alignright" width="788"\][![SpigotMC team grabs lunch on Friday and meets others in the community at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0115-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0115.jpg) SpigotMC team grabs lunch on Friday and meets others in the community\[/caption\]
 
 I arrived in Anaheim early in the morning on Friday, September 23. Unlike last year when I flew in on the first day, I had some time to get to my hotel, settle in, and meet the team before the action began. [Michael Dardis](https://twitter.com/md__5/), the project lead, and [Jordan Taylor](https://twitter.com/jtaylor69), a fellow community moderator, were already in California. Michael was visiting from Australia and Jordan flew in from the UK. They decided to take advantage of the opportunity to travel and see some of what the west coast has to offer.
 
@@ -30,17 +30,17 @@ As the day began to close, we traveled through Anaheim to see if we could find a
 
 ## Spigot hits the MINECON floor!
 
-\[caption id="attachment\_493" align="alignright" width="788"\][![SpigotMC team gathers on Saturday before going into the convention center for MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0182-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0182.jpg) SpigotMC team gathers on Saturday before going into the convention center\[/caption\]
+\[caption id="attachment\_493" align="alignright" width="788"\][![SpigotMC team gathers on Saturday before going into the convention center for MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0182-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0182.jpg) SpigotMC team gathers on Saturday before going into the convention center\[/caption\]
 
 Saturday morning started bright and early as some of the team members had meetings with other people in the community, and I had my Agent shift for the [Hypixel](https://hypixel.net/) Arena for most of the morning. My shift mostly consisted of directing people to and from various computer stations for a tournament bracket of various mini games. This was probably one of the most high-pace jobs for the volunteers as it was low-light and required constant vigilance to cycle new players into open stations. Nonetheless, I enjoyed the experience and met some cool members of the Hypixel team and other Agents along the way.
 
-\[caption id="attachment\_494" align="alignleft" width="788"\][![The Hypixel Arena in full swing! Working here was crazy, but fun at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0169-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0169.jpg) The Hypixel Arena in full swing! Working here was crazy, but fun.\[/caption\]
+\[caption id="attachment\_494" align="alignleft" width="788"\][![The Hypixel Arena in full swing! Working here was crazy, but fun at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0169-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0169.jpg) The Hypixel Arena in full swing! Working here was crazy, but fun.\[/caption\]
 
 After my shift ended, I reunited with the rest of the team as we explored everything MINECON had to offer. It was a different experience than last year since SpigotMC did not have a booth, but we watched some interesting panels and talked with various fans throughout the day. Those of us on the floor had brought plenty of [SpigotMC swag](https://twitter.com/Spigot_MC/status/780159798247428096), from t-shirts to flyers to wristbands. By the end of the convention, we had distributed around 20 t-shirt packages and nearly 500 wristbands.
 
 #### Minecraft mods for teaching
 
-\[caption id="attachment\_495" align="alignright" width="788"\][![SpigotMC project lead Michael Dardis answers a question at the "Using Minecraft Mods for Teaching" panel at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0133-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0133.jpg) SpigotMC project lead [Michael Dardis](https://twitter.com/md__5/) answers a question at the "_Using Minecraft Mods for Teaching_" panel\[/caption\]
+\[caption id="attachment\_495" align="alignright" width="788"\][![SpigotMC project lead Michael Dardis answers a question at the "Using Minecraft Mods for Teaching" panel at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0133-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0133.jpg) SpigotMC project lead [Michael Dardis](https://twitter.com/md__5/) answers a question at the "_Using Minecraft Mods for Teaching_" panel\[/caption\]
 
 One of the big highlights of the weekend was the "[_Using Minecraft Mods for Teaching_](https://youtu.be/XwPUb4Wa1U4)" panel. Our project lead, Michael, was one of the panelists to speak. The panel covered the various methods and tools from Minecraft and the community. These methods and tools help enable teachers and mentors to introduce programming concepts to children and grow interest in computer science.
 
@@ -58,7 +58,7 @@ For more coverage of these points, you can watch the full panel above.
 
 ## Community dinner
 
-\[caption id="attachment\_496" align="alignright" width="788"\][![The annual SpigotMC dinner, where the community joins the staff team for a night of food and fun at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0171-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0171.jpg) The annual SpigotMC dinner, where the community joins the staff team for a night of food and fun\[/caption\]
+\[caption id="attachment\_496" align="alignright" width="788"\][![The annual SpigotMC dinner, where the community joins the staff team for a night of food and fun at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0171-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0171.jpg) The annual SpigotMC dinner, where the community joins the staff team for a night of food and fun\[/caption\]
 
 Tradition calls for the SpigotMC team to organize an annual meal for our community members. This year, we settled on the [California Pizza Kitchen](http://www.cpk.com/) as our venue. Because of a range of complications, we were unable to reserve ahead of time. On Friday night, Michael, Jordan, Ryan, and myself did a trial run of CPK and decided we would host there. The view was beautiful from the outside tables, with the sun setting right down the middle of the boulevard. We went ahead and booked the reservation the day of.
 
@@ -66,7 +66,7 @@ Tradition calls for the SpigotMC team to organize an annual meal for our communi
 
 On Saturday, after the convention floor closed up, we began gathering the team members and some of the community together from the convention center and walked over to the restaurant. Some people were waiting there or joined us shortly after we arrived. Overall, I think the total number of attendees was close to 40 people. We didn't have cool name badges like last year, but it was an enjoyable event and I was happy to meet so many amazing people from the community in-person. If you attended our dinner, thank you again for coming out and I hope the team will get to see you again!
 
-\[caption id="attachment\_497" align="alignleft" width="788"\][![We checked Twitter for a moment to find that our feeds were exploding with MINECON activity in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0172-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/IMG_0172.jpg) We checked Twitter for a moment to find that our feeds were exploding with MINECON activity!\[/caption\]
+\[caption id="attachment\_497" align="alignleft" width="788"\][![We checked Twitter for a moment to find that our feeds were exploding with MINECON activity in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0172-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_0172.jpg) We checked Twitter for a moment to find that our feeds were exploding with MINECON activity!\[/caption\]
 
 Furthermore, one thing I find worth noting is the kind generosity that I have come to know from Michael. At the end of the evening, he left one of the most generous tips to the (awesome) wait staff at the California Pizza Kitchen. The manager had to come out and verify that the amount was correct before charging it. It was clear this made their night. For these reasons and plenty of others, I am happy that Michael is the person leading the SpigotMC project.
 
@@ -78,7 +78,7 @@ Another one of the big goals she was helping drive was [Creative Commons](https:
 
 ## Meeting my server staff
 
-\[caption id="attachment\_498" align="alignright" width="788"\][![After four years, I finally meet one of my awesome staff members, Justin Natzic at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/Justin-and-Justin-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/Justin-and-Justin.jpg) After four years, I finally meet one of my awesome staff members, [Justin Natzic](https://crystalcraftmc.com/members/natzic.20/)\[/caption\]
+\[caption id="attachment\_498" align="alignright" width="788"\][![After four years, I finally meet one of my awesome staff members, Justin Natzic at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/Justin-and-Justin-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/Justin-and-Justin.jpg) After four years, I finally meet one of my awesome staff members, [Justin Natzic](https://crystalcraftmc.com/members/natzic.20/)\[/caption\]
 
 This event report wouldn't be complete without noting the opportunity I had to meet one of my Minecraft server staff members. For over four years, I created, manage, and run the [CrystalCraftMC](https://crystalcraftmc.com) Minecraft server network. One of the people who has been around for almost the entire time is [Justin Natzic](https://crystalcraftmc.com/members/natzic.20/). Justin is now a moderator on the server and has helped complete projects like a [Mob Arena](https://youtu.be/hh4sKCMzuKk), where players fight endless waves of monsters and bosses to receive prizes and loot. Together with the rest of the team, Justin helped lead and develop challenging waves to keep players on their toes.
 
@@ -90,11 +90,11 @@ A double special thanks goes to him and his father for driving me to the airport
 
 ## Saying goodbye
 
-\[caption id="attachment\_499" align="alignright" width="788"\][![Some of the team poses in front of the big MINECON 2016 banner in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/Team-photo-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/Team-photo.jpg) Some of the team poses in front of the big MINECON 2016 banner\[/caption\]
+\[caption id="attachment\_499" align="alignright" width="788"\][![Some of the team poses in front of the big MINECON 2016 banner in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/Team-photo-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/Team-photo.jpg) Some of the team poses in front of the big MINECON 2016 banner\[/caption\]
 
 The end of the weekend was difficult for me. A couple of weeks after MINECON, I officially announced [my resignation](https://www.spigotmc.org/threads/its-been-an-amazing-three-years.185023/) from the SpigotMC team. While I was still a staff member during MINECON, I had given this thought for a while and knew that this would likely be my last convention as a team member. SpigotMC is a major part of my life. From the project, I discovered the world of open source software and learned about various other things from the community. My experiences afforded by the SpigotMC project even influenced my choice in university and degree.
 
-\[caption id="attachment\_500" align="alignleft" width="788"\][![Getting ready to wind down the night in our hotel at MINECON 2016 in Anaheim, California](https://blog.justinwflory.com/wp-content/uploads/2016/11/In-the-hotel-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/11/In-the-hotel.jpg) Getting ready to wind down the night in our hotel\[/caption\]
+\[caption id="attachment\_500" align="alignleft" width="788"\][![Getting ready to wind down the night in our hotel at MINECON 2016 in Anaheim, California](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/In-the-hotel-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/In-the-hotel.jpg) Getting ready to wind down the night in our hotel\[/caption\]
 
 Special thanks go to [FOSS@MAGIC](http://foss.rit.edu/) at RIT for helping sponsor some of my travel costs to this convention. Without the support of the university, I would never have been able to attend. Extra big thanks goes to [Stephen Jacobs](https://www.rit.edu/gccis/stephen-jacobs) for helping me navigate attending the convention even after the last-minute rejection of my panel.
 
@@ -110,4 +110,4 @@ I was incredibly fortunate to have the opportunity to travel to California this 
 
 So long. See you soon.
 
-\[caption id="attachment\_160" align="aligncenter" width="788"\][![SpigotMC Team at MINECON 2015 in London, England](https://blog.justinwflory.com/wp-content/uploads/2016/02/Spigot-Team-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/02/Spigot-Team.jpg) You guys all rock. Team photo from MINECON 2015 in London.\[/caption\]
+\[caption id="attachment\_160" align="aligncenter" width="788"\][![SpigotMC Team at MINECON 2015 in London, England](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/02/Spigot-Team-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/02/Spigot-Team.jpg) You guys all rock. Team photo from MINECON 2015 in London.\[/caption\]

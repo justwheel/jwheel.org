@@ -311,13 +311,13 @@ I spent a few extra days before and after DevConf CZ in Brno. In some of that ti
 
 <figure>
 
-- [![](https://i0.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200124_212601881_HDR-scaled.jpg?fit=788%2C591&ssl=1)](https://i0.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200124_212601881_HDR-scaled.jpg?fit=2560%2C1920&ssl=1)
+- [![](https://i0.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200124_212601881_HDR-scaled.jpg?fit=788%2C591&ssl=1)](https://i0.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200124_212601881_HDR-scaled.jpg?fit=2560%2C1920&ssl=1)
     
-- [![](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200124_212616232-rotated.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200124_212616232-rotated.jpg?fit=2304%2C1728&ssl=1)
+- [![](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200124_212616232-rotated.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200124_212616232-rotated.jpg?fit=2304%2C1728&ssl=1)
     
-- [![](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200129_105148632_HDR-scaled.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200129_105148632_HDR-scaled.jpg?fit=2560%2C1920&ssl=1)
+- [![](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200129_105148632_HDR-scaled.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200129_105148632_HDR-scaled.jpg?fit=2560%2C1920&ssl=1)
     
-- [![](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200129_124253219.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/blog.justinwflory.com/wp-content/uploads/2020/02/IMG_20200129_124253219.jpg?fit=2304%2C1728&ssl=1)
+- [![](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200129_124253219.jpg?fit=788%2C591&ssl=1)](https://i1.wp.com/jwfblog.wpenginepowered.com/wp-content/uploads/2020/02/IMG_20200129_124253219.jpg?fit=2304%2C1728&ssl=1)
     
 
 <figcaption>

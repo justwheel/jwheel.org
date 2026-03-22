@@ -8,7 +8,7 @@ tags:
   - "throwback-drafts"
 ---
 
-_This post is published as part of a personal archival project of [my poetry](https://blog.jwf.io/category/poems/) and other creative works. The actual publish date of this post is Thursday, April 2nd, 2020, but the publish date of the post reflects the original date of authorship. This archival project aims to digitize a selection of written works that exist only in my private records. Enjoy._
+_This post is published as part of a personal archival project of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) and other creative works. The actual publish date of this post is Thursday, April 2nd, 2020, but the publish date of the post reflects the original date of authorship. This archival project aims to digitize a selection of written works that exist only in my private records. Enjoy._
 
 I was cleaning out my saved notes on Telegram and found this untitled poem.
 

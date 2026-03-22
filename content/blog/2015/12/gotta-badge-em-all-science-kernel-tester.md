@@ -12,11 +12,11 @@ tags:
   - "linux-kernel"
 ---
 
-_This article is part of an ongoing series about [how to earn specific Fedora badges](https://blog.justinwflory.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Science badge!_
+_This article is part of an ongoing series about [how to earn specific Fedora badges](https://jwfblog.wpenginepowered.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Science badge!_
 
 ## "Science": What is it?
 
-\[caption id="attachment\_103" align="alignright" width="256"\][![Science badge, given to Fedora kernel testers](https://blog.justinwflory.com/wp-content/uploads/2015/12/Science-Kernel-Tester-badge.png)](https://blog.justinwflory.com/wp-content/uploads/2015/12/Science-Kernel-Tester-badge.png) "You completed a run of the kernel regression test suite"\[/caption\]
+\[caption id="attachment\_103" align="alignright" width="256"\][![Science badge, given to Fedora kernel testers](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Science-Kernel-Tester-badge.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Science-Kernel-Tester-badge.png) "You completed a run of the kernel regression test suite"\[/caption\]
 
 The [_Science_ badge](https://badges.fedoraproject.org/badge/science-kernel-tester-i) is categorized as a "Quality \[Assurance\] Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/155). But what's the real scoop behind the _Science_ badge?
 

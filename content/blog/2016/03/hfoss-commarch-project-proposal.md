@@ -22,7 +22,7 @@ This post serves as the project proposal for me and my team's [Humanitarian Free
 
 In this project proposal, we take a preliminary look at the project we're looking at analyzing, [Tahrir](https://github.com/fedora-infra/tahrir), and the different criteria we are assigned to look at.
 
-\[caption id="attachment\_17" align="aligncenter" width="300"\][![Fedora is a free and open-source Linux distribution.](https://blog.justinwflory.com/wp-content/uploads/2015/10/Full-Logo-300x91.png)](https://blog.justinwflory.com/wp-content/uploads/2015/10/Full-Logo.png) Fedora is a free and open-source Linux distribution.\[/caption\]
+\[caption id="attachment\_17" align="aligncenter" width="300"\][![Fedora is a free and open-source Linux distribution.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/10/Full-Logo-300x91.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/10/Full-Logo.png) Fedora is a free and open-source Linux distribution.\[/caption\]
 
 <!--more-->
 

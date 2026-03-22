@@ -25,6 +25,6 @@ The schedule I intend to follow aims for a new article in the series **every Mon
 
 ## Read more
 
-Wanting to keep up with the series? Just follow the tag "_[Gotta Badge 'Em All](http://blog.justinwflory.com/tag/gotta-badge-em-all/)_" on my blog (if you're an RSS person, use [this](http://blog.justinwflory.com/tag/gotta-badge-em-all/feed/))!
+Wanting to keep up with the series? Just follow the tag "_[Gotta Badge 'Em All](https://jwfblog.wpenginepowered.com/tag/gotta-badge-em-all/)_" on my blog (if you're an RSS person, use [this](https://jwfblog.wpenginepowered.com/tag/gotta-badge-em-all/feed/))!
 
 Stay tuned for the first article in the series coming _very_ soon, explaining the [**Parselmouth**](https://badges.fedoraproject.org/badge/parselmouth) badge!

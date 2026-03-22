@@ -27,6 +27,6 @@ The only area I hope to stay partially active with is the [Fedora Community Blog
 
 I'm looking forward to seeing familiar faces again in August at [Flock 2018](https://flocktofedora.org/)!
 
-\[caption id="attachment\_591" align="aligncenter" width="788"\][![Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY](https://blog.justinwflory.com/wp-content/uploads/2017/04/Flock-2015-Strong-Museum-of-Play-1024x684.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/04/Flock-2015-Strong-Museum-of-Play.jpg) Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY\[/caption\]
+\[caption id="attachment\_591" align="aligncenter" width="788"\][![Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/04/Flock-2015-Strong-Museum-of-Play-1024x684.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/04/Flock-2015-Strong-Museum-of-Play.jpg) Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY\[/caption\]
 
-\[caption id="attachment\_592" align="aligncenter" width="788"\][![Fedora Flock 2016 in Kraków, Poland](https://blog.justinwflory.com/wp-content/uploads/2017/04/flock-group-photo-2_28739637620_o-1024x684.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/04/flock-group-photo-2_28739637620_o.jpg) Fedora Flock 2016 in Kraków, Poland\[/caption\]
+\[caption id="attachment\_592" align="aligncenter" width="788"\][![Fedora Flock 2016 in Kraków, Poland](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/04/flock-group-photo-2_28739637620_o-1024x684.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/04/flock-group-photo-2_28739637620_o.jpg) Fedora Flock 2016 in Kraków, Poland\[/caption\]

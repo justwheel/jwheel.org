@@ -21,7 +21,7 @@ tags:
   - "writing"
 ---
 
-I was reviewing one of my old journals this morning and re-read an early entry from when I was [studying abroad](https://blog.justinwflory.com/2018/02/2017-year-review/) in Dubrovnik, Croatia. The entry was a time when I learned more about a man named [Seth Vidal](https://twitter.com/skvidal) by chance. Reading this entry again the week before [Fedora Appreciation Week](https://communityblog.fedoraproject.org/fedora-appreciation-week-2018/) motivated me to share it and add to the stream of stories surrounding his life and [passing](https://www.businessinsider.com/36-year-old-seth-vidal-tragically-killed-2013-7).
+I was reviewing one of my old journals this morning and re-read an early entry from when I was [studying abroad](https://jwfblog.wpenginepowered.com/2018/02/2017-year-review/) in Dubrovnik, Croatia. The entry was a time when I learned more about a man named [Seth Vidal](https://twitter.com/skvidal) by chance. Reading this entry again the week before [Fedora Appreciation Week](https://communityblog.fedoraproject.org/fedora-appreciation-week-2018/) motivated me to share it and add to the stream of stories surrounding his life and [passing](https://www.businessinsider.com/36-year-old-seth-vidal-tragically-killed-2013-7).
 
 The entry is lifted out of my journal with minimum edits. I thought about fully revising it or updating it before publishing. Many parts I would write in a different way now, but I decided to let it be. It reflects my perspective at that particular moment and time at 19 years old. It is more personal than other posts I've published and maybe it's a little uncomfortable for me to share, but I felt like it was worth doing anyways.
 

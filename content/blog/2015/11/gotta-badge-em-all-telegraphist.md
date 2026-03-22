@@ -14,7 +14,7 @@ tags:
 
 ## Telegraphist: What is it?
 
-\[caption id="attachment\_65" align="alignright" width="256"\][![Telegraphist badge, for mapping names to packages](http://blog.justinwflory.com/wp-content/uploads/2015/11/Telegraphist.png)](http://blog.justinwflory.com/wp-content/uploads/2015/11/Telegraphist.png) "You mapped an upstream project to a Fedora package on [release-monitoring.org](https://release-monitoring.org/)"\[/caption\]
+\[caption id="attachment\_65" align="alignright" width="256"\][![Telegraphist badge, for mapping names to packages](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Telegraphist.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Telegraphist.png) "You mapped an upstream project to a Fedora package on [release-monitoring.org](https://release-monitoring.org/)"\[/caption\]
 
 The [_Telegraphist_ badge](https://badges.fedoraproject.org/badge/telegraphist-upstream-release-monitoring-i) is categorized as a "Quality \[Assurance\] Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/357). But what's the real scoop behind the _Telegraphist_ badge?
 
@@ -28,7 +28,7 @@ Earning _Telegraphist_ is easy! First, you should look through the list of softw
 
 It may be that the package you search for is already mapped. In that case, take a look through it and see if the information is still correct and relevant. Sometimes a project's homepage may change, or they might switch the locations of where they host their code. If something's wrong, edit it and correct the info.
 
-\[caption id="attachment\_67" align="alignright" width="365"\][![Telegraphist: Add a project to Anitya](http://blog.justinwflory.com/wp-content/uploads/2015/11/1-Anitya-Add-project.png)](http://blog.justinwflory.com/wp-content/uploads/2015/11/1-Anitya-Add-project.png) Add a project to Anitya using info like this, except for your favorite project.\[/caption\]
+\[caption id="attachment\_67" align="alignright" width="365"\][![Telegraphist: Add a project to Anitya](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/1-Anitya-Add-project.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/1-Anitya-Add-project.png) Add a project to Anitya using info like this, except for your favorite project.\[/caption\]
 
 On the other hand, it may be that the package you want to add doesn't exist. Viola, a badge opportunity has presented itself! You can help Fedora developers by providing the relevant info for a project. Click on "[Add project](https://release-monitoring.org/project/new)" on the top bar and begin entering all the relevant info. For an example, see my mapping of the `yubikey-personalization-gui` in the screenshot.
 

@@ -57,7 +57,7 @@ tags:
 coverImage: "2017-year-review.jpg"
 ---
 
-I can't remember how [writing an annual reflection](https://blog.justinwflory.com/tag/year-in-review/) became a tradition, but after writing them for the last two years, it is now a habit. Every time I look back on all that the last year brought into my life, it is surreal. Many things that happened, I could never have expected one or two years ago. And perhaps now, I see that life is defined by the unexpected moments: the things that surprise us, warm our hearts, sadden us, and remind us of our humanity. Thus, I present my year in review of 2017.
+I can't remember how [writing an annual reflection](https://jwfblog.wpenginepowered.com/tag/year-in-review/) became a tradition, but after writing them for the last two years, it is now a habit. Every time I look back on all that the last year brought into my life, it is surreal. Many things that happened, I could never have expected one or two years ago. And perhaps now, I see that life is defined by the unexpected moments: the things that surprise us, warm our hearts, sadden us, and remind us of our humanity. Thus, I present my year in review of 2017.
 
 <!--more-->
 
@@ -69,7 +69,7 @@ This move came months after I ended a semester of a study abroad program and liv
 
 ## Croatia: Study abroad
 
-\[caption id="attachment\_921" align="alignright" width="768"\][![Saying goodbye to my mom and sister at the airport before flying to Dubrovnik](https://blog.justinwflory.com/wp-content/uploads/2018/02/photo_2017-01-17_19-09-11-768x1024.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/photo_2017-01-17_19-09-11.jpg) Saying goodbye to my mom and sister at the airport before flying to Dubrovnik\[/caption\]
+\[caption id="attachment\_921" align="alignright" width="768"\][![Saying goodbye to my mom and sister at the airport before flying to Dubrovnik](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/photo_2017-01-17_19-09-11-768x1024.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/photo_2017-01-17_19-09-11.jpg) Saying goodbye to my mom and sister at the airport before flying to Dubrovnik\[/caption\]
 
 From January to May 2017, I participated in a study abroad program with my university to [Dubrovnik, Croatia](https://en.wikipedia.org/wiki/Dubrovnik). RIT has full campuses in both Zagreb and Dubrovnik. This made planning the semester abroad easy, but also encouraged me to go somewhere I might not have gone otherwise.
 
@@ -79,7 +79,7 @@ My choice to study in Croatia was well-rewarded. On paper, I earned 12 credit ho
 
 At the beginning of the year, the Fedora [Diversity Team](https://fedoraproject.org/wiki/Diversity) held a "Fedora Activity Day" (FAD) event in Brno, Czechia. If you're outside of the Fedora community, think of a FAD as a focused, in-person team sprint. Together with our team in-person and remote, we mapped out our goals and plans for 2017 and set out to continue the work we began nearly three years ago.
 
-\[caption id="attachment\_923" align="aligncenter" width="788"\][![](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0031-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0031.jpg) Diversity Team group photo at our team sprint in Brno, Czechia\[/caption\]
+\[caption id="attachment\_923" align="aligncenter" width="788"\][![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0031-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0031.jpg) Diversity Team group photo at our team sprint in Brno, Czechia\[/caption\]
 
 In addition to the work we accomplished together, it was fulfilling for me to see my teammates that span three continents. I spent a week with not only my teammates but also my friends. The days we get to spend together are a privileged few in the year, and it was fulfilling and motivating for me to spend some of our time together in a way that wasn't Pagure tickets or IRC meetings.
 
@@ -103,7 +103,7 @@ Outside of open source and Fedora, my time in Croatia included a lot of time out
 
 ###### Sarajevo
 
-\[caption id="attachment\_926" align="aligncenter" width="788"\][![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0033-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0033.jpg) Taken from the [Yellow Bastion](https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.\[/caption\]
+\[caption id="attachment\_926" align="aligncenter" width="788"\][![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0033-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0033.jpg) Taken from the [Yellow Bastion](https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.\[/caption\]
 
 The three days I spent in Sarajevo were short but significant. I was truly alone on this visit and it was up to me to make the most of it. Originally, I was skeptical to go alone, but I knew that I would never have a better opportunity to go. My fascination with Sarajevo stemmed from a year of studying European history in high school, and knowing the cultural significance of Sarajevo as a meeting point of western and eastern cultures. In the end, I decided to go, and I was rewarded for it.
 
@@ -115,7 +115,7 @@ Most of my trip in Sarajevo consisted of museums. I visited various museums, ran
 
 I visited Tirana, Albania four times on my trip abroad. In Tirana, my heart was captured by the people there. For years, I read about the [Open Labs Hackerspace](https://openlabs.cc/en/) community based in Tirana and I always imagined an opportunity to see it in person. I actually remember my first encounter with their community was an [Ada Lovelace Day event report](https://blog.azizaj.com/ada-lovelace-day/). And somehow, the circumstances shifted where I was able to meet their community and immerse myself in the culture, if only for a short time.
 
-\[caption id="attachment\_930" align="aligncenter" width="788"\][![My visits to Tirana are best defined by the people who impacted my time there.](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0187-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0187.jpg) My visits to Tirana are best defined by the people who impacted my time there.\[/caption\]
+\[caption id="attachment\_930" align="aligncenter" width="788"\][![My visits to Tirana are best defined by the people who impacted my time there.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0187-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0187.jpg) My visits to Tirana are best defined by the people who impacted my time there.\[/caption\]
 
 During my times in Tirana, I participated in the [first-ever 48 hour hackathon](https://opensource.com/article/17/3/open-labs-48-hour-hackathon-albania) to support the UN's [Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html) (SDGs), the first edition of [Linux Weekend](https://fedoramagazine.org/students-fedora-linux-weekend-2017/), and the annual [Open Source Conference Albania](https://oscal.openlabs.cc/) (OSCAL).
 
@@ -135,13 +135,13 @@ The last day of my classes finally came, and the next day, I was traveling furth
 
 My trip to India was eye-opening. For years, I've had a fascination with Eastern culture and philosophy, but it was something completely different to experience. Bee and her family took me to the [Global Vipassana Pagoda](https://en.wikipedia.org/wiki/Global_Vipassana_Pagoda), a personally fulfilling experience for me. We visited the [Bandra–Worli Sea Link](https://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link), [Shree Mahalakshmi Temple](https://goo.gl/maps/5kthSFfZmBJ2), and several other places in Mumbai. I remember walking through the streets more than anything.
 
-\[caption id="attachment\_931" align="aligncenter" width="788"\][![The Bandra–Worli Sea Link. This may have been one of my best photos.](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0037-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0037.jpg) The Bandra–Worli Sea Link. This may have been one of my best photos.\[/caption\]
+\[caption id="attachment\_931" align="aligncenter" width="788"\][![The Bandra–Worli Sea Link. This may have been one of my best photos.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0037-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0037.jpg) The Bandra–Worli Sea Link. This may have been one of my best photos.\[/caption\]
 
-\[caption id="attachment\_932" align="aligncenter" width="788"\][![Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0018-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0018.jpg) Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee\[/caption\]
+\[caption id="attachment\_932" align="aligncenter" width="788"\][![Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0018-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0018.jpg) Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee\[/caption\]
 
 In Pune, Amita and her family showed me their favorite places. I had a chance to meet many other Fedora friends in Pune too. One of my favorite memories of Pune was a historic [gurdwara](https://en.wikipedia.org/wiki/Gurdwara). Amita took me and the others in our group to visit. For a moment, I finally got to see something I've only read about right in front of my eyes. The history and reverence in these places was absorbed into my mind.
 
-\[caption id="attachment\_933" align="aligncenter" width="788"\][![Definitely not proper zazen posture. But a cool shot anyways.](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0048-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0048.jpg) Definitely not proper zazen posture. But a cool shot anyways. Photo: Amita Sharma\[/caption\]
+\[caption id="attachment\_933" align="aligncenter" width="788"\][![Definitely not proper zazen posture. But a cool shot anyways.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0048-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0048.jpg) Definitely not proper zazen posture. But a cool shot anyways. Photo: Amita Sharma\[/caption\]
 
 I never expected an Indian visa stamp in my passport in 2017, yet it happened. I'm equally filled with wonder at how the circumstances unfolded as I am grateful this experience sneaked into my year.
 
@@ -149,7 +149,7 @@ I never expected an Indian visa stamp in my passport in 2017, yet it happened. I
 
 After my semester abroad and visiting India, I was whisked back to the United States, only to pack up once again for another new experience. From June to August, I lived in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago) to work an internship at [Jump Trading](http://jumptrading.com/). Chicago had a feeling of nostalgia for me because much of my father's family has origins tracing back to Chicago. But I would find myself losing more of my heart in Chicago than I realized.
 
-\[caption id="attachment\_934" align="aligncenter" width="788"\][![The view from my apartment in Chicago. Could this even be real??](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0001-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0001.jpg) The view from my apartment window in Chicago. Could this even be real??\[/caption\]
+\[caption id="attachment\_934" align="aligncenter" width="788"\][![The view from my apartment in Chicago. Could this even be real??](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0001-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0001.jpg) The view from my apartment window in Chicago. Could this even be real??\[/caption\]
 
 #### The internship
 
@@ -159,13 +159,13 @@ By the time my internship finished, I helped contribute to our team's goal of st
 
 #### Everything else
 
-\[caption id="attachment\_935" align="alignright" width="838"\][![When old friends come to visit. Hi Matt!](https://blog.justinwflory.com/wp-content/uploads/2018/02/chicago-matt-justin.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/chicago-matt-justin.jpg) When old friends come to visit. Hi Matt!\[/caption\]
+\[caption id="attachment\_935" align="alignright" width="838"\][![When old friends come to visit. Hi Matt!](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/chicago-matt-justin.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/chicago-matt-justin.jpg) When old friends come to visit. Hi Matt!\[/caption\]
 
 There was more to Chicago than only the work too. Before long, I felt like a true Chicagoan, traveling the subways into the Loop, catching free concerts in [Millennium Park](https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html), and indulging in the Chicago tradition of [deep-dish pizza](https://en.wikipedia.org/wiki/Chicago-style_pizza).
 
 Unlike other cities I've visited, like New York City, Chicago felt easier to integrate into. The culture was notably "slower" than the fast-pace life of NYC, London, or Washington DC. I discovered [Middle Eastern markets](http://www.middleeastbakeryandgrocery.com/) that became a regular part of my weekends, made friends with the baristas at a [local coffeehouse](https://www.intelligentsiacoffee.com/old-town-coffeebar), and had the privilege of hosting friends from three continents for short stays.
 
-\[caption id="attachment\_936" align="aligncenter" width="838"\][![4th of July fireworks on the Navy Pier with Bee](https://blog.justinwflory.com/wp-content/uploads/2018/02/chicago-bee-fireworks.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/chicago-bee-fireworks.jpg) 4th of July fireworks on the Navy Pier with Bee\[/caption\]
+\[caption id="attachment\_936" align="aligncenter" width="838"\][![4th of July fireworks on the Navy Pier with Bee](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/chicago-bee-fireworks.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/chicago-bee-fireworks.jpg) 4th of July fireworks on the Navy Pier with Bee\[/caption\]
 
 I left Chicago and was offered a new contract for the following summer in 2018. I'm looking forward to be back in June again.
 
@@ -195,7 +195,7 @@ More details on this will be found in its own event report!
 
 ## ListenBrainz indie study
 
-In my fall semester of 2017, I took on an [independent study](https://blog.justinwflory.com/tag/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](https://metabrainz.org/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
+In my fall semester of 2017, I took on an [independent study](https://jwfblog.wpenginepowered.com/tag/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](https://metabrainz.org/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
 
 In my independent study, I had a chance to contribute documentation and community tools (like issue / PR templates), as well as explore how the project gathers and builds metrics. I didn't make my original milestone of major code contributions to the project, but I better understood the community and tried to help in the areas of low coverage, like documentation.
 
@@ -207,7 +207,7 @@ At the beginning of 2017, I was brought on board as an [Opensource.com](https://
 
 #### All Things Open 2017
 
-\[caption id="attachment\_939" align="alignright" width="788"\][![Working together with the Opensource.com team to plan out the next year ahead.](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0146-1024x683.jpg)](https://blog.justinwflory.com/wp-content/uploads/2018/02/DSC_0146.jpg) Working together with the Opensource.com team to plan out the next year ahead.\[/caption\]
+\[caption id="attachment\_939" align="alignright" width="788"\][![Working together with the Opensource.com team to plan out the next year ahead.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0146-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/02/DSC_0146.jpg) Working together with the Opensource.com team to plan out the next year ahead.\[/caption\]
 
 I was invited to [All Things Open](https://allthingsopen.org/), an annual open source conference in Raleigh, by the Opensource.com team. The day before the conference, I met the rest of the team and other community moderators at the Red Hat HQ in Raleigh. We spent the day locked into a room together to hash out plans and goals for the next year. It was a productive opportunity for the team to work together and also a great opportunity to meet the other members of the community.
 
@@ -227,7 +227,7 @@ I followed up with the team behind the project to evaluate the impact of this id
 
 You can read more about the challenge in my original blog post. Keep an eye out for it again in 2018.
 
-https://blog.justinwflory.com/2017/04/happiness-packets-challenge/
+https://jwfblog.wpenginepowered.com/2017/04/happiness-packets-challenge/
 
 ## Living openly
 

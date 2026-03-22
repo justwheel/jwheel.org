@@ -94,7 +94,7 @@ After lunch, attendees participated in two hour-long breakout sessions to explor
 
 Longer form notes are available below. I won't go into detail since it has its own document with notes and highlights.
 
-[Human aspects of open source governance - Sustain OSS London 2018](https://blog.justinwflory.com/wp-content/uploads/2018/11/Open-source-human-governance-Sustain-OSS-London-2018.pdf)[Download](https://blog.justinwflory.com/wp-content/uploads/2018/11/Open-source-human-governance-Sustain-OSS-London-2018.pdf)
+[Human aspects of open source governance - Sustain OSS London 2018](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/11/Open-source-human-governance-Sustain-OSS-London-2018.pdf)[Download](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/11/Open-source-human-governance-Sustain-OSS-London-2018.pdf)
 
 ### University engagement
 

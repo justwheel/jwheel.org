@@ -10,7 +10,7 @@ tags:
 coverImage: "digitalism.jpg"
 ---
 
-_Read more of [my poetry](https://blog.jwf.io/category/poems/) on my blog._
+_Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._
 
 * * *
 

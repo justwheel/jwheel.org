@@ -15,7 +15,7 @@ tags:
 coverImage: "tergiversate-abysma-geotic.png"
 ---
 
-_This article is part of my [Tervigersate column](https://blog.justinwflory.com/tag/tergiversate-music-column/) on my blog, where I review albums by musicians spanning multiple genres. Articles introduce an album and give my interpretation of their meaning._
+_This article is part of my [Tervigersate column](https://jwfblog.wpenginepowered.com/tag/tergiversate-music-column/) on my blog, where I review albums by musicians spanning multiple genres. Articles introduce an album and give my interpretation of their meaning._
 
 * * *
 
@@ -27,7 +27,7 @@ The next album to spotlight in [Tergiversate](https://geotic.bandcamp.com/) is *
 
 _Abysma_ was an accidental discovery during a significant experience of my life. At the time, I subscribed to Google Play Music and I would sometimes receive recommendations for new music to listen to. On March 31, 2017, Google Play suggested _Abysma_ as a new release I might like.
 
-At the time, I was living in Dubrovnik, Croatia on a [study abroad exchange](https://blog.justinwflory.com/2018/02/2017-year-review/). The album quickly became one of my favorites for the remaining two months I spent abroad. After returning to the US, I chose not to renew my subscription. Since I never purchased the album, it was conveniently forgotten after I returned.
+At the time, I was living in Dubrovnik, Croatia on a [study abroad exchange](https://jwfblog.wpenginepowered.com/2018/02/2017-year-review/). The album quickly became one of my favorites for the remaining two months I spent abroad. After returning to the US, I chose not to renew my subscription. Since I never purchased the album, it was conveniently forgotten after I returned.
 
 Months later, in October, I reviewed some of my [top albums from 2017](https://www.last.fm/user/jflory7/library/artists) on Last.fm. I came across Geotic on the list and remembered _Abysma_. I decided to buy the album and add it to my library. Since then, the album returned to a regular spot on my listening queue.
 

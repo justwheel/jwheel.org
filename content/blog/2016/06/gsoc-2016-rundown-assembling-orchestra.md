@@ -26,7 +26,7 @@ However, now that automation is present in so much of the Infrastructure through
 
 ## Initial research
 
-[![GSoC 2016: "Ansible For DevOps" as a learning resource](https://blog.justinwflory.com/wp-content/uploads/2016/06/ansible-for-devops-cover-231x300.jpg)](https://blog.justinwflory.com/wp-content/uploads/2016/06/ansible-for-devops-cover.jpg)From the beginning, I've used two resources as guides and instructions for GSoC 2016. "[_Ansible For DevOps_](http://www.ansiblefordevops.com/)", a book by [Jeff Geerling](http://jeffgeerling.com/), has played a significant part in helping bootstrap me with Ansible and the in's and out's. I'm about halfway through the book so far, and it has helped profoundly with learning the technology. Special thanks to [Alex Wacker](http://impactvps.com/about.html) for introducing me to the book!
+[![GSoC 2016: "Ansible For DevOps" as a learning resource](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/ansible-for-devops-cover-231x300.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/ansible-for-devops-cover.jpg)From the beginning, I've used two resources as guides and instructions for GSoC 2016. "[_Ansible For DevOps_](http://www.ansiblefordevops.com/)", a book by [Jeff Geerling](http://jeffgeerling.com/), has played a significant part in helping bootstrap me with Ansible and the in's and out's. I'm about halfway through the book so far, and it has helped profoundly with learning the technology. Special thanks to [Alex Wacker](http://impactvps.com/about.html) for introducing me to the book!
 
 The second resource is, as one would expect, the [Ansible documentation](https://docs.ansible.com/). The documentation for Ansible is complete and fully explanatory. Usually if there is an Ansible-specific concept I am struggling with learning, or finding a module for accomplishing a task, the Ansible documentation helps point me in the right direction quickly.
 
@@ -38,9 +38,9 @@ After making some strides through the book and the documentation, I began turnin
 
 After reading more about Ansible, I began seeing ways I could try automating things in my "normal" setup. This helped give a way to ease myself into Ansible without overwhelming myself with too large of tasks. I created repositories on Pagure for my [personal playbooks](https://pagure.io/jflory7-ansible) and [Minecraft playbooks](https://pagure.io/ccmc-ansible). The very first one I wrote was my "first 30 minutes" on a new machine. [This playbook](https://pagure.io/jflory7-ansible/blob/master/f/playbooks/basic-provisioning/initial-centos-rhel-7-setup.yml) sets up a RHEL / CentOS 7 machine with basic security measures and a few personal preferences ready to go. It's nothing fancy, but it was a satisfying moment to run it in my Vagrant machine and see it do all of my usual tasks on a new machine instantly.
 
-For more information on using Ansible in a Vagrant testing environment, check out [my blog post](https://blog.justinwflory.com/2016/06/setting-vagrant-testing-ansible/) about it below.
+For more information on using Ansible in a Vagrant testing environment, check out [my blog post](https://jwfblog.wpenginepowered.com/2016/06/setting-vagrant-testing-ansible/) about it below.
 
-https://blog.justinwflory.com/2016/06/setting-vagrant-testing-ansible/
+https://jwfblog.wpenginepowered.com/2016/06/setting-vagrant-testing-ansible/
 
 #### Moving to Minecraft
 

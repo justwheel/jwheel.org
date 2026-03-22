@@ -16,7 +16,7 @@ tags:
   - "writing"
 ---
 
-This is an unfinished draft of a blog post I wrote at the end of my study abroad semester in Dubrovnik, Croatia. It was originally written in May or June 2017. It captures some of the perspective and feeling as my semester abroad finished. As I explain in my [2017 year in review](https://blog.justinwflory.com/2018/02/2017-year-review/), this was a profound experience and exposed me to a part of the world unlike my own, yet it felt like a home by the end.
+This is an unfinished draft of a blog post I wrote at the end of my study abroad semester in Dubrovnik, Croatia. It was originally written in May or June 2017. It captures some of the perspective and feeling as my semester abroad finished. As I explain in my [2017 year in review](https://jwfblog.wpenginepowered.com/2018/02/2017-year-review/), this was a profound experience and exposed me to a part of the world unlike my own, yet it felt like a home by the end.
 
 Unfortunately, as I write later in this blog post, the "window of inspiration" to finish this draft has closed. So I figured it better to publish it as-is than to let it waste.
 

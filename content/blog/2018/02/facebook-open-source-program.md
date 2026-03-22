@@ -27,7 +27,7 @@ Open source becomes more common every year, where it appears at [government muni
 
 ## Facebook and open source
 
-\[caption id="attachment\_871" align="alignright" width="788"\][![Some of the projects released as open source by Facebook, including React, GraphQL, Caffe2, and more](https://blog.justinwflory.com/wp-content/uploads/2017/12/blog-article-facebook-open-source-projects-1024x571.png)](https://blog.justinwflory.com/wp-content/uploads/2017/12/blog-article-facebook-open-source-projects.png) Some of the projects released as open source by Facebook, including [React](https://reactjs.org/), [GraphQL](http://graphql.org/), [Caffe2](https://caffe2.ai/), and more\[/caption\]
+\[caption id="attachment\_871" align="alignright" width="788"\][![Some of the projects released as open source by Facebook, including React, GraphQL, Caffe2, and more](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/12/blog-article-facebook-open-source-projects-1024x571.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/12/blog-article-facebook-open-source-projects.png) Some of the projects released as open source by Facebook, including [React](https://reactjs.org/), [GraphQL](http://graphql.org/), [Caffe2](https://caffe2.ai/), and more\[/caption\]
 
 Abernathy explained that open source plays a fundamental role in Facebook's mission to create community and bring the world closer together. The ideological match was a motivational reason for Facebook's participation in open source.
 

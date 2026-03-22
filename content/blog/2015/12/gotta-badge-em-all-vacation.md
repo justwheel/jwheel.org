@@ -12,11 +12,11 @@ tags:
   - "vacation"
 ---
 
-_This article is part of an ongoing series about [how to earn specific Fedora badges](https://blog.justinwflory.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Vacation badge!_
+_This article is part of an ongoing series about [how to earn specific Fedora badges](https://jwfblog.wpenginepowered.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Vacation badge!_
 
 ## "Vacation": What is it?
 
-\[caption id="attachment\_107" align="alignright" width="256"\][![Vacation badge, given to contributors who mark when they're away in a calendar](https://blog.justinwflory.com/wp-content/uploads/2015/12/Vacation-badge.png)](https://blog.justinwflory.com/wp-content/uploads/2015/12/Vacation-badge.png) "Sip the lemonade away (You deserve it for remembering your responsibility)!"\[/caption\]
+\[caption id="attachment\_107" align="alignright" width="256"\][![Vacation badge, given to contributors who mark when they're away in a calendar](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Vacation-badge.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Vacation-badge.png) "Sip the lemonade away (You deserve it for remembering your responsibility)!"\[/caption\]
 
 The [_Vacation_ badge](https://badges.fedoraproject.org/badge/vacation) is categorized as a "Community Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/245). But what's the real scoop behind the _Science_ badge?
 

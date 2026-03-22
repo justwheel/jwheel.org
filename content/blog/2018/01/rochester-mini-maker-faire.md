@@ -30,7 +30,7 @@ On November 18th, the [Free and Open Source Software initiative](http://foss.rit
 
 ## Looking good: Magic mirror and Raspberry Pi
 
-\[caption id="attachment\_848" align="alignright" width="788"\][![Taylor Bowling with the Magic Mirror and Retro Pi at the Rochester Mini Maker Faire 2017](https://blog.justinwflory.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-magic-mirror-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-magic-mirror.jpg) [Taylor Bowling](https://twitter.com/TaylorScott319) with the Magic Mirror and Retro Pi at the Rochester Mini Maker Faire\[/caption\]
+\[caption id="attachment\_848" align="alignright" width="788"\][![Taylor Bowling with the Magic Mirror and Retro Pi at the Rochester Mini Maker Faire 2017](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-magic-mirror-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-magic-mirror.jpg) [Taylor Bowling](https://twitter.com/TaylorScott319) with the Magic Mirror and Retro Pi at the Rochester Mini Maker Faire\[/caption\]
 
 Students from the FOSS@MAGIC initiative presented the [Magic Mirror](https://github.com/MichMich/MagicMirror), a mirror that combines your digital world into your reflection. A Raspberry Pi and salvaged monitor screen sit behind a piece of one-way glass. Through the glass, the mirror shows the time, daily weather report, calendar updates, and more along with your reflection.
 
@@ -60,7 +60,7 @@ RITlug also presented the Spy Pi at the Rochester Mini Maker Faire. The Spy Pi i
 
 In the picture, R2D2 is [carried away](http://www.starwars.com/video/r2-d2-captured-by-jawas) by the Jawas in _Star Wars: A New Hope_. Taylor added two orange LED lights into one of the hooded characters and attached an infrared motion sensor, webcam, and Raspberry Pi into the picture frame. Whenever someone walks in front of the picture frame, the LED "eyes" light up and the webcam takes a picture that's stored to the Raspberry Pi.
 
-\[caption id="attachment\_849" align="aligncenter" width="788"\][![Taylor Bowling stands next to the Spy Pi, a discreet picture frame that takes a picture when it detects movement at the Rochester Mini Maker Faire 2017](https://blog.justinwflory.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-spypi-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-spypi.jpg) [Taylor Bowling](https://twitter.com/TaylorScott319) stands next to the Spy Pi, a discreet picture frame that takes a picture when it detects movement\[/caption\]
+\[caption id="attachment\_849" align="aligncenter" width="788"\][![Taylor Bowling stands next to the Spy Pi, a discreet picture frame that takes a picture when it detects movement at the Rochester Mini Maker Faire 2017](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-spypi-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/ritlug-makerfaire-gameboy-spypi.jpg) [Taylor Bowling](https://twitter.com/TaylorScott319) stands next to the Spy Pi, a discreet picture frame that takes a picture when it detects movement\[/caption\]
 
 Taylor designed the project himself and wrote simple Python scripts to automate using the sensors. His [code is available](https://github.com/TaylorBowling/SpyPi) on GitHub.
 
@@ -70,4 +70,4 @@ This year was the third year for FOSS@MAGIC and first year for the RIT Linux Use
 
 To learn more, visit the websites for [FOSS@MAGIC](http://foss.rit.edu/) and the [RIT Linux Users Group](http://ritlug.com).
 
-\[caption id="attachment\_851" align="aligncenter" width="788"\][![See you at next year's Rochester Mini Maker Faire!](https://blog.justinwflory.com/wp-content/uploads/2017/11/IMG_20171118_082253-e1511219651105-1024x768.jpg)](https://blog.justinwflory.com/wp-content/uploads/2017/11/IMG_20171118_082253.jpg) See you at next year's [Rochester Mini Maker Faire](https://rochester.makerfaire.com/)!\[/caption\]
+\[caption id="attachment\_851" align="aligncenter" width="788"\][![See you at next year's Rochester Mini Maker Faire!](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/IMG_20171118_082253-e1511219651105-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/IMG_20171118_082253.jpg) See you at next year's [Rochester Mini Maker Faire](https://rochester.makerfaire.com/)!\[/caption\]

@@ -18,7 +18,7 @@ _Edit_: I haven't tried this in a while, but this is one of my most popular blog
 
 Thanks to the power of [LetsEncrypt](https://letsencrypt.org/), I recently moved most of my sites over to using HTTPS, or in other words, SSL. I also use [CloudFlare](https://www.cloudflare.com/) for managing most of my sites as well. What I wasn't fully aware of was that CloudFlare also limits scripts to increase performance (among other things). This broke WordPress cron, without my knowledge! How does one fix this issue?
 
-\[caption id="attachment\_96" align="aligncenter" width="772"\][![WordPress cron, CloudFlare, and SSL are not always friends](https://blog.justinwflory.com/wp-content/uploads/2015/12/banner-772x250.png)](https://blog.justinwflory.com/wp-content/uploads/2015/12/banner-772x250.png) CloudFlare is a service that aims to make websites faster and more secure.\[/caption\]
+\[caption id="attachment\_96" align="aligncenter" width="772"\][![WordPress cron, CloudFlare, and SSL are not always friends](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/banner-772x250.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/banner-772x250.png) CloudFlare is a service that aims to make websites faster and more secure.\[/caption\]
 
 <!--more-->
 
@@ -46,7 +46,7 @@ The way to resolve this issue is simple. You need to map your blog's domain or s
 Once you make this change, it's time to test. You can test whether all is functioning by either using the wp-cli test or using `curl` to verify the file is not being blocked.
 
 ```
-$ curl -i https://blog.justinwflory.com/wp-cron.php
+$ curl -i https://jwfblog.wpenginepowered.com/wp-cron.php
 HTTP/1.1 200 OK
 Server: nginx/1.6.3
 Date: Tue, 08 Dec 2015 01:12:47 GMT

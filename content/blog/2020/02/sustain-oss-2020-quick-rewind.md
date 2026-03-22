@@ -33,7 +33,7 @@ The **2020 Sustain Open Source Summit** took place on Thursday, 30 January, 2020
 > 
 > [sustainoss.org/summit-2020/](https://web.archive.org/web/20200218215832/https://sustainoss.org/summit-2020/)
 
-This is my second time attending Sustain OSS (see my [2018 event report](https://blog.justinwflory.com/2018/11/sustain-oss-2018-quick-rewind/)). I attended on behalf of [RIT LibreCorps](https://fossrit.github.io/librecorps/) to represent the sustainability efforts at the [RIT FOSS@MAGIC initiative](https://fossrit.github.io/about/), but also to represent myself as an individual and sustainer in the open source movement. For Sustain OSS 2020, I arrived hoping to learn more about community-first governance models. I left with a lot of notes and the first blueprints for _Principles of Authentic Participation_.
+This is my second time attending Sustain OSS (see my [2018 event report](https://jwfblog.wpenginepowered.com/2018/11/sustain-oss-2018-quick-rewind/)). I attended on behalf of [RIT LibreCorps](https://fossrit.github.io/librecorps/) to represent the sustainability efforts at the [RIT FOSS@MAGIC initiative](https://fossrit.github.io/about/), but also to represent myself as an individual and sustainer in the open source movement. For Sustain OSS 2020, I arrived hoping to learn more about community-first governance models. I left with a lot of notes and the first blueprints for _Principles of Authentic Participation_.
 
 <!--more-->
 
@@ -90,7 +90,7 @@ Most notably, there was a highlighted need for safer spaces for labor organizing
 
 ## Community-first governance models
 
-I came to Sustain OSS 2020 ready to explore community-first governance models. In December, I [published a blog post](https://blog.justinwflory.com/2019/12/why-foss-is-still-not-on-activist-agendas/) on why Free Software is still not on activists' agendas. Free Software outreach often emphasizes technology, not people or ethics. We focus on technology so much, we forget why this movement began in the first place. So, in a world where corporate interests in a project often conflict with interests of grassroots communities, I wanted to know what "community-first governance" really means.
+I came to Sustain OSS 2020 ready to explore community-first governance models. In December, I [published a blog post](https://jwfblog.wpenginepowered.com/2019/12/why-foss-is-still-not-on-activist-agendas/) on why Free Software is still not on activists' agendas. Free Software outreach often emphasizes technology, not people or ethics. We focus on technology so much, we forget why this movement began in the first place. So, in a world where corporate interests in a project often conflict with interests of grassroots communities, I wanted to know what "community-first governance" really means.
 
 For context, I consult with humanitarian organizations and non-profits that want to build community around their open source projects. But from personal experience, I realize community stakeholders need input to decision-making if the community is going to stick around.
 
