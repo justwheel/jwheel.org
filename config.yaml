@@ -83,15 +83,6 @@ menu:
       name: legal
       url: /legal/
       weight: 40
-  social:
-    - identifier: gitlab
-      name: GitLab
-      url: https://gitlab.com/justwheel
-      weight: 10
-    - identifier: github
-      name: GitHub
-      url: https://github.com/justwheel
-      weight: 20
 
 
 # --- custom settings ---
@@ -142,10 +133,10 @@ params:
   taxonomy_exclude: ["footer", "projects"]
   hire_me: false
   social:
-    github_username: justwheel
-    gitlab_username: justwheel
-    lastfm_username: jflory7
-    linkedin_url: jwwheel
+    github: justwheel
+    gitlab: justwheel
+    lastfm: jflory7
+    linkedin: in/jwwheel
 
   # --- layout configuration ---
   layouts:
