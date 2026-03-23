@@ -141,6 +141,7 @@ params:
     gitlab: justwheel
     lastfm: jflory7
     linkedin: in/jwwheel
+  date_format: "2006-01-02"
 
   # --- layout configuration ---
   layouts:
