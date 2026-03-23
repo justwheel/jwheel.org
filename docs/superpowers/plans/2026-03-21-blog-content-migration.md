@@ -139,10 +139,11 @@ Review blog posts for rendering quality on the live site.
 
 ## Phase 5: Pull Request and Merge
 
-- [ ] Rebase `add/blog` onto latest `main`
-- [ ] Create PR with summary of all changes
-- [ ] Final review of rendered site
-- [ ] Merge to `main`
+- [x] Rebase `add/blog` onto latest `main`
+- [x] Create PR with summary of all changes (PR #13)
+- [x] Gemini code review — no issues found
+- [x] Merge to `main` via fast-forward
+- [x] Deployed to production
 
 ---
 
@@ -152,9 +153,9 @@ This plan is designed for iterative work. Each phase and sub-phase can
 be completed in separate sessions. Update the checkboxes as work is
 completed. The plan file itself serves as the living checklist.
 
-**Last updated:** 2026-03-22
-**Status:** Phase 1 complete, Phase 2 audit complete (orphans kept, dedup deferred), Phase 3 not started
+**Last updated:** 2026-03-23
+**Status:** COMPLETE — PR #13 merged, deployed to production
 
-**Note:** Toph submodule has 6+ unaccounted commits (hero partial, social
-registry, a11y fixes) that need a submodule pointer update before the
-blog content PR.
+**Open items:**
+- jwheel.org#12: Replace 24 deleted @jflory7 tweet embeds with local content
+- Caption link artifacts (deferred to early April)
