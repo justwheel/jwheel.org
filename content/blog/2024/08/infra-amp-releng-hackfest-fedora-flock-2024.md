@@ -1,11 +1,12 @@
 ---
-title: "[AI] Infra & Releng Hackfest @ Fedora Flock 2024"
+title: "Infra & Releng Hackfest @ Fedora Flock 2024"
 date: 2024-08-22
-categories: 
+categories:
   - "fedora"
   - "red-hat"
-tags: 
+tags:
   - "2020s"
+  - "ai-assisted"
   - "conferences"
   - "events"
   - "fedora-commops"
@@ -13,7 +14,6 @@ tags:
   - "fedora"
   - "fedora-planet"
   - "flock"
-  - "generated-by-ai"
   - "open-source-communities"
 coverImage: "community-operations-initiative.jpg"
 ---
@@ -32,9 +32,9 @@ Source material: [discussion.fedoraproject.org/t/report-from-infra-and-releng-ha
 
 - **Infra SIG packages:** The workshop reviewed the "infra-sig" package group and identified a need to:
     - Find owners for orphaned packages.
-    
+
     - Onboard new maintainers using Packit.
-    
+
     - Remove inactive members from the group.
 
 - **Release engineering packages:** The group agreed to add a list of release engineering packages to the infra-sig for better management.
