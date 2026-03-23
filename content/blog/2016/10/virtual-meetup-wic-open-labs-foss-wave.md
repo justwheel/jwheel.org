@@ -26,7 +26,7 @@ Over the past year, I've met incredible people from around the world doing great
 
 ## About Open Labs
 
-\[caption id="" align="alignright" width="920"\][![Group photo of attendees at OSCAL 2016 in Tirana, Albania (courtesy of Open Labs)](https://i2.wp.com/oscal.openlabs.cc/wp-content/uploads/2013/10/OSCAL2016GroupPhoto-1.png?w=920)](http://oscal.openlabs.cc/) Group photo of attendees at [OSCAL 2016](http://oscal.openlabs.cc/)\[/caption\]
+![Group photo of attendees at OSCAL 2016 in Tirana, Albania (courtesy of Open Labs)](https://i2.wp.com/oscal.openlabs.cc/wp-content/uploads/2013/10/OSCAL2016GroupPhoto-1.png?w=920 "Group photo of attendees at [OSCAL 2016](http://oscal.openlabs.cc/)")
 
 [Open Labs Albania](https://openlabs.cc/) is a non-profit organization and community based out of [Tirana, Albania](https://en.wikipedia.org/wiki/Tirana). Open Labs focuses on freedom, transparency, and decentralization to empower the community. They support and contribute to a variety of open source projects to tackle local problems. Sometimes, this even includes regional and international issues. Each year, the Open Labs team organizes their annual conference, [OSCAL](http://oscal.openlabs.cc/) (Open Source Conference Albania). Hundreds of people from across Europe gather to "promote software freedom, open source software, free culture and open knowledge". In 2016, over [50% of attendees and 70% of organizers were women](https://eischmann.wordpress.com/2016/05/26/event-report-oscal-2016/), numbers unheard of anywhere else in the world.
 

@@ -17,7 +17,7 @@ tags:
 
 ## Mumble is back in Fedora
 
-\[caption id="attachment\_481" align="alignright" width="200"\][![Mumble, a free and open-source VoIP program](https://communityblog.fedoraproject.org/wp-content/uploads/2015/12/Mumble.png)](https://communityblog.fedoraproject.org/wp-content/uploads/2015/12/Mumble.png) Mumble, a free and open-source VoIP program\[/caption\]
+![Mumble, a free and open-source VoIP program](https://communityblog.fedoraproject.org/wp-content/uploads/2015/12/Mumble.png "Mumble, a free and open-source VoIP program")
 
 The popular Voice Over IP (VoIP) program, [Mumble](http://wiki.mumble.info/wiki/Main_Page), is being repackaged again for Fedora 22 and 23. Fedora contributor [fedpop](https://bodhi.fedoraproject.org/users/fedpop) unretired the package from the Fedora Package Database and is working on getting it added to the stable repositories.
 

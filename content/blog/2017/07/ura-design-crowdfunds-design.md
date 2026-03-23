@@ -23,7 +23,7 @@ coverImage: "ura-design-osdc.png"
 
 The team consists of four people: [Elio Qoshi](https://elioqoshi.me/), [Redon Skikuli](https://redon.skikuli.com/about/), [Giannis Konstantinidis](http://konstantinidis.cc/), and [Anxhelo Lushka](https://lushka.al/). [Ura Design](https://ura.design/) started from an idea. The team believed that many open source projects are full of capabilities and features, but their design can make it difficult for users to effectively use the software. This could be through user experience, branding, or accessibility. And the goal? To help bring these better design principles to open source projects at little to no cost. "In open source, there are amazing projects that are poorly communicated with the outside world. By communication, we mean visual communications, branding, even marketing. That is nonexistent for many reasons. There is a connection between communicating your project well and also getting contributors or users on board," says Skikuli.
 
-\[caption id="attachment\_657" align="aligncenter" width="788"\][![The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka](/blog/2017/06/ura-design-team.png)](/blog/2017/06/ura-design-team.png) The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka\[/caption\]
+![The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka](/blog/2017/06/ura-design-team.png "The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka")
 
 The Ura Design team helps open source projects improve their design so they can focus on great code.
 
@@ -35,7 +35,7 @@ Some of their past projects include [Mozilla](https://www.mozilla.org/en-US/), t
 
 Their Patreon page is part of the reason Ura Design is able to take on some projects at no cost. "Since there are working hours involved, we are asking for people to make small contributions to help us pay living costs, so we work for small projects who apply for free or minimal design support from us. This is our way of supporting some open source initiatives that we think are worth it," says Skikuli. Right now, they have 22 backers to the project, which lets them cover most infrastructure costs. Some of the goals for the team now is to expand into photography to release work into the public domain.
 
-\[caption id="attachment\_661" align="aligncenter" width="788"\][![Ura Design Patreon page](/blog/2017/06/ura-patreon-screenshot.png)](/blog/2017/06/ura-patreon-screenshot.png) Ura Design Patreon: https://patreon.com/ura\[/caption\]
+![Ura Design Patreon page](/blog/2017/06/ura-patreon-screenshot.png "Ura Design Patreon: https://patreon.com/ura")
 
 ## Past projects
 
@@ -51,7 +51,7 @@ For Mozilla, Qoshi had an existing relationship with Mozilla as a contributor. H
 
 Working with the Tor Project was a unique experience for Ura Design. The Tor Project was looking at rebranding the entire project. The end goal was to try to improve the accessibility of the project by incorporating good design elements.
 
-\[caption id="attachment\_654" align="alignleft" width="152"\][![Tor Project rebranding by Ura Design](/blog/2017/05/tor-logo.png)](/blog/2017/05/tor-logo.png) Part of the new branding used by the Tor Project\[/caption\]
+![Tor Project rebranding by Ura Design](/blog/2017/05/tor-logo.png "Part of the new branding used by the Tor Project")
 
 Together with the Tor Project leadership, Ura Design helped lead the rebranding of the project. This included graphical assets, logos, and corporate identity. Today, you can see the new branding featured across Tor's web presence online. There are still plans to continue to roll these changes out over the coming year.
 

@@ -37,7 +37,7 @@ Having a team for newcomers or new recruits is helpful to have in place beforeha
 
 If someone is in your organization, make sure you encourage them to show it off! By default, GitHub sets the team member visibility to private. Unless a member of the organization sets themselves as public, they won't appear as a part of the organization to visitors.
 
-\[caption id="" align="alignright" width="978"\]![Publicize a GitHub membership](https://slack-imgs.com/?c=1&url=https%3A%2F%2Fi.jwf.io%2Fu%2F6631b7d25bbbdfa9033a2d922912fddd.png) "People" page of an organization - this is where you publicize a GitHub membership\[/caption\]
+![Publicize a GitHub membership](https://slack-imgs.com/?c=1&url=https%3A%2F%2Fi.jwf.io%2Fu%2F6631b7d25bbbdfa9033a2d922912fddd.png "\"People\" page of an organization - this is where you publicize a GitHub membership")
 
 Publicizing your membership is an underestimated step in bringing new contributors in. It's even helpful for older members too. By publicizing memberships, you are giving faces and real people to characterize your organization. If someone finds your organization in a search or in a link, it looks better to have rows of people associated with the group. The alternative of a team with what looks like no members implies your club is inactive. It can also make your club look smaller than it is. Additionally, individual team members also get to show off your organization on their individual profiles. This is helpful for anyone visiting their profile for activities or programming experience. For university students, this is helpful for applying for co-ops or internships.
 
@@ -45,7 +45,7 @@ To make a membership visible, the organization member has to go to the "People" 
 
 ## Consider repository for tasks
 
-\[caption id="" align="alignright" width="3600"\]![The FOSS@MAGIC ](https://camo.githubusercontent.com/4a034f0e6a4db65dc0d7779e1752256572174182/68747470733a2f2f692e696d6775722e636f6d2f77566b327771302e6a7067) The [FOSS@MAGIC](http://foss.rit.edu/) "family dinner", organized with an issue tracker\[/caption\]
+![The FOSS@MAGIC ](https://camo.githubusercontent.com/4a034f0e6a4db65dc0d7779e1752256572174182/68747470733a2f2f692e696d6775722e636f6d2f77566b327771302e6a7067 "The [FOSS@MAGIC](http://foss.rit.edu/) \"family dinner\", organized with an issue tracker")
 
 While not essential, a repository for real-life tasks or issues in a club can be a helpful planning tool. It also makes it easy for people to see what the club or group is working on. This promotes the idea of transparent and open leadership. You can use labels to tag issues for specific types of work or committees. Milestones are useful for deadlines or goals the group is working towards. The new _Projects_ feature may also be useful in a repository for real-life task management.
 

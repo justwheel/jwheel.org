@@ -16,7 +16,7 @@ _This article is part of an ongoing series about [how to earn specific Fedora ba
 
 ## "Vacation": What is it?
 
-\[caption id="attachment\_107" align="alignright" width="256"\][![Vacation badge, given to contributors who mark when they're away in a calendar](/blog/2015/12/Vacation-badge.png)](/blog/2015/12/Vacation-badge.png) "Sip the lemonade away (You deserve it for remembering your responsibility)!"\[/caption\]
+![Vacation badge, given to contributors who mark when they're away in a calendar](/blog/2015/12/Vacation-badge.png "\"Sip the lemonade away (You deserve it for remembering your responsibility)!\"")
 
 The [_Vacation_ badge](https://badges.fedoraproject.org/badge/vacation) is categorized as a "Community Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/245). But what's the real scoop behind the _Science_ badge?
 

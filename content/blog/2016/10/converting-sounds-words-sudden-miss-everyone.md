@@ -23,7 +23,7 @@ Converting the sounds of music into words is a difficult task. It is more diffic
 
 Explosions in the Sky (further referred to as EITS) leaves the listener with the album artwork to shape the mood and direction of the album. The artwork features a man peering over a boat amidst what appears to be a flooded city. His lantern dimly lights a reflection in the water. Fallen electricity poles and flooded buildings scatter the horizon. A mix of other artwork is accompanied in the full album artwork with the vinyl edition. Surrounding the image of the man in the boat are various other images, circling around the center like memories. One is of a ghostly-colored woman playing a piano, another of two children watching television late at night. Another is a dog with a flashlight running towards a person, one final basketball match lit by the sunset, and a man celebrating alone with a cake.
 
-\[caption id="attachment\_470" align="aligncenter" width="1000"\][![Additional artwork from "All of a Sudden I Miss Everyone" sleeve cover by Explosions in the Sky](/blog/2016/10/All-of-a-Sudden-I-Miss-Everyone-sleeve-cover.jpg)](/blog/2016/10/All-of-a-Sudden-I-Miss-Everyone-sleeve-cover.jpg) Additional artwork from "All of a Sudden I Miss Everyone" sleeve cover\[/caption\]
+![Additional artwork from "All of a Sudden I Miss Everyone" sleeve cover by Explosions in the Sky](/blog/2016/10/All-of-a-Sudden-I-Miss-Everyone-sleeve-cover.jpg "Additional artwork from \"All of a Sudden I Miss Everyone\" sleeve cover")
 
 These images seem irrelevant to each other, but all of them connect back to the main image in the center: the primary cover of _All of a Sudden I Miss Everyone_. Each of the six additional images accompanies one of the six tracks on the album. The man is searching for these lost memories in the sea of regret and desire. The tides have risen far beyond normal and now he is the only survivor. Even though he does not drown in the waves of "have-nots" and wistful wishing, he is lost. Like a mountaineer without a compass, the protagonist of this album is seeking to rid himself of the loneliness that he finds himself immersed in.
 
@@ -61,4 +61,4 @@ You can find this album at any of the following sources… happy listening.
 - [Amazon](https://www.amazon.com/ALL-SUDDEN-MISS-EVERYON-Vinyl/dp/B000MCH54U/)
 - [iTunes](https://itunes.apple.com/us/album/all-of-a-sudden-i-miss-everyone/id319136556) (pls no)
 
-\[embed\]https://youtu.be/Gq681aDM53U\[/embed\]
+{{< youtube Gq681aDM53U >}}

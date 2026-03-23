@@ -26,6 +26,6 @@ The only area I hope to stay partially active with is the [Fedora Magazine](http
 
 I'm looking forward to seeing familiar faces again in August!
 
-\[caption id="attachment\_591" align="aligncenter" width="788"\][![Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY](/img/Flock-2015-Strong-Museum-of-Play.jpg)](/img/Flock-2015-Strong-Museum-of-Play.jpg) Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY\[/caption\]
+![Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY](/img/Flock-2015-Strong-Museum-of-Play.jpg "Fedora Flock 2015 at the Strong Museum of Play in Rochester, NY")
 
-\[caption id="attachment\_592" align="aligncenter" width="788"\][![Fedora Flock 2016 in Kraków, Poland](/img/flock-group-photo-2_28739637620_o.jpg)](/img/flock-group-photo-2_28739637620_o.jpg) Fedora Flock 2016 in Kraków, Poland\[/caption\]
+![Fedora Flock 2016 in Kraków, Poland](/img/flock-group-photo-2_28739637620_o.jpg "Fedora Flock 2016 in Kraków, Poland")

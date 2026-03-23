@@ -18,7 +18,7 @@ tags:
 
 On the night of April 15th, 2016, I officially became a hacker.
 
-\[caption id="" align="aligncenter" width="500"\]![Ever wonder what being a hacker is all about? Wonder no more.](http://i.giphy.com/bW3QwqNXw07RK.gif) Ever wonder what being a hacker is all about? Wonder no more.\[/caption\]
+![Ever wonder what being a hacker is all about? Wonder no more.](http://i.giphy.com/bW3QwqNXw07RK.gif "Ever wonder what being a hacker is all about? Wonder no more.")
 
 <!--more-->
 
@@ -36,7 +36,7 @@ There was no better time than the present.
 
 ## Why be hacker
 
-\[caption id="" align="alignright" width="488"\]![We only dreamed of having hacker skills like Crash Override and Acid Burn.](http://i.giphy.com/k8j9FutKtJeRa.gif) We only dreamed of having hacker skills like Crash Override and Acid Burn.\[/caption\]
+![We only dreamed of having hacker skills like Crash Override and Acid Burn.](http://i.giphy.com/k8j9FutKtJeRa.gif "We only dreamed of having hacker skills like Crash Override and Acid Burn.")
 
 The cultural influence of the '90s is clearly present in the movie. When we were viewing it, the movie was clearly written by a [writer](http://www.imdb.com/name/nm0604360/) with as much experience with computers as the actors playing the parts. The stereotypes were laid thicker than molasses with the crossing of the "high school troublemaker" and the "tough punk" to define the hacker "mentality" of the characters. The [director](http://www.imdb.com/name/nm0812200/) probably used a nephew, niece, or other cousin who "sat in front of a computer all day" as the inspiration for driving the characters and plot forward. It would be surprising if anyone who had ever used a computer or knew anything more than just using them for text documents and spreadsheets was involved in the creative process.
 
@@ -78,4 +78,4 @@ To demonstrate our understanding of the movie, we had a brief showing of our own
 
 I am submitting this blog post as my Meetup #3 for the [Humanitarian Free and Open Source Software Development](https://hfoss-ritjoe.rhcloud.com/) course at the [Rochester Institute of Technology](https://www.rit.edu/). I hope to help spread the hacker culture perpetuated by this film by possibly planning a late night screening of _Hackers_ at the [NASA Space Apps Challenge 2016](https://2016.spaceappschallenge.org/locations/rochester-ny-usa) at RIT, if possible.
 
-\[caption id="" align="aligncenter" width="500"\]!["Hack the planet! Hack the planet!"](http://i.giphy.com/Q2W4hziDOyzu0.gif) "Hack the planet! Hack the planet!"\[/caption\]
+!["Hack the planet! Hack the planet!"](http://i.giphy.com/Q2W4hziDOyzu0.gif "\"Hack the planet! Hack the planet!\"")

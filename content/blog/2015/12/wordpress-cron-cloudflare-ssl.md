@@ -1,9 +1,9 @@
 ---
 title: "WordPress Cron, CloudFlare, and SSL"
 date: 2015-12-16
-categories: 
+categories:
   - "tech"
-tags: 
+tags:
   - "bugfix"
   - "cloudflare"
   - "encryption"
@@ -18,7 +18,7 @@ _Edit_: I haven't tried this in a while, but this is one of my most popular blog
 
 Thanks to the power of [LetsEncrypt](https://letsencrypt.org/), I recently moved most of my sites over to using HTTPS, or in other words, SSL. I also use [CloudFlare](https://www.cloudflare.com/) for managing most of my sites as well. What I wasn't fully aware of was that CloudFlare also limits scripts to increase performance (among other things). This broke WordPress cron, without my knowledge! How does one fix this issue?
 
-\[caption id="attachment\_96" align="aligncenter" width="772"\][![WordPress cron, CloudFlare, and SSL are not always friends](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/banner-772x250.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/banner-772x250.png) CloudFlare is a service that aims to make websites faster and more secure.\[/caption\]
+![WordPress cron, CloudFlare, and SSL are not always friends](/blog/2015/12/cloudflare-banner.png "CloudFlare is a service that aims to make websites faster and more secure.")
 
 <!--more-->
 
@@ -59,7 +59,7 @@ X-Powered-By: PHP/5.4.16
 Alternatively, if you chose to use the wp-cli utility, you should try running the cron test command. Your output should be similar.
 
 ```
-$ wp cron test 
+$ wp cron test
 Success: WP-Cron spawning is working as expected.
 ```
 

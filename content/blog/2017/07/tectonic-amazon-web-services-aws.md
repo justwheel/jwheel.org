@@ -38,7 +38,7 @@ Tectonic is a commercial product offered by [CoreOS](https://coreos.com/), the p
 
 If we think about Kubernetes as a cake like we did before with three layers, Tectonic is like the box you set it in. Now, you can take your cake anywhere, move it around, and stack it with other cakes-in-a-box. All of your cakes are in their own boxes and you don't have to worry about them accidentally being damaged. If you're still a little confused, this diagram might help make more sense of it.
 
-\[caption id="attachment\_17848" align="aligncenter" width="350"\]![Understanding where CoreOS Tectonic fits into the Kubernetes puzzle](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/platform-features.png) Understanding where Tectonic fits into the Kubernetes puzzle. From [coreos.com/tectonic](https://coreos.com/tectonic/)\[/caption\]
+![Understanding where CoreOS Tectonic fits into the Kubernetes puzzle](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/platform-features.png "Understanding where Tectonic fits into the Kubernetes puzzle. From [coreos.com/tectonic](https://coreos.com/tectonic/)")
 
 Fortunately, Tectonic has a free license that lets you use it for ten nodes. In this example, we'll register, get a free license, and deploy it into AWS.
 
@@ -62,7 +62,7 @@ The first things we'll do is set up our domain with Route 53 in AWS. Route 53 ca
 
 #### Add your domain
 
-\[caption id="attachment\_17849" align="alignright" width="283"\]![Adding a new domain to AWS Route 53 for Tectonic](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-add-domain-route-53-283x300.png) Adding a new domain to AWS Route 53 for Tectonic\[/caption\]
+![Adding a new domain to AWS Route 53 for Tectonic](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-add-domain-route-53-283x300.png "Adding a new domain to AWS Route 53 for Tectonic")
 
 To add your domain to Route 53, follow these steps from AWS.
 
@@ -147,7 +147,7 @@ Now execute the installer binary. After running this, a new browser window will 
 ./linux/installer
 ```
 
-\[caption id="attachment\_17850" align="aligncenter" width="857"\]![Now we're ready to deploy Tectonic into AWS!](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-installer-aws.png) Now we're ready to deploy Tectonic into AWS!\[/caption\]
+![Now we're ready to deploy Tectonic into AWS!](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-installer-aws.png "Now we're ready to deploy Tectonic into AWS!")
 
 #### Running the installer
 
@@ -161,9 +161,9 @@ Once you finish the installation successfully, your Tectonic installation will b
 
 Once you're logged in, you should see something like this.
 
-\[caption id="attachment\_17851" align="aligncenter" width="1350"\]![Looking at a freshly installed Tectonic status page on AWS](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-status-page.png) Looking at a freshly installed Tectonic status page on AWS\[/caption\]
+![Looking at a freshly installed Tectonic status page on AWS](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/tectonic-status-page.png "Looking at a freshly installed Tectonic status page on AWS")
 
-\[caption id="attachment\_17852" align="aligncenter" width="2434"\]![A more advanced use case of what Tectonic can do with monitoring](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/prometheus-monitoring.png) A more advanced use case of what Tectonic can do with monitoring\[/caption\]
+![A more advanced use case of what Tectonic can do with monitoring](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/prometheus-monitoring.png "A more advanced use case of what Tectonic can do with monitoring")
 
 ## Blow it all away!
 

@@ -11,7 +11,7 @@ tags:
   - "open-source"
 ---
 
-\[caption id="" align="alignright" width="150"\][![What is Open Source? - Steve Weber](http://steveweber.typepad.com/.a/6a00d83423046e53ef00e55004c30a8833-150wi)](https://en.wikipedia.org/wiki/Steven_Weber_%28professor%29) Steve Weber\[/caption\]
+![What is Open Source? - Steve Weber](http://steveweber.typepad.com/.a/6a00d83423046e53ef00e55004c30a8833-150wi "Steve Weber")
 
 This blog post is part of an assignment for my [Humanitarian Free and Open Source Software Development](https://hfoss-ritjoe.rhcloud.com/) course at the [Rochester Institute of Technology](https://www.rit.edu/). For this assignment, we are tasked with reading Chapter 3 of Steve Weber's "_[The Success of Open Source](https://hfoss-ritjoe.rhcloud.com/static/books/Weber-SuccessofOpenSource-Chap3.pdf)_". The summary of the reading is found below.
 

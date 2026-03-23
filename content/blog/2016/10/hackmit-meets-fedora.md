@@ -33,7 +33,7 @@ https://communityblog.fedoraproject.org/hackmit-meets-fedora/
 
 The Fedora team arrived in Massachusetts a day early on Friday to ensure prompt arrival at the event the following morning. Fedora was one of the first sponsors to arrive on MIT's campus Saturday morning, and scouted one of the best positions on the floor. Fedora was given a choice of anywhere in the bleachers surrounding the floor. As a result, the team set up Fedora's banners close to many of the tables where hackers would spend the weekend.
 
-\[caption id="attachment\_2577" align="aligncenter" width="4032"\][![Fedora setup at HackMIT 2016](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Fedora-booth-compressed.jpg)](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Fedora-booth-compressed.jpg) The Fedora setup at HackMIT 2016\[/caption\]
+![Fedora setup at HackMIT 2016](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Fedora-booth-compressed.jpg "The Fedora setup at HackMIT 2016")
 
 On the morning of the first day, over a thousand students arrived on the MIT campus. Around 10:00am, the kickoff ceremony began in the main auditorium. The event staff introduced themselves and the structure of the event. After covering the basics, every sponsor was given a 30 second "elevator pitch" to explain their company or project, and share anything important with the hackers. Justin represented Fedora and Red Hat on stage to introduce Fedora and what Fedora wanted to help students with. He introduced Fedora as a distribution targeted towards developers, briefly introduced the [three editions](https://getfedora.org/) of Fedora, and offered help for anyone wanting to open source their hack or seek support with open source tooling.
 
@@ -45,7 +45,7 @@ Overall, the demographic of people attending the hackathon were generally famili
 
 ## Personal engagement
 
-\[caption id="attachment\_2579" align="alignright" width="4032"\][![MeTime team demos project at HackMIT to Fedora](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/MeTime-team-compressed.jpg)](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/MeTime-team-compressed.jpg) The MeTime team demos their product to Charles before the last judgment\[/caption\]
+![MeTime team demos project at HackMIT to Fedora](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/MeTime-team-compressed.jpg "The MeTime team demos their product to Charles before the last judgment")
 
 During the event, Charles walked around the various tables to talk with students while Justin manned the Fedora area. Charles introduced himself to the hackers and asked to know what they were working on or what their plans were. For many teams, he provided advice on how to get over hurdles with first planning and project direction. He checked back in with these groups across the weekend to see how they progressed.
 
@@ -55,7 +55,7 @@ Additionally, there were two students organizing other hackathons in the country
 
 ## Evaluating impact
 
-\[caption id="attachment\_2580" align="alignright" width="4032"\][![May Tomic works on her team's project, Conversationalist at HackMIT](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Charles-and-May-compressed.jpg)](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Charles-and-May-compressed.jpg) [May Tomic](https://github.com/ValerieMayTomic) works on her team's project, [Conversationalist](https://github.com/solkiim/conversationalist)\[/caption\]
+![May Tomic works on her team's project, Conversationalist at HackMIT](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/Charles-and-May-compressed.jpg "[May Tomic](https://github.com/ValerieMayTomic) works on her team's project, [Conversationalist](https://github.com/solkiim/conversationalist)")
 
 To help gauge our impact with the event, there was a limited edition [HackMIT 2016 Attendee](https://badges.fedoraproject.org/badge/hackmit-2016-attendee) badge that attendees could claim during the event. The team leveraged [Fedora Badges](https://badges.fedoraproject.org/about) as a tool to help tell the story of our impact at the event. Through Badges, you can see a list of FAS accounts that claimed the badge from the event and their account activity in the long run. [Bee Padalkar](https://fedoraproject.org/wiki/User:Bee2502)'s [FOSDEM event evaluation](https://networksfordata.wordpress.com/2016/03/08/fedora-at-fosdem/) demonstrates how this data can be used. Ten people claimed the badge during the weekend. One of the benefits of using badges as a tool for measuring impact and engagement is the follow-up it allows us to make with what badge claimers do in the Fedora community.
 
@@ -63,7 +63,7 @@ However, there were more ways to measure engagement with the students and hacker
 
 #### What was our engagement?
 
-\[caption id="attachment\_2583" align="alignleft" width="256"\][![HackMIT 2016 Attendee Fedora badge](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/events-hackmit-2016.png)](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/events-hackmit-2016.png) The [HackMIT 2016 Attendee](https://badges.fedoraproject.org/badge/hackmit-2016-attendee) Fedora badge\[/caption\]
+![HackMIT 2016 Attendee Fedora badge](https://1504253206.rsc.cdn77.org/wp-content/uploads/2016/09/events-hackmit-2016.png "The [HackMIT 2016 Attendee](https://badges.fedoraproject.org/badge/hackmit-2016-attendee) Fedora badge")
 
 The type of interactions and conversations Fedora held with students and other attendees was productive and motivating, not only to the students but also to the Ambassador team. People were genuinely interested in Fedora and it was easier to shape their interest into an insightful discussion about what Fedora enables students to create and develop. A powerful message about open source software development was also delivered during the event. This stands in contrast to some other hackathons in the United States which are sometimes set up more like unofficial career fairs. HackMIT clearly held a strong focus on community. Events with that kind of management and direction are where Fedora succeeds and has a more valuable impact.
 

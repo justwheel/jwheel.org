@@ -13,7 +13,7 @@ tags:
   - "sugar-on-a-stick"
 ---
 
-\[caption id="" align="alignright" width="2841"\][![XO laptop used by the One Laptop Per Child (OLPC) program](https://upload.wikimedia.org/wikipedia/commons/4/42/XO-Beta1-mikemcgregor-2.jpg)](https://upload.wikimedia.org/wikipedia/commons/4/42/XO-Beta1-mikemcgregor-2.jpg) The XO laptop deployed by the One Laptop Per Child (OLPC) program\[/caption\]
+![XO laptop used by the One Laptop Per Child (OLPC) program](https://upload.wikimedia.org/wikipedia/commons/4/42/XO-Beta1-mikemcgregor-2.jpg "The XO laptop deployed by the One Laptop Per Child (OLPC) program")
 
 For the next homework assignment in my [Humanitarian Free and Open Source Software Development](https://hfoss-ritjoe.rhcloud.com/) (HFOSS) course, we were tasked with running a [smoke test](http://wiki.laptop.org/go/Smoke_test/11.2.x/1_hour_smoke_test) of the [XO laptops](https://en.wikipedia.org/wiki/OLPC_XO) we are assigned for class. Some of the laptops are notoriously more broken than others. Seeing as how some of these date to around ten years ago, it's easy to understand how they have been become more defunct over the years.
 

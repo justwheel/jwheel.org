@@ -38,13 +38,13 @@ I put in my RSVP.
 
 In an opportunistic stroke of fate, I would spend my extended layover for my first time in Dublin learning and listening about role model women in the Irish medicine community. I didn't know it yet, but I would also take part in writing some of the history too!
 
-\[caption id="attachment\_992" align="aligncenter" width="788"\][![Group photo of the participants and editors for the 2018 International Women's Day edit-a-thon](/blog/2018/03/wikimedia-ireland-iwd-2018-group-photo.jpg)](/blog/2018/03/wikimedia-ireland-iwd-2018-group-photo.jpg) Group photo of the participants and editors for the 2018 International Women's Day edit-a-thon. _Source_: [Twitter, @RCSILibrary](https://twitter.com/RCSILibrary/status/971690890900262912)\[/caption\]
+![Group photo of the participants and editors for the 2018 International Women's Day edit-a-thon](/blog/2018/03/wikimedia-ireland-iwd-2018-group-photo.jpg "Group photo of the participants and editors for the 2018 International Women's Day edit-a-thon. _Source_: [Twitter, @RCSILibrary](https://twitter.com/RCSILibrary/status/971690890900262912)")
 
 ## #WomenOnWalls
 
 The first part of the morning was an introduction to editing on Wikipedia and establishing the focus for edits.
 
-\[caption id="attachment\_997" align="alignright" width="768"\][![Manuscript letters of support by men from the RCSI archive for women being admitted to medical schools and accepted into the British Medical Association. #HeForShe! ](/blog/2018/03/wikimedia-ireland-iwd-2018-support-for-women.jpg)](/blog/2018/03/wikimedia-ireland-iwd-2018-support-for-women.jpg) Manuscript letters of support by men from the RCSI archive for women being admitted to medical schools and accepted into the British Medical Association. #HeForShe! _Source_: [Twitter, @RCSILibrary](https://twitter.com/RCSILibrary/status/971718664025268224)\[/caption\]
+![Manuscript letters of support by men from the RCSI archive for women being admitted to medical schools and accepted into the British Medical Association. #HeForShe! ](/blog/2018/03/wikimedia-ireland-iwd-2018-support-for-women.jpg "Manuscript letters of support by men from the RCSI archive for women being admitted to medical schools and accepted into the British Medical Association. #HeForShe! _Source_: [Twitter, @RCSILibrary](https://twitter.com/RCSILibrary/status/971718664025268224)")
 
 The [Royal College of Surgeons in Ireland](https://www.rcsi.com/dublin/) (RCSI) started a new campaign to promote influential women in the history of the university. There is a historical board room in a prominent place on its campus. Inside the board room, there are portraits of influential people in the history of RCSI. But all of them are men. This makes it difficult for women to have role models or inspiration of women like them who "made it" in science and medicine.
 
@@ -58,7 +58,7 @@ After an introduction to the sources available and how to edit on Wikipedia, we 
 
 Since I had some experience with Mediawiki mark-up and do a lot of writing, I decided to write a new page. There were a list of suggested women alumnae to write about. After [hearing about Victoria Coffey](https://www.irishtimes.com/life-and-style/health-family/the-female-trailblazers-of-irish-medicine-1.3405003), I decided to focus my two hours of writing on her legacy.
 
-\[caption id="attachment\_994" align="aligncenter" width="788"\][![Project coordinator for Wikimedia Ireland, Rebecca O'Neill, introduces Wikipedia to students, librarians, and faculty (and me!)](/blog/2018/03/wikimedia-ireland-iwd-2018-intro-to-editing.jpg)](/blog/2018/03/wikimedia-ireland-iwd-2018-intro-to-editing.jpg) Project coordinator for Wikimedia Ireland, [Rebecca O'Neill](https://twitter.com/restlesscurator), introduces Wikipedia to students, librarians, and faculty (and me!). _Source_: [Twitter, @DrConorMalone](https://twitter.com/DrConorMalone/status/971699419841253377)\[/caption\]
+![Project coordinator for Wikimedia Ireland, Rebecca O'Neill, introduces Wikipedia to students, librarians, and faculty (and me!)](/blog/2018/03/wikimedia-ireland-iwd-2018-intro-to-editing.jpg "Project coordinator for Wikimedia Ireland, [Rebecca O'Neill](https://twitter.com/restlesscurator), introduces Wikipedia to students, librarians, and faculty (and me!). _Source_: [Twitter, @DrConorMalone](https://twitter.com/DrConorMalone/status/971699419841253377)")
 
 #### Who is Victoria Coffey?
 

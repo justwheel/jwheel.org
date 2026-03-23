@@ -15,7 +15,7 @@ tags:
 
 <!--more-->
 
-\[caption id="" align="alignright" width="500"\]![This is the year of the desktop, guys… this time… I promise…](http://cdn.meme.am/instances/500x/57403630.jpg) This is the year of the desktop, guys… this time… I promise…\[/caption\]
+![This is the year of the desktop, guys… this time… I promise…](http://cdn.meme.am/instances/500x/57403630.jpg "This is the year of the desktop, guys… this time… I promise…")
 
 # The Negatives
 

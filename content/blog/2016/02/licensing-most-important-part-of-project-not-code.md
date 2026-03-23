@@ -14,7 +14,7 @@ tags:
   - "things-you-should-know-understand"
 ---
 
-\[caption id="" align="alignright" width="327"\][![Open-source licensing: how does it affect your work?](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Puzzly_sharing_%28from_licensing_tutorial%29.svg/327px-Puzzly_sharing_%28from_licensing_tutorial%29.svg.png)](https://en.wikipedia.org/wiki/Open-source_license) Open-source licensing: how does it affect your work?\[/caption\]
+![Open-source licensing: how does it affect your work?](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Puzzly_sharing_%28from_licensing_tutorial%29.svg/327px-Puzzly_sharing_%28from_licensing_tutorial%29.svg.png "Open-source licensing: how does it affect your work?")
 
 Today's entry to the blog is sourced from a thread that I posted on the [SpigotMC Forums](https://www.spigotmc.org/threads/the-most-important-part-of-your-project-might-not-even-be-a-line-of-code.121682/). If you wish to join in the discussion about this, feel free to chime in on the thread or leave a comment on my blog. In this post, I covered licensing, licenses, and why your open-source software project should have a license. You can read my original post in this blog entry.
 
@@ -66,7 +66,7 @@ Exploring that site is a great reference for picking a license. However, in this
 
 #### MIT License
 
-\[caption id="" align="alignright" width="135"\][![Open-sourcing licensing: the MIT License is the most relaxed](https://upload.wikimedia.org/wikipedia/commons/c/c3/License_icon-mit.svg)](https://opensource.org/licenses/MIT) The MIT License may be the most relaxed open-source license available today\[/caption\]
+![Open-sourcing licensing: the MIT License is the most relaxed](https://upload.wikimedia.org/wikipedia/commons/c/c3/License_icon-mit.svg "The MIT License may be the most relaxed open-source license available today")
 
 The MIT License is almost universally regarded as one of the least strict licenses in open source. You can read more about it [here](https://tldrlegal.com/license/mit-license).
 
@@ -91,7 +91,7 @@ You must:
 
 #### Apache License 2.0
 
-\[caption id="" align="alignright" width="429"\][![Open-source licensing: the Apache License 2.0 offers more than MIT License](http://www.apache.org/img/asf_logo.png)](https://www.apache.org/licenses/) Slightly stricter than the MIT License, the Apache License 2.0 offers more protection to the author\[/caption\]
+![Open-source licensing: the Apache License 2.0 offers more than MIT License](http://www.apache.org/img/asf_logo.png "Slightly stricter than the MIT License, the Apache License 2.0 offers more protection to the author")
 
 The Apache License 2.0 is only slightly more restrictive than the MIT License, but it defines a few more rules than the MIT License. This can be useful if you want to make sure your work is given proper credit back to you and you care a little more about how it's used. You can read more [here](https://tldrlegal.com/license/apache-license-2.0-%28apache-2.0%29).
 
@@ -115,7 +115,7 @@ You must:
 
 #### Mozilla Public License 2.0
 
-\[caption id="" align="alignleft" width="520"\][![Open-source licensing: Introducing the Mozilla Public License 2.0](https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/OSCD_MPL_520x292_FINAL.png?itok=ELAkrGpF)](https://www.mozilla.org/en-US/MPL/) Introducing the Mozilla Public License 2.0\[/caption\]
+![Open-source licensing: Introducing the Mozilla Public License 2.0](https://opensource.com/sites/default/files/styles/image-full-size/public/images/law/OSCD_MPL_520x292_FINAL.png?itok=ELAkrGpF "Introducing the Mozilla Public License 2.0")
 
 The next step up from the Apache License 2.0 is the Mozilla Public License 2.0. This license has the same basic rights as the Apache License 2.0, but it goes a little more in-depth about how the code can be re-used. This is my personal favorite license! You can read more [here](https://tldrlegal.com/license/mozilla-public-license-2.0-%28mpl-2%29).
 
@@ -137,7 +137,7 @@ You must:
 
 #### GNU Public License v3
 
-\[caption id="" align="alignright" width="720"\][![Open-source licensing: the GNU Public License v3](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg)](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_3) Open-source licensing: the GNU Public License v3\[/caption\]
+![Open-source licensing: the GNU Public License v3](https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg "Open-source licensing: the GNU Public License v3")
 
 The GNU Public License v3, also known as the GPLv3, is one of the most well-known and strict licenses in open-source. It has very specific rules for how the code can be used and shared, and leaves a lot of control over to the author. In a sense, it's "after" the MPL 2.0, but it also has some key differences. You can read more about it [here](https://tldrlegal.com/license/gnu-general-public-license-v3-%28gpl-3%29).
 

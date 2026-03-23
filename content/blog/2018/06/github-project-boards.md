@@ -33,7 +33,7 @@ Here's three tips from the UNICEF Office of Innovation on how to organize your o
 
 Transparency is a critical part of an open source community. When mapping out new features or milestones for a project, the community needs to see and understand a decision or why a specific direction was chosen. Filing new GitHub issues for features and milestones is an easy way for someone to follow the project direction. GitHub issues and pull requests are the cards (or building blocks) of project boards. To be successful with GitHub project boards, you need to use issues and pull requests.
 
-\[caption id="attachment\_979" align="alignright" width="978"\][![GitHub issues for the front-end application of MagicBox, magicbox-maps](/blog/2018/03/Screenshot-2018-3-13-Fix-similar-code-issue-in-react-app-src-components-WebglLayer-jsx-·-Issue-62-·-unicef-magicbox-maps.png)](/blog/2018/03/Screenshot-2018-3-13-Fix-similar-code-issue-in-react-app-src-components-WebglLayer-jsx-·-Issue-62-·-unicef-magicbox-maps.png) GitHub issues for the front-end application of MagicBox, magicbox-maps\[/caption\]
+![GitHub issues for the front-end application of MagicBox, magicbox-maps](/blog/2018/03/Screenshot-2018-3-13-Fix-similar-code-issue-in-react-app-src-components-WebglLayer-jsx-·-Issue-62-·-unicef-magicbox-maps.png "GitHub issues for the front-end application of MagicBox, magicbox-maps")
 
 The UNICEF MagicBox team uses GitHub issues to track on-going development milestones and other tasks to revisit in the future. The team files new GitHub issues for development goals, feature requests, or bugs. These goals or features may come from external stakeholders or from the community. We use the issues as a place for discussion on those tasks too. This makes it easy to cross-reference in the future and visualize upcoming work on one of our projects.
 
@@ -56,7 +56,7 @@ Project boards are found on your GitHub organization page or on a specific repos
 
 There, you can set a name and description for the project. You can also choose from templates to set up basic columns and sorting for your board. As of writing, the only options are for [kanban-style boards](https://en.wikipedia.org/wiki/Kanban_\(development\)).
 
-\[caption id="attachment\_981" align="aligncenter" width="659"\][![Create a new GitHub project board for your open source project](/blog/2018/03/Screenshot-2018-3-13-unicef-magicbox-maps.png)](/blog/2018/03/Screenshot-2018-3-13-unicef-magicbox-maps.png) Create a new project board\[/caption\]
+![Create a new GitHub project board for your open source project](/blog/2018/03/Screenshot-2018-3-13-unicef-magicbox-maps.png "Create a new project board")
 
 After creating the project board, you can make adjustments to the project board as needed. You can create new columns, [set up automation](https://help.github.com/articles/about-automation-for-project-boards/), and add pre-existing GitHub issues and pull requests to the project board.
 
@@ -70,7 +70,7 @@ If you are an open source project and community, consider using the project boar
 
 Once you begin using the project board, yours may look like this!
 
-\[caption id="attachment\_980" align="aligncenter" width="788"\][![Development progress board for all UNICEF MagicBox repositories in organization-wide GitHub project boards](/blog/2018/03/Screenshot-2018-3-13-Build-software-better-together.png)](/blog/2018/03/Screenshot-2018-3-13-Build-software-better-together.png) Development progress board for all UNICEF MagicBox repositories in an organization-wide GitHub project board\[/caption\]
+![Development progress board for all UNICEF MagicBox repositories in organization-wide GitHub project boards](/blog/2018/03/Screenshot-2018-3-13-Build-software-better-together.png "Development progress board for all UNICEF MagicBox repositories in an organization-wide GitHub project board")
 
 ## Open alternatives
 

@@ -126,7 +126,7 @@ fedrepo-req brightlight \
 
 This created a [new ticket](https://pagure.io/releng/fedora-scm-requests/issue/2489) for me in the [fedora-scm-requests](https://pagure.io/releng/fedora-scm-requests) repo. The next day, an admin [created the repository](https://src.fedoraproject.org/rpms/brightlight) for me. Now, I was in business!
 
-\[caption id="attachment\_789" align="aligncenter" width="788"\][![My first RPM in Fedora dist-git – woohoo!](/blog/2017/11/Screenshot-from-2017-11-05-19-58-47.png)](/blog/2017/11/Screenshot-from-2017-11-05-19-58-47.png) My [first RPM](https://src.fedoraproject.org/rpms/brightlight) in Fedora dist-git – woohoo!\[/caption\]
+![My first RPM in Fedora dist-git – woohoo!](/blog/2017/11/Screenshot-from-2017-11-05-19-58-47.png "My [first RPM](https://src.fedoraproject.org/rpms/brightlight) in Fedora dist-git – woohoo!")
 
 #### Working with dist-git
 

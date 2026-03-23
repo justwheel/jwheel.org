@@ -32,7 +32,7 @@ Hatchit is written in C/C++ and licensed in a mix between GPL and LGPL. Original
 
 Guerrette remembers a specific type of task he wanted to accomplish with Hatchit. In the game editor, he wanted to be able to construct a render pass instead of having the engine handle it internally. An earlier project had motivated the need for this feature. By being able to create the render passes in real time, a developer would be able to create something like a custom shader that bends vertices into straight, geometric shapes in real-time. His earlier project, Mineshaft Mayhem, demonstrates this concept with how the mineshaft seems to be warping and turning, but the tunnels are actually straight in the editor.
 
-\[embed\]https://www.youtube.com/watch?v=tzLMCVoDDGs\[/embed\]
+{{< youtube tzLMCVoDDGs >}}
 
 You can find more videos of Guerrette's work on his [YouTube channel](https://www.youtube.com/channel/UC5HDOa8-y1loj3SUm4Zxzyw).
 

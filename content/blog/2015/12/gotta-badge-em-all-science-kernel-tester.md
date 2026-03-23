@@ -16,7 +16,7 @@ _This article is part of an ongoing series about [how to earn specific Fedora ba
 
 ## "Science": What is it?
 
-\[caption id="attachment\_103" align="alignright" width="256"\][![Science badge, given to Fedora kernel testers](/blog/2015/12/Science-Kernel-Tester-badge.png)](/blog/2015/12/Science-Kernel-Tester-badge.png) "You completed a run of the kernel regression test suite"\[/caption\]
+![Science badge, given to Fedora kernel testers](/blog/2015/12/Science-Kernel-Tester-badge.png "\"You completed a run of the kernel regression test suite\"")
 
 The [_Science_ badge](https://badges.fedoraproject.org/badge/science-kernel-tester-i) is categorized as a "Quality \[Assurance\] Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/155). But what's the real scoop behind the _Science_ badge?
 

@@ -49,4 +49,4 @@ This reflection came after a bike ride. The rides are typically my most reflecti
 
 A special thanks to Thich Nhat Hahn and this El Ten Eleven track for guiding my thoughts while writing:
 
-https://youtu.be/7hFjAu6\_CSo
+{{< youtube 7hFjAu6_CSo >}}

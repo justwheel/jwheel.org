@@ -69,7 +69,7 @@ This move came months after I ended a semester of a study abroad program and liv
 
 ## Croatia: Study abroad
 
-\[caption id="attachment\_921" align="alignright" width="768"\][![Saying goodbye to my mom and sister at the airport before flying to Dubrovnik](/blog/2018/02/photo_2017-01-17_19-09-11.jpg)](/blog/2018/02/photo_2017-01-17_19-09-11.jpg) Saying goodbye to my mom and sister at the airport before flying to Dubrovnik\[/caption\]
+![Saying goodbye to my mom and sister at the airport before flying to Dubrovnik](/blog/2018/02/photo_2017-01-17_19-09-11.jpg "Saying goodbye to my mom and sister at the airport before flying to Dubrovnik")
 
 From January to May 2017, I participated in a study abroad program with my university to [Dubrovnik, Croatia](https://en.wikipedia.org/wiki/Dubrovnik). RIT has full campuses in both Zagreb and Dubrovnik. This made planning the semester abroad easy, but also encouraged me to go somewhere I might not have gone otherwise.
 
@@ -79,7 +79,7 @@ My choice to study in Croatia was well-rewarded. On paper, I earned 12 credit ho
 
 At the beginning of the year, the Fedora [Diversity Team](https://fedoraproject.org/wiki/Diversity) held a "Fedora Activity Day" (FAD) event in Brno, Czechia. If you're outside of the Fedora community, think of a FAD as a focused, in-person team sprint. Together with our team in-person and remote, we mapped out our goals and plans for 2017 and set out to continue the work we began nearly three years ago.
 
-\[caption id="attachment\_923" align="aligncenter" width="788"\][![](/blog/2018/02/DSC_0031.jpg)](/blog/2018/02/DSC_0031.jpg) Diversity Team group photo at our team sprint in Brno, Czechia\[/caption\]
+![](/blog/2018/02/DSC_0031.jpg "Diversity Team group photo at our team sprint in Brno, Czechia")
 
 In addition to the work we accomplished together, it was fulfilling for me to see my teammates that span three continents. I spent a week with not only my teammates but also my friends. The days we get to spend together are a privileged few in the year, and it was fulfilling and motivating for me to spend some of our time together in a way that wasn't Pagure tickets or IRC meetings.
 
@@ -89,7 +89,7 @@ https://communityblog.fedoraproject.org/fedora-diversity-fad-2017/
 
 #### FOSDEM 2017
 
-\[caption id="" align="alignright" width="4000"\]![I didn't get many photos during FOSDEM, but this one seemed fitting enough.](https://i.imgur.com/MwwPknD.jpg) I didn't get many photos during FOSDEM, but this one seemed fitting enough. Photo: Bhagyashree Padalkar\[/caption\]
+![I didn't get many photos during FOSDEM, but this one seemed fitting enough.](https://i.imgur.com/MwwPknD.jpg "I didn't get many photos during FOSDEM, but this one seemed fitting enough. Photo: Bhagyashree Padalkar")
 
 In February, I attended the Free and Open Source Software Developers European Meeting (FOSDEM) for the first time. [FOSDEM](https://fosdem.org) is the largest open source conference in Europe, bringing together over 8,000 open source enthusiasts, contributors, and leaders from around the globe.
 
@@ -103,11 +103,11 @@ Outside of open source and Fedora, my time in Croatia included a lot of time out
 
 ###### Sarajevo
 
-\[caption id="attachment\_926" align="aligncenter" width="788"\][![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](/blog/2018/02/DSC_0033.jpg)](/blog/2018/02/DSC_0033.jpg) Taken from the [Yellow Bastion](https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.\[/caption\]
+![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](/blog/2018/02/DSC_0033.jpg "Taken from the [Yellow Bastion](https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.")
 
 The three days I spent in Sarajevo were short but significant. I was truly alone on this visit and it was up to me to make the most of it. Originally, I was skeptical to go alone, but I knew that I would never have a better opportunity to go. My fascination with Sarajevo stemmed from a year of studying European history in high school, and knowing the cultural significance of Sarajevo as a meeting point of western and eastern cultures. In the end, I decided to go, and I was rewarded for it.
 
-\[caption id="" align="alignright" width="4000"\]![Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.](https://i.imgur.com/eLj9O40.jpg) Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.\[/caption\]
+![Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.](https://i.imgur.com/eLj9O40.jpg "Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.")
 
 Most of my trip in Sarajevo consisted of museums. I visited various museums, ranging from eighteenth to twentieth century history. The most rewarding for me were the [Galerija 11/07/95](http://galerija110795.ba/) and the [Tunnel of Sarajevo](https://en.wikipedia.org/wiki/Sarajevo_Tunnel). The gallery documented the [Srebrenica genocide](https://en.wikipedia.org/wiki/Srebrenica_massacre) in July 1995 by the Serbian armed forces. The exhibit was eye-opening and perspective-shifting. The Tunnel of Sarajevo, sometimes called the Tunnel of Hope, is another perspective-shattering experience. The museum introduces the tunnel used during the siege of Sarajevo during the 1990s, when Serbian forces surrounded the city for an almost [four-year siege](https://en.wikipedia.org/wiki/Siege_of_Sarajevo). The tunnel was the only way for citizens and resistance forces to contact the outside world and keep the resistance alive. A small part of the tunnel is preserved, and the other artifacts make it a gripping experience (not to mention it's a short drive out of the city, so you also have a chance to mentally prepare and later unpack the experience).
 
@@ -115,7 +115,7 @@ Most of my trip in Sarajevo consisted of museums. I visited various museums, ran
 
 I visited Tirana, Albania four times on my trip abroad. In Tirana, my heart was captured by the people there. For years, I read about the [Open Labs Hackerspace](https://openlabs.cc/en/) community based in Tirana and I always imagined an opportunity to see it in person. I actually remember my first encounter with their community was an [Ada Lovelace Day event report](https://blog.azizaj.com/ada-lovelace-day/). And somehow, the circumstances shifted where I was able to meet their community and immerse myself in the culture, if only for a short time.
 
-\[caption id="attachment\_930" align="aligncenter" width="788"\][![My visits to Tirana are best defined by the people who impacted my time there.](/blog/2018/02/DSC_0187.jpg)](/blog/2018/02/DSC_0187.jpg) My visits to Tirana are best defined by the people who impacted my time there.\[/caption\]
+![My visits to Tirana are best defined by the people who impacted my time there.](/blog/2018/02/DSC_0187.jpg "My visits to Tirana are best defined by the people who impacted my time there.")
 
 During my times in Tirana, I participated in the [first-ever 48 hour hackathon](https://opensource.com/article/17/3/open-labs-48-hour-hackathon-albania) to support the UN's [Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html) (SDGs), the first edition of [Linux Weekend](https://fedoramagazine.org/students-fedora-linux-weekend-2017/), and the annual [Open Source Conference Albania](https://oscal.openlabs.cc/) (OSCAL).
 
@@ -129,19 +129,19 @@ At the end of my study abroad experience in Croatia, a unique opportunity presen
 
 I booked the tickets.
 
-\[caption id="" align="alignright" width="4000"\]![Witnessing a tradition on my final day in Mumbai.](https://i.imgur.com/yBioeCg.jpg) Witnessing a tradition on my final day in Mumbai.\[/caption\]
+![Witnessing a tradition on my final day in Mumbai.](https://i.imgur.com/yBioeCg.jpg "Witnessing a tradition on my final day in Mumbai.")
 
 The last day of my classes finally came, and the next day, I was traveling further east, to [Mumbai](https://en.wikipedia.org/wiki/Mumbai) (or Bombay, if you prefer). I had the great fortune of having two great friends who invited me to the homes of their families during my trip. I visited Bee in Mumbai and Amita in Pune, all split across a single week!
 
 My trip to India was eye-opening. For years, I've had a fascination with Eastern culture and philosophy, but it was something completely different to experience. Bee and her family took me to the [Global Vipassana Pagoda](https://en.wikipedia.org/wiki/Global_Vipassana_Pagoda), a personally fulfilling experience for me. We visited the [Bandra–Worli Sea Link](https://en.wikipedia.org/wiki/Bandra%E2%80%93Worli_Sea_Link), [Shree Mahalakshmi Temple](https://goo.gl/maps/5kthSFfZmBJ2), and several other places in Mumbai. I remember walking through the streets more than anything.
 
-\[caption id="attachment\_931" align="aligncenter" width="788"\][![The Bandra–Worli Sea Link. This may have been one of my best photos.](/blog/2018/02/DSC_0037.jpg)](/blog/2018/02/DSC_0037.jpg) The Bandra–Worli Sea Link. This may have been one of my best photos.\[/caption\]
+![The Bandra–Worli Sea Link. This may have been one of my best photos.](/blog/2018/02/DSC_0037.jpg "The Bandra–Worli Sea Link. This may have been one of my best photos.")
 
-\[caption id="attachment\_932" align="aligncenter" width="788"\][![Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee](/blog/2018/02/DSC_0018.jpg)](/blog/2018/02/DSC_0018.jpg) Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee\[/caption\]
+![Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee](/blog/2018/02/DSC_0018.jpg "Together at the gurdwara in Pune. Left to right: Prakash Mishra, me, Amita Sharma, Sumantro Mukherjee")
 
 In Pune, Amita and her family showed me their favorite places. I had a chance to meet many other Fedora friends in Pune too. One of my favorite memories of Pune was a historic [gurdwara](https://en.wikipedia.org/wiki/Gurdwara). Amita took me and the others in our group to visit. For a moment, I finally got to see something I've only read about right in front of my eyes. The history and reverence in these places was absorbed into my mind.
 
-\[caption id="attachment\_933" align="aligncenter" width="788"\][![Definitely not proper zazen posture. But a cool shot anyways.](/blog/2018/02/DSC_0048.jpg)](/blog/2018/02/DSC_0048.jpg) Definitely not proper zazen posture. But a cool shot anyways. Photo: Amita Sharma\[/caption\]
+![Definitely not proper zazen posture. But a cool shot anyways.](/blog/2018/02/DSC_0048.jpg "Definitely not proper zazen posture. But a cool shot anyways. Photo: Amita Sharma")
 
 I never expected an Indian visa stamp in my passport in 2017, yet it happened. I'm equally filled with wonder at how the circumstances unfolded as I am grateful this experience sneaked into my year.
 
@@ -149,7 +149,7 @@ I never expected an Indian visa stamp in my passport in 2017, yet it happened. I
 
 After my semester abroad and visiting India, I was whisked back to the United States, only to pack up once again for another new experience. From June to August, I lived in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago) to work an internship at [Jump Trading](http://jumptrading.com/). Chicago had a feeling of nostalgia for me because much of my father's family has origins tracing back to Chicago. But I would find myself losing more of my heart in Chicago than I realized.
 
-\[caption id="attachment\_934" align="aligncenter" width="788"\][![The view from my apartment in Chicago. Could this even be real??](/blog/2018/02/DSC_0001.jpg)](/blog/2018/02/DSC_0001.jpg) The view from my apartment window in Chicago. Could this even be real??\[/caption\]
+![The view from my apartment in Chicago. Could this even be real??](/blog/2018/02/DSC_0001.jpg "The view from my apartment window in Chicago. Could this even be real??")
 
 #### The internship
 
@@ -159,13 +159,13 @@ By the time my internship finished, I helped contribute to our team's goal of st
 
 #### Everything else
 
-\[caption id="attachment\_935" align="alignright" width="838"\][![When old friends come to visit. Hi Matt!](/blog/2018/02/chicago-matt-justin.jpg)](/blog/2018/02/chicago-matt-justin.jpg) When old friends come to visit. Hi Matt!\[/caption\]
+![When old friends come to visit. Hi Matt!](/blog/2018/02/chicago-matt-justin.jpg "When old friends come to visit. Hi Matt!")
 
 There was more to Chicago than only the work too. Before long, I felt like a true Chicagoan, traveling the subways into the Loop, catching free concerts in [Millennium Park](https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html), and indulging in the Chicago tradition of [deep-dish pizza](https://en.wikipedia.org/wiki/Chicago-style_pizza).
 
 Unlike other cities I've visited, like New York City, Chicago felt easier to integrate into. The culture was notably "slower" than the fast-pace life of NYC, London, or Washington DC. I discovered [Middle Eastern markets](http://www.middleeastbakeryandgrocery.com/) that became a regular part of my weekends, made friends with the baristas at a [local coffeehouse](https://www.intelligentsiacoffee.com/old-town-coffeebar), and had the privilege of hosting friends from three continents for short stays.
 
-\[caption id="attachment\_936" align="aligncenter" width="838"\][![4th of July fireworks on the Navy Pier with Bee](/blog/2018/02/chicago-bee-fireworks.jpg)](/blog/2018/02/chicago-bee-fireworks.jpg) 4th of July fireworks on the Navy Pier with Bee\[/caption\]
+![4th of July fireworks on the Navy Pier with Bee](/blog/2018/02/chicago-bee-fireworks.jpg "4th of July fireworks on the Navy Pier with Bee")
 
 I left Chicago and was offered a new contract for the following summer in 2018. I'm looking forward to be back in June again.
 
@@ -207,7 +207,7 @@ At the beginning of 2017, I was brought on board as an [Opensource.com](https://
 
 #### All Things Open 2017
 
-\[caption id="attachment\_939" align="alignright" width="788"\][![Working together with the Opensource.com team to plan out the next year ahead.](/blog/2018/02/DSC_0146.jpg)](/blog/2018/02/DSC_0146.jpg) Working together with the Opensource.com team to plan out the next year ahead.\[/caption\]
+![Working together with the Opensource.com team to plan out the next year ahead.](/blog/2018/02/DSC_0146.jpg "Working together with the Opensource.com team to plan out the next year ahead.")
 
 I was invited to [All Things Open](https://allthingsopen.org/), an annual open source conference in Raleigh, by the Opensource.com team. The day before the conference, I met the rest of the team and other community moderators at the Red Hat HQ in Raleigh. We spent the day locked into a room together to hash out plans and goals for the next year. It was a productive opportunity for the team to work together and also a great opportunity to meet the other members of the community.
 
