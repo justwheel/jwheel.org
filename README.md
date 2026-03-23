@@ -1,8 +1,8 @@
 [jwheel.org](https://jwheel.org)
 ================================
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Deploy Hugo site to GitHub Pages](https://github.com/justwheel/jwheel.org/actions/workflows/hugo.yaml/badge.svg)](https://github.com/justwheel/jwheel.org/actions/workflows/hugo.yaml)
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
 Personal website, blog, and project portfolio for Justin Wheeler.
 
@@ -29,7 +29,7 @@ The theme is developed in a separate repository:
 
 ### Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) 0.157.0 or later
+- [Hugo Extended](https://gohugo.io/installation/) 0.158.0 or later
 - [Asciidoctor](https://asciidoctor.org/) (for AsciiDoc content)
 - Git (for submodule management)
 
@@ -74,11 +74,12 @@ Hugo automatically links them together and displays language switcher navigation
 
 ## Legal
 
-Licensed under the [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) (MPL-2.0) or any later version published by the Mozilla Foundation.
+Content in this repository is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) (CC BY-NC-SA 4.0) license.
 
-Under the MPL-2.0:
+Under CC BY-NC-SA 4.0:
 
-- You are free to use, modify, and distribute this code.
-- Modified files must be released under the same MPL-2.0 license.
-- You may combine MPL-licensed code with code under other licenses (including proprietary) in a larger work, as long as MPL-licensed files remain under MPL-2.0.
-- The license applies to the source code (templates, CSS, configuration). Blog post content and personal information are not licensed for redistribution.
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+The [Toph theme](https://github.com/justwheel/toph-hugo-theme) is licensed separately under [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/).
