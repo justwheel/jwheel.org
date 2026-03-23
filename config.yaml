@@ -93,6 +93,7 @@ menu:
 params:
   biography:
     name: Justin Wheeler
+    tagline: "Building the human infrastructure of open source"
     gender: Male
     email: contact@jwheel.org
     blog: https://jwheel.org/blog/
