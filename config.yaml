@@ -143,6 +143,11 @@ params:
     lastfm: jflory7
     linkedin: in/jwwheel
   date_format: "2006-01-02"
+  legal:
+    license:
+      name: "CC BY-NC-SA 4.0"
+      url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+      title: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
 
   # --- layout configuration ---
   layouts:
