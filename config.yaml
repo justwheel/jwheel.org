@@ -95,7 +95,7 @@ params:
     name: Justin Wheeler
     gender: Male
     email: contact@jwheel.org
-    blog: https://blog.jwf.io
+    blog: https://jwheel.org/blog/
     first_online: 2014
     knows_about: [
       "Ansible",

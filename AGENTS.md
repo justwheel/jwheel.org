@@ -50,11 +50,11 @@ Structural categories (`footer`, `projects`) are filtered from taxonomy pages vi
 
 ## Blog Migration — COMPLETE
 
-The `content/blog/` directory contains 173 blog posts migrated from WordPress (`blog.jwf.io`). The migration is complete (PR #13). All WordPress, CDN, and third-party image URLs have been eliminated. Images are stored alongside posts, YouTube/Twitter embeds use Hugo shortcodes, and captions use inline Markdown title syntax with bare URLs auto-linked by Goldmark.
+The `content/blog/` directory contains 173 blog posts migrated from WordPress (formerly `blog.jwf.io`). The migration is complete (PR #13). All WordPress, CDN, and third-party image URLs have been eliminated. Images are stored alongside posts, YouTube/Twitter embeds use Hugo shortcodes, and captions use inline Markdown title syntax with bare URLs auto-linked by Goldmark.
 
 ### URL Preservation (NEVER BREAK)
 
-**File names in `content/blog/` MUST NEVER BE CHANGED UNDER ANY CIRCUMSTANCES.** Once a blog post is "published", its URL is permanent. The URL schema (`/blog/YYYY/MM/slug/`) is a 1:1 match with the previous WordPress URL structure at `blog.jwf.io`. This enables proxy-level traffic redirection from `blog.jwf.io` to `jwheel.org/blog/` without any URL breakage. Renaming, moving, or restructuring any existing blog file would break this redirect mapping.
+**File names in `content/blog/` MUST NEVER BE CHANGED UNDER ANY CIRCUMSTANCES.** Once a blog post is "published", its URL is permanent. The URL schema (`/blog/YYYY/MM/slug/`) is a 1:1 match with the previous WordPress URL structure (formerly at `blog.jwf.io`). This enables proxy-level traffic redirection to `jwheel.org/blog/` without any URL breakage. Renaming, moving, or restructuring any existing blog file would break this redirect mapping.
 
 ## Configuration
 
