@@ -251,13 +251,13 @@ I _am_ biased when I say this is one of my favorite parts of conferences I go to
 
 Instead of listening to me, see what other people have to say about it:
 
-https://twitter.com/mary\_grace/status/1221075300584448000
+{{< x user="mary_grace" id="1221075300584448000" >}}
 
-https://twitter.com/devconf\_cz/status/1221026710969298947
+{{< x user="devconf_cz" id="1221026710969298947" >}}
 
-https://twitter.com/jonatoni/status/1221076375081062400
+{{< x user="jonatoni" id="1221076375081062400" >}}
 
-https://twitter.com/freaky\_mortal/status/1221366223381778434
+{{< x user="freaky_mortal" id="1221366223381778434" >}}
 
 ### From Outreachy to cancer research
 
@@ -271,7 +271,7 @@ This was a favorite of the weekend. "Fedora Outreachy intern Lenka Segura on how
 
 I put effort into live-tweeting a Twitter thread. Get the full scoop there!
 
-https://twitter.com/jflory7/status/1221372453777264640
+{{< x user="jflory7" id="1221372453777264640" >}}
 
 ### Connect and grow your community through meetups
 
@@ -309,24 +309,7 @@ While the sessions are excellent and fulfilling (and sometimes frustrating when 
 
 I spent a few extra days before and after DevConf CZ in Brno. In some of that time, my colleague [Mike Nolan](https://nolski.rocks/) and I rehearsed in-person for our FOSDEM talk the following weekend (to come in a future blog post). I also enjoyed coffee and waffles with Marie, Sumantro, and Misc!
 
-<figure>
-
-- [![](/blog/2020/02/IMG_20200124_212601881_HDR-scaled.jpg)](/blog/2020/02/IMG_20200124_212601881_HDR-scaled.jpg)
-    
-- [![](/blog/2020/02/IMG_20200124_212616232-rotated.jpg)](/blog/2020/02/IMG_20200124_212616232-rotated.jpg)
-    
-- [![](/blog/2020/02/IMG_20200129_105148632_HDR-scaled.jpg)](/blog/2020/02/IMG_20200129_105148632_HDR-scaled.jpg)
-    
-- [![](/blog/2020/02/IMG_20200129_124253219.jpg)](/blog/2020/02/IMG_20200129_124253219.jpg)
-    
-
-<figcaption>
-
-A few memories of a great week in Brno
-
-</figcaption>
-
-</figure>
+![](/blog/2020/02/IMG_20200124_212601881_HDR-scaled.jpg "A few memories of a great week in Brno")
 
 ## Until next time!
 

@@ -26,7 +26,7 @@ As I made my way through border control in Dublin, Ireland on March 7, I discove
 
 While waiting in airport queues, a friend happened to retweet a local event happening in Dublin the next day.
 
-https://twitter.com/WikimediaIE/status/970674510608437249
+{{< x user="WikimediaIE" id="970674510608437249" >}}
 
 The event was a [local Wikimedia meet-up](https://www.eventbrite.ie/e/wikipedia-editathon-rcsi-female-firsts-tickets-43324480688) to celebrate [International Women's Day](https://www.internationalwomensday.com/). Participants would create and edit Wikipedia pages for influential women in the history of the [Royal College of Surgeons in Ireland](https://www.rcsi.com/dublin/). After digging deeper, I found out the event was 30 minutes away from my hotel from 09:30 to 12:30. My flight was at 16:10.
 
@@ -80,4 +80,4 @@ Thank you for this great experience, [RCSI](https://www.rcsi.com/dublin/) and [W
 
 I'm not sure if this will make me anticipate flight cancellations more or less from now on.
 
-https://twitter.com/jflory7/status/971731790024073217
+{{< x user="jflory7" id="971731790024073217" >}}

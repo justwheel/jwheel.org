@@ -20,4 +20,4 @@ tags:
 
 — [Dr. Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.) (1967)
 
-https://twitter.com/BerniceKing/status/1205164478003855361
+{{< x user="BerniceKing" id="1205164478003855361" >}}

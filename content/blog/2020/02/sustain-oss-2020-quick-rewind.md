@@ -49,7 +49,7 @@ If you're here for the quick overview, this is it.
 
 I loved Sustain OSS 2020 because it is a unique collection of people from various backgrounds in the Free/Open Source movement. Both old and new folks, software engineers and designers, open source program office folks and the FOSS lawyers, all together in one room. Perhaps the best part for me is leaving with a sense of empowerment and connection to a bigger movement of people.
 
-https://twitter.com/jflory7/status/1223002706618585095
+{{< x user="jflory7" id="1223002706618585095" >}}
 
 ### Speed breakout sessions
 

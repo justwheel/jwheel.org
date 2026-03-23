@@ -16,6 +16,9 @@ enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: false
 googleAnalytics: G-7YT6EE93RQ
+# Suppress warnings for X/Twitter embeds from deleted accounts (see #12)
+ignoreLogs:
+  - shortcode-x-getremote
 
 
 # --- taxonomies and pagination ---

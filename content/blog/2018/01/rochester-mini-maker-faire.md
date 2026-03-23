@@ -48,7 +48,7 @@ A demo is available [here](https://learnit-demo.herokuapp.com/) and the source i
 
 Members of the RIT Linux Users Group also presented TigerOS, a custom Linux operating system for students, faculty, and staff of Rochester Institute of Technology. One of the project goals is to offer an installer based on major across all RIT majors. After picking your major, TigerOS installs and configures all the software used by the department or major.
 
-https://twitter.com/RITlug/status/931952653998940160
+{{< x user="RITlug" id="931952653998940160" >}}
 
 Development on TigerOS began when student [Aidan Kahrs](https://axk4545.github.io/) picked up an abandoned project from past RIT students. After building a team, they set out to revive the project over the last year. To date, an early beta is available and efforts are going towards building an automatic CI build system and updating to Fedora 27.
 

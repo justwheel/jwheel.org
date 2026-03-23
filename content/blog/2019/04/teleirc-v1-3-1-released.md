@@ -35,7 +35,7 @@ Special thanks and appreciation goes to [Tim Zabel](https://www.linkedin.com/in/
 
 Additionally, contributor documentation improved. I added [contributor guidelines](https://github.com/RITlug/teleirc/blob/master/.github/CONTRIBUTING.md) and instructions to set up a development environment. Also, our friends at [Ura Design](https://ura.design/) designed our new project logo. Thanks to Ura, we have an awesome project logo and stickers in time for [Imagine RIT 2019](https://www.rit.edu/imagine/) later this month!
 
-https://twitter.com/RITlug/status/1118641571291901952
+{{< x user="RITlug" id="1118641571291901952" >}}
 
 ## TeleIRC v1.3.1: sprint retrospective
 

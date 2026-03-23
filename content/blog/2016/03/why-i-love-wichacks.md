@@ -34,8 +34,7 @@ After an opening keynote by the WiCHacks committee leader [Susan Heilman](https:
 
 For those who had never programmed before, there was a special Newbie Track that aimed to help teach some of the basics. It helped give girls who didn't know anything about programming a booster to also create something during the weekend.
 
-<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en" style="text-align: center;">GO HACKERS GO! There are 117 people listed as apart of teams already make sure you register your team <a href="https://twitter.com/hashtag/wichacks?src=hash">#wichacks</a> <a href="https://twitter.com/hashtag/soundoff?src=hash">#soundoff</a></p><p style="text-align: center;">— WiCHacks (@wichacks) <a href="https://twitter.com/wichacks/status/703695663289278464">February 27, 2016</a></p></blockquote>
-<script src="//platform.twitter.com/widgets.js" async charset="utf-8"></script>
+{{< x user="wichacks" id="703695663289278464" >}}
 
 After lunch, the hacking began! Teams could go into a room and have access to whiteboards, plenty of chairs, and outlets to charge devices. If needed, Major League Hacking also had a hardware lab where people could rent out laptops and other accessories during WiCHacks.
 
@@ -53,13 +52,7 @@ Their project would be known as [OpenCircle](https://github.com/Open-Circle/WicH
 
 I was envious that I wasn't there for the rest of the evening. Later on that night, Insomnia Cookies delivered to the hackathon. There was also a spontaneous dance party in the atrium of Golisano. Next year, I'll have to make sure I'm able to stay for the entire night!
 
-> What's better than an impromptu dance party at [@wichacks](https://twitter.com/wichacks)? [@RITWIC](https://twitter.com/RITWIC) [#wichacks16](https://twitter.com/hashtag/wichacks16?src=hash) [pic.twitter.com/NvvTZC4scO](https://t.co/NvvTZC4scO)
-> 
-> — Major League Hacking (@MLHacks) [February 28, 2016](https://twitter.com/MLHacks/status/703783084957835264)
-
-## 
-
-<script src="//platform.twitter.com/widgets.js" async charset="utf-8"></script>
+{{< x user="MLHacks" id="703783084957835264" >}}
 
 Closing out WiCHacks 2016
 

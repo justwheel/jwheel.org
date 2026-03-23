@@ -55,7 +55,7 @@ However, it is worth noting this paper was written in support of Singularity. It
 
 _Edit_: This situation already changed and Charliecloud is probably worth a deeper look:
 
-https://twitter.com/SingularityApp/status/1163846727700344834
+{{< x user="SingularityApp" id="1163846727700344834" >}}
 
 ## Shifter
 

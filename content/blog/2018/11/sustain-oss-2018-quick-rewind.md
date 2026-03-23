@@ -84,7 +84,7 @@ The model used by [MetaBrainz](https://metabrainz.org/about) essentially as a da
 
 The Amazon invoice cake is also an amusing story, but you should ask Robert directly about it.
 
-https://twitter.com/BoingBoing/status/408710714053128192
+{{< x user="BoingBoing" id="408710714053128192" >}}
 
 ## Hour breakout sessions
 

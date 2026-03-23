@@ -209,17 +209,17 @@ I want to explore this one deeper. It takes more effort to practice active inclu
 
 Did I live-tweet this one? You bet.
 
-https://twitter.com/jflory7/status/1223976797559279617
+{{< x user="jflory7" id="1223976797559279617" >}}
 
-https://twitter.com/jflory7/status/1223983156073844739
+{{< x user="jflory7" id="1223983156073844739" >}}
 
-https://twitter.com/jflory7/status/1223983786171551755
+{{< x user="jflory7" id="1223983786171551755" >}}
 
-https://twitter.com/jflory7/status/1223984214741278722
+{{< x user="jflory7" id="1223984214741278722" >}}
 
-https://twitter.com/jflory7/status/1223985145109262340
+{{< x user="jflory7" id="1223985145109262340" >}}
 
-https://twitter.com/jflory7/status/1223985761814532096
+{{< x user="jflory7" id="1223985761814532096" >}}
 
 ### What makes people come and what makes them stay
 
@@ -229,17 +229,17 @@ https://twitter.com/jflory7/status/1223985761814532096
 
 I meticulously live-tweeted this one. Check out the tweet thread below! There are lots of pictures too.
 
-https://twitter.com/jflory7/status/1223987396892557312
+{{< x user="jflory7" id="1223987396892557312" >}}
 
-https://twitter.com/jflory7/status/1223987858945585157
+{{< x user="jflory7" id="1223987858945585157" >}}
 
-https://twitter.com/jflory7/status/1223989051340066816
+{{< x user="jflory7" id="1223989051340066816" >}}
 
-https://twitter.com/jflory7/status/1223989926196367372
+{{< x user="jflory7" id="1223989926196367372" >}}
 
-https://twitter.com/jflory7/status/1223990798259314688
+{{< x user="jflory7" id="1223990798259314688" >}}
 
-https://twitter.com/jflory7/status/1223991254255636481
+{{< x user="jflory7" id="1223991254255636481" >}}
 
 ## Beyond FOSDEM 2020
 
