@@ -55,7 +55,7 @@ Additionally, there were two students organizing other hackathons in the country
 
 ## Evaluating impact
 
-![May Tomic works on her team's project, Conversationalist at HackMIT](/blog/2016/09/Charles-and-May-compressed.jpg "[May Tomic](https://github.com/ValerieMayTomic) works on her team's project, [Conversationalist](https://github.com/solkiim/conversationalist)")
+![May Tomic works on her team's project, Conversationalist at HackMIT](/blog/2016/09/Charles-and-May-compressed.jpg "May Tomic (https://github.com/ValerieMayTomic) works on her team's project, Conversationalist (https://github.com/solkiim/conversationalist)")
 
 To help gauge our impact with the event, there was a limited edition [HackMIT 2016 Attendee](https://badges.fedoraproject.org/badge/hackmit-2016-attendee) badge that attendees could claim during the event. The team leveraged [Fedora Badges](https://badges.fedoraproject.org/about) as a tool to help tell the story of our impact at the event. Through Badges, you can see a list of FAS accounts that claimed the badge from the event and their account activity in the long run. [Bee Padalkar](https://fedoraproject.org/wiki/User:Bee2502)'s [FOSDEM event evaluation](https://networksfordata.wordpress.com/2016/03/08/fedora-at-fosdem/) demonstrates how this data can be used. Ten people claimed the badge during the weekend. One of the benefits of using badges as a tool for measuring impact and engagement is the follow-up it allows us to make with what badge claimers do in the Fedora community.
 
@@ -63,7 +63,7 @@ However, there were more ways to measure engagement with the students and hacker
 
 #### What was our engagement?
 
-![HackMIT 2016 Attendee Fedora badge](/blog/2016/09/events-hackmit-2016.png "The [HackMIT 2016 Attendee](https://badges.fedoraproject.org/badge/hackmit-2016-attendee) Fedora badge")
+![HackMIT 2016 Attendee Fedora badge](/blog/2016/09/events-hackmit-2016.png "The HackMIT 2016 Attendee (https://badges.fedoraproject.org/badge/hackmit-2016-attendee) Fedora badge")
 
 The type of interactions and conversations Fedora held with students and other attendees was productive and motivating, not only to the students but also to the Ambassador team. People were genuinely interested in Fedora and it was easier to shape their interest into an insightful discussion about what Fedora enables students to create and develop. A powerful message about open source software development was also delivered during the event. This stands in contrast to some other hackathons in the United States which are sometimes set up more like unofficial career fairs. HackMIT clearly held a strong focus on community. Events with that kind of management and direction are where Fedora succeeds and has a more valuable impact.
 

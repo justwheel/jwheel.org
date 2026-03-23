@@ -38,7 +38,7 @@ Tectonic is a commercial product offered by [CoreOS](https://coreos.com/), the p
 
 If we think about Kubernetes as a cake like we did before with three layers, Tectonic is like the box you set it in. Now, you can take your cake anywhere, move it around, and stack it with other cakes-in-a-box. All of your cakes are in their own boxes and you don't have to worry about them accidentally being damaged. If you're still a little confused, this diagram might help make more sense of it.
 
-![Understanding where CoreOS Tectonic fits into the Kubernetes puzzle](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/platform-features.png "Understanding where Tectonic fits into the Kubernetes puzzle. From [coreos.com/tectonic](https://coreos.com/tectonic/)")
+![Understanding where CoreOS Tectonic fits into the Kubernetes puzzle](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/platform-features.png "Understanding where Tectonic fits into the Kubernetes puzzle. From coreos.com/tectonic (https://coreos.com/tectonic/)")
 
 Fortunately, Tectonic has a free license that lets you use it for ten nodes. In this example, we'll register, get a free license, and deploy it into AWS.
 

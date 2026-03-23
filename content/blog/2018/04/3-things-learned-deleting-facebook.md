@@ -19,7 +19,7 @@ Six months ago, I deleted my Facebook and Instagram accounts. Beyond data privac
 
 This article explains changes I made to how I use social media and my smart phone since deleting my accounts. Hopefully you find these tips useful too.
 
-![The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Photo from SparkXL.](/blog/2018/04/Phone-Zombie.jpg "The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Image credit: [SparkXL](https://www.sparkxl.com/2017/11/22/slaves-to-our-screens-3/).")
+![The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Photo from SparkXL.](/blog/2018/04/Phone-Zombie.jpg "The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Image credit: SparkXL (https://www.sparkxl.com/2017/11/22/slaves-to-our-screens-3/).")
 
 <!--more-->
 

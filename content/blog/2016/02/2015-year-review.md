@@ -41,13 +41,13 @@ This past May, I graduated from high school. Looking back, it's interesting to s
 
 Interestingly enough, it wasn't until my junior year when I realized that I wanted to spend my life working in computer science. I remember when I walked into the classroom of my AP Computer Science teacher asking how I could get going with only one year left. Now, here I am immersing myself in digital technology in countless different ways. I feel like I am where I am meant to be.
 
-![Software Freedom Day at the Rochester Institute of Technology](/blog/2016/02/Software-Freedom-Day-at-RIT-Fedora.jpg "[Software Freedom Day](https://fedoramagazine.org/celebrating-software-freedom-day-2015/) at the Rochester Institute of Technology. I'm in the middle!")
+![Software Freedom Day at the Rochester Institute of Technology](/blog/2016/02/Software-Freedom-Day-at-RIT-Fedora.jpg "Software Freedom Day (https://fedoramagazine.org/celebrating-software-freedom-day-2015/) at the Rochester Institute of Technology. I'm in the middle!")
 
 These four years haven't been easy either. I worked hard to get to the place I wanted to go. Despite quite a few personal challenges, I was fortunate enough to afford an education here at the [Rochester Institute of Technology](https://www.rit.edu/). Just in the semester and a half that I have been enrolled here, I've met countless people who have affected my life and helped shape the direction of where I'm going in the world. Special shout-out to the [FOSSbox](https://fossrit.github.io/) and [RITlug](https://ritlug.com/), and everyone involved with both.
 
 ## Coffee and Doughnuts
 
-![Cinnamon Roll Queen](/blog/2016/02/Cinnamon-Roll-Queen.jpg "On occasion, I might model for the [Dutch Monkey Instagram](https://www.instagram.com/dutchmonkeydoughnuts/) as the Cinnamon Roll Queen.")
+![Cinnamon Roll Queen](/blog/2016/02/Cinnamon-Roll-Queen.jpg "On occasion, I might model for the Dutch Monkey Instagram (https://www.instagram.com/dutchmonkeydoughnuts/) as the Cinnamon Roll Queen.")
 
 For most of 2015, I worked a not-so-typical job at [Dutch Monkey Doughnuts](http://www.dutchmonkeydoughnuts.com/) in my hometown. Dutch Monkey is an important part of my town and they have helped create a name for people visiting the region. They're well-known for their homemade doughnuts and [Counter Culture Coffee](https://counterculturecoffee.com/), both of which are legendary within their own right.
 

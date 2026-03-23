@@ -103,7 +103,7 @@ Outside of open source and Fedora, my time in Croatia included a lot of time out
 
 ###### Sarajevo
 
-![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](/blog/2018/02/DSC_0033.jpg "Taken from the [Yellow Bastion](https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.")
+![Taken from the Yellow Bastion in Sarajevo. I could get lost in this view forever.](/blog/2018/02/DSC_0033.jpg "Taken from the Yellow Bastion (https://goo.gl/maps/s4SHYxVLkEC2) in Sarajevo. I could get lost in this view forever.")
 
 The three days I spent in Sarajevo were short but significant. I was truly alone on this visit and it was up to me to make the most of it. Originally, I was skeptical to go alone, but I knew that I would never have a better opportunity to go. My fascination with Sarajevo stemmed from a year of studying European history in high school, and knowing the cultural significance of Sarajevo as a meeting point of western and eastern cultures. In the end, I decided to go, and I was rewarded for it.
 

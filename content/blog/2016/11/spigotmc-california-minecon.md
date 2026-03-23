@@ -40,7 +40,7 @@ After my shift ended, I reunited with the rest of the team as we explored everyt
 
 #### Minecraft mods for teaching
 
-![SpigotMC project lead Michael Dardis answers a question at the "Using Minecraft Mods for Teaching" panel at MINECON 2016 in Anaheim, California](/blog/2016/11/IMG_0133.jpg "SpigotMC project lead [Michael Dardis](https://twitter.com/md__5/) answers a question at the \"_Using Minecraft Mods for Teaching_\" panel")
+![SpigotMC project lead Michael Dardis answers a question at the Using Minecraft Mods for Teaching panel at MINECON 2016](/blog/2016/11/IMG_0133.jpg "SpigotMC project lead Michael Dardis (https://twitter.com/md__5/) answers a question at the _Using Minecraft Mods for Teaching_ panel")
 
 One of the big highlights of the weekend was the "[_Using Minecraft Mods for Teaching_](https://youtu.be/XwPUb4Wa1U4)" panel. Our project lead, Michael, was one of the panelists to speak. The panel covered the various methods and tools from Minecraft and the community. These methods and tools help enable teachers and mentors to introduce programming concepts to children and grow interest in computer science.
 
@@ -78,7 +78,7 @@ Another one of the big goals she was helping drive was [Creative Commons](https:
 
 ## Meeting my server staff
 
-![After four years, I finally meet one of my awesome staff members, Justin Natzic at MINECON 2016 in Anaheim, California](/blog/2016/11/Justin-and-Justin.jpg "After four years, I finally meet one of my awesome staff members, [Justin Natzic](https://crystalcraftmc.com/members/natzic.20/)")
+![After four years, I finally meet one of my awesome staff members, Justin Natzic at MINECON 2016 in Anaheim, California](/blog/2016/11/Justin-and-Justin.jpg "After four years, I finally meet one of my awesome staff members, Justin Natzic (https://crystalcraftmc.com/members/natzic.20/)")
 
 This event report wouldn't be complete without noting the opportunity I had to meet one of my Minecraft server staff members. For over four years, I created, manage, and run the [CrystalCraftMC](https://crystalcraftmc.com) Minecraft server network. One of the people who has been around for almost the entire time is [Justin Natzic](https://crystalcraftmc.com/members/natzic.20/). Justin is now a moderator on the server and has helped complete projects like a [Mob Arena](https://youtu.be/hh4sKCMzuKk), where players fight endless waves of monsters and bosses to receive prizes and loot. Together with the rest of the team, Justin helped lead and develop challenging waves to keep players on their toes.
 

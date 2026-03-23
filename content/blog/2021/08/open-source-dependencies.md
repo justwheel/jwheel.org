@@ -85,7 +85,7 @@ To ignore the impact of legacies in social activities surrounding Open Source is
 
 The act of existence can be political. We cannot escape the sociopolitical environment of our world, no matter how much we wish to push it aside. If we choose to ignore it, there are others who choose to manipulate common ignorance, to the exploit of their own unbounded wealth. We must embrace and acknowledge the political atmosphere permeates our world; it does not disappear and hide away when it makes us uncomfortable.
 
-![A "Get Out of Jail Free" card from the board game Monopoly](/blog/2021/04/Get_out_of_jail_free.jpg "[From Wikipedia](https://en.wikipedia.org/wiki/File:Get_out_of_jail_free.jpg).")
+![A Get Out of Jail Free card from the board game Monopoly](/blog/2021/04/Get_out_of_jail_free.jpg "From Wikipedia (https://en.wikipedia.org/wiki/File:Get_out_of_jail_free.jpg).")
 
 ### Why measure this?
 

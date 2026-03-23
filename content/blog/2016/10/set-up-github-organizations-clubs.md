@@ -45,7 +45,7 @@ To make a membership visible, the organization member has to go to the "People" 
 
 ## Consider repository for tasks
 
-![The FOSS@MAGIC ](https://camo.githubusercontent.com/4a034f0e6a4db65dc0d7779e1752256572174182/68747470733a2f2f692e696d6775722e636f6d2f77566b327771302e6a7067 "The [FOSS@MAGIC](http://foss.rit.edu/) \"family dinner\", organized with an issue tracker")
+![The FOSS@MAGIC ](https://camo.githubusercontent.com/4a034f0e6a4db65dc0d7779e1752256572174182/68747470733a2f2f692e696d6775722e636f6d2f77566b327771302e6a7067 "The FOSS@MAGIC (http://foss.rit.edu/) family dinner, organized with an issue tracker")
 
 While not essential, a repository for real-life tasks or issues in a club can be a helpful planning tool. It also makes it easy for people to see what the club or group is working on. This promotes the idea of transparent and open leadership. You can use labels to tag issues for specific types of work or committees. Milestones are useful for deadlines or goals the group is working towards. The new _Projects_ feature may also be useful in a repository for real-life task management.
 

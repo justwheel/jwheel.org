@@ -16,7 +16,7 @@ tags:
 
 I am a user of open source software. My earliest experiences with open source software was with the Minecraft server software [Bukkit](http://bukkit.org/) as a kid, when I was attempting to make a cool game server for friends. I started using Fedora in December 2013 with my first laptop, ending a lifetime of using Apple devices. I like to believe that I am familiar and experienced with open source software as an everyday user.
 
-![The Open Source Initiative](http://opensource.org/files/osi_standard_logo.png "The Open Source Initiative. Source: [opensource.org](http://opensource.org/)")
+![The Open Source Initiative](http://opensource.org/files/osi_standard_logo.png "The Open Source Initiative. Source: opensource.org (http://opensource.org/)")
 
 ## Open Source Contributor
 
@@ -48,7 +48,7 @@ Finally, the third thing I love about free and open source software is community
 
 When I first introduced myself to the Fedora Marketing mailing list as an interested contributor to the Fedora Magazine, I was warmly received and provided with the resources I needed to set up my toolbox for success. Quickly after drafting my first articles, the Magazine team happily reviewed and revised my work and set it on track for publication. Seeing my first article go out on the Magazine was extremely rewarding, and I felt awesome that I had helped write something that readers would find interesting and be able to learn something new.
 
-![Software Freedom Day, celebrating free and open source software](https://fedoramagazine.org/wp-content/uploads/2015/11/sfd2015-945x400.jpg "Software Freedom Day is an event held annually to celebrate the values of free and open source software. Source: [Fedora Magazine](https://fedoramagazine.org/celebrating-software-freedom-day-2015/)")
+![Software Freedom Day, celebrating free and open source software](https://fedoramagazine.org/wp-content/uploads/2015/11/sfd2015-945x400.jpg "Software Freedom Day is an event held annually to celebrate the values of free and open source software. Source: Fedora Magazine (https://fedoramagazine.org/celebrating-software-freedom-day-2015/)")
 
 Another experience I had this past week was entirely unexpected. Fedora Community Lead Remy DeCausemaker recently published an article on Fedora Magazine about [Software Freedom Day at RIT](https://fedoramagazine.org/celebrating-software-freedom-day-2015/), an event on my university campus that I attended and participated in. Part of the article talked about some of the tasks I worked on and included a short interview with me. Later that evening, the same day the article went out, I received an unexpected message from a Fedora contributor in Panama who had happened to read the article. In summary, she left me some encouraging words about what I did at Software Freedom Day and said it was good to have people like me in the project. It caught me off-guard and I wasn't expecting that - and from someone who I had never talked with before! This only reaffirmed the thoughts I have had for a long time about FOSS communities, in particular Fedora. The community behind these projects is incredible and the friendships that are founded here make everything all the more worth it.
 

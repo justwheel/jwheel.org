@@ -35,7 +35,7 @@ The information technology world changes daily, and the demands of building scal
 
 Kubernetes simplifies and automates the process of deploying containerized applications at scale. Just like Ansible [orchestrates software](https://fedoramagazine.org/using-ansible-provision-vagrant-boxes/), Kubernetes orchestrates deploying infrastructure that supports the software. There are various "layers of the cake" that make Kubernetes a strong solution for building resilient infrastructure. It also assists with making systems that can grow at scale. If your application has increasing demands such as higher traffic, Kubernetes helps grow your environment to support increasing demands. This is one reason why Kubernetes is helpful for building long-term solutions for complex problems (even if it's not complex… yet).
 
-![Kubernetes: The high level design](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/kubernetes-high-level-design.jpg "Kubernetes: The high level design. [Daniel Smith, Robert Bailey, Kit Merker](https://www.slideshare.net/RohitJnagal/kubernetes-intro-public-kubernetes-meetup-4212015).")
+![Kubernetes: The high level design](https://cdn.fedoramagazine.org/wp-content/uploads/2017/06/kubernetes-high-level-design.jpg "Kubernetes: The high level design. Daniel Smith, Robert Bailey, Kit Merker (https://www.slideshare.net/RohitJnagal/kubernetes-intro-public-kubernetes-meetup-4212015).")
 
 At a high level overview, imagine three different layers.
 

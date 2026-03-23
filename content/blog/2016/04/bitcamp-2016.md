@@ -27,7 +27,7 @@ The [Fedora Project](https://fedoraproject.org/wiki/Overview) attended as an eve
 
 ## Getting to Bitcamp 2016
 
-![Bitcamp 2016: Chaoyi Zha (cydrobolt) helping hackers with code](/blog/2016/04/chaoyi-friends.png "Fedora Ambassador [Chaoyi Zha](https://fedoraproject.org/wiki/User:Cydrobolt) (cydrobolt) helps two other students working on their projects.")
+![Bitcamp 2016: Chaoyi Zha (cydrobolt) helping hackers with code](/blog/2016/04/chaoyi-friends.png "Fedora Ambassador Chaoyi Zha (https://fedoraproject.org/wiki/User:Cydrobolt) (cydrobolt) helps two other students working on their projects.")
 
 I left Rochester, New York around 4:00pm after my classes for the day had finished. Bitcamp check-in started at 7:00pm on Friday, April 8th. It was about a six hour drive for me to get there, and I got to Maryland right around 9:30pm.
 
@@ -35,7 +35,7 @@ Once I arrived, walking in was a crazy experience. Tables upon tables of hackers
 
 ## Meeting the hackers
 
-![Bitcamp 2016: Corey Sheldon (linuxmodder) helps a student install Fedora](/blog/2016/04/corey-mentoring.png "Fedora Ambassador [Corey Sheldon](https://fedoraproject.org/wiki/User:Corey84) (linuxmodder) works with a student trying to set up dual-boot on his laptop.")
+![Bitcamp 2016: Corey Sheldon (linuxmodder) helps a student install Fedora](/blog/2016/04/corey-mentoring.png "Fedora Ambassador Corey Sheldon (https://fedoraproject.org/wiki/User:Corey84) (linuxmodder) works with a student trying to set up dual-boot on his laptop.")
 
 Many other students came up to the table before the hackathon officially began. We interacted with several students and helped establish ourselves as mentors as well. Additionally, we also had a [badge](https://badges.fedoraproject.org/badge/bitcamp-2016) that attendees could scan to get added to their FAS account!
 
@@ -53,7 +53,7 @@ Around this time, we had waves of interested hackers in Fedora, open source soft
 
 ## Mentoring
 
-![Bitcamp 2016: Mike DePaulo (mikedep333) at the Fedora Bitcamp 2016 table](/blog/2016/04/mikedep333-at-table-e1461525437165.png "Fedora Ambassador [Mike DePaulo](https://fedoraproject.org/wiki/User:Mikedep333) (mikedep333) demonstrated his triple-boot MacBook with OS X, Windows, and Fedora at Bitcamp 2016.")
+![Bitcamp 2016: Mike DePaulo (mikedep333) at the Fedora Bitcamp 2016 table](/blog/2016/04/mikedep333-at-table-e1461525437165.png "Fedora Ambassador Mike DePaulo (https://fedoraproject.org/wiki/User:Mikedep333) (mikedep333) demonstrated his triple-boot MacBook with OS X, Windows, and Fedora at Bitcamp 2016.")
 
 During [Bitcamp](http://bitca.mp/), there were several opportunities and connections made between [Fedora Ambassadors](https://fedoraproject.org/wiki/Ambassadors) and university students.
 
@@ -61,12 +61,12 @@ For most of one night, Corey worked with one student who was aiming to do a full
 
 Chaoyi traveled around the hacker space and worked with students looking to get help on web development projects. Chaoyi was able to give advice and help for students working with HTML, JavaScript / NodeJS, and Python. He traveled around the room for most of both nights teaching and showing students how to work on their projects and promoting the benefits of doing their work open source.
 
-![Bitcamp 2016: whatcanidoforfedora.org was a popular tool](/blog/2016/04/table-closeup.png "The [whatcanidoforfedora.org](http://whatcanidoforfedora.org) site proved a useful tool for students looking to contribute to open source.")
+![Bitcamp 2016: whatcanidoforfedora.org was a popular tool](/blog/2016/04/table-closeup.png "The whatcanidoforfedora.org (http://whatcanidoforfedora.org) site proved a useful tool for students looking to contribute to open source.")
 
 Mike also helped several students at Bitcamp, and like at BrickHack, his triple-booted MacBook with OS X, Windows, and Fedora was a popular item. Students with Macs often came and asked him about his setup and how he got it working. Mike was also able to help answer questions about developing in Fedora and share his experience working with tools available in Fedora for working on his projects for work and for fun.
 
 Many students were looking for help with how to better get experience working on software for their future careers. As a student familiar with open source, I enjoyed talking to these students about how open source was a great resource for them. I explained how open source is a great way to get real world experience without working an "official" job, showed how they could make an impact on the world and start doing things, and why we do open source. It was gratifying the see these students get something out of our discussions and build something awesome in the open by the end of hackathon.
 
-![Bitcamp 2016: 3D printed Fedora Badges](/blog/2016/04/badges.png "We 3-D printed a few [Fedora Badges](https://badges.fedoraproject.org/about) using STL files at another vendor's table.")
+![Bitcamp 2016: 3D printed Fedora Badges](/blog/2016/04/badges.png "We 3-D printed a few Fedora Badges (https://badges.fedoraproject.org/about) using STL files at another vendor's table.")
 
 Overall, I feel like the Fedora Project's impact was notable and concentrated at the event. I am extremely thankful and fortunate to have been sponsored to attend Bitcamp as an Ambassador for the Fedora Project.

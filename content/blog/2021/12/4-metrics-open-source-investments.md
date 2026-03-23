@@ -46,7 +46,7 @@ To summarize, **an investment can be financial or non-financial**. Financial inv
 
 ## How do these investments impact sustainability?
 
-![Logo for Bitergia's Cauldron hosted analytics platform. A key part of metrics for UNICEF Venture Fund investments.](https://cauldron.io/static/img/cauldron-logo-white.png "Bitergia [Cauldron.io](https://cauldron.io)")
+![Logo for Bitergia's Cauldron hosted analytics platform. A key part of metrics for UNICEF Venture Fund investments.](https://cauldron.io/static/img/cauldron-logo-white.png "Bitergia Cauldron.io (https://cauldron.io)")
 
 Data makes introspection easier. Bitergia's [Cauldron.io](https://cauldron.io/) was a champion tool for kickstarting an open source metrics strategy for the UNICEF Venture Fund. Its introduction as a tool opened up a wider span of data to look at. There are new opportunities to ask questions and explore growth, scale, and sustainability.
 
@@ -66,7 +66,7 @@ The four metrics are detailed below:
 4. Labor Investment
 
 ![A hand holds a pen and is writing on a sheet of notebook paper. They appear to be making a list.](/blog/2021/12/glenn-carstens-peters-RLw-UC03Gwc-unsplash.jpg "Take note of your dependencies and contributors.  
-_Photo by [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/lists?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
+_Photo by Glenn Carstens-Peters (https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/lists?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
 
 ### [Contribution Attribution](https://chaoss.community/metric-contribution-attribution/)
 
@@ -83,7 +83,7 @@ I would measure this across two [types of contributions](https://chaoss.communit
 3. **Green**: All dependencies and used works are correctly attributed.
 
 ![View looking down at a small farmer's market, where a woman sits behind several different cases of vegetables. A man hands payment to the woman for unseen goods. This is connected how knowing your customers can also be like knowing your community.](/blog/2021/12/alex-hudson-m3I92SgM3Mk-unsplash.jpg "Spend more time getting to know who participates and why.  
-_Photo by [Alex Hudson](https://unsplash.com/@aliffhassan91?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bazaar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
+_Photo by Alex Hudson (https://unsplash.com/@aliffhassan91?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/bazaar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
 
 ### [Contributors](https://chaoss.community/metric-contributors/)
 
@@ -100,7 +100,7 @@ Since I work with start-up companies with small, lean development teams, I look 
 To collect this data, I would have the team define what [areas of contribution](https://chaoss.community/metric-types-of-contributions/) they seek for their open source solutions and then map those desired contributions to a specific project area or different team members. This enables a form of consistent accountability for checking expectations with reality and understanding team capacity. Each area could be a key-value pair, where the value is the project area, team lead, or delegated team member for the type of contribution solicited.
 
 ![The dashboard of an older plane is shown, with several different meters, switches, and control knobs. In many ways, the places where we collaborate on our projects can also be as complicated, and we can miss out on some useful features if we are not looking in the right place.](/blog/2021/12/kai-dahms-5paXZX8lWk-unsplash.jpg "There are many ways to collaborate, but the question is, are you counting the right ways?  
-_Photo by [Kai Dahms](https://unsplash.com/@dilucidus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/measure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
+_Photo by Kai Dahms (https://unsplash.com/@dilucidus?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/measure?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
 
 ### [Collaboration Platform Activity](https://chaoss.community/metric-collaboration-platform-activity/)
 
@@ -121,7 +121,7 @@ The satisfaction of these three options in their totality is not enough. To leve
 Measuring collaboration platform activity is not black and white. Many new questions would likely come forward as part of measuring this activity. Yet this is the point—it lays the foundation for the next layer to the data collection, analysis, and reporting process around sustainability.
 
 ![A man is facing forward with his back to the camera. He wears a heavy coat and a construction hard hat. The background is blurred and unclear. In this way, we can think of labor investment from a human-centered approach first.](/blog/2021/12/jon-tyson-kR4K8nJ9JRc-unsplash.jpg "What is the impact of an investment on fair and equitable labor?  
-_Photo by [Jon Tyson](https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/worker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
+_Photo by Jon Tyson (https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/worker?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_.")
 
 ### [Labor Investment](https://chaoss.community/metric-labor-investment/)
 

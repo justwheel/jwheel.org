@@ -35,7 +35,7 @@ Three achievements and aspirations stand out over the past year:
 
 ### Processes & workflow
 
-![A metalworker is working at an anvil. A red-hot iron rod is on the anvil, and a person uses a hammer to shape and mold the hot iron into a hooked shape.](/blog/2022/10/jonny-gios-4AT3mZMuFuI-unsplash.jpg "We had to forge our own practices that worked best for our group. Photo by [Jonny Gios](https://unsplash.com/@supergios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/forge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")
+![A metalworker is working at an anvil. A red-hot iron rod is on the anvil, and a person uses a hammer to shape and mold the hot iron into a hooked shape.](/blog/2022/10/jonny-gios-4AT3mZMuFuI-unsplash.jpg "We had to forge our own practices that worked best for our group. Photo by Jonny Gios (https://unsplash.com/@supergios?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/forge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")
 
 For direct participants of the team, the Ford Foundation funding did not come with strict requirements or success metrics. As we assembled our team, we were given the discretion of how to conduct a D.E.I. review for the project and determine the best course of doing that. This allowed for creative freedom to figure out what would work best for CHAOSS. Additionally, I could not identify a straightforward way to discover other Open communities and projects doing our kind of work. Since there were also not many other known successful models to follow, we combined our shared experiences across multiple Open communities to build our team, identify main areas of focus, and engage the community around our efforts.
 
@@ -76,7 +76,7 @@ Looking ahead to 2023, I hope to strengthen our efforts as a team in these areas
 1. Packaging our work
 2. Dissemination of our work
 
-![Large, gold-colored balloons spell out "2023." Several other silver-colored objects surround the gold letters, like star-shaped balloons, tree ornaments, and card-stock stars.](/blog/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash.jpg "Photo by [Christophe Rollando](https://unsplash.com/@chrisrolls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/2023?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")
+![Large, gold-colored balloons spell out 2023. Several other silver-colored objects surround the gold letters, like star-shaped balloons, tree ornaments, and card-stock stars.](/blog/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash.jpg "Photo by Christophe Rollando (https://unsplash.com/@chrisrolls?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash (https://unsplash.com/s/photos/2023?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")
 
 ### Packaging
 

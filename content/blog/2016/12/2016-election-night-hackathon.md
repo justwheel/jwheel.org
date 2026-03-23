@@ -24,7 +24,7 @@ On Tuesday, November 8th, 2016, the [FOSS@MAGIC](http://foss.rit.edu/) at the [M
 
 ## Starting the Election Night Hackathon
 
-![Dan Schneiderman updating the news sources on the projector screens during the Election Night Hackathon by FOSS at RIT](/blog/2016/11/IMG_8753.jpg "[Dan Schneiderman](http://www.schneidy.com/) updating the news sources on the projector screens")
+![Dan Schneiderman updating the news sources on the projector screens during the Election Night Hackathon by FOSS at RIT](/blog/2016/11/IMG_8753.jpg "Dan Schneiderman (http://www.schneidy.com/) updating the news sources on the projector screens")
 
 For this year's event, registration was a ticketed event because of the overwhelming interest in the election. At 5:00pm, the sign-in table popped up in front of the [Student Innovation Hall](https://www.rit.edu/research/simonecenter/), where the hackathon would take place. Students began lining up to receive their wristband for admission, food, and open source swag.
 

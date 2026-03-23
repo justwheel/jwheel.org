@@ -12,7 +12,7 @@ tags:
   - "system-administration"
 ---
 
-![Netflix and Linux, friends at last](/blog/2015/12/Linux-and-Netflix.jpg "Netflix and Linux may not agree on the desktop, but they do in the cloud. _Source_: [blockless.com](https://blog.blockless.com/how-to-switch-to-linux-without-losing-your-netflix-access/)")
+![Netflix and Linux, friends at last](/blog/2015/12/Linux-and-Netflix.jpg "Netflix and Linux may not agree on the desktop, but they do in the cloud. _Source_: blockless.com (https://blog.blockless.com/how-to-switch-to-linux-without-losing-your-netflix-access/)")
 
 ## Netflix, Linux, and 60 seconds
 

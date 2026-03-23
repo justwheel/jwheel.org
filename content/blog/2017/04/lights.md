@@ -21,7 +21,7 @@ Many times, I’ve sat down to write this. The same number of times, I never fin
 
 Two important events made me realize that writing this is important. A conversation with one of my friends about what was happening in my life reminded me of the critical, psychological benefit of communicating and being honest and open about myself. The second thing was an insight from an article I saw on Twitter, about Sheryl Sandberg and [dealing with grief](http://time.com/sheryl-sandberg-option-b/). The profound insight in the article to me was the intersection between effective leadership and expressing emotion. “Expressing emotion when you’ve gone through extreme pain is not weakness. It is humanity.”
 
-![A close-up of a lit vintage-style lightbulb hanging from a black cord, revealing a bright, glowing spiral filament inside. The background is dark and out of focus, showing faint warm lights and silhouettes of chairs.](/blog/2017/04/lights-1.jpeg "It’s time to turn on the lights. ([Armando Ascorve Morales](https://unsplash.com/@armandoascorve), from [Unsplash](https://unsplash.com/photos/pFukAtB81ZQ))")
+![A close-up of a lit vintage-style lightbulb hanging from a black cord, revealing a bright, glowing spiral filament inside. The background is dark and out of focus, showing faint warm lights and silhouettes of chairs.](/blog/2017/04/lights-1.jpeg "It’s time to turn on the lights. (Armando Ascorve Morales (https://unsplash.com/@armandoascorve), from Unsplash (https://unsplash.com/photos/pFukAtB81ZQ))")
 
 This post isn’t like anything I’ve written before, but it is a necessary next step for me to move forward.
 
@@ -45,7 +45,7 @@ Sleeping early and waking up late, or not sleeping at all.
 
 The sucking of your productive energy towards meaningless tasks, like spending more of your time reading about the lives of other people instead of living your own. The feelings have a wide range. Regardless of the specifics, anyone who has walked this quiet path can take these general points and recount them into their own story.
 
-![A person wearing a full white spacesuit and helmet stands partially obscured within a dense, lush green forest. The deep green foliage surrounds the figure, creating a stark contrast with the bright white suit.](/blog/2017/04/lights-2.jpeg "After a while, it feels like you’re a lost explorer, navigating the endless forest of your own emotions and feelings. ([Martin Reisch](https://unsplash.com/@safesolvent), from [Unsplash](https://unsplash.com/photos/pEb-Xf_qM0s))")
+![A person wearing a full white spacesuit and helmet stands partially obscured within a dense, lush green forest. The deep green foliage surrounds the figure, creating a stark contrast with the bright white suit.](/blog/2017/04/lights-2.jpeg "After a while, it feels like you’re a lost explorer, navigating the endless forest of your own emotions and feelings. (Martin Reisch (https://unsplash.com/@safesolvent), from Unsplash (https://unsplash.com/photos/pEb-Xf_qM0s))")
 
 The most difficult part is the creeping feeling when the depression begins to take hold, but it feels like there’s nothing that can stop it.
 
@@ -77,7 +77,7 @@ By becoming transparent about it, my hope is that this won’t be the case. I do
 
 However, there was one more fear that kept me in the dark.
 
-![An unfinished portrait painting showing the left half of a person's face with red lipstick and a lit cigarette resting between their lips. The right half of the image is a blank white canvas showing only faint pencil sketch lines.](/blog/2017/04/lights-3.jpeg "Not expressing what’s going on in a healthy way only sets you up to find unhealthy ways to express it instead. ([wafflesduhpanda](http://wafflesduhpanda.tumblr.com/), from [tumblr](http://wafflesduhpanda.tumblr.com/post/137672137686))")
+![An unfinished portrait painting showing the left half of a person's face with red lipstick and a lit cigarette resting between their lips. The right half of the image is a blank white canvas showing only faint pencil sketch lines.](/blog/2017/04/lights-3.jpeg "Not expressing what’s going on in a healthy way only sets you up to find unhealthy ways to express it instead. (wafflesduhpanda (http://wafflesduhpanda.tumblr.com/), from tumblr (http://wafflesduhpanda.tumblr.com/post/137672137686))")
 
 To become more comfortable with sharing these emotions, it means being honest when someone asks how you are and reaching out for help when you need it. But it can be a lot to ask someone to help untangle the thick cobwebs when you’re having a hard time seeing through. From being on the receiving end before, I knew how it can be draining (even if it’s worthwhile and makes a difference in the end). My fear was putting too much burden on others and draining their energy on problems that don’t concern them. Everyone has their own stress and problems too. As a result, I rarely shared my pain and difficulty with others to avoid placing more stress on others.
 
@@ -111,7 +111,7 @@ One of the things that I’ve started to practice is persuading my mind how to t
 
 The challenge is to sincerely look for the positivity and happy emotions that are around you. You have to tune yourself to the same emotional frequency as the positive energy. Like a radio signal, you have to turn your channel to receive that positive energy and emotion. And if you’re ready to receive, it will present itself.
 
-![A woman stands in the dark looking upward next to a window, her face clearly illuminated by a warm light source. Her faint reflection is cast onto the dark window glass beside her.](/blog/2017/04/lights-4.jpeg "Even when it feels wrong, you have to look up. ([Frank McKenna](https://unsplash.com/@frankiefoto), from [Unsplash](https://unsplash.com/photos/-sCrec27yDM))")
+![A woman stands in the dark looking upward next to a window, her face clearly illuminated by a warm light source. Her faint reflection is cast onto the dark window glass beside her.](/blog/2017/04/lights-4.jpeg "Even when it feels wrong, you have to look up. (Frank McKenna (https://unsplash.com/@frankiefoto), from Unsplash (https://unsplash.com/photos/-sCrec27yDM))")
 
 In the more difficult times, this is the hardest advice to follow. The negative thoughts creep back into your mind. But recognition is key. To see and identify those thoughts and consciously acknowledge them for what they are is the first step. After identifying the negative energy, you have to turn your own channel. Instead of thinking, “I don’t want to feel _that_ way,” think of the way you do want to feel. Think of the positive energy, emotions, experiences, or memories. Tell yourself, “I want to feel _this_ way,” or “I want to feel _good_.” Even if it seems trivial and impossible, invest your energy and focus into attracting that positive energy. If you convince yourself that it’s there and you are going to find it, circumstances change. They have a strange way of working themselves out. But you have to know what you want.
 

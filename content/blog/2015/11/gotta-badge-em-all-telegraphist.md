@@ -14,7 +14,7 @@ tags:
 
 ## Telegraphist: What is it?
 
-![Telegraphist badge, for mapping names to packages](/blog/2015/11/Telegraphist.png "\"You mapped an upstream project to a Fedora package on [release-monitoring.org](https://release-monitoring.org/)\"")
+![Telegraphist badge, for mapping names to packages](/blog/2015/11/Telegraphist.png "You mapped an upstream project to a Fedora package on release-monitoring.org (https://release-monitoring.org/)")
 
 The [_Telegraphist_ badge](https://badges.fedoraproject.org/badge/telegraphist-upstream-release-monitoring-i) is categorized as a "Quality \[Assurance\] Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/357). But what's the real scoop behind the _Telegraphist_ badge?
 

@@ -100,7 +100,7 @@ Google Summer of Code came with many ups and downs. But I made it and [passed th
 
 ## Flock 2016
 
-![Group photo of all Flock 2016 attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)](/blog/2017/02/flock-group-photo-5_28949792761_o.jpg "Group photo of all [Flock 2016](https://flocktofedora.org/) attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)")
+![Group photo of all Flock 2016 attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)](/blog/2017/02/flock-group-photo-5_28949792761_o.jpg "Group photo of all Flock 2016 (https://flocktofedora.org/) attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)")
 
 Towards the end of summer, in the beginning of August, I was [accepted as a speaker](https://jwfblog.wpenginepowered.com/2016/07/czesc-poland-back-europe/) to the annual Fedora Project contributor conference, [Flock](https://flocktofedora.org/). As a speaker, my travel and accommodation were sponsored to the event venue in Kraków, Poland.
 
@@ -118,7 +118,7 @@ To read a more in-depth analysis of my time in Poland, you can read [my full wri
 
 There are three distinct events that stand out in my memory. For the first time, I visited the [University of Maryland for Bitcamp](https://jwfblog.wpenginepowered.com/2016/04/bitcamp-2016/) as a Fedora Ambassador. It also provided me an opportunity to see my nation's capitol for the first time. I also visited Boston for the first time this year as well for HackMIT, MIT's annual hackathon event. I also participated as a Fedora Ambassador and [met brilliant students](https://communityblog.fedoraproject.org/hackmit-meets-fedora/) from around the country (and even the world, with one student I met flying in from India for the weekend).
 
-!["Team Ubuntu" shows off their project to Charles Profitt before the project deadline for HackMIT 2016](/blog/2017/02/Team-Ubuntu-2.jpg "\"Team Ubuntu\" shows off their project to [Charles Profitt](https://fedoraproject.org/wiki/User:Cprofitt) before the project deadline for [HackMIT 2016](https://hackmit.org/)")
+![Team Ubuntu shows off their project to Charles Profitt before the project deadline for HackMIT 2016](/blog/2017/02/Team-Ubuntu-2.jpg "Team Ubuntu shows off their project to Charles Profitt (https://fedoraproject.org/wiki/User:Cprofitt) before the project deadline for HackMIT 2016 (https://hackmit.org/)")
 
 Lastly, I also took my first journey to the US west coast for MINECON 2016, the annual Minecraft convention. [I attended](https://jwfblog.wpenginepowered.com/2016/11/spigotmc-california-minecon/) as a staff member of the SpigotMC project and a representative of the open source community at RIT.
 
@@ -154,7 +154,7 @@ This was my third time in New York City, but my first time to explore the city. 
 
 ## Finalizing study abroad
 
-![This may be cheating since it was taken in 2017, but this is one of my favorite photos from Dubrovnik, Croatia so far](/blog/2017/02/DSC_0029.jpg "This may be cheating since it was taken in 2017, but this is one of my favorite photos from Dubrovnik, Croatia so far. You can find more like this [on my 500px gallery](https://500px.com/jflory7/galleries/dubrovnik-croatia)!")
+![This may be cheating since it was taken in 2017, but this is one of my favorite photos from Dubrovnik, Croatia so far](/blog/2017/02/DSC_0029.jpg "This may be cheating since it was taken in 2017, but this is one of my favorite photos from Dubrovnik, Croatia so far. You can find more like this on my 500px gallery (https://500px.com/jflory7/galleries/dubrovnik-croatia)!")
 
 At the end of 2016, I finalized a plan that was more than a year in the making. I applied and was accepted to study abroad at the Rochester Institute of Technology campus in Dubrovnik, Croatia. RIT has a few satellite campuses across the world: two in Croatia (Zagreb and Dubrovnik) and one in Dubai, UAE. In addition to being accepted, the university provided me a grant to further my education abroad. I am fortunate to have received this opportunity and can't wait to spend the next few months of my life in Croatia. I am currently studying in Dubrovnik since January until the end of May.
 
