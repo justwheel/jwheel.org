@@ -37,7 +37,7 @@ Three achievements and aspirations stand out over the past year:
 
 <figure>
 
-[![A metalworker is working at an anvil. A red-hot iron rod is on the anvil, and a person uses a hammer to shape and mold the hot iron into a hooked shape.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/jonny-gios-4AT3mZMuFuI-unsplash-300x200.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/jonny-gios-4AT3mZMuFuI-unsplash-scaled.jpg)
+[![A metalworker is working at an anvil. A red-hot iron rod is on the anvil, and a person uses a hammer to shape and mold the hot iron into a hooked shape.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/jonny-gios-4AT3mZMuFuI-unsplash-300x200.jpg)](/blog/2022/10/jonny-gios-4AT3mZMuFuI-unsplash-scaled.jpg)
 
 <figcaption>
 
@@ -88,7 +88,7 @@ Looking ahead to 2023, I hope to strengthen our efforts as a team in these areas
 
 <figure>
 
-[![Large, gold-colored balloons spell out "2023." Several other silver-colored objects surround the gold letters, like star-shaped balloons, tree ornaments, and card-stock stars.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash-300x200.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash-scaled.jpg)
+[![Large, gold-colored balloons spell out "2023." Several other silver-colored objects surround the gold letters, like star-shaped balloons, tree ornaments, and card-stock stars.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash-300x200.jpg)](/blog/2022/10/christophe-rollando-uOi-nHgMR5o-unsplash-scaled.jpg)
 
 <figcaption>
 

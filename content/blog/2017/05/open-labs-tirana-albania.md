@@ -35,7 +35,7 @@ Everything that the community here does, they take their unique passion and ener
 
 This past weekend, from May 13-14, 2017, the community organized the fourth edition of the annual [Open Source Conference Albania](https://oscal.openlabs.cc/) (OSCAL) in Tirana. This is the largest open source event in Albania and one of the most notable in southeast Europe. No event report for this yet, but you can expect one soon.
 
-\[caption id="attachment\_640" align="aligncenter" width="788"\][![Fedora Project community meet-up in Tirana, Albania for Open Labs Hackerspace's OSCAL 2017](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/Fedora-meetup-at-OSCAL-2017-1024x681.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/Fedora-meetup-at-OSCAL-2017.jpg) Fedora community meet-up for OSCAL 2017\[/caption\]
+\[caption id="attachment\_640" align="aligncenter" width="788"\][![Fedora Project community meet-up in Tirana, Albania for Open Labs Hackerspace's OSCAL 2017](/blog/2017/05/Fedora-meetup-at-OSCAL-2017.jpg)](/blog/2017/05/Fedora-meetup-at-OSCAL-2017.jpg) Fedora community meet-up for OSCAL 2017\[/caption\]
 
 ## Why part of my heart is at Open Labs
 

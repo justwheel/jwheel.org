@@ -18,7 +18,7 @@ tags:
   - "teaching-open-source"
   - "unicef"
   - "united-nations"
-coverImage: "unicef-open-source-mentorship-programme.png"
+coverImage: "/img/unicef-open-source-mentorship-programme.png"
 ---
 
 _This post was co-published [on the UNICEF Innovation Fund blog](https://www.unicefinnovationfund.org/broadcast/expert-posts/introducing-unicef-open-source-mentorship)._

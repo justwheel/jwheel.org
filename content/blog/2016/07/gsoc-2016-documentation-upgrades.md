@@ -15,7 +15,7 @@ tags:
   - "gsoc"
   - "summer-activities"
   - "wordpress"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 This week and the last were busy, but I've made some more progress towards creating the last, idempotent product for managing WordPress installations in Fedora's Infrastructure for GSoC 2016. The past two weeks had me mostly working on writing the standard operating procedure / documentation for my final product as well as diving more into handling upgrades with WordPress. My primary playbook for installing WordPress is mostly complete, pending [one last annoyance](https://serverfault.com/questions/790104/using-external-variables-inside-of-an-ansible-template/790111?noredirect=1#comment999485_790111).

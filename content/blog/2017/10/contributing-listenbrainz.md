@@ -17,7 +17,7 @@ tags:
   - "open-source"
   - "rit-2171"
   - "rochester-institute-of-technology"
-coverImage: "listenbrainz-rit-independent-study.png"
+coverImage: "/img/listenbrainz-rit-independent-study.png"
 ---
 
 A unique opportunity of attending an open source-friendly university is when course credits and working on open source projects collide. This semester, I'm participating in an independent study at the [Rochester Institute of Technology](https://www.rit.edu/) where I will contribute to the [ListenBrainz](https://listenbrainz.org/) project.

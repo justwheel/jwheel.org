@@ -11,7 +11,7 @@ tags:
   - "open-source"
   - "research-and-learning"
   - "wordpress"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 This week, with an [initial playbook](https://pagure.io/jflory7-ansible/blob/master/f/playbooks/deliverables) for creating a WordPress installation created (albeit needing polish), my next focus was to look at the idea of creating a WordPress [multi-site network](https://codex.wordpress.org/Create_A_Network). Creating a multi-site network would offer the benefits of only having to keep up a single base installation, with new sites extending from the same core of WordPress. Before making further refinements to the playbook, I wanted to investigate whether a WordPress network would be the best fit for Fedora.
@@ -26,7 +26,7 @@ At the moment, there are not any plans to set up or offer a blog-hosting service
 
 ## Setting up the WordPress network
 
-To test the possibilities of using a network for our needs, I used a development CentOS 7 machine for my project testing purposes. There are some [guidelines](https://codex.wordpress.org/Before_You_Create_A_Network) on creating networks for reading first before proceeding. After reading these, it was clear the approach to take was the domain method. I moved to the [installation guide](https://codex.wordpress.org/Create_A_Network) on the development machine.[![GSoC 2016 - Adding sites to WordPress network](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/07/GSoC-2016-Adding-sites-to-WordPress-network-1024x474.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/07/GSoC-2016-Adding-sites-to-WordPress-network.png)
+To test the possibilities of using a network for our needs, I used a development CentOS 7 machine for my project testing purposes. There are some [guidelines](https://codex.wordpress.org/Before_You_Create_A_Network) on creating networks for reading first before proceeding. After reading these, it was clear the approach to take was the domain method. I moved to the [installation guide](https://codex.wordpress.org/Create_A_Network) on the development machine.[![GSoC 2016 - Adding sites to WordPress network](/blog/2016/07/GSoC-2016-Adding-sites-to-WordPress-network.png)](/blog/2016/07/GSoC-2016-Adding-sites-to-WordPress-network.png)
 
 I wanted to document the process I was following for the multi-site network, so I created a [short log file](https://github.com/jflory7/logbook/blob/master/logs/gsoc/notes/multisite.md) of my observations and information I found as I proceeded.
 

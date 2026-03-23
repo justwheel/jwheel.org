@@ -13,7 +13,7 @@ tags:
   - "hfoss"
   - "rochester-institute-of-technology"
   - "women-in-computing-wic"
-coverImage: "WiCHacks-Opening-Ceremony.jpg"
+coverImage: "/img/WiCHacks-Opening-Ceremony.jpg"
 ---
 
 Two weekends ago, from February 27th to the 28th, the [Women in Computing](http://wic.rit.edu) program at the [Rochester Institute of Technology](https://www.rit.edu/) hosted their third annual [WiCHacks](http://wichacks.rit.edu/) hackathon. WiCHacks is a women-only hackathon open to university students and high school juniors and seniors. WiCHacks is a collaborative event bringing women together from across RIT, the country, and even the world (including attendees from Germany). The participants are in a supportive and empowering environment to build something awesome and present it to everyone else in the span of one weekend.
@@ -43,7 +43,7 @@ After lunch, the hacking began! Teams could go into a room and have access to wh
 
 After my volunteering shift ended, I had a homework assignment for one of my classes due at midnight. I had made plans many months ago after 7:00pm that night, so I had to work on the assignment that day to submit in time. I went up to an empty IST department lab, fired up my laptop, and began working. Suddenly, a team of five girls walked into the lab and began setting up close to the whiteboard near me.
 
-\[caption id="attachment\_173" align="alignleft" width="300"\][![WiCHacks 2016: The OpenCircle team presents](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/OpenCircle-Presentation-1-300x199.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/OpenCircle-Presentation-1.jpg) The OpenCircle team presents their project to the auditorium.\[/caption\]
+\[caption id="attachment\_173" align="alignleft" width="300"\][![WiCHacks 2016: The OpenCircle team presents](/blog/2016/03/OpenCircle-Presentation-1.jpg)](/blog/2016/03/OpenCircle-Presentation-1.jpg) The OpenCircle team presents their project to the auditorium.\[/caption\]
 
 I was curious after a while to hear what they were working on. I kept hearing the words "open source" and "FOSS" dropping, and it pulled my attention in. I learned that their idea was to make a social platform to help make it easier for girls to get involved with open source software. The plan was to collect an inventory of open source projects that need help and connect interested girls with project mentors to guide them in contributing.
 
@@ -65,7 +65,7 @@ Closing out WiCHacks 2016
 
 After a final push by hackers throughout the night, hacking ended at 12:00pm the next day. After a lunch break, the hackers returned to the auditorium in time  to present their projects. Before the deadline, all the teams added their projects to the [WiCHacks DevPost](http://wichacks-2016.devpost.com/). You can also find the list of projects submitted over the weekend there.
 
-\[caption id="attachment\_174" align="alignright" width="300"\][![WiCHacks 2016: The OpenCircle team demos the product](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/OpenCircle-Presentation-2-300x199.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/OpenCircle-Presentation-2.jpg) The OpenCircle team demos their project for all the participants.\[/caption\]
+\[caption id="attachment\_174" align="alignright" width="300"\][![WiCHacks 2016: The OpenCircle team demos the product](/blog/2016/03/OpenCircle-Presentation-2.jpg)](/blog/2016/03/OpenCircle-Presentation-2.jpg) The OpenCircle team demos their project for all the participants.\[/caption\]
 
 After helping with some other closing work, I wanted to listen to some of the presentations given by the teams. Some people designed some really cool apps, like [Pink Planet](http://devpost.com/software/pink-planet), [Resumatch](http://devpost.com/software/resumatch) (a play on Tinder but with resumes), and the ever creative [Loocator](http://devpost.com/software/loocator).
 
@@ -81,4 +81,4 @@ WiCHacks is a well-organized, powerfully motivating event and something more and
 
 Great job to the WiC team for organizing this, and I look forward to participating as a volunteer again next year!
 
-\[caption id="attachment\_176" align="aligncenter" width="960"\][![WiCHacks 2016 volunteers](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/WiCHacks-Volunteers.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/WiCHacks-Volunteers.jpg) The WiCHacks 2016 volunteers!\[/caption\]
+\[caption id="attachment\_176" align="aligncenter" width="960"\][![WiCHacks 2016 volunteers](/blog/2016/03/WiCHacks-Volunteers.jpg)](/blog/2016/03/WiCHacks-Volunteers.jpg) The WiCHacks 2016 volunteers!\[/caption\]

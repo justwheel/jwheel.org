@@ -12,7 +12,7 @@ tags:
   - "system-administration"
 ---
 
-\[caption id="attachment\_82" align="alignright" width="1280"\][![Netflix and Linux, friends at last](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Linux-and-Netflix.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Linux-and-Netflix.jpg) Netflix and Linux may not agree on the desktop, but they do in the cloud. _Source_: [blockless.com](https://blog.blockless.com/how-to-switch-to-linux-without-losing-your-netflix-access/)\[/caption\]
+\[caption id="attachment\_82" align="alignright" width="1280"\][![Netflix and Linux, friends at last](/blog/2015/12/Linux-and-Netflix.jpg)](/blog/2015/12/Linux-and-Netflix.jpg) Netflix and Linux may not agree on the desktop, but they do in the cloud. _Source_: [blockless.com](https://blog.blockless.com/how-to-switch-to-linux-without-losing-your-netflix-access/)\[/caption\]
 
 ## Netflix, Linux, and 60 seconds
 

@@ -21,7 +21,7 @@ This article explains changes I made to how I use social media and my smart phon
 
 <figure>
 
-![The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Photo from SparkXL.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2018/04/Phone-Zombie.jpg)
+![The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Photo from SparkXL.](/blog/2018/04/Phone-Zombie.jpg)
 
 <figcaption>
 

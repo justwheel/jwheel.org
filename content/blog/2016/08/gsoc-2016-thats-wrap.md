@@ -14,7 +14,7 @@ tags:
   - "gsoc"
   - "open-source"
   - "summer-activities"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 Tomorrow, August 22, 2016, marks the end of the [Google Summer of Code](https://summerofcode.withgoogle.com/) 2016 program. This year, I participated as a student for the Fedora Project working on my proposal, "[_Ansible and the Community (or automation improving innovation)_](https://summerofcode.withgoogle.com/archive/2016/projects/4844704050970624/)". You can read my [original project proposal](https://fedoraproject.org/wiki/GSOC_2016/Student_Application_jflory7) on the Fedora wiki. Over the summer, I spent time learning more about [Ansible](https://www.ansible.com/), applying the knowledge to real-world applications, and then taking that experience and writing my final deliverable. The last deliverable items, closing plans, and thoughts on the journey are detailed as follows.

@@ -14,7 +14,7 @@ tags:
   - "hfoss"
   - "open-source"
   - "summer-activities"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 This summer, I'm excited to say I will be trying on a new pair of socks for size.

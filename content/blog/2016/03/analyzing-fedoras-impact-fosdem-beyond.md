@@ -13,7 +13,7 @@ tags:
   - "metrics"
 ---
 
-\[caption id="attachment\_193" align="alignright" width="788"\][![FOSDEM conference goers in Brussels, Belgium](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/FOSDEM-15-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/FOSDEM-15.jpg) Conference goers attend the FOSDEM conference in Brussels, Belgium.\[/caption\]
+\[caption id="attachment\_193" align="alignright" width="788"\][![FOSDEM conference goers in Brussels, Belgium](/blog/2016/03/FOSDEM-15.jpg)](/blog/2016/03/FOSDEM-15.jpg) Conference goers attend the FOSDEM conference in Brussels, Belgium.\[/caption\]
 
 Yesterday, Fedora contributor and [CommOps](https://fedoraproject.org/wiki/CommOps) team member [Bee Padalkar](https://fedoraproject.org/wiki/User:Bee2502) published an [article on her blog](https://networksfordata.wordpress.com/2016/03/08/fedora-at-fosdem/) about measuring the impact of Fedora's participation at the [FOSDEM conference](https://fosdem.org/2016/) in Europe.
 

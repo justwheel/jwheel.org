@@ -16,7 +16,7 @@ _This article is part of an ongoing series about [how to earn specific Fedora ba
 
 ## "Speak Up!": What is it?
 
-\[caption id="attachment\_115" align="alignright" width="256"\][![Speak Up! badge, awarded to any participant in a Fedora IRC meeting](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/01/Fedora-Badges-Speak-Up.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/01/Fedora-Badges-Speak-Up.png) "Participated in an IRC meeting."\[/caption\]
+\[caption id="attachment\_115" align="alignright" width="256"\][![Speak Up! badge, awarded to any participant in a Fedora IRC meeting](/blog/2016/01/Fedora-Badges-Speak-Up.png)](/blog/2016/01/Fedora-Badges-Speak-Up.png) "Participated in an IRC meeting."\[/caption\]
 
 The [_Speak Up!_ badge](https://badges.fedoraproject.org/badge/speak-up!) is categorized as a "Community Badge" and is defined in this [Trac ticket](https://github.com/oddshocks/badges/blob/master/docs/badges.rst). But what's the real scoop behind the _Speak Up!_ badge?
 

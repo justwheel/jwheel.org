@@ -11,7 +11,7 @@ tags:
   - "fedora-magazine"
   - "fedora-planet"
   - "gsoc"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 This week is the [Google Summer of Code 2016](https://summerofcode.withgoogle.com/) midterm evaluation week. Over the past month since the program started, I've learned more about the technology I'm working with, implementing it within my infrastructure, and moving closer to completing my proposal. My [original project proposal](https://fedoraproject.org/wiki/GSOC_2016/Student_Application_jflory7) details how I am working with [Ansible](https://www.ansible.com/) to bring improved automation for WordPress platforms within Fedora, particularly to the [Fedora Community Blog](https://communityblog.fedoraproject.org/) and the [Fedora Magazine](https://fedoramagazine.org/).
@@ -26,7 +26,7 @@ However, now that automation is present in so much of the Infrastructure through
 
 ## Initial research
 
-[![GSoC 2016: "Ansible For DevOps" as a learning resource](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/ansible-for-devops-cover-231x300.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/ansible-for-devops-cover.jpg)From the beginning, I've used two resources as guides and instructions for GSoC 2016. "[_Ansible For DevOps_](http://www.ansiblefordevops.com/)", a book by [Jeff Geerling](http://jeffgeerling.com/), has played a significant part in helping bootstrap me with Ansible and the in's and out's. I'm about halfway through the book so far, and it has helped profoundly with learning the technology. Special thanks to [Alex Wacker](http://impactvps.com/about.html) for introducing me to the book!
+[![GSoC 2016: "Ansible For DevOps" as a learning resource](/blog/2016/06/ansible-for-devops-cover.jpg)](/blog/2016/06/ansible-for-devops-cover.jpg)From the beginning, I've used two resources as guides and instructions for GSoC 2016. "[_Ansible For DevOps_](http://www.ansiblefordevops.com/)", a book by [Jeff Geerling](http://jeffgeerling.com/), has played a significant part in helping bootstrap me with Ansible and the in's and out's. I'm about halfway through the book so far, and it has helped profoundly with learning the technology. Special thanks to [Alex Wacker](http://impactvps.com/about.html) for introducing me to the book!
 
 The second resource is, as one would expect, the [Ansible documentation](https://docs.ansible.com/). The documentation for Ansible is complete and fully explanatory. Usually if there is an Ansible-specific concept I am struggling with learning, or finding a module for accomplishing a task, the Ansible documentation helps point me in the right direction quickly.
 

@@ -15,7 +15,7 @@ tags:
   - "open-source"
   - "vagrant"
   - "virtual-machines-vm"
-coverImage: "Google-Summer-of-Code-announcement.png"
+coverImage: "/img/Google-Summer-of-Code-announcement.png"
 ---
 
 As part of my [Google Summer of Code](https://summerofcode.withgoogle.com/) project proposal for the [Fedora Project](https://fedoraproject.org/wiki/Overview), I've spent a lot of time learning about the ins and outs of Ansible. [Ansible](https://www.ansible.com/) is a handy task and configuration automation utility. In the Fedora Project, Ansible is [used extensively](https://infrastructure.fedoraproject.org/cgit/ansible.git/) in Fedora's infrastructure. But if you're first starting to learn Ansible, it might be tricky to test and play with it if you don't have production or development servers you can use. This is where Vagrant comes in.
@@ -24,7 +24,7 @@ As part of my [Google Summer of Code](https://summerofcode.withgoogle.com/) proj
 
 ## What is Vagrant?
 
-\[caption id="attachment\_318" align="alignright" width="246"\][![Together, Vagrant and Ansible are a powerful combination.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/Vagrant-246x300.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/06/Vagrant.png) Together, Vagrant and Ansible are a powerful combination.\[/caption\]
+\[caption id="attachment\_318" align="alignright" width="246"\][![Together, Vagrant and Ansible are a powerful combination.](/blog/2016/06/Vagrant.png)](/blog/2016/06/Vagrant.png) Together, Vagrant and Ansible are a powerful combination.\[/caption\]
 
 Many people in the tech industry are already familiar with virtual machines (VMs) and using them for testing. If using a virtual machine is useful for testing and experimentation, Vagrant takes that idea and makes it a thousand times for powerful. [Vagrant](https://www.vagrantup.com/) creates and configures a single virtual machine or several groups of inter-connected virtual machines. For someone trying to learn configuration management software like Ansible (or Puppet, or Chef, or Salt…), it features tight integration for creating virtual machines from playbooks.
 

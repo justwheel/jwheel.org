@@ -22,7 +22,7 @@ This article is a further addition to the series of blog posts for my [Humanitar
 
 #### møte
 
-[![HFOSS bugfix: Looking at møte](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/02/Fedora-Booth-Wide-300x225.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/02/Fedora-Booth-Wide.jpg)
+[![HFOSS bugfix: Looking at møte](/blog/2016/02/Fedora-Booth-Wide.jpg)](/blog/2016/02/Fedora-Booth-Wide.jpg)
 
 When I started this homework assignment, there was originally one project I had in mind. As a non-code contributor to the Fedora Project, I frequently interact with Fedora's own implementation of Meetbot. [Meetbot](https://wiki.debian.org/MeetBot) is an IRC bot that adds meeting functionality to IRC channels. It makes it easy to highlight important info and summarize the meeting into a tidy HTML summary afterwards.
 

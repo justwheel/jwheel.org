@@ -14,7 +14,7 @@ tags:
 
 ## Parselmouth: What is it?
 
-\[caption id="attachment\_59" align="alignright" width="256"\][![Parselmouth Badge, for Python 3 porting](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Parselmouth.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Parselmouth.png) "You can speak Python and helped with porting stuff to Python 3."\[/caption\]
+\[caption id="attachment\_59" align="alignright" width="256"\][![Parselmouth Badge, for Python 3 porting](/blog/2015/11/Parselmouth.png)](/blog/2015/11/Parselmouth.png) "You can speak Python and helped with porting stuff to Python 3."\[/caption\]
 
 The [_Parselmouth_ badge](https://badges.fedoraproject.org/badge/parselmouth) is categorized as a "Miscellaneous Badge" and was defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/386). But what's the real scoop behind the _Parselmouth_ badge?
 

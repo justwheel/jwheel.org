@@ -17,7 +17,7 @@ tags:
   - "librecorps"
   - "open-source"
   - "travel"
-coverImage: "fosdem-2020.png"
+coverImage: "/img/fosdem-2020.png"
 ---
 
 _This post is a follow-up to [FOSDEM 2020, pt. 1: Play by play](https://jwfblog.wpenginepowered.com/2020/03/fosdem-2020-pt-1-play-by-play/). This post summarizes the talk given by me and my colleague, [Mike Nolan](https://nolski.rocks/), at FOSDEM 2020._

@@ -20,7 +20,7 @@ tags:
   - "open-source-design"
   - "rochester-institute-of-technology"
   - "travel"
-coverImage: "fosdem-2020.png"
+coverImage: "/img/fosdem-2020.png"
 ---
 
 FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after [Sustain OSS 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/) and [CHAOSScon EU 2020](https://jwfblog.wpenginepowered.com/2020/02/chaosscon-eu-2020-play-by-play/)):

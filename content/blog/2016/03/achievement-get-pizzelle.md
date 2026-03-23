@@ -14,7 +14,7 @@ tags:
   - "fedora-planet"
 ---
 
-\[caption id="attachment\_226" align="alignright" width="256"\][![Pizzelle badge: You got 50 karma cookies!](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/Pizzelle-cookie.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/03/Pizzelle-cookie.png) The [_Pizzelle_ badge](https://badges.fedoraproject.org/badge/pizzelle-cookie-iv), in all of its crumbly, delicious awesomeness\[/caption\]
+\[caption id="attachment\_226" align="alignright" width="256"\][![Pizzelle badge: You got 50 karma cookies!](/blog/2016/03/Pizzelle-cookie.png)](/blog/2016/03/Pizzelle-cookie.png) The [_Pizzelle_ badge](https://badges.fedoraproject.org/badge/pizzelle-cookie-iv), in all of its crumbly, delicious awesomeness\[/caption\]
 
 Today, I received the [_Pizzelle_ badge](https://badges.fedoraproject.org/badge/pizzelle-cookie-iv) in [Fedora Badges](https://badges.fedoraproject.org/about). I was awarded with _Pizzelle_ after a short "karma storm" in the [EMEA Ambassadors meeting](https://meetbot.fedoraproject.org/fedora-meeting/2016-03-30/emea_ambassadors.2016-03-30-21.00.log.html). After finding out I was awarded the badge, I had a light bulb sort of moment. As of this month, it has been a year since I first found myself wanting to get involved with the Fedora Project. I remember seeing the announcement for [Flock 2015](https://flocktofedora.org/) and how that was right next to my soon-to-be university, the [Rochester Institute of Technology](https://www.rit.edu/). I remember lazily dismissing the idea of taking any further steps into Fedora until after Flock 2015. And now, a year later, I'm reflecting back on crazy of a past few months it has been.
 

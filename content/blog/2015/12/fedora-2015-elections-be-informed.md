@@ -12,7 +12,7 @@ tags:
   - "fedora-planet"
 ---
 
-\[caption id="attachment\_92" align="alignright" width="250"\][![Fedora Elections are the time to impact the Project](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Fedora-I-Voted-badge.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/12/Fedora-I-Voted-badge.png) Fedora Elections are the time to impact the Project. _Source_: [christoph-wickert.de](http://www.christoph-wickert.de/blog/2012/12/07/fedora-elections-dont-forget-to-vote/)\[/caption\]
+\[caption id="attachment\_92" align="alignright" width="250"\][![Fedora Elections are the time to impact the Project](/blog/2015/12/Fedora-I-Voted-badge.png)](/blog/2015/12/Fedora-I-Voted-badge.png) Fedora Elections are the time to impact the Project. _Source_: [christoph-wickert.de](http://www.christoph-wickert.de/blog/2012/12/07/fedora-elections-dont-forget-to-vote/)\[/caption\]
 
 Today, the Fedora Elections for December 2015 officially began at 00:00 UTC. The voting period will be open from now until December 14th, 2015, at 23:59 UTC. Fedora is a community-driven project, and voting is one of the greatest ways you can have an impact in how Fedora runs, either as a user or a contributor. Your vote is powerful, and you should be informed before casting your vote!
 

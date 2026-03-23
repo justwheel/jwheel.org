@@ -21,7 +21,7 @@ tags:
   - "rit-2171"
   - "rochester-institute-of-technology"
   - "selinux"
-coverImage: "listenbrainz-rit-independent-study.png"
+coverImage: "/img/listenbrainz-rit-independent-study.png"
 ---
 
 _This post is part of a series of posts where I contribute to the ListenBrainz project for my independent study at the Rochester Institute of Technology in the fall 2017 semester. For more posts, find them in [this tag](https://jwfblog.wpenginepowered.com/tag/rit-2171/)._
@@ -34,7 +34,7 @@ My progress with ListenBrainz slowed, but I am resuming the pace of contributing
 
 ## Paving the contributor pathway
 
-\[caption id="attachment\_835" align="alignright" width="985"\][![Making it easier for people to contribute user statistics to ListenBrainz](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/Screenshot-from-2017-11-13-02-05-12.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/11/Screenshot-from-2017-11-13-02-05-12.png) Making it easier for people to contribute to ListenBrainz with helpful contibuting guidelines\[/caption\]
+\[caption id="attachment\_835" align="alignright" width="985"\][![Making it easier for people to contribute user statistics to ListenBrainz](/blog/2017/11/Screenshot-from-2017-11-13-02-05-12.png)](/blog/2017/11/Screenshot-from-2017-11-13-02-05-12.png) Making it easier for people to contribute to ListenBrainz with helpful contibuting guidelines\[/caption\]
 
 Earlier, I identified weaknesses for the ListenBrainz contributor pathway and found ways we could improve the pathway. This started with the development environment documentation. Now, I helped draft first revisions of our [contributor guidelines](https://github.com/metabrainz/listenbrainz-server/pull/287), [Code of Conduct reference](https://github.com/metabrainz/listenbrainz-server/pull/286), and [pull request templates](https://github.com/metabrainz/listenbrainz-server/pull/288). Together, these three documents have two goals.
 

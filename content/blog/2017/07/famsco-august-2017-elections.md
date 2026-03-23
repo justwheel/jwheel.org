@@ -11,7 +11,7 @@ tags:
   - "fedora-planet"
   - "open-source-communities"
   - "working-together"
-coverImage: "community.png"
+coverImage: "/img/community.png"
 ---
 
 A new release of Fedora makes headlines this month. With every release, it also means a new round of the Fedora community leadership elections. On 24 July 2017, the [call for nominations](https://communityblog.fedoraproject.org/elections-august-2017-nomination-open/) went out for candidates. The [Fedora Engineering Steering Committee](https://fedoraproject.org/wiki/Fedora_Engineering_Steering_Committee) (FESCo), [Fedora Ambassador Steering Committee](https://fedoraproject.org/wiki/Fedora_Ambassadors_Steering_Committee) (FAmSCo), and the [Fedora Council](https://fedoraproject.org/wiki/Council) all have [seats open](https://fedoraproject.org/wiki/Elections). Already, discussions on nominations are happening. The candidate interview templates are [being prepared](https://pagure.io/fedora-commops/pull-request/113). Even now, the nomination lists are filling up. However, I want to share an opinion on the upcoming FAmSCo election specifically.

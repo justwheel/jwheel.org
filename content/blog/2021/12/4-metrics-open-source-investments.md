@@ -77,7 +77,7 @@ The four metrics are detailed below:
 
 <figure>
 
-[![A hand holds a pen and is writing on a sheet of notebook paper. They appear to be making a list.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/glenn-carstens-peters-RLw-UC03Gwc-unsplash-1024x681.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/glenn-carstens-peters-RLw-UC03Gwc-unsplash-scaled.jpg)
+[![A hand holds a pen and is writing on a sheet of notebook paper. They appear to be making a list.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/glenn-carstens-peters-RLw-UC03Gwc-unsplash-1024x681.jpg)](/blog/2021/12/glenn-carstens-peters-RLw-UC03Gwc-unsplash-scaled.jpg)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ I would measure this across two [types of contributions](https://chaoss.communit
 
 <figure>
 
-[![View looking down at a small farmer's market, where a woman sits behind several different cases of vegetables. A man hands payment to the woman for unseen goods. This is connected how knowing your customers can also be like knowing your community.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/alex-hudson-m3I92SgM3Mk-unsplash-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/alex-hudson-m3I92SgM3Mk-unsplash-scaled.jpg)
+[![View looking down at a small farmer's market, where a woman sits behind several different cases of vegetables. A man hands payment to the woman for unseen goods. This is connected how knowing your customers can also be like knowing your community.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/alex-hudson-m3I92SgM3Mk-unsplash-1024x683.jpg)](/blog/2021/12/alex-hudson-m3I92SgM3Mk-unsplash-scaled.jpg)
 
 <figcaption>
 
@@ -131,7 +131,7 @@ To collect this data, I would have the team define what [areas of contribution](
 
 <figure>
 
-[![The dashboard of an older plane is shown, with several different meters, switches, and control knobs. In many ways, the places where we collaborate on our projects can also be as complicated, and we can miss out on some useful features if we are not looking in the right place.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/kai-dahms-5paXZX8lWk-unsplash-1024x576.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/kai-dahms-5paXZX8lWk-unsplash-scaled.jpg)
+[![The dashboard of an older plane is shown, with several different meters, switches, and control knobs. In many ways, the places where we collaborate on our projects can also be as complicated, and we can miss out on some useful features if we are not looking in the right place.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/kai-dahms-5paXZX8lWk-unsplash-1024x576.jpg)](/blog/2021/12/kai-dahms-5paXZX8lWk-unsplash-scaled.jpg)
 
 <figcaption>
 
@@ -162,7 +162,7 @@ Measuring collaboration platform activity is not black and white. Many new quest
 
 <figure>
 
-[![A man is facing forward with his back to the camera. He wears a heavy coat and a construction hard hat. The background is blurred and unclear. In this way, we can think of labor investment from a human-centered approach first.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/jon-tyson-kR4K8nJ9JRc-unsplash-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/jon-tyson-kR4K8nJ9JRc-unsplash-scaled.jpg)
+[![A man is facing forward with his back to the camera. He wears a heavy coat and a construction hard hat. The background is blurred and unclear. In this way, we can think of labor investment from a human-centered approach first.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/12/jon-tyson-kR4K8nJ9JRc-unsplash-1024x683.jpg)](/blog/2021/12/jon-tyson-kR4K8nJ9JRc-unsplash-scaled.jpg)
 
 <figcaption>
 

@@ -18,7 +18,7 @@ Four years ago, on March 13th in 2017, I woke up for breakfast in the city of [S
 
 <figure>
 
-[![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170313_101600_693-1024x1024.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170313_101600_693-scaled.jpg)
+[![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170313_101600_693-1024x1024.jpg)](/blog/2021/03/IMG_20170313_101600_693-scaled.jpg)
 
 <figcaption>
 
@@ -38,7 +38,7 @@ I remember my last-minute decision to travel over my spring break instead of stu
 
 <figure>
 
-- [![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170314_122942-2-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170314_122942-2-scaled.jpg)
+- [![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170314_122942-2-1024x768.jpg)](/blog/2021/03/IMG_20170314_122942-2-scaled.jpg)
     
 - [![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170313_145246-1-1024x768.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/IMG_20170313_145246-1-1024x768.jpg)
     
@@ -61,7 +61,7 @@ My challenge in a virtual-first world is discovering new ways to restore and rep
 
 <figure>
 
-[![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/PANO_20170314_150305-1024x179.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/PANO_20170314_150305-scaled.jpg)
+[![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/03/PANO_20170314_150305-1024x179.jpg)](/blog/2021/03/PANO_20170314_150305-scaled.jpg)
 
 <figcaption>
 

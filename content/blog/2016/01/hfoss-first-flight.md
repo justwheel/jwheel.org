@@ -12,7 +12,7 @@ tags:
   - "rochester-institute-of-technology"
 ---
 
-\[caption id="attachment\_133" align="alignright" width="200"\][![HFOSS: The FOSS @ MAGIC logo](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/01/FOSS-@-MAGIC.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/01/FOSS-@-MAGIC.png) [FOSS @ MAGIC](http://magic.rit.edu/foss/), the program that hosts the FOSS minor\[/caption\]
+\[caption id="attachment\_133" align="alignright" width="200"\][![HFOSS: The FOSS @ MAGIC logo](/blog/2016/01/FOSS-@-MAGIC.png)](/blog/2016/01/FOSS-@-MAGIC.png) [FOSS @ MAGIC](http://magic.rit.edu/foss/), the program that hosts the FOSS minor\[/caption\]
 
 This past year, I enrolled as a student at the [Rochester Institute of Technology](http://www.rit.edu/) in Rochester, NY. For me, this is quite a distance from my hometown just outside of Atlanta, GA. Part of the motivation that led me to choose RIT as my university of choice was its participation in [Free and Open Source Software](https://en.wikipedia.org/wiki/Free_and_open-source_software) education and communities. RIT is one of the few schools in the United States to offer a [minor](http://magic.rit.edu/foss/minor.html) in Free and Open Source Software.
 
