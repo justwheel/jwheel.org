@@ -99,4 +99,4 @@ This blog post. These words are a radical act of love. Acknowledging it and choo
 
 * * *
 
-_Featured image arranged by Justin W. Flory. Original photograph by [Ian Schneider](https://unsplash.com/@goian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._
+_Featured image arranged by Justin Wheeler. Original photograph by [Ian Schneider](https://unsplash.com/@goian?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/community?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._

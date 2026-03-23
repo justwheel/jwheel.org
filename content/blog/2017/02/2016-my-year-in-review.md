@@ -112,7 +112,7 @@ To read a more in-depth analysis of my time in Poland, you can read [my full wri
 
 ## Maryland (Bitcamp), Massachusetts (HackMIT), California (MINECON)
 
-![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/img/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin W. Flory (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
+![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/img/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin Wheeler (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
 
 2016 provided me the opportunity to explore various parts of my country. Throughout the year, I attended various conferences to represent the [Fedora Project](https://fedoraproject.org/wiki/Overview), the [SpigotMC project](https://www.spigotmc.org/wiki/about-spigot/), and the [RIT open source](http://foss.rit.edu) community.
 
@@ -146,7 +146,7 @@ A big shout-out to Matt for always supporting me with everything I do and always
 
 ## Finally seeing NYC with Nolski
 
-![Mike Nolan and Justin W. Flory venture through New York City early on a Sunday evening](/blog/2017/02/Nolski-and-jflory-take-Manhatten.jpg "Mike Nolan and I venture through New York City early on a Sunday evening")
+![Mike Nolan and Justin Wheeler venture through New York City early on a Sunday evening](/blog/2017/02/Nolski-and-jflory-take-Manhatten.jpg "Mike Nolan and I venture through New York City early on a Sunday evening")
 
 In no short time after the Vermont trip, I purchased tickets for my favorite band, [El Ten Eleven](http://www.elteneleven.com/), in New York City on November 12th. What turned into a one-day trip to see the band turned into an all-weekend trip to see the band, see New York City, and spend some time catching up with two of my favorite people, [Mike Nolan](http://nolski.rocks/) (nolski) and [Remy DeCausemaker](http://decausemaker.org/) (decause). During the weekend, I saw the World Trade Center memorial site for the first time, tried some amazing bagels, explored virtual reality in Samsung's HQ, and got an exclusive inside look at the [Giphy](https://giphy.com/) office.
 

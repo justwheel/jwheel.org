@@ -30,4 +30,4 @@ To use social media as an example, the government of Iran is an example of how a
 
 Identifying how the role of media is influenced by power is a vital skill to be a consumer of information in the 21st century. At an unprecedented rate, we consume information more than any other generation before us. The availability of information at our fingertips on the Internet and the advent of ephemeral media requires us to process more information than our brains can handle. In lieu of a surplus of media, content, and information, it is important to be able to question our media, its motives, and to understand biases that may be at play to persuade us to view a topic or issue a particular way.
 
-_Justin W. Flory (Dec. 13, 2019)_
+_Justin Wheeler (Dec. 13, 2019)_

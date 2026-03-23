@@ -41,4 +41,4 @@ I may not know Seth, nor will I ever, but his legacy gives me a strong reminder 
 
 In summary? Seth's light fades out and burns into embers, but it never dies. His legacy will always be there, for friends to remember and strangers to learn from. Amidst all of this panicked writing I have to do after DevConf and FOSDEM, Seth's legacy levels me and reminds me of what's important. Sometimes what's really important is logging off and going for a bike ride, or a coffee with notebook and pen, or sharing precious time with loved ones. Seth, you may be gone and have no memory of me, but I have your memory, and I hope you are with me too.
 
-_Justin W. Flory_
+_Justin Wheeler_

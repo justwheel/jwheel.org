@@ -61,4 +61,4 @@ But it is like they say, "it is hard to be what you can't see." Sometimes I feel
 
 * * *
 
-_Photo by [Rishabh Dharmani](https://unsplash.com/@rishabhdharmani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/IvfAs3Qk64M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory._
+_Photo by [Rishabh Dharmani](https://unsplash.com/@rishabhdharmani?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/IvfAs3Qk64M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler._

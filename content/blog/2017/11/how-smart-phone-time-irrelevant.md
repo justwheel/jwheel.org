@@ -33,4 +33,4 @@ But the solution isn't to abandon the digital world and cast the device aside. T
 
 * * *
 
-_Featured image by Justin W. Flory. Uses [content](https://thenounproject.com/term/content/13699/) by [Iris Li](https://thenounproject.com/icons.design) from [the Noun Project](https://thenounproject.com/)._
+_Featured image by Justin Wheeler. Uses [content](https://thenounproject.com/term/content/13699/) by [Iris Li](https://thenounproject.com/icons.design) from [the Noun Project](https://thenounproject.com/)._

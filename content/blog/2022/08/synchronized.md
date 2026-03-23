@@ -38,4 +38,4 @@ _one, two_
 
 * * *
 
-_Photo by [David Marcu](https://unsplash.com/@davidmarcu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bicycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory_.
+_Photo by [David Marcu](https://unsplash.com/@davidmarcu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/bicycle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler_.

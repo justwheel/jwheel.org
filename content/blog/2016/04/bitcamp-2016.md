@@ -21,7 +21,7 @@ Over the weekend of April 9th - 10th, the Fedora Project [Ambassadors of North A
 
 The [Fedora Project](https://fedoraproject.org/wiki/Overview) attended as an event sponsor this year. At the event, we held a table in the hacker arena. The Ambassadors offered mentorship and help to Bitcamp 2016 programmers, gave away some free Fedora swag, and offered an introduction to Linux, [open source](http://www.theopensourceway.org/), and our community. This report recollects some highlights from the event.
 
-![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/img/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin W. Flory (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
+![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/img/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin Wheeler (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
 
 <!--more-->
 

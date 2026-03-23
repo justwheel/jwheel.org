@@ -71,4 +71,4 @@ _"BRAVING" is a tool to help us manage the wilderness. There will be times when 
 
 * * *
 
-_Photo by [Artem Sapegin](https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory._
+_Photo by [Artem Sapegin](https://unsplash.com/@sapegin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/images/nature?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler._

@@ -131,4 +131,4 @@ I would also like to give a special thanks to all the people who have made this 
 
 Thanks for a fantastic 2015. I'm looking forward to seeing where 2016 takes us next.
 
-![Year in Review - Justin W. Flory](/blog/2016/02/January-Photo-Shoot.jpg "Looking forward to 2016 and all that it brings.")
+![Year in Review - Justin Wheeler](/blog/2016/02/January-Photo-Shoot.jpg "Looking forward to 2016 and all that it brings.")

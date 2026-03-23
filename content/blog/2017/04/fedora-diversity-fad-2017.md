@@ -25,7 +25,7 @@ coverImage: "fedora-diversity-fad-2017.png"
 
 * * *
 
-![Team picture of the Diversity Team members (left to right: Brian Exelbierd, Amita Sharma, Radka Janek, Jona Azizaj, Bhagyashree Padalkar, Justin W. Flory)](/blog/2017/04/DSC_0031.jpg "Team picture of the Diversity Team members (left to right: Brian Exelbierd, Amita Sharma, Radka Janek, Jona Azizaj, Bhagyashree Padalkar, Justin W. Flory)")
+![Team picture of the Diversity Team members (left to right: Brian Exelbierd, Amita Sharma, Radka Janek, Jona Azizaj, Bhagyashree Padalkar, Justin Wheeler)](/blog/2017/04/DSC_0031.jpg "Team picture of the Diversity Team members (left to right: Brian Exelbierd, Amita Sharma, Radka Janek, Jona Azizaj, Bhagyashree Padalkar, Justin Wheeler)")
 
 The [Fedora Diversity FAD](https://fedoraproject.org/wiki/FAD_Diversity_2017) (a.k.a. Fedora Activity Day, or a sprint) took place during the weekend of [DevConf](https://devconf.cz/), 27-29 January. The original planning for this FAD started in August 2016, after the [Flock 2016](https://flocktofedora.org/) conference. At Flock, the Diversity Team held a panel with open discussion about diversity and inclusion efforts in Fedora. Based on the feedback received during and after the panel, it was a priority for us to continue working on the objectives we had established before Flock. For the FAD, a majority of the Fedora Diversity Team was present along with a few others.
 
@@ -33,7 +33,7 @@ The [Fedora Diversity FAD](https://fedoraproject.org/wiki/FAD_Diversity_2017) (a
 - Bhagyashree "Bee" Padalkar ([bee2502](https://fedoraproject.org/wiki/User:Bee2502))
 - Brian Exelbierd ([bex](https://fedoraproject.org/wiki/User:Bex))
 - Jona Azizaj ([jonatoni](https://fedoraproject.org/wiki/User:Jonatoni))
-- Justin W. Flory ([jflory7](https://fedoraproject.org/wiki/User:Jflory7))
+- Justin Wheeler ([jflory7](https://fedoraproject.org/wiki/User:Jflory7))
 - Maria "tatica" Leandro ([tatica](https://fedoraproject.org/wiki/User:Tatica))
 - Marina Zhurakhinskaya ([marinaz](https://fedoraproject.org/wiki/User:Marinaz))
 - Radka Janek ([rhea](https://fedoraproject.org/wiki/User:Rhea))

@@ -45,4 +45,4 @@ Before, we saw an accommodation as when a specific feature is added to software 
 * * *
 
 _Featured image photo by [Matthew T Rader](https://unsplash.com/@matthew_t_rader?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/thoughtful?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)._  
-_Modified by Justin W. Flory_.
+_Modified by Justin Wheeler_.

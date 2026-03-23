@@ -33,7 +33,7 @@ In this project proposal, we take a preliminary look at the project we're lookin
 | [Bobby Pruden](https://rdp1070.wordpress.com/) | \*\*\*\*\*\*\*@rit.edu |
 | [Wilfried Hounyo](http://blog.wilfriede.me/) | \*\*\*\*\*\*\*\*.\*\*\*\*\*\*@gmail.com |
 | [Stephen Garabedian](https://spg1502igme582.wordpress.com/) | \*\*\*\*\*\*\*@rit.edu |
-| Justin W. Flory | \*\*\*\*\*\*\*@gmail.com |
+| Justin Wheeler | \*\*\*\*\*\*\*@gmail.com |
 
 ## Project
 

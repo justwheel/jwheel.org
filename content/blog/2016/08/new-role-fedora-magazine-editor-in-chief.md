@@ -10,7 +10,7 @@ tags:
 coverImage: "new-role-magazine-editor-in-chief.png"
 ---
 
-![Picture from Flock 2016 with Justin W. Flory and Ryan Lerch for Fedora Magazine](/blog/2016/08/IMG_9424.jpg "Me (left) with Ryan Lerch (right) at Flock 2016 (https://flocktofedora.org/)")
+![Picture from Flock 2016 with Justin Wheeler and Ryan Lerch for Fedora Magazine](/blog/2016/08/IMG_9424.jpg "Me (left) with Ryan Lerch (right) at Flock 2016 (https://flocktofedora.org/)")
 
 Today, I am pleased to announce my new role as the [Fedora Magazine](https://fedoramagazine.org/) editor-in-chief. After deciding to shift focus to other areas of the Fedora Project, I am receiving the torch from [Ryan Lerch](https://fedoramagazine.org/author/ryanlerch/). Ryan has helped lead the Magazine, edit pieces from other contributors, contribute his own pieces, and decide strategic direction for the Magazine.
 

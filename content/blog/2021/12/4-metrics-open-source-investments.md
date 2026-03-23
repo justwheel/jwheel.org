@@ -149,4 +149,4 @@ This post will serve as a milestone marker on the metrics strategy discussion in
 
 * * *
 
-_Featured photo by [Edward Howell](https://unsplash.com/@edwardhowellphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory. CC BY-SA 4.0_.
+_Featured photo by [Edward Howell](https://unsplash.com/@edwardhowellphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sustainable?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler. CC BY-SA 4.0_.

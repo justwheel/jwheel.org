@@ -29,4 +29,4 @@ Om mani padme hum!
 
 * * *
 
-_Photo by [Luke van Zyl](https://unsplash.com/@lukevz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/middle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory._
+_Photo by [Luke van Zyl](https://unsplash.com/@lukevz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/middle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler._

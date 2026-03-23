@@ -91,6 +91,6 @@ I hope these lessons are also helpful to you too. Additionally, if you have any 
 
 * * *
 
-_Featured image arranged by Justin W. Flory._
+_Featured image arranged by Justin Wheeler._
 
 _[friends](https://thenounproject.com/term/friends/1314299/) by [Ilaria](https://thenounproject.com/ilariabernareggi)_. _[Bernareggi](https://thenounproject.com/ilariabernareggi), [thumbs up](https://thenounproject.com/term/thumbs-up/538635/) by [mikicon](https://thenounproject.com/mikicon), [Facebook](https://thenounproject.com/term/facebook/63243/) by [Saloni Sinha](https://thenounproject.com/morbidillusion), and [more](https://thenounproject.com/term/more/663974/) by [Ilaria Bernareggi](https://thenounproject.com/ilariabernareggi) from [the Noun Project](https://thenounproject.com/)._

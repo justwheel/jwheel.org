@@ -58,4 +58,4 @@ Breathe.
 
 * * *
 
-_Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/hokONTrHIAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory. CC BY-SA 4.0._
+_Photo by [Steve Johnson](https://unsplash.com/@steve_j?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/hokONTrHIAQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler. CC BY-SA 4.0._

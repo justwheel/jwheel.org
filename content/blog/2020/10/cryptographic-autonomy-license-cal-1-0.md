@@ -102,4 +102,4 @@ I imagine I am not the only one who feels mutually excited and hesitant about th
 
 * * *
 
-_Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/access?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin W. Flory._
+_Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/access?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). Modified by Justin Wheeler._

@@ -20,7 +20,7 @@ tags:
 coverImage: "/img/teleirc-development-update.jpg"
 ---
 
-On Saturday, February 2nd, 2019, the [TeleIRC](https://github.com/RITlug/teleirc) community in Rochester, NY held the first developers' meeting. Starting this month, weekly meetings are held to discuss blocking issues and plan ahead for the future of the project. Current project lead [Justin W. Flory](https://justinwflory.com/) met with [Tim Zabel](https://github.com/Tjzabel) and [Nic Hartley](https://github.com/nic-hartley/) to finish planning the v1.3 milestone for TeleIRC. Notably, this marks the next feature-release of TeleIRC since v1.2 in October 2018.
+On Saturday, February 2nd, 2019, the [TeleIRC](https://github.com/RITlug/teleirc) community in Rochester, NY held the first developers' meeting. Starting this month, weekly meetings are held to discuss blocking issues and plan ahead for the future of the project. Current project lead [Justin Wheeler](https://jwheel.org/) met with [Tim Zabel](https://github.com/Tjzabel) and [Nic Hartley](https://github.com/nic-hartley/) to finish planning the v1.3 milestone for TeleIRC. Notably, this marks the next feature-release of TeleIRC since v1.2 in October 2018.
 
 Read on to learn more about what's coming in TeleIRC v1.3.
 

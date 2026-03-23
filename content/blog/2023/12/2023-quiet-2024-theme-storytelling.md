@@ -47,4 +47,4 @@ Happy New Year, reader.
 
 * * *
 
-_Original photo by [S O C I A L . C U T](https://unsplash.com/@socialcut?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/lighted-we-are-all-made-of-stories-red-neon-wall-signage-inside-room-FluPNkHfCTs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). Modified by Justin W. Flory. CC BY-SA 4.0._
+_Original photo by [S O C I A L . C U T](https://unsplash.com/@socialcut?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/lighted-we-are-all-made-of-stories-red-neon-wall-signage-inside-room-FluPNkHfCTs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). Modified by Justin Wheeler. CC BY-SA 4.0._

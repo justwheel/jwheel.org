@@ -25,7 +25,7 @@ coverImage: "five-queen-songs-mainstream.jpg"
 
 * * *
 
-Making graphs is easy. Making intuitive, easy-to-understand graphs? It's harder than most people think. At the [Rochester Institute of Technology](https://www.rit.edu/), the ISTE-260 (Designing the User Experience) course teaches the language of design to IT students. For an introductory exercise in the class, students are tasked to visualize any set of data they desire. Students [David Kim](https://www.linkedin.com/in/davidkim18/), [Jathan Anandham](https://www.linkedin.com/in/jathan-a/), [Justin W. Flory](https://www.linkedin.com/in/justinwflory/), and [Scott Tinker](https://www.linkedin.com/in/scott-tinker-216962129/) used the MusicBrainz database to look at how five different Queen songs went mainstream in different ways.  
+Making graphs is easy. Making intuitive, easy-to-understand graphs? It's harder than most people think. At the [Rochester Institute of Technology](https://www.rit.edu/), the ISTE-260 (Designing the User Experience) course teaches the language of design to IT students. For an introductory exercise in the class, students are tasked to visualize any set of data they desire. Students [David Kim](https://www.linkedin.com/in/davidkim18/), [Jathan Anandham](https://www.linkedin.com/in/jathan-a/), [Justin Wheeler](https://www.linkedin.com/in/jwwheel/), and [Scott Tinker](https://www.linkedin.com/in/scott-tinker-216962129/) used the MusicBrainz database to look at how five different Queen songs went mainstream in different ways.  
 
 <!--more-->
 
@@ -57,7 +57,7 @@ This exercise was an exploratory assignment, but we had fun visualizing it and e
 
 If you're interested for the full details, the [slides](https://docs.google.com/presentation/d/1sMgwgo5dxi2n0j1elnlfZgk3OU5QnwsZfcrNwQYmmCQ/edit?usp=sharing) and a [short paper](https://docs.google.com/document/d/1sLXBK2uUCpBazBUe_EiRdHOGlKUcBMwP7CG1XX9-Aiw/edit?usp=sharing) about the presentation are available online. They provide deeper context for the research and the visualization details based on different design concepts.  
 
-You can see what else [David Kim](https://www.linkedin.com/in/davidkim18/), [Jathan Anandham](https://www.linkedin.com/in/jathan-a/), [Justin W. Flory](https://www.linkedin.com/in/justinwflory/), and [Scott Tinker](https://www.linkedin.com/in/scott-tinker-216962129/) are up to on LinkedIn. Thanks for tuning in to this adventure into music data analysis, powered by MusicBrainz!  
+You can see what else [David Kim](https://www.linkedin.com/in/davidkim18/), [Jathan Anandham](https://www.linkedin.com/in/jathan-a/), [Justin Wheeler](https://www.linkedin.com/in/jwwheel/), and [Scott Tinker](https://www.linkedin.com/in/scott-tinker-216962129/) are up to on LinkedIn. Thanks for tuning in to this adventure into music data analysis, powered by MusicBrainz!  
 
 * * *
 

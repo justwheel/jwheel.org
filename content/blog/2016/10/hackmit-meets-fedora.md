@@ -25,7 +25,7 @@ https://communityblog.fedoraproject.org/hackmit-meets-fedora/
 
 * * *
 
-[HackMIT](https://hackmit.org/) is the annual hackathon event organized by students at the [Massachusetts Institute of Technology](http://web.mit.edu/) in Cambridge, Massachusetts. HackMIT 2016 took place on September 17th and 18th, 2016. This year, the Fedora Project partnered with Red Hat as sponsors for the hackathon. Fedora Ambassadors [Charles Profitt](http://hub.cprofitt.com/) and [Justin W. Flory](https://justinwflory.com/) attended to represent the project and help mentor top students from around the country in a weekend of learning and competitive hacking. Fedora engaged with a new audience of students from various universities across America and even the globe.
+[HackMIT](https://hackmit.org/) is the annual hackathon event organized by students at the [Massachusetts Institute of Technology](http://web.mit.edu/) in Cambridge, Massachusetts. HackMIT 2016 took place on September 17th and 18th, 2016. This year, the Fedora Project partnered with Red Hat as sponsors for the hackathon. Fedora Ambassadors [Charles Profitt](http://hub.cprofitt.com/) and [Justin Wheeler](https://jwheel.org/) attended to represent the project and help mentor top students from around the country in a weekend of learning and competitive hacking. Fedora engaged with a new audience of students from various universities across America and even the globe.
 
 <!--more-->
 

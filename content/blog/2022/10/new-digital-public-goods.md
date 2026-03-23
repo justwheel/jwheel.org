@@ -45,7 +45,7 @@ The Venture Fund offers different areas of Technical Assistance to start-up comp
 - Evidence of Impact with Milena Bacalja Perianes and Jennifer Sawyer
 - Data Privacy & Security with Lydia Kwong
 - Data Science & A.I. with Daniel Alvarez
-- Open Source with Justin W. Flory, Abigail Cabunoc Mayes (former), and Vipul Siddharth
+- Open Source with Justin Wheeler, Abigail Cabunoc Mayes (former), and Vipul Siddharth
 - Software Development with Iván Perdomo
 
 The mentors work closely with the experienced team of portfolio managers (Meghan Warner, Kennedy Kitheka, and Madison Marks) to guide and coach Venture Fund companies to achieve their targets and success indicators during the investment round.

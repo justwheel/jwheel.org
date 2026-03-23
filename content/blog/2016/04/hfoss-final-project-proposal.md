@@ -28,7 +28,7 @@ In this project proposal, we take a look at the game idea we are looking at comp
 | --- | --- |
 | [Wilfried Hounyo](http://blog.wilfriede.me/) | \*\*\*\*\*\*\*.\*\*\*\*\*\*@gmail.com |
 | [Stephen Garabedian](https://spg1502igme582.wordpress.com/) | \*\*\*\*\*\*\*@rit.edu |
-| Justin W. Flory | \*\*\*\*\*\*\*@gmail.com |
+| Justin Wheeler | \*\*\*\*\*\*\*@gmail.com |
 
 ## Project
 

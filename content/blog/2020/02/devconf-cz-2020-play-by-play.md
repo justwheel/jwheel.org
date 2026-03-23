@@ -173,7 +173,7 @@ In the activity, Prathamesh passed papers and pens to the audience. His session 
 2. Identify challenges to idea (i.e. questions)
 3. Answer challenges
 
-It reminded me of a similar workshop I attended before. This inspired me to work on [my own workshop idea](https://github.com/jwflory/logbook/blob/master/notes/identity/question-burst-better-questioners.adoc) for a future conference.
+It reminded me of a similar workshop I attended before. This inspired me to work on [my own workshop idea](https://github.com/justwheel/logbook/blob/master/notes/identity/question-burst-better-questioners.adoc) for a future conference.
 
 ### Cognitive biases, blind spots, and inclusion
 
@@ -245,7 +245,7 @@ To wrap up, one recurring theme of Serena and Denise's talk is to make time to s
 
 > Do you have a unique sweet dessert or candy from your country or hometown? Do you love to try new and exciting foods from around the world? Spend an hour with fellows as we share stories and candies from the world with each other. Participants are invited to bring a unique confectionary or candy from their country or city to share with multiple other people. Before going around to try yummy things, all participants explain what item they bring and any story about its origins or where it is normally used. After sharing, everyone who brought something rotates around to try candies brought by others. After all participants have had a chance to sample, the rest of the community is invited to come and try anything remaining.
 > 
-> [Jona Azizaj, Justin W. Flory](https://devconfcz2020a.sched.com/event/YS6U/candy-swap)
+> [Jona Azizaj, Justin Wheeler](https://devconfcz2020a.sched.com/event/YS6U/candy-swap)
 
 I _am_ biased when I say this is one of my favorite parts of conferences I go to. Jona originally proposed the candy swap for DevConf CZ. After unexpectedly adding DevConf CZ to my travel list for 2020, we teamed up to share the sweet tradition from Fedora Flock to DevConf CZ! This is one of my favorite conference traditions because I get to know other attendees in a context outside of technology. And food is always an easy way to win me over.
 

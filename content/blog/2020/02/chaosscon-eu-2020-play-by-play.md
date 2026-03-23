@@ -165,7 +165,7 @@ Matt's CHAOSScon EU 2020 session pitched strategy on communicating the value of 
 
 > This is a framework used by the UNICEF Innovation Fund, to evaluate and track the strategic position and growth potential of the early stage startups in its portfolio. The focus is on startups building open source frontier tech: Blockchain, Data Science, Artificial Intelligence and Extended Reality. It classifies the startups into four quadrants, based on two dimensions: the software developed (technology), and the financial sustainability of the project (business sustainability).
 > 
-> [Cecilia Chapiro](https://chaoss.community/chaosscon-2020-eu/#user-content-cecilia-chapiro) & [Justin W. Flory](https://chaoss.community/chaosscon-2020-eu/#user-content-justin-w-flory)
+> [Cecilia Chapiro](https://chaoss.community/chaosscon-2020-eu/#user-content-cecilia-chapiro) & [Justin Wheeler](https://chaoss.community/chaosscon-2020-eu/#user-content-justin-w-flory)
 
 {{< x user="yoyehudi" id="1223246459602194433" >}}
 

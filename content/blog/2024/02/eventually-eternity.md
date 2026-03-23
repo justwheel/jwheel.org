@@ -32,4 +32,4 @@ Promises _eventually for eternity_.
 
 * * *
 
-_Photo by [Ryan Hutton](https://unsplash.com/@ryan_hutton_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/worms-eye-view-of-trees-during-night-time-Jztmx9yqjBw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). Modified by Justin W. Flory, CC BY-SA 4.0._
+_Photo by [Ryan Hutton](https://unsplash.com/@ryan_hutton_?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/worms-eye-view-of-trees-during-night-time-Jztmx9yqjBw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash). Modified by Justin Wheeler, CC BY-SA 4.0._

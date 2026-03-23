@@ -38,7 +38,7 @@ The board members of Open Labs oversee most of its operations and help guide mem
 ![Open Labs board members. Pictured left to right: Jona Azizaj, Anisa Kuci, Kristi Progri, Redon Skikuli, Elio Qoshi](/blog/2017/03/open-labs-board-members-justin-w-flory.jpg)
 
 *Open Labs board members. Pictured left to right: Jona Azizaj, Anisa  
-Kuci, Kristi Progri, Redon Skikuli, Elio Qoshi. (Justin W. Flory, CC-BY-SA 4.0)*
+Kuci, Kristi Progri, Redon Skikuli, Elio Qoshi. (Justin Wheeler, CC-BY-SA 4.0)*
 
 When the opportunity came to take part in this event, the board members felt it was a great opportunity to try something new. While hackathon events are popular and well-known in the United States and elsewhere, this was foreign territory for the community. "At first, we were nervous because this type of 48 hour event was new for Open Labs but also for Albania. But we wanted to use this as a chance to introduce the open source philosophy to new people and to show what we do and why," said Azizaj. The organizers hoped to appeal to a wider audience than only active community members too.
 
@@ -67,7 +67,7 @@ The Open Labs organizers placed emphasis in networking between participants at t
 ![Silva Arapi, one participant, worked with her team on their project "World of Sounds"](/blog/2017/03/silva-arapi-profile-justin-w-flory-e1490131911268.jpg)
 
 *Silva Arapi, one participant, worked with her team on their project  
-"World of Sounds". (Justin W. Flory, CC-BY-SA 4.0)*
+"World of Sounds". (Justin Wheeler, CC-BY-SA 4.0)*
 
 One participant, [Silva Arapi](https://twitter.com/ArapiSilva), worked with teammates Dritan Sakuta, Hulemita Leka, Kristi Leka, and Klajdi Qehaja to address reduced inequalities. Their team project is called "World of Sounds".  The application is a resource for parents of children with hearing or speaking disabilities. "World of Sounds is a platform to understand early on to improve education of parents and accessibility for children. This is very helpful for rural parts \[of Albania\]," Arapi explained.
 
@@ -90,7 +90,7 @@ Towards the end of Sunday, participants put the last touches onto their projects
 ![Anxhelo Lushka helps two participants after midnight to help work through some problems in their project](/blog/2017/03/hacking-past-midnight-justin-w-flory.jpg)
 
 *Anxhelo Lushka helps two participants after midnight to help work  
-through some problems in their project. (Justin W. Flory, CC-BY-SA 4.0)*
+through some problems in their project. (Justin Wheeler, CC-BY-SA 4.0)*
 
 In the project presentations, teams were given specific criteria to present in the project.
 
