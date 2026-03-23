@@ -22,17 +22,7 @@ But to succumb to the despair and sadness of this year would deny the warm, happ
 
 So, this post is a brief reflection of your life as I knew you. A final celebration of the great memories we shared together, that I only wish I could have shared with you while you were still here.
 
-<figure>
-
-[![A photograph of Gabriele Trombini at Flock 2016 in Kraków, Poland. Gabriele is seated in a chair around a table, in the middle of two others.](/blog/2023/06/28756994166_7fe864f3ff_o-edited.jpg)](/blog/2023/06/28756994166_7fe864f3ff_o-scaled.jpg)
-
-<figcaption>
-
-Gabriele Trombini, or "Gabri", at Flock 2016 in Kraków, Poland.
-
-</figcaption>
-
-</figure>
+![A photograph of Gabriele Trombini at Flock 2016 in Kraków, Poland. Gabriele is seated in a chair around a table, in the middle of two others.](/blog/2023/06/28756994166_7fe864f3ff_o-edited.jpg "Gabriele Trombini, or \"Gabri\", at Flock 2016 in Kraków, Poland.")
 
 <!--more-->
 

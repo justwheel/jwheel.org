@@ -31,33 +31,13 @@ But how did I make the jump? Or why leave the United States, especially while th
 
 In June 2021, I visited Tiranë with friends who had never visited Albania before. In the course of that trip, I did not realize I was being pulled back into a culture, city, and country that has stuck with me for many years. But I was.
 
-<figure>
-
-[![Justin is pictured to the left of the Albanian flag, adjacent to his head. In the background, there is a small river surrounded by trees and small sand beaches.](/blog/2021/07/IMG_20210615_112224706-scaled.jpg)](/blog/2021/07/IMG_20210615_112224706-scaled.jpg)
-
-<figcaption>
-
-Next to the Albanian flag. _[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), Justin W. Flory, June 2021_.
-
-</figcaption>
-
-</figure>
+![Justin is pictured to the left of the Albanian flag, adjacent to his head. In the background, there is a small river surrounded by trees and small sand beaches.](/blog/2021/07/IMG_20210615_112224706-scaled.jpg "Next to the Albanian flag. _[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), Justin W. Flory, June 2021_.")
 
 Fate took my hand, and after a year of cloudy uncertainty, I knew a new part of my destiny. On a fateful flight flying westbound, my heart was resolved to return eastbound. And how hard must I bite my tongue to acknowledge this privilege bestowed unto me by my American passport? To leave the story unfinished was only a matter of resolve, thus I knew I must pursue the next chapter.
 
 Fast forward… and I am here in Tiranë. I made my arrival quietly to give me time to settle. (_Literally_.) I only had a bed, fridge, microwave, and a sofa. Now it is feeling more like my home. I am eager to make rounds to my favorite places and saying përshëndetje to old friends again soon.
 
-<figure>
-
-[![Four chess pieces sit atop a square, orange plate. The chess pieces are made with filament from a 3-D printer. Faded out in the background, there is the head of a 3-D printer, presumably what made the chess pieces. This photo was taken at Open Labs Hackerspace in Tiranë, Albania.](/blog/2021/07/DSC_0172_1.jpg)](/blog/2021/07/DSC_0172_1.jpg)
-
-<figcaption>
-
-_[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Justin W. Flory, April 2017_.
-
-</figcaption>
-
-</figure>
+![Four chess pieces sit atop a square, orange plate. The chess pieces are made with filament from a 3-D printer. Faded out in the background, there is the head of a 3-D printer, presumably what made the chess pieces. This photo was taken at Open Labs Hackerspace in Tiranë, Albania.](/blog/2021/07/DSC_0172_1.jpg "_[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), Justin W. Flory, April 2017_.")
 
 ## Is the future in Stockholm? 🇸🇪
 

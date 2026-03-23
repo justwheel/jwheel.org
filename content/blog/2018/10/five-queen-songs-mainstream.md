@@ -41,17 +41,7 @@ Our mini data science experiment decided to look at five unique data points avai
 
 Originally, we looked at songs from different artists, but decided to look at five recordings from the same artist. With Queen being a notoriously famous band, there were several data points to work with in terms of how often a song was covered.
 
-<figure>
-
-![How five Queen songs went mainstream in totally different ways](/blog/2018/10/Queen-data-visualization.png)
-
-<figcaption>
-
-**_Studying five Queen songs_**: Another One Bites the Dust, Bohemian Rhapsody, Don't Stop Me Now, Fat Bottomed Girls, We Will Rock You
-
-</figcaption>
-
-</figure>
+![How five Queen songs went mainstream in totally different ways](/blog/2018/10/Queen-data-visualization.png "**_Studying five Queen songs_**: Another One Bites the Dust, Bohemian Rhapsody, Don't Stop Me Now, Fat Bottomed Girls, We Will Rock You")
 
 ## Making sense of the data
 

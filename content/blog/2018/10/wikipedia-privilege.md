@@ -36,17 +36,7 @@ But what of the contrary? What is the experience to go without this privilege? I
 
 But is access to free knowledge like Wikipedia truly inaccessible for even the most impoverished? Since even some of the poorest countries have [better access to smart-phones than piped water](https://www.cnn.com/2016/01/19/africa/africa-afrobarometer-infrastructure-report/index.html), exposure to the wider Internet (including Wikipedia) is inevitable. But the timing is late. The critical period of early childhood development is missed. Early childhood development has three phases: conception, the first 1000 days (birth to three years old), and pre-school / pre-primary years. The brain of a child is most sensitive, almost like a sponge, in those first 1000 days. Researchers defend this period’s impact on child-society and community cohesion as critical, even influencing the neurobiology of peace.¹ So then what of those who have the privilege of exposure to technology in those first 1000 days? What of the [billions, nearly trillion, dollars of advertising](https://www.statista.com/statistics/273288/advertising-spending-worldwide/) that slip through the cracks of what these children are exposed to? Are we subtly being written before language is even learned?
 
-<figure>
-
-[![Global advertising spending from 2014 to 2021 (in billion U.S. dollars). Shows increase of spending by 268.96 billion dollars in advertising from 2014 projected to 2021. Sourced from Statista.](/blog/2018/10/statistic_id273288_media-spending-worldwide-2014-2021.png)](https://www.statista.com/statistics/273288/advertising-spending-worldwide/)
-
-<figcaption>
-
-Increase in spending on advertising by **268.96 billion dollars** from 2014 projected into 2021
-
-</figcaption>
-
-</figure>
+![Global advertising spending from 2014 to 2021 (in billion U.S. dollars). Shows increase of spending by 268.96 billion dollars in advertising from 2014 projected to 2021. Sourced from Statista.](/blog/2018/10/statistic_id273288_media-spending-worldwide-2014-2021.png "Increase in spending on advertising by **268.96 billion dollars** from 2014 projected into 2021")
 
 In this way, the open and closed systems compete in the Internet state. There are positive and negative qualities from both free information and black-box systems in information-rich societies. Wikipedia is a privilege, but it is only one small part of something bigger. A privilege of truth. A privilege of access. A privilege of self-liberation.
 

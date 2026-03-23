@@ -37,17 +37,7 @@ coverImage: "copyleftconf-2020-1.png"
 
 This was my first time attending CopyleftConf. I attended on behalf of [RIT LibreCorps](https://fossrit.github.io/librecorps/) to represent the sustainability efforts at the [RIT FOSS@MAGIC initiative](https://fossrit.github.io/about/). However, I also represented myself as an individual in the Free Software movement. For CopyleftConf 2020, I arrived hoping to learn more about where we, as the Free Software community, are going. I also hoped to gain a deeper ethical perspective about our digital society.
 
-<figure>
-
-![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](/blog/2020/04/IMG_20200203_094048593_HDR.jpg)
-
-<figcaption>
-
-Me excitingly holding my CopyleftConf 2020 schedule after having bought my ticket earlier that same morning.
-
-</figcaption>
-
-</figure>
+![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](/blog/2020/04/IMG_20200203_094048593_HDR.jpg "Me excitingly holding my CopyleftConf 2020 schedule after having bought my ticket earlier that same morning.")
 
 Event reports take many forms. Since CopyleftConf 2020 is structured in a unique format, my event report is structured as follows:
 
@@ -140,17 +130,7 @@ Whether you think Free Software "won" or not, open source is here to stay. So, h
 
 I loved this quote that Luis dropped: "**Movement building is the only way to influence political change.**" Luis gave examples from the 1990s of how evangelism and education were part of the building blocks of open source. There were "leading apps" that brought new people to the Free Software (or open source) table. Mozilla was the first browser that brought common lawyers in. A focus on education for lawyers, such as the F.S.F.'s 22,000 word F.A.Q., converted a motivation to learn into practical knowledge used for compliance work.
 
-<figure>
-
-![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](/blog/2020/04/IMG_20200203_105508557_HDR.jpg)
-
-<figcaption>
-
-Luis Villa on copyleft adoption curves.
-
-</figcaption>
-
-</figure>
+![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](/blog/2020/04/IMG_20200203_105508557_HDR.jpg "Luis Villa on copyleft adoption curves.")
 
 However, I think Luis's goal was to define, not to prescribe. He implied that building a movement doesn't start with writing a license, based on his personal experiences (he did lead drafting of the Mozilla Public License). My takeaway from Luis is that we need to think about how we build a movement that includes people who aren't at the table today to build a strong foundation for what comes next.
 
@@ -180,17 +160,7 @@ I still lament over the way that Free Software built itself in a technology-cent
 
 The hottest discussions I participated in were from [The Rising Ethical Storm in Open Source](https://2020.copyleftconf.org/schedule/presentation/17/) ([Coraline Ada Ehmke](https://twitter.com/CoralineAda)) and [Software Ethics and Copyleft Licensing](https://2020.copyleftconf.org/schedule/presentation/19/), emceed by Karen Sandler. Coraline dropped absolute **_fire_** in her talk, even knowing that the essence of her talk would alienate some people. But it was a call-out to us folks in tech who consciously or unconsciously live these values that our Free Software movement is built upon: the freedoms of personal liberty, as it lends itself both for justice and harm.
 
-<figure>
-
-![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](/blog/2020/04/IMG_20200203_140443994_HDR.jpg)
-
-<figcaption>
-
-Coraline Ada Ehmke on the Rising Ethical Storm in Open Source.
-
-</figcaption>
-
-</figure>
+![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](/blog/2020/04/IMG_20200203_140443994_HDR.jpg "Coraline Ada Ehmke on the Rising Ethical Storm in Open Source.")
 
 I won't spend a lot of time summarizing these talks and sessions, but one interesting thing to look up that Coraline mentioned was the Parable of the Locksmith.
 

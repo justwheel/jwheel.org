@@ -16,17 +16,7 @@ tags:
 
 Four years ago, on March 13th in 2017, I woke up for breakfast in the city of [Sarajevo](https://en.wikipedia.org/wiki/Sarajevo) in [Bosnia & Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina). As I ate breakfast on the morning of March 14th of 2021 in the seemingly eternal era of COVID-19, it struck me.
 
-<figure>
-
-[![](/blog/2021/03/IMG_20170313_101600_693.jpg)](/blog/2021/03/IMG_20170313_101600_693-scaled.jpg)
-
-<figcaption>
-
-Bosnian coffee.
-
-</figcaption>
-
-</figure>
+![](/blog/2021/03/IMG_20170313_101600_693.jpg "Bosnian coffee.")
 
 <!--more-->
 
@@ -36,22 +26,7 @@ My time abroad was counted in months, not years. Yet those five months in the Ba
 
 I remember my last-minute decision to travel over my spring break instead of studying in my apartment. The bus ride to Sarajevo was unforgettable. I was overcome by the thrill of learning something new and experiencing a city I had only read about. It was unexpected and wonderful all at once.
 
-<figure>
-
-- [![](/blog/2021/03/IMG_20170314_122942-2.jpg)](/blog/2021/03/IMG_20170314_122942-2-scaled.jpg)
-    
-- [![](/blog/2021/03/IMG_20170313_145246-1.jpg)](/blog/2021/03/IMG_20170313_145246-1.jpg)
-    
-- [![](/blog/2021/03/IMG_20170313_152701.jpg)](/blog/2021/03/IMG_20170313_152701.jpg)
-    
-
-<figcaption>
-
-Moments from Sarajevo. Far-left photo is Sarajevo Tunnel of Hope. Center far-right picture are from the 1995 Srebrenica massacre memorial museum in the city.
-
-</figcaption>
-
-</figure>
+![](/blog/2021/03/IMG_20170314_122942-2.jpg "Moments from Sarajevo. Far-left photo is Sarajevo Tunnel of Hope. Center far-right picture are from the 1995 Srebrenica massacre memorial museum in the city.")
 
 ## Patterns.
 
@@ -59,14 +34,4 @@ What strikes me now is the monotonous pattern of daily life. The opportunities f
 
 My challenge in a virtual-first world is discovering new ways to restore and replenish the soul without being able to easily travel and connect with others face-to-face.
 
-<figure>
-
-[![](/blog/2021/03/PANO_20170314_150305.jpg)](/blog/2021/03/PANO_20170314_150305-scaled.jpg)
-
-<figcaption>
-
-A day-time panaroma view of the city of Sarajevo, Bosnia & Herzegovina
-
-</figcaption>
-
-</figure>
+![](/blog/2021/03/PANO_20170314_150305.jpg "A day-time panaroma view of the city of Sarajevo, Bosnia & Herzegovina")
