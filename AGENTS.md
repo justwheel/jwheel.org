@@ -4,7 +4,7 @@ This file provides guidance to LLM-based coding agents (e.g., Claude Code, Copil
 
 ## Project Overview
 
-Personal website for Justin Wheeler at https://jwheel.org/, built with [Hugo](https://gohugo.io) using the custom **Toph** theme. Licensed MPL-2.0.
+Personal website for Justin Wheeler at https://jwheel.org/, built with [Hugo](https://gohugo.io) using the custom **Toph** theme. Content licensed CC BY-NC-SA 4.0; theme licensed MPL-2.0.
 
 ## Build & Development
 
@@ -63,6 +63,8 @@ The `content/blog/` directory contains 173 blog posts migrated from WordPress (f
 - `params.colors` — primary, secondary, accent
 - `params.fonts` — default, title, header (with weights)
 - `params.taxonomy_exclude` — categories hidden from taxonomy listings
+- `params.biography.tagline` — one-line tagline displayed in hero section
+- `params.legal.license` — footer license (name, url, title); conditionally rendered
 - `languages` — 4 languages: en (default), es, ar (RTL), hi
 
 ## Taxonomy Templates
@@ -123,7 +125,7 @@ Never skip this step, even if the user has approved similar comments before. Eac
 - **`Assisted-by:`** trailer citing exact AI model name (Fedora AI policy)
 - Use `git commit --signoff` to add the `Signed-off-by` trailer — do not write it manually
 - Commit messages emphasize WHY, not just WHAT
-- Write commit messages to `/tmp/commit-msg.txt` — user runs `git commit --file /tmp/commit-msg.txt --signoff` manually
+- Write commit messages to `/tmp/commit-msg-<descriptive-name>.txt` (unique filenames, never reuse) — user runs `git commit --edit --file /tmp/commit-msg-<name>.txt --gpg-sign --signoff`
 - **NEVER** run `git push` or create PRs — user does these manually
 - **NEVER** use `--no-gpg-sign` or skip hooks
 - **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
