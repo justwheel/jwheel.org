@@ -63,7 +63,17 @@ menu:
       weight: 10
     - identifier: blog
       name: blog
-      url: https://blog.jwf.io/
+      url: /blog/
+      weight: 20
+    - identifier: categories
+      name: categories
+      url: /categories/
+      parent: blog
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      parent: blog
       weight: 20
     - identifier: open
       name: "#open"
