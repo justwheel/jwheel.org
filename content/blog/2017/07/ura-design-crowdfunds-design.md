@@ -17,13 +17,13 @@ coverImage: "ura-design-osdc.png"
 
 * * *
 
-[![Ura Design logo](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-logo.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-logo.png)Open source software is nothing new in 2017. Even now, big tech giants are exploring open source. More and more companies allow employees to contribute to open source software on company hours, if it isn't altogether encouraged. However, design assets and work have not enjoyed the same popularity with open source licensing and use as software has. However, Albanian design agency Ura Design is helping change this.
+[![Ura Design logo](/blog/2017/06/ura-logo.png)](/blog/2017/06/ura-logo.png)Open source software is nothing new in 2017. Even now, big tech giants are exploring open source. More and more companies allow employees to contribute to open source software on company hours, if it isn't altogether encouraged. However, design assets and work have not enjoyed the same popularity with open source licensing and use as software has. However, Albanian design agency Ura Design is helping change this.
 
 <!--more-->
 
 The team consists of four people: [Elio Qoshi](https://elioqoshi.me/), [Redon Skikuli](https://redon.skikuli.com/about/), [Giannis Konstantinidis](http://konstantinidis.cc/), and [Anxhelo Lushka](https://lushka.al/). [Ura Design](https://ura.design/) started from an idea. The team believed that many open source projects are full of capabilities and features, but their design can make it difficult for users to effectively use the software. This could be through user experience, branding, or accessibility. And the goal? To help bring these better design principles to open source projects at little to no cost. "In open source, there are amazing projects that are poorly communicated with the outside world. By communication, we mean visual communications, branding, even marketing. That is nonexistent for many reasons. There is a connection between communicating your project well and also getting contributors or users on board," says Skikuli.
 
-\[caption id="attachment\_657" align="aligncenter" width="788"\][![The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-design-team-1024x254.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-design-team.png) The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka\[/caption\]
+\[caption id="attachment\_657" align="aligncenter" width="788"\][![The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka](/blog/2017/06/ura-design-team.png)](/blog/2017/06/ura-design-team.png) The Ura Design team, left to right: Elio Qoshi, Redon Skikuli, Giannis Konstantinidis, Anxhelo Lushka\[/caption\]
 
 The Ura Design team helps open source projects improve their design so they can focus on great code.
 
@@ -35,7 +35,7 @@ Some of their past projects include [Mozilla](https://www.mozilla.org/en-US/), t
 
 Their Patreon page is part of the reason Ura Design is able to take on some projects at no cost. "Since there are working hours involved, we are asking for people to make small contributions to help us pay living costs, so we work for small projects who apply for free or minimal design support from us. This is our way of supporting some open source initiatives that we think are worth it," says Skikuli. Right now, they have 22 backers to the project, which lets them cover most infrastructure costs. Some of the goals for the team now is to expand into photography to release work into the public domain.
 
-\[caption id="attachment\_661" align="aligncenter" width="788"\][![Ura Design Patreon page](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-patreon-screenshot-1024x430.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/06/ura-patreon-screenshot.png) Ura Design Patreon: https://patreon.com/ura\[/caption\]
+\[caption id="attachment\_661" align="aligncenter" width="788"\][![Ura Design Patreon page](/blog/2017/06/ura-patreon-screenshot.png)](/blog/2017/06/ura-patreon-screenshot.png) Ura Design Patreon: https://patreon.com/ura\[/caption\]
 
 ## Past projects
 
@@ -43,7 +43,7 @@ Ura Design has worked with many open source projects already. Some of their work
 
 #### Mozilla
 
-[![Mozilla Localization team mentorship logo by Ura Design](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/mozilla-i10n-mentor-logo-1024x984.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/mozilla-i10n-mentor-logo.png)The Mozilla localization team was looking to send a reward to their community translators around the world. Specifically, it was to celebrate the relationships formed between mentors and mentees over the years. The localization team was hoping to design t-shirts that captured these relationships and why they were important for the community.
+[![Mozilla Localization team mentorship logo by Ura Design](/blog/2017/05/mozilla-i10n-mentor-logo.png)](/blog/2017/05/mozilla-i10n-mentor-logo.png)The Mozilla localization team was looking to send a reward to their community translators around the world. Specifically, it was to celebrate the relationships formed between mentors and mentees over the years. The localization team was hoping to design t-shirts that captured these relationships and why they were important for the community.
 
 For Mozilla, Qoshi had an existing relationship with Mozilla as a contributor. He was asked to help design and capture this connection inside of the localization community for Mozilla. The final design focused on two lions, one big and one small, looking at each other. "It was nice effort for contributors who have been mentoring others to get recognized for their contributions. Good design breaks off a conversation even for a project like this," Qoshi said.
 
@@ -51,7 +51,7 @@ For Mozilla, Qoshi had an existing relationship with Mozilla as a contributor. H
 
 Working with the Tor Project was a unique experience for Ura Design. The Tor Project was looking at rebranding the entire project. The end goal was to try to improve the accessibility of the project by incorporating good design elements.
 
-\[caption id="attachment\_654" align="alignleft" width="152"\][![Tor Project rebranding by Ura Design](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/tor-logo.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/05/tor-logo.png) Part of the new branding used by the Tor Project\[/caption\]
+\[caption id="attachment\_654" align="alignleft" width="152"\][![Tor Project rebranding by Ura Design](/blog/2017/05/tor-logo.png)](/blog/2017/05/tor-logo.png) Part of the new branding used by the Tor Project\[/caption\]
 
 Together with the Tor Project leadership, Ura Design helped lead the rebranding of the project. This included graphical assets, logos, and corporate identity. Today, you can see the new branding featured across Tor's web presence online. There are still plans to continue to roll these changes out over the coming year.
 

@@ -24,7 +24,7 @@ So, this post is a brief reflection of your life as I knew you. A final celebrat
 
 <figure>
 
-[![A photograph of Gabriele Trombini at Flock 2016 in Kraków, Poland. Gabriele is seated in a chair around a table, in the middle of two others.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2023/06/28756994166_7fe864f3ff_o-edited.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2023/06/28756994166_7fe864f3ff_o-scaled.jpg)
+[![A photograph of Gabriele Trombini at Flock 2016 in Kraków, Poland. Gabriele is seated in a chair around a table, in the middle of two others.](/blog/2023/06/28756994166_7fe864f3ff_o-edited.jpg)](/blog/2023/06/28756994166_7fe864f3ff_o-scaled.jpg)
 
 <figcaption>
 

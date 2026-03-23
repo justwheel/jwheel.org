@@ -24,13 +24,13 @@ On Tuesday, November 8th, 2016, the [FOSS@MAGIC](http://foss.rit.edu/) at the [M
 
 ## Starting the Election Night Hackathon
 
-\[caption id="attachment\_510" align="alignright" width="788"\][![Dan Schneiderman updating the news sources on the projector screens during the Election Night Hackathon by FOSS at RIT](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8753-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8753.jpg) [Dan Schneiderman](http://www.schneidy.com/) updating the news sources on the projector screens\[/caption\]
+\[caption id="attachment\_510" align="alignright" width="788"\][![Dan Schneiderman updating the news sources on the projector screens during the Election Night Hackathon by FOSS at RIT](/blog/2016/11/IMG_8753.jpg)](/blog/2016/11/IMG_8753.jpg) [Dan Schneiderman](http://www.schneidy.com/) updating the news sources on the projector screens\[/caption\]
 
 For this year's event, registration was a ticketed event because of the overwhelming interest in the election. At 5:00pm, the sign-in table popped up in front of the [Student Innovation Hall](https://www.rit.edu/research/simonecenter/), where the hackathon would take place. Students began lining up to receive their wristband for admission, food, and open source swag.
 
 The space quickly became filled over the next hour as people began settling in for the night to work on projects (or maybe homework). On all sides were a range of projector screens with a range of sources for election night coverage. There would not be a lack of information through the night. In addition to the federal election, local and state elections throughout New York were also included on the projectors.
 
-\[caption id="attachment\_511" align="alignleft" width="788"\][![The Election Night Hackathon was a full house after the kick-off ceremony during the Election Night Hackathon by FOSS at RIT](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8759-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8759.jpg) The Election Night Hackathon was a full house after the kick-off ceremony\[/caption\]
+\[caption id="attachment\_511" align="alignleft" width="788"\][![The Election Night Hackathon was a full house after the kick-off ceremony during the Election Night Hackathon by FOSS at RIT](/blog/2016/11/IMG_8759.jpg)](/blog/2016/11/IMG_8759.jpg) The Election Night Hackathon was a full house after the kick-off ceremony\[/caption\]
 
 The Election Night Hackathon had no shortage of goodies provided by numerous open source organizations, companies, and supporters. The "swag table" featured plenty of stickers for people to add to their laptops or other devices. The [Fedora Project](https://fedoraproject.org/wiki/Overview), [GitHub](https://github.com/), [Red Hat](https://www.redhat.com/en), the [MAGIC Center](https://magic.rit.edu/), and more were available for attendees to pick their favorites out.
 
@@ -38,7 +38,7 @@ The Election Night Hackathon had no shortage of goodies provided by numerous ope
 
 At the peak of the event, nearly 140 students, faculty, staff, and local citizens filled the MAGIC Center and overflow work spaces. [Dan Schneiderman](http://www.schneidy.com/), the event coordinator and [FOSS@MAGIC Research Associate and Community Liaison](https://opensource.com/education/16/5/interview-dan-schneiderman-rit), led the event on a high note with a brief kick-off ceremony. Hackers were provided with a list of resources for building applications related to civic hacking. Shortly after the start, attendees began talking with one another to discuss project ideas or other topics to work on throughout the night. Professors and alumni provided mentorship, advice, and help for students planning projects.
 
-\[caption id="attachment\_509" align="alignright" width="788"\][![Mark Repka works on his 2016 Election Viewer app during the Election Night Hackathon by FOSS at RIT](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8742-1024x683.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2016/11/IMG_8742.jpg) Mark Repka works on his 2016 Election Viewer app\[/caption\]
+\[caption id="attachment\_509" align="alignright" width="788"\][![Mark Repka works on his 2016 Election Viewer app during the Election Night Hackathon by FOSS at RIT](/blog/2016/11/IMG_8742.jpg)](/blog/2016/11/IMG_8742.jpg) Mark Repka works on his 2016 Election Viewer app\[/caption\]
 
 [Tyler Reimold](https://github.com/tydus101) worked on creating an open source server for real-time election updates in a Reddit thread. His [Python-based project](https://github.com/tydus101/reddit-live-election) used the [Huffington Post](http://elections.huffingtonpost.com/pollster/api) and Reddit APIs to build the application.
 

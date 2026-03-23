@@ -14,7 +14,7 @@ tags:
 
 ## "Extra! Extra!": What is it?
 
-\[caption id="attachment\_69" align="alignright" width="256"\][![Extra! Extra! badge, given to Fedora Magazine contributors](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Extra-Extra.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Extra-Extra.png) "You contributed to Fedora Magazine ([fedoramagazine.org](https://fedoramagazine.org/))"\[/caption\]
+\[caption id="attachment\_69" align="alignright" width="256"\][![Extra! Extra! badge, given to Fedora Magazine contributors](/blog/2015/11/Extra-Extra.png)](/blog/2015/11/Extra-Extra.png) "You contributed to Fedora Magazine ([fedoramagazine.org](https://fedoramagazine.org/))"\[/caption\]
 
 The [_Extra! Extra!_ badge](https://badges.fedoraproject.org/badge/extra!--extra!) is categorized as a "Content Badge" and is defined in this [Trac ticket](https://fedorahosted.org/fedora-badges/ticket/51). But what's the real scoop behind the _Extra! Extra!_ badge?
 

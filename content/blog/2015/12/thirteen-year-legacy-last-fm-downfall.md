@@ -13,7 +13,7 @@ tags:
   - "web-development"
 ---
 
-\[caption id="attachment\_76" align="alignright" width="2000"\][![Last.fm logo](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Lastfm-Logo.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2015/11/Lastfm-Logo.png) The Last.fm logo. Source: [Xfdr](http://www.xfdrmag.net/ive-had-the-last-of-this-why-the-new-last-fm-layout-sucks/)\[/caption\]
+\[caption id="attachment\_76" align="alignright" width="2000"\][![Last.fm logo](/blog/2015/11/Lastfm-Logo.png)](/blog/2015/11/Lastfm-Logo.png) The Last.fm logo. Source: [Xfdr](http://www.xfdrmag.net/ive-had-the-last-of-this-why-the-new-last-fm-layout-sucks/)\[/caption\]
 
 [Last.fm](http://www.last.fm/) is a web service for users to track and share their music tastes with friends in an easy, simple way. A single play of a song is known as a "Scrobble". Listening to music and recording the listen with Last.fm is known as "Scrobbling". This is a service that has existed since 2002, originally under the name of Audioscrobbler. In 2015, Last.fm rolled out their [new website beta](http://www.digitalspy.com/tech/news/a664005/lastfm-unveils-brand-new-site-design-and-most-users-are-really-upset-about-it/), originally optional, but later forced upon all users.
 

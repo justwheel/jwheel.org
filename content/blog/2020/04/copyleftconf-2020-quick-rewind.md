@@ -39,7 +39,7 @@ This was my first time attending CopyleftConf. I attended on behalf of [RIT Libr
 
 <figure>
 
-![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_094048593_HDR-768x1024.jpg)
+![Me excitingly looking up to the main stage, holding my CopyleftConf 2020 schedule, after having bought my ticket earlier that same morning.](/blog/2020/04/IMG_20200203_094048593_HDR.jpg)
 
 <figcaption>
 
@@ -142,7 +142,7 @@ I loved this quote that Luis dropped: "**Movement building is the only way to in
 
 <figure>
 
-![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_105508557_HDR-1024x768.jpg)
+![Luis Villa on copyleft adoption curves. Slide reads: "tl;dr (positive version): if you build a movement, maybe you won't need a license!"](/blog/2020/04/IMG_20200203_105508557_HDR.jpg)
 
 <figcaption>
 
@@ -182,7 +182,7 @@ The hottest discussions I participated in were from [The Rising Ethical Storm in
 
 <figure>
 
-![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](https://jwfblog.wpenginepowered.com/wp-content/uploads/2020/04/IMG_20200203_140443994_HDR-1024x768.jpg)
+![Coraline Ada Ehmke on the Rising Ethical Storm in Open Source. Slide reads: "Software freedom must not come before human freedom."](/blog/2020/04/IMG_20200203_140443994_HDR.jpg)
 
 <figcaption>
 

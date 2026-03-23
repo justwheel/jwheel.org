@@ -87,7 +87,7 @@ The act of existence can be political. We cannot escape the sociopolitical envir
 
 <figure>
 
-[![](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/04/Get_out_of_jail_free.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/04/Get_out_of_jail_free.jpg)
+[![](/blog/2021/04/Get_out_of_jail_free.jpg)](/blog/2021/04/Get_out_of_jail_free.jpg)
 
 <figcaption>
 

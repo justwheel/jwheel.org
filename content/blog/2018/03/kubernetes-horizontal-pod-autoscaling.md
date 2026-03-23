@@ -32,7 +32,7 @@ This article covers Horizontal Pod Autoscaling, what it is, and how to try it ou
 - **Pod**: Your deployable units in Kubernetes
 - **Autoscaling**: Automatically scaling out when needed
 
-\[caption id="attachment\_741" align="alignright" width="788"\][![Diagram to explain how Horizontal Pod Autoscaler (HPA) works](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/08/k8s-hpa-1024x768.png)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2017/08/k8s-hpa.png) Diagram to explain how a Horizontal Pod Autoscaler (HPA) works. From [Kubernetes documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/).\[/caption\]
+\[caption id="attachment\_741" align="alignright" width="788"\][![Diagram to explain how Horizontal Pod Autoscaler (HPA) works](/blog/2017/08/k8s-hpa.png)](/blog/2017/08/k8s-hpa.png) Diagram to explain how a Horizontal Pod Autoscaler (HPA) works. From [Kubernetes documentation](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/).\[/caption\]
 
 To help visualize it, imagine you have a [Python Flask](http://flask.pocoo.org/) web server that reads and writes data to a [Redis](https://redis.io/) back-end. Your web server is the front-end for all of your incoming traffic. You run it with three pods in Kubernetes, with 512MB of RAM and 50m of CPU. Now, suddenly, BuzzFeed writes an article about your app, Kanye West name drops the app in a TV interview, and the president of the United States retweets a link to your site.
 

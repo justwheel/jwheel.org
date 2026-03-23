@@ -33,7 +33,7 @@ In June 2021, I visited Tiranë with friends who had never visited Albania befor
 
 <figure>
 
-[![Justin is pictured to the left of the Albanian flag, adjacent to his head. In the background, there is a small river surrounded by trees and small sand beaches.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/07/IMG_20210615_112224706-scaled.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/07/IMG_20210615_112224706-scaled.jpg)
+[![Justin is pictured to the left of the Albanian flag, adjacent to his head. In the background, there is a small river surrounded by trees and small sand beaches.](/blog/2021/07/IMG_20210615_112224706-scaled.jpg)](/blog/2021/07/IMG_20210615_112224706-scaled.jpg)
 
 <figcaption>
 
@@ -49,7 +49,7 @@ Fast forward… and I am here in Tiranë. I made my arrival quietly to give me t
 
 <figure>
 
-[![Four chess pieces sit atop a square, orange plate. The chess pieces are made with filament from a 3-D printer. Faded out in the background, there is the head of a 3-D printer, presumably what made the chess pieces. This photo was taken at Open Labs Hackerspace in Tiranë, Albania.](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/07/DSC_0172_1.jpg)](https://jwfblog.wpenginepowered.com/wp-content/uploads/2021/07/DSC_0172_1.jpg)
+[![Four chess pieces sit atop a square, orange plate. The chess pieces are made with filament from a 3-D printer. Faded out in the background, there is the head of a 3-D printer, presumably what made the chess pieces. This photo was taken at Open Labs Hackerspace in Tiranë, Albania.](/blog/2021/07/DSC_0172_1.jpg)](/blog/2021/07/DSC_0172_1.jpg)
 
 <figcaption>
 
