@@ -33,7 +33,7 @@ I believe in the value of upholding the Open Source Definition as a mature and d
 
 ## Why should you vote for me?
 
-I bring a [public sector perspective](https://jwf.io/#unicef) to a conversation where it seems missing, despite the dependent relationship of the public sector to Free and Open Source works. In my work, I provide Open Source mentorship and coaching to humanitarian-driven start-ups hailing from 57 countries. I am an excellent communicator, I understand a subset of challenges faced by Open Source communities, and I have a collaborative nature.
+I bring a [public sector perspective](https://jwheel.org/#unicef) to a conversation where it seems missing, despite the dependent relationship of the public sector to Free and Open Source works. In my work, I provide Open Source mentorship and coaching to humanitarian-driven start-ups hailing from 57 countries. I am an excellent communicator, I understand a subset of challenges faced by Open Source communities, and I have a collaborative nature.
 
 I am also a millennial. The GPL was first drafted before I was born. My lived experience with Free Software and Open Source gives me a vantage point not well-represented in Open Source legal and policy work. My personal experience with Free and Open Source software is impacted by years of untangling my own digital life from technology decisions made for me, not by me. With that in mind, I realize not everyone can afford to be a Free Software purist, but we can still uphold the values of Open Source even if we do not use it exclusively.
 
@@ -45,9 +45,9 @@ Outside of work, I have contributed to the [Fedora Project](https://docs.fedorap
 
 ## What are my qualifications?
 
-I first contributed to Open Source as a teenager. I was a community moderator and staff member of the open source [SpigotMC project](https://jwf.io/#spigotmc). There, I handled user reports for a community forum with over 400,000 registered members. This is one of the most unique communities I have worked in, as the Spigot Community is a population of hundreds of thousands with an age demographic concentrated between ages 13-25.
+I first contributed to Open Source as a teenager. I was a community moderator and staff member of the open source [SpigotMC project](https://jwheel.org/#spigotmc). There, I handled user reports for a community forum with over 400,000 registered members. This is one of the most unique communities I have worked in, as the Spigot Community is a population of hundreds of thousands with an age demographic concentrated between ages 13-25.
 
-Additionally, I am on the [advisory board of Open @ RIT](https://jwf.io/#open-rit), the Open Source Programs Office for the [Rochester Institute of Technology](https://www.rit.edu/) in Rochester, New York. This enables me to work more closely with academia, which has a growing interest in the growing ecosystem of academic Open Source Program Offices.
+Additionally, I am on the [advisory board of Open @ RIT](https://jwheel.org/#open-rit), the Open Source Programs Office for the [Rochester Institute of Technology](https://www.rit.edu/) in Rochester, New York. This enables me to work more closely with academia, which has a growing interest in the growing ecosystem of academic Open Source Program Offices.
 
 Finally, I regularly work with teams building Open Source solutions in support of children and UNICEF’s core work. I have lived experience of coaching teams on Open Source best practices across six continents. I have seen where Open Source worked well and where it didn’t. I bring this background and perspective into the work I would do as a member and representative elected by the Open Source Initiative constituency.
 

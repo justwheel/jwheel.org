@@ -15,4 +15,4 @@ I was a co-conspirator for Spigot's event planning for the annual Minecraft conv
 This is one of the most unique communities I have worked in, as the Spigot Community is a population of hundreds of thousands with an age demographic concentrated between ages 13-25.
 
 [1]: https://www.spigotmc.org/wiki/about-spigot/
-[2]: https://blog.jwf.io/2016/11/spigotmc-california-minecon/
+[2]: https://jwheel.org/blog/2016/11/spigotmc-california-minecon/

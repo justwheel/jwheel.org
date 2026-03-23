@@ -32,7 +32,7 @@ The second resource is, as one would expect, the [Ansible documentation](https:/
 
 ## Research into practice
 
-After making some strides through the book and the documentation, I began turning the different concepts into practical playbooks for my own personal infrastructure. I run a handful of machines for different purposes, ranging from my [Minecraft server](https://crystalcraftmc.com/), a [ZNC bouncer](https://irc.jwf.io/), some [PHP forum websites](https://tipforums.com/), and [more](https://bryn.justinwflory.com/). Ever since I began using headless Linux servers, I've never explored automation too deeply. Every time I set up a new machine or a service, I would configure it all manually, file by file.
+After making some strides through the book and the documentation, I began turning the different concepts into practical playbooks for my own personal infrastructure. I run a handful of machines for different purposes, ranging from my [Minecraft server](https://crystalcraftmc.com/), a [ZNC bouncer](https://irc.jwheel.org/), some [PHP forum websites](https://tipforums.com/), and more. Ever since I began using headless Linux servers, I've never explored automation too deeply. Every time I set up a new machine or a service, I would configure it all manually, file by file.
 
 #### First playbook
 

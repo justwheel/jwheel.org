@@ -24,7 +24,7 @@ This week wraps up for July and the last period of Google Summer of Code (GSoC 2
 
 ## Next steps for GSoC 2016
 
-My last steps for the project are moving closer to production. Earlier this summer, the best plan of action was to use my [development cloud instance](http://derezzed.justinwflory.com/) for quick, experimental testing. Once a point of stability is reached, it would be tested on a staging instance of the real [Fedora Magazine](https://stg.fedoramagazine.org/) or Community Blog. Once reviewed and tested, it would work its way to production for managing future installations and upgrades for any WordPress platform in Fedora.
+My last steps for the project are moving closer to production. Earlier this summer, the best plan of action was to use my development cloud instance for quick, experimental testing. Once a point of stability is reached, it would be tested on a staging instance of the real [Fedora Magazine](https://stg.fedoramagazine.org/) or Community Blog. Once reviewed and tested, it would work its way to production for managing future installations and upgrades for any WordPress platform in Fedora.
 
 When the time comes to move it to production, I will file a ticket in the [Infrastructure Trac](https://fedorahosted.org/fedora-infrastructure/) with my patch file to the Ansible repository.
 

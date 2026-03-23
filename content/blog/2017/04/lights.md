@@ -13,7 +13,7 @@ tags:
 ---
 
 _Originally published on 19 April 2017 at [Medium.com](https://medium.com/@jwflory/turn-on-the-lights-267603e553b5)._  
-_Republished on 25 October 2021 at blog.jwf.io._
+_Republished on 25 October 2021 at jwheel.org/blog._
 
 * * *
 

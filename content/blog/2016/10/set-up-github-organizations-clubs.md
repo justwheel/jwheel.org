@@ -1,10 +1,10 @@
 ---
 title: "How to set up GitHub organizations for clubs"
 date: 2016-10-17
-categories: 
+categories:
   - "foss"
   - "tech"
-tags: 
+tags:
   - "community"
   - "education"
   - "fedora-planet"
@@ -37,7 +37,7 @@ Having a team for newcomers or new recruits is helpful to have in place beforeha
 
 If someone is in your organization, make sure you encourage them to show it off! By default, GitHub sets the team member visibility to private. Unless a member of the organization sets themselves as public, they won't appear as a part of the organization to visitors.
 
-![Publicize a GitHub membership](https://slack-imgs.com/?c=1&url=https%3A%2F%2Fi.jwf.io%2Fu%2F6631b7d25bbbdfa9033a2d922912fddd.png "\"People\" page of an organization - this is where you publicize a GitHub membership")
+![Publicize a GitHub membership](https://i.jwf.io/u/6631b7d25bbbdfa9033a2d922912fddd.png "\"People\" page of an organization - this is where you publicize a GitHub membership")
 
 Publicizing your membership is an underestimated step in bringing new contributors in. It's even helpful for older members too. By publicizing memberships, you are giving faces and real people to characterize your organization. If someone finds your organization in a search or in a link, it looks better to have rows of people associated with the group. The alternative of a team with what looks like no members implies your club is inactive. It can also make your club look smaller than it is. Additionally, individual team members also get to show off your organization on their individual profiles. This is helpful for anyone visiting their profile for activities or programming experience. For university students, this is helpful for applying for co-ops or internships.
 

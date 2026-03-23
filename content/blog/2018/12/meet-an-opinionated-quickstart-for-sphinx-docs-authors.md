@@ -17,7 +17,7 @@ tags:
 coverImage: "sphinx-docs-opinionated-quickstart.jpg"
 ---
 
-Do you write documentation with the Sphinx [tool chain](http://www.sphinx-doc.org/en/master/)? Do you want to encourage more people to write Sphinx documentation in a distributed organization, but worry about maintaining compatible workflows? Introducing [sphinx-docs-opinionated-quickstart](https://github.com/jwflory/sphinx-docs-opinionated-quickstart), a template repository with an opinionated configuration of ReStructuredText documentation with Travis CI testing and [readthedocs.org](https://readthedocs.org/) publishing.  
+Do you write documentation with the Sphinx [tool chain](http://www.sphinx-doc.org/en/master/)? Do you want to encourage more people to write Sphinx documentation in a distributed organization, but worry about maintaining compatible workflows? Introducing [sphinx-docs-opinionated-quickstart](https://github.com/justwheel/sphinx-docs-opinionated-quickstart), a template repository with an opinionated configuration of ReStructuredText documentation with Travis CI testing and [readthedocs.org](https://readthedocs.org/) publishing.  
 
 <!--more-->
 
@@ -33,11 +33,11 @@ The whole point of this project is to save time kicking off a new project's rece
 
 Complex documentation tool chains need simple validation of successful builds. This avoids long periods where documentation may not build and the public docs are out of date. It also better engages core contributors to monitor and take care of their documentation.  
 
-A Travis CI [configuration](https://github.com/jwflory/sphinx-docs-opinionated-quickstart/blob/master/.travis.yml) is included. Fork this repository and enable the repo on [travis-ci.org](https://travis-ci.org/) to start running builds.  
+A Travis CI [configuration](https://github.com/justwheel/sphinx-docs-opinionated-quickstart/blob/master/.travis.yml) is included. Fork this repository and enable the repo on [travis-ci.org](https://travis-ci.org/) to start running builds.  
 
 ## Add a star on GitHub
 
-Does this sound helpful? Check it out and [add a star](https://github.com/jwflory/sphinx-docs-opinionated-quickstart/stargazers) at [jwflory/sphinx-docs-opinionated-quickstart](https://github.com/jwflory/sphinx-docs-opinionated-quickstart). The project is licensed under the [BSD 3-Clause License](https://github.com/jwflory/sphinx-docs-opinionated-quickstart/blob/master/LICENSE.txt); feel free to fork it and form your own opinions too.  
+Does this sound helpful? Check it out and [add a star](https://github.com/justwheel/sphinx-docs-opinionated-quickstart/stargazers) at [justwheel/sphinx-docs-opinionated-quickstart](https://github.com/justwheel/sphinx-docs-opinionated-quickstart). The project is licensed under the [BSD 3-Clause License](https://github.com/justwheel/sphinx-docs-opinionated-quickstart/blob/master/LICENSE.txt); feel free to fork it and form your own opinions too.  
 
 * * *
 
