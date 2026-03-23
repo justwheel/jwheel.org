@@ -89,7 +89,7 @@ https://communityblog.fedoraproject.org/fedora-diversity-fad-2017/
 
 #### FOSDEM 2017
 
-![I didn't get many photos during FOSDEM, but this one seemed fitting enough.](https://i.imgur.com/MwwPknD.jpg "I didn't get many photos during FOSDEM, but this one seemed fitting enough. Photo: Bhagyashree Padalkar")
+![I didn't get many photos during FOSDEM, but this one seemed fitting enough.](/blog/2018/02/MwwPknD.jpg "I didn't get many photos during FOSDEM, but this one seemed fitting enough. Photo: Bhagyashree Padalkar")
 
 In February, I attended the Free and Open Source Software Developers European Meeting (FOSDEM) for the first time. [FOSDEM](https://fosdem.org) is the largest open source conference in Europe, bringing together over 8,000 open source enthusiasts, contributors, and leaders from around the globe.
 
@@ -107,7 +107,7 @@ Outside of open source and Fedora, my time in Croatia included a lot of time out
 
 The three days I spent in Sarajevo were short but significant. I was truly alone on this visit and it was up to me to make the most of it. Originally, I was skeptical to go alone, but I knew that I would never have a better opportunity to go. My fascination with Sarajevo stemmed from a year of studying European history in high school, and knowing the cultural significance of Sarajevo as a meeting point of western and eastern cultures. In the end, I decided to go, and I was rewarded for it.
 
-![Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.](https://i.imgur.com/eLj9O40.jpg "Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.")
+![Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.](/blog/2018/02/eLj9O40.jpg "Inside of the Tunnel of Sarajevo. It was so quiet I could hear myself breathe. This was a grounding experience.")
 
 Most of my trip in Sarajevo consisted of museums. I visited various museums, ranging from eighteenth to twentieth century history. The most rewarding for me were the [Galerija 11/07/95](http://galerija110795.ba/) and the [Tunnel of Sarajevo](https://en.wikipedia.org/wiki/Sarajevo_Tunnel). The gallery documented the [Srebrenica genocide](https://en.wikipedia.org/wiki/Srebrenica_massacre) in July 1995 by the Serbian armed forces. The exhibit was eye-opening and perspective-shifting. The Tunnel of Sarajevo, sometimes called the Tunnel of Hope, is another perspective-shattering experience. The museum introduces the tunnel used during the siege of Sarajevo during the 1990s, when Serbian forces surrounded the city for an almost [four-year siege](https://en.wikipedia.org/wiki/Siege_of_Sarajevo). The tunnel was the only way for citizens and resistance forces to contact the outside world and keep the resistance alive. A small part of the tunnel is preserved, and the other artifacts make it a gripping experience (not to mention it's a short drive out of the city, so you also have a chance to mentally prepare and later unpack the experience).
 
@@ -129,7 +129,7 @@ At the end of my study abroad experience in Croatia, a unique opportunity presen
 
 I booked the tickets.
 
-![Witnessing a tradition on my final day in Mumbai.](https://i.imgur.com/yBioeCg.jpg "Witnessing a tradition on my final day in Mumbai.")
+![Witnessing a tradition on my final day in Mumbai.](/blog/2018/02/yBioeCg.jpg "Witnessing a tradition on my final day in Mumbai.")
 
 The last day of my classes finally came, and the next day, I was traveling further east, to [Mumbai](https://en.wikipedia.org/wiki/Mumbai) (or Bombay, if you prefer). I had the great fortune of having two great friends who invited me to the homes of their families during my trip. I visited Bee in Mumbai and Amita in Pune, all split across a single week!
 
