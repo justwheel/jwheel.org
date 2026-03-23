@@ -61,10 +61,14 @@ menu:
       name: home
       url: /
       weight: 10
+    - identifier: about
+      name: about
+      url: /about-me/
+      weight: 20
     - identifier: blog
       name: blog
       url: /blog/
-      weight: 20
+      weight: 30
     - identifier: categories
       name: categories
       url: /categories/
@@ -78,11 +82,11 @@ menu:
     - identifier: open
       name: "#open"
       url: https://docs.fedoraproject.org/en-US/commops/
-      weight: 30
+      weight: 40
     - identifier: legal
       name: legal
       url: /legal/
-      weight: 40
+      weight: 50
 
 
 # --- custom settings ---
