@@ -1,11 +1,11 @@
 ---
 title: "Three reasons I love open source"
 date: 2015-11-16
-categories: 
+categories:
   - "fedora"
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "community"
   - "culture"
   - "fedora"
@@ -16,7 +16,7 @@ tags:
 
 I am a user of open source software. My earliest experiences with open source software was with the Minecraft server software [Bukkit](http://bukkit.org/) as a kid, when I was attempting to make a cool game server for friends. I started using Fedora in December 2013 with my first laptop, ending a lifetime of using Apple devices. I like to believe that I am familiar and experienced with open source software as an everyday user.
 
-![The Open Source Initiative](http://opensource.org/files/osi_standard_logo.png "The Open Source Initiative. Source: opensource.org (http://opensource.org/)")
+![The Open Source Initiative](/blog/2015/11/osi-logo-horizontal.png "The Open Source Initiative. Source: opensource.org (https://opensource.org/)")
 
 ## Open Source Contributor
 
