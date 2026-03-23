@@ -309,7 +309,15 @@ While the sessions are excellent and fulfilling (and sometimes frustrating when 
 
 I spent a few extra days before and after DevConf CZ in Brno. In some of that time, my colleague [Mike Nolan](https://nolski.rocks/) and I rehearsed in-person for our FOSDEM talk the following weekend (to come in a future blog post). I also enjoyed coffee and waffles with Marie, Sumantro, and Misc!
 
-![](/blog/2020/02/IMG_20200124_212601881_HDR-scaled.jpg "A few memories of a great week in Brno")
+![](/blog/2020/02/IMG_20200124_212601881_HDR-scaled.jpg)
+
+![](/blog/2020/02/IMG_20200124_212616232-rotated.jpg)
+
+![](/blog/2020/02/IMG_20200129_105148632_HDR-scaled.jpg)
+
+![](/blog/2020/02/IMG_20200129_124253219.jpg)
+
+> A few memories of a great week in Brno
 
 ## Until next time!
 
