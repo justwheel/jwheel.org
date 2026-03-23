@@ -2,7 +2,7 @@
 title: Echoes of Mine (M83)
 author: Anthony Gonzalez
 date: 2011-10-18
-lang: fr
+locale: fr
 description: "Translation of M83's 'Echoes of Mine' from French to English. French lyrics from album book."
 url: /lyrics/m83/echoes-of-mine/
 tags: ["M83","Echoes of Mine","Hurry Up We're Dreaming","music","lyrics"]
