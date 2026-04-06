@@ -7,6 +7,7 @@ categories:
 tags:
   - 2020s
   - ai-assisted
+  - fedora-planet
   - reflections
   - things-you-should-know-understand
   - what-its-all-about
