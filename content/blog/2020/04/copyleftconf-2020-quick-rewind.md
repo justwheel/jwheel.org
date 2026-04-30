@@ -24,7 +24,7 @@ tags:
   - "reflections"
   - "travel"
   - "what-its-all-about"
-coverImage: "copyleftconf-2020-1.png"
+images: ["/blog/2020/04/copyleftconf-2020-1.png"]
 ---
 
 **CopyleftConf 2020** took place on Monday, 3 February, 2020 in Brussels, Belgium:

@@ -14,7 +14,7 @@ tags:
   - "reflections"
   - "things-you-should-know-understand"
   - "what-its-all-about"
-coverImage: "i-am-wilderness.jpg"
+images: ["/blog/2023/05/i-am-wilderness.jpg"]
 ---
 
 Trust is a word and a concept that is on my mind lately. Trust is an idea that permeates all levels of our waking consciousness, and impacts how we build connections and relationships with other human beings. It is something impossible to ignore, yet it is ironically hard to define and pin down. Beyond what is written in a dictionary, what _is_ trust? What does trust look like? What does trust feel like? Anyone who works in "community work" knows that trust is often the fundamental tie between [community leadership](https://jwfblog.wpenginepowered.com/tag/community-management/) and community members. A leader wants to be trusted by the people whom they represent, and a person wants to trust their leaders to represent them fairly and accurately.

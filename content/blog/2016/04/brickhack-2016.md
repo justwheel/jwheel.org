@@ -14,7 +14,7 @@ tags:
   - "friends"
   - "hfoss"
   - "rochester-institute-of-technology"
-coverImage: "Hacksesh-02-min.jpg"
+images: ["/blog/2016/04/Hacksesh-02-min.jpg"]
 ---
 
 Last month at the [Rochester Institute of Technology](https://www.rit.edu/), [BrickHack 2016](https://brickhack.io/) came to a close. BrickHack is an annual hackathon organized by students at RIT. Close to 300 people attend every year. This year was BrickHack's second event.

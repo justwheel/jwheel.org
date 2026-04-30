@@ -7,7 +7,7 @@ tags:
   - "life-lessons"
   - "spirituality"
   - "what-its-all-about"
-coverImage: "synchronized.jpg"
+images: ["/blog/2022/08/synchronized.jpg"]
 ---
 
 _Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._

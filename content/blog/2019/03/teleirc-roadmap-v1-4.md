@@ -18,7 +18,7 @@ tags:
   - "telegram"
   - "teleirc"
   - "upstream"
-coverImage: "/img/teleirc-development-update.jpg"
+images: ["/img/teleirc-development-update.jpg"]
 ---
 
 The [RITlug](https://ritlug.com/) TeleIRC developer team celebrated the [v1.3 release](https://github.com/RITlug/teleirc/releases/tag/v1.3) on March 3rd, 2019. Looking ahead, the team is mapping out next steps for quality-of-life improvements in v1.4.

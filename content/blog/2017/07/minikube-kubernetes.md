@@ -14,7 +14,7 @@ tags:
   - "kubernetes"
   - "scalability"
   - "system-administration"
-coverImage: "k8s-2-minikube.jpg"
+images: ["/blog/2017/07/k8s-2-minikube.jpg"]
 ---
 
 _**This article was originally published [on the Fedora Magazine](https://fedoramagazine.org/minikube-kubernetes/).**_

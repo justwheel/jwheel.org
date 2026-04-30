@@ -16,7 +16,7 @@ tags:
   - "open-source-licenses"
   - "politics"
   - "reflections"
-coverImage: "open-source-dependencies.png"
+images: ["/blog/2021/08/open-source-dependencies.png"]
 ---
 
 I often wonder how to best measure and communicate Open Source value. The collective focus of the industry goes into quantifying dependencies; that is, how one software relies on other software in order to complete its primary function. The vocabulary to measure dependency usually includes words like "imports," "licenses," "bugs fixed to bugs open," and other machine-oriented terms. Yet the unique value proposition of _innovative_ Open Source involves a community of people around a software. This led me on to the next question: **why do we bias towards machine-oriented terms instead of human-oriented or community-oriented terms to describe Open Source communities and division of labor?**

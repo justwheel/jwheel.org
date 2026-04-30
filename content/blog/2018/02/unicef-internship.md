@@ -14,7 +14,7 @@ tags:
   - "unicef-internship-2018"
   - "united-nations"
   - "working-together"
-coverImage: "unicef-opensource.png"
+images: ["/blog/2018/02/unicef-opensource.png"]
 ---
 
 In December, I received the happy news of an offer for a internship position at [UNICEF](https://www.unicef.org/what-we-do) in the Office of Innovation. The [Office of Innovation](http://unicefstories.org/about/) drives rapid technological innovation by rapid prototyping of new ideas and building full-stack products to make a positive impact in the lives of children. This is a simple answer, but a more detailed description is [on our website](http://unicefstories.org/about/).

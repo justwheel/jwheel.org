@@ -18,7 +18,7 @@ tags:
   - "reflections"
   - "sustainability"
   - "working-together"
-coverImage: "sustainable-investments.jpg"
+images: ["/blog/2021/12/sustainable-investments.jpg"]
 ---
 
 How do we understand value when we talk about sustainability? What does investing in open source mean? The meaning is different for many people because of an implicit understanding of what open source means.

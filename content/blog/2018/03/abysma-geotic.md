@@ -12,7 +12,7 @@ tags:
   - "music"
   - "music-review"
   - "tergiversate-music-column"
-coverImage: "tergiversate-abysma-geotic.png"
+images: ["/blog/2018/03/tergiversate-abysma-geotic.png"]
 ---
 
 _This article is part of my [Tervigersate column](https://jwfblog.wpenginepowered.com/tag/tergiversate-music-column/) on my blog, where I review albums by musicians spanning multiple genres. Articles introduce an album and give my interpretation of their meaning._

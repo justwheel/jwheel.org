@@ -11,7 +11,7 @@ tags:
   - reflections
   - things-you-should-know-understand
   - what-its-all-about
-coverImage: "one-day.png"
+images: ["/blog/2026/04/one-day.png"]
 ---
 
 It has been a minute.

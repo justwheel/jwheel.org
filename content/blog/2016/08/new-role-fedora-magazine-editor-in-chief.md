@@ -7,7 +7,7 @@ tags:
   - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
-coverImage: "new-role-magazine-editor-in-chief.png"
+images: ["/blog/2016/08/new-role-magazine-editor-in-chief.png"]
 ---
 
 ![Picture from Flock 2016 with Justin Wheeler and Ryan Lerch for Fedora Magazine](/blog/2016/08/IMG_9424.jpg "Me (left) with Ryan Lerch (right) at Flock 2016 (https://flocktofedora.org/)")

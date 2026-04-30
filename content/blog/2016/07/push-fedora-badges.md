@@ -9,7 +9,7 @@ tags:
   - "fedora-infrastructure"
   - "fedora"
   - "fedora-planet"
-coverImage: "push-fedora-badges.png"
+images: ["/blog/2016/07/push-fedora-badges.png"]
 ---
 
 Ever wondered what goes on behind the magic of [Fedora Badges](https://badges.fedoraproject.org/)? How does a badge go from being a design to an earn-able entity? This short but handy guide breaks down the entire process for you. This post is adapted from a [series of notes](https://meetbot.fedoraproject.org/fedora-meeting-3/2016-06-03/commops.2016-06-03-20.56.log.html#l-34) I took while watching Ralph Bean demo the procedure at [PyCon](https://fedoraproject.org/wiki/PyCon_2016). This guide is a supplement, not a replacement, for the official [Badges SOP](https://infrastructure.fedoraproject.org/infra/docs/badges.rst).

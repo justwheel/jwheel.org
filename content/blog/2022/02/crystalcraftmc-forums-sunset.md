@@ -9,7 +9,7 @@ tags:
   - "gaming"
   - "infrastructure"
   - "minecraft"
-coverImage: "crystalcraftmc-forums-sunset.jpg"
+images: ["/blog/2022/02/crystalcraftmc-forums-sunset.jpg"]
 ---
 
 It is with a sad heart that I share that the `crystalcraftmc.com` forums are permanently retired as of 6 February 2022. Nearly ten years ago, in August 2012, I founded a Minecraft multiplayer game server. It would eventually become known as CrystalCraftMC. I [passed the torch](https://web.archive.org/web/20210103155344/https://crystalcraftmc.com/?page=2) for the game server in April 2018. CrystalCraftMC got a second life from the dedicated player community until December 2018 when it was [shuttered for good](https://web.archive.org/web/20210614054749/https://crystalcraftmc.com/threads/survival-and-creative-world-downloads-now-available.2708/). Today's news is sad to me as it marks the official end of the online presence of CrystalCraftMC after nearly a decade.

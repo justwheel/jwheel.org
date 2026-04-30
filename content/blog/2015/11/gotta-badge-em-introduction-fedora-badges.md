@@ -10,7 +10,7 @@ tags:
   - "fedora"
   - "fedora-planet"
   - "gotta-badge-em-all"
-coverImage: "Fedora-Badges.png"
+images: ["/blog/2015/11/Fedora-Badges.png"]
 ---
 
 ## What is this?!

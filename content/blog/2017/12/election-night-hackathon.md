@@ -13,7 +13,7 @@ tags:
   - "open-source-communities"
   - "rochester-institute-of-technology"
   - "university"
-coverImage: "GOV_citizen_participation.jpg"
+images: ["/blog/2017/12/GOV_citizen_participation.jpg"]
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/17/12/rit-election-night-hackathon)

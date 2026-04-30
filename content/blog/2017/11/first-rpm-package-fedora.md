@@ -11,7 +11,7 @@ tags:
   - "open-source"
   - "packaging"
   - "rpm"
-coverImage: "newpackage.png"
+images: ["/blog/2017/11/newpackage.png"]
 ---
 
 Over the summer, I migrated my desktop environment to [i3](https://i3wm.org/), a tiling window manager. Switching to i3 was a challenge at first, since I had to replace many things that GNOME handled for me. One of these things was changing screen brightness. `xbacklight`, the standard way of changing backlight brightness on laptops, doesn't work on my hardware.

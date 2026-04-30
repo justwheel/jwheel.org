@@ -10,7 +10,7 @@ tags:
   - "open-source"
   - "open-source-communities"
   - "open-source-design"
-coverImage: "ura-design-osdc.png"
+images: ["/blog/2017/07/ura-design-osdc.png"]
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/17/6/ura-design-open-source-projects)

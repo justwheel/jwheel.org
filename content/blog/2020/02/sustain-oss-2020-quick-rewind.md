@@ -22,7 +22,7 @@ tags:
   - "sustain-oss"
   - "travel"
   - "working-together"
-coverImage: "sustain-oss-2020.png"
+images: ["/blog/2020/02/sustain-oss-2020.png"]
 ---
 
 The **2020 Sustain Open Source Summit** took place on Thursday, 30 January, 2020 in Brussels, Belgium:

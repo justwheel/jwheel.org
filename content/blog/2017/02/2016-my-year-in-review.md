@@ -53,7 +53,7 @@ tags:
   - "women-in-computing-wic"
   - "wordpress"
   - "year-in-review"
-coverImage: "2016-year-in-review.jpg"
+images: ["/blog/2017/02/2016-year-in-review.jpg"]
 ---
 
 Before looking too far ahead to the future, it's important to spend time to reflect over the past year's events, identify successes and failures, and devise ways to improve. Describing my 2016 is a challenge for me to find the right words for. This post continues a habit I started last year with my [2015 Year in Review](https://jwfblog.wpenginepowered.com/2016/02/2015-year-review/). One thing I discover nearly every day is that I'm always learning new things from various people and circumstances. Even though 2017 is already getting started, I want to reflect back on some of these experiences and opportunities of the past year.

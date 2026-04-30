@@ -14,7 +14,7 @@ tags:
   - "fedora-planet"
   - "things-you-should-know-understand"
   - "writing"
-coverImage: "markdown-accessible-text-one-simple-trick.jpg"
+images: ["/blog/2019/06/markdown-accessible-text-one-simple-trick.jpg"]
 ---
 
 Sometimes the people we exclude are the ones we did not realize were there. [Screen readers](https://en.wikipedia.org/wiki/Screen_reader) are an essential tool for blind and visually-impaired people to use software and browse the Internet. In open source projects and communities, Markdown is a [lightweight markup language](https://en.wikipedia.org/wiki/Markdown) used to format text. It is also used in many other places. Often you need to embed an image into whatever you are writing (a picture, a diagram, or some useful visual aid to get your point across). One of the lesser-known and used features of Markdown are **alt tags for images**.

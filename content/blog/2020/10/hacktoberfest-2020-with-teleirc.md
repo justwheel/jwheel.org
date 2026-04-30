@@ -15,7 +15,7 @@ tags:
   - "open-source-communities"
   - "telegram"
   - "teleirc"
-coverImage: "/img/teleirc-development-update.jpg"
+images: ["/img/teleirc-development-update.jpg"]
 ---
 
 October is here! If you contribute to Open Source projects, you might know that October is the month of Hacktoberfest. [DigitalOcean teams up](https://hacktoberfest.digitalocean.com/) with different partners each year to send a t-shirt (or plant a tree on your behalf) for anyone who makes four GitHub Pull Requests in October. And guess what? TeleIRC is a participating project for you to get your Hacktoberfest t-shirt or tree!

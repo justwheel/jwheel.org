@@ -16,7 +16,7 @@ tags:
   - "reflections"
   - "rochester-institute-of-technology"
   - "sustainability"
-coverImage: "three-predictions-free-software-2020s.png"
+images: ["/blog/2020/12/three-predictions-free-software-2020s.png"]
 ---
 
 From January to May 2020, I completed an independent study at the [Rochester Institute of Technology](https://www.rit.edu/) on _Business and Legal Aspects of Free/Open Source Software_. This was the final credit for my completion of the [Free and Open Source Software and Free Culture](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor) minor.

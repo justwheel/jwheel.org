@@ -20,7 +20,7 @@ tags:
   - "sustain-oss"
   - "teaching-open-source"
   - "university"
-coverImage: "sustain-oss-2018.png"
+images: ["/blog/2018/11/sustain-oss-2018.png"]
 ---
 
 This year, I attended the second edition of the [Sustain Open Source Summit](https://sustainoss.org/) (a.k.a. Sustain OSS) on October 25th, 2018 in London. Sustain OSS is a one-day discussion on various topics about sustainability in open source ecosystems. It's also a collection of diverse roles across the world of open source. From small project maintainers to open source program managers at the largest tech companies in the world, designers to government employees, there is a mix of backgrounds in the room. Yet there is a shared context around the most systemic problems faced by open source projects, communities, and people around the world.

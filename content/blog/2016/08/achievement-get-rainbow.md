@@ -8,7 +8,7 @@ tags:
   - "fedora-badges"
   - "fedora"
   - "fedora-planet"
-coverImage: "achievement-get-rainbow.png"
+images: ["/blog/2016/08/achievement-get-rainbow.png"]
 ---
 
 Earlier this month, I received the [_Rainbow_ badge](https://badges.fedoraproject.org/badge/rainbow-cookie-v) in [Fedora Badges](https://badges.fedoraproject.org/about). _Rainbow_ is the fifth badge in a series for receiving "karma cookies" from others in IRC. Every time I receive a new badge in this series, I like to [reflect](https://jwfblog.wpenginepowered.com/2016/03/achievement-get-pizzelle/) back on the past and where my Fedora journey has taken me [since October 2015](https://jwfblog.wpenginepowered.com/2015/10/my-journey-into-fedora/).

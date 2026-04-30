@@ -8,7 +8,7 @@ tags:
   - "music"
   - "music-review"
   - "tergiversate-music-column"
-coverImage: "tergiversate-music-column.png"
+images: ["/blog/2017/12/tergiversate-music-column.png"]
 ---
 
 Music is a key part of my life. I spend a lot of time listening and analyzing music. However, music is as much a personal experience as it is a social one too. In music, an artist shares their perspective and experience with the listener. The listener, in turn, shares music with others. In my experience, some of the best music recommendations have come from friends or from other music fans. Thus, I'm happy to announce **Tergiversate**, a new column on my blog that celebrates great music and the role it plays in documenting culture and society.

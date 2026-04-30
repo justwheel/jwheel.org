@@ -13,7 +13,7 @@ tags:
   - "open-source"
   - "open-source-communities"
   - "research-and-learning"
-coverImage: "hpc-workloads-containers.jpg"
+images: ["/blog/2019/08/hpc-workloads-containers.jpg"]
 ---
 
 Recently, I worked on an interesting project to evaluate different container run-times for high-performance computing (HPC) clusters. HPC clusters are what we once knew as [supercomputers](https://en.wikipedia.org/wiki/Supercomputer). Today, instead of giant mainframes, they are hundreds, thousands, or tens of thousands of [massively parallel](https://en.wikipedia.org/wiki/Massively_parallel) systems. Since performance is critical, virtualization with tools like virtual machines or Docker containers was not realistic. The overhead was too much compared to bare metal.

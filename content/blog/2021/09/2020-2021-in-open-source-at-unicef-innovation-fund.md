@@ -15,7 +15,7 @@ tags:
   - "teaching-open-source"
   - "unicef"
   - "united-nations"
-coverImage: "/img/unicef-open-source-mentorship-programme.png"
+images: ["/img/unicef-open-source-mentorship-programme.png"]
 ---
 
 Open Source is a means to collaborate and solve common problems; during the COVID-19 pandemic, open data and tools [proved useful](https://www.dlapiper.com/en/us/insights/publications/2021/07/techlaw-podcast-sesg-venture-capital-for-good-and-software-solutions-with-a-purpose) in quickly tailoring and deploying life-saving services. How has the [UNICEF Innovation Fund](https://www.unicef.org/innovation/) kept up with latest Open Source innovations?

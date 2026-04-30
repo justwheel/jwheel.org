@@ -12,7 +12,7 @@ tags:
   - "opinion"
   - "privilege"
   - "reflections"
-coverImage: "cannot-be-what-cannot-see.jpg"
+images: ["/blog/2023/06/cannot-be-what-cannot-see.jpg"]
 ---
 
 My musing this time is an underdeveloped thought about diversity, equity, & inclusion; allyship; and being a white person. Last year in October 2022, I attended the excellent [Inclusion & Diversity in Open Source summit](https://2022.allthingsopen.org/events/inclusion-diversity-in-open-source/) at [All Things Open 2022](https://2022.allthingsopen.org/). There were several speakers who shared experiences and perspectives about diversity, equity, inclusion, and belonging. I appreciated the elevation of diverse voices and people whose experiences are historically relegated to the periphery of Western society. For myself and also our world, it is important that more light is shone on these stories. The event also caused me to reflect on my own identity as a white American male. I began to interrogate what "whiteness" and being white meant.

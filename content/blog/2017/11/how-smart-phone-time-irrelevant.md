@@ -8,7 +8,7 @@ tags:
   - "fedora-planet"
   - "life-lessons"
   - "reflections"
-coverImage: "smart-phone-time-irrelevant.png"
+images: ["/blog/2017/11/smart-phone-time-irrelevant.png"]
 ---
 
 It’s 2pm in the afternoon and the weather is becoming cold after so long. On this brisk November day, an old professor steps out in the corner lobby of the college. The golden rays of the sun cast a warm, radiant glow, leaving a bright, inviting air. This small moment of time is meaningless in an infinite universe of possible moments.

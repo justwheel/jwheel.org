@@ -16,7 +16,7 @@ tags:
   - "reflections"
   - "research-and-learning"
   - "sustainability"
-coverImage: "chaoss-dei-reflection.png"
+images: ["/blog/2022/10/chaoss-dei-reflection.png"]
 ---
 
 Since February 2021, the CHAOSS Project is conducting a funded, long-term review of its governance, practices, and processes in a diversity, equity, and inclusion (D.E.I.) "audit." I originally joined as an internal community liaison and initially helped to identify a team of D.E.I. practitioners external to the CHAOSS Project to support this work. Thanks to the support of the Ford Foundation, we are slowly approaching the two-year anniversary of when this work began.

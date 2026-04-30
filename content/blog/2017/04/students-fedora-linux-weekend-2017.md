@@ -22,7 +22,7 @@ tags:
   - "teaching-open-source"
   - "tirana-al"
   - "travel"
-coverImage: "ARP6625.jpg"
+images: ["/blog/2017/04/ARP6625.jpg"]
 ---
 
 _This article was originally published [on the Fedora Magazine](https://fedoramagazine.org/students-fedora-linux-weekend-2017/)._

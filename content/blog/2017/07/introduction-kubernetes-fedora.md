@@ -16,7 +16,7 @@ tags:
   - "scalability"
   - "system-administration"
   - "things-you-should-know-understand"
-coverImage: "k8s-1-intro.jpg"
+images: ["/blog/2017/07/k8s-1-intro.jpg"]
 ---
 
 _**This article was originally published [on the Fedora Magazine](https://fedoramagazine.org/introduction-kubernetes-fedora/).**_

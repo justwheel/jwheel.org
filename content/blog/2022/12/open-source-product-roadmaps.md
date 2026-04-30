@@ -9,7 +9,7 @@ tags:
   - "fedora-planet"
   - "open-source"
   - "open-source-communities"
-coverImage: "three-product-roadmaps.jpg"
+images: ["/blog/2022/12/three-product-roadmaps.jpg"]
 ---
 
 In my daily reading, I came across three product roadmaps from [Proton](https://proton.me/about), developers of several open source, privacy-centered products. These include products like Proton Mail, Proton VPN, and Proton Drive. The product roadmaps shared by Proton play a tactical role. They inform consumers and engaged customers about exciting changes yet to come. It gets people excited about the product's future. Additionally, it builds an engaged user base that is more willing to experiment and try new features.

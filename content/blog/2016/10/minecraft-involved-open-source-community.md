@@ -16,7 +16,7 @@ tags:
   - "open-source"
   - "rochester-institute-of-technology"
   - "spigotmc"
-coverImage: "myopensourcestory.png"
+images: ["/blog/2016/10/myopensourcestory.png"]
 ---
 
 [_This post was originally published on OpenSource.com._](https://opensource.com/life/16/10/my-open-source-story-justin-flory)

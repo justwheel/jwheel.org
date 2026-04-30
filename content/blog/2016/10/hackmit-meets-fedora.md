@@ -16,7 +16,7 @@ tags:
   - "hackmit-2016"
   - "outreach"
   - "what-its-all-about"
-coverImage: "Team-Ubuntu-2-compressed.jpg"
+images: ["/blog/2016/10/Team-Ubuntu-2-compressed.jpg"]
 ---
 
 _This post was originally published on the [Fedora Community Blog](https://communityblog.fedoraproject.org/hackmit-meets-fedora/)._

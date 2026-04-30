@@ -9,7 +9,7 @@ tags:
   - "friends"
   - "happiness-packets"
   - "open-source"
-coverImage: "/img/happiness-packet-challenge.png"
+images: ["/img/happiness-packet-challenge.png"]
 ---
 
 One of the most important lessons I was taught growing up is to say "thank you" when someone does something nice for you. Many months ago, someone first introduced me to something called [Happiness Packets](https://happinesspackets.io/). The idea is simple but powerfully effective. Happiness Packets are like thank-you cards for open source users or contributors. You can send a packet to anyone for anything. Your message can be as short or as long as you like. You can put your name on your message or you can keep it totally anonymous. The choice is yours. And now, **I want to challenge you to the #HappinessPacketChallenge**!

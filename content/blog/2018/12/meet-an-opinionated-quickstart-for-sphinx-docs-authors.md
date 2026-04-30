@@ -14,7 +14,7 @@ tags:
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
   - "sphinx"
-coverImage: "sphinx-docs-opinionated-quickstart.jpg"
+images: ["/blog/2018/12/sphinx-docs-opinionated-quickstart.jpg"]
 ---
 
 Do you write documentation with the Sphinx [tool chain](http://www.sphinx-doc.org/en/master/)? Do you want to encourage more people to write Sphinx documentation in a distributed organization, but worry about maintaining compatible workflows? Introducing [sphinx-docs-opinionated-quickstart](https://github.com/justwheel/sphinx-docs-opinionated-quickstart), a template repository with an opinionated configuration of ReStructuredText documentation with Travis CI testing and [readthedocs.org](https://readthedocs.org/) publishing.  

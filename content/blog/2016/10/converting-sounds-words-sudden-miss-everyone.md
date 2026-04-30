@@ -10,7 +10,7 @@ tags:
   - "music"
   - "music-review"
   - "post-rock"
-coverImage: "All-of-a-Sudden-I-Miss-Everyone.jpg"
+images: ["/blog/2016/10/All-of-a-Sudden-I-Miss-Everyone.jpg"]
 ---
 
 The dancer gracefully glides across the stage, with a slow but determined gait radiant with purpose. The movement is not her own, but neither is it forced. The sound uncoils itself as a rope and instructs the dancer forward, synchronizing her movement with the delicate pressure of the pianist's fingers. There is no consciousness, no concept of time. The moment is forever captured in the combination of auditory and visual perception. Without a single spoken word, an emotion is tearing at the seams of the casual observer.

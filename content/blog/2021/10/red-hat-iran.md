@@ -19,7 +19,7 @@ tags:
   - "open-source"
   - "open-source-communities"
   - "united-states"
-coverImage: "iran.jpg"
+images: ["/blog/2021/10/iran.jpg"]
 ---
 
 I was visiting the Fedora Council ticket tracker when I noticed [this ticket](https://pagure.io/Fedora-Council/tickets/issue/377) up for discussion. The ticket's purpose is minor and appears inconsequential. It involves adding some legal text to the Fedora Accounts system. The change is related to [Export Administration Regulations](https://docs.microsoft.com/en-us/compliance/regulatory/offering-ear) (the "EAR") as maintained by the United States Department of Commerce. And the change is not actually a change, but a clarification of a policy that has always been in effect.

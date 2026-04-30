@@ -31,7 +31,7 @@ tags:
   - "unicef"
   - "what-its-all-about"
   - "working-together"
-coverImage: "why-foss-still-not-on-activist-agendas.jpg"
+images: ["/blog/2019/12/why-foss-still-not-on-activist-agendas.jpg"]
 ---
 
 On December 13th, 2006, author [Bruce Byfield](https://en.wikipedia.org/wiki/Bruce_Byfield) reflected on why he thought Free and Open Source Software (F.O.S.S.) was [not on activist agendas](https://web.archive.org/web/20191130172436/https://www.linux.com/news/why-foss-isnt-activist-agendas/). My interpretation of his views are that a knowledge barrier about technology makes FOSS less accessible, the insular nature of activism makes collaboration difficult, and FOSS activists reaching out to other activists with shared values should be encouraged. On December 13th, 2019, is FOSS on activist agendas? The answer is not black or white, but a gray somewhere in the middle. This is my response to Byfield's article, thirteen years later, on what he got right but also what he left out.

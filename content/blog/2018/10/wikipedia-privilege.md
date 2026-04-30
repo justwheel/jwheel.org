@@ -11,7 +11,7 @@ tags:
   - "opinion"
   - "privilege"
   - "wikipedia"
-coverImage: "wikipedia-privilege.jpg"
+images: ["/blog/2018/10/wikipedia-privilege.jpg"]
 ---
 
 _Originally written as an essay response for [ENGL-450 Free and Open Source Culture](https://www.rit.edu/cla/english/450-free-and-open-source-culture) at the [Rochester Institute of Technology](https://www.rit.edu/)._

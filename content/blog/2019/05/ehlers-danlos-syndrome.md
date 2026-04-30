@@ -7,7 +7,7 @@ tags:
   - "ehlers-danlos"
   - "health"
   - "invisible-illness"
-coverImage: "ehler-danlos-syndrome.png"
+images: ["/blog/2019/05/ehler-danlos-syndrome.png"]
 ---
 
 May is [Ehlers-Danlos Syndrome Awareness Month](https://ehlers-danlos.com/dazzle/). Ehlers-Danlos Syndrome, abbreviated as EDS, is a genetic disorder that affects [1 out of 5,000 people](https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome#statistics) across the world. It is considered an "invisible illness" since its symptoms are not always visible to the eye.

@@ -54,7 +54,7 @@ tags:
   - "unicef"
   - "united-nations"
   - "year-in-review"
-coverImage: "2017-year-review.jpg"
+images: ["/blog/2018/02/2017-year-review.jpg"]
 ---
 
 I can't remember how [writing an annual reflection](https://jwfblog.wpenginepowered.com/tag/year-in-review/) became a tradition, but after writing them for the last two years, it is now a habit. Every time I look back on all that the last year brought into my life, it is surreal. Many things that happened, I could never have expected one or two years ago. And perhaps now, I see that life is defined by the unexpected moments: the things that surprise us, warm our hearts, sadden us, and remind us of our humanity. Thus, I present my year in review of 2017.

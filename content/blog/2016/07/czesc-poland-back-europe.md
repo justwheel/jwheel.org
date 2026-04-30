@@ -13,7 +13,7 @@ tags:
   - "open-source"
   - "poland"
   - "travel"
-coverImage: "poland-flock-2016.png"
+images: ["/blog/2016/07/poland-flock-2016.png"]
 ---
 
 Earlier this month, I received some of the most exciting news I have had all year. After much finger-crossing and (hopefully) hard work, I am traveling to Kraków, Poland, for the [Fedora Project](https://fedoraproject.org/wiki/Overview)'s annual [Flock](https://flocktofedora.org/) conference. Flock is described by the organizers as the following.

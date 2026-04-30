@@ -7,7 +7,7 @@ tags:
   - "2010s"
   - "archives-journals"
   - "throwback-drafts"
-coverImage: "willful-winds.jpg"
+images: ["/blog/2016/10/willful-winds.jpg"]
 ---
 
 _This post is published as part of a personal archival project of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) and other creative works. The actual publish date of this post is Friday, April 19th, 2024, but the publish date of the post reflects the original date of authorship. This archival project aims to digitize a selection of written works that exist only in my private records. Enjoy._

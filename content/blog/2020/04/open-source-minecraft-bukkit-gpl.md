@@ -14,7 +14,7 @@ tags:
   - "open-source-communities"
   - "open-source-licenses"
   - "rochester-institute-of-technology"
-coverImage: "open-source-minecraft-bukkit-gpl.png"
+images: ["/blog/2020/04/open-source-minecraft-bukkit-gpl.png"]
 ---
 
 Once upon a time, when I was a teenager, I volunteered in the Minecraft open source community. I volunteered as a staff member of the largest open source Minecraft server today, called [Spigot](https://www.spigotmc.org/wiki/about-spigot/). Spigot is a fork of the Bukkit project.

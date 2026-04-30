@@ -16,7 +16,7 @@ tags:
   - "summer-activities"
   - "tirana-al"
   - "travel"
-coverImage: "pershendetje-tirane.jpg"
+images: ["/blog/2021/08/pershendetje-tirane.jpg"]
 ---
 
 Përshëndetje nga Tiranë, or in Albanian, hello from Tirana! I am residing for a short time in Tiranë (pronounced Ti·ra·na), [Albania](https://en.wikipedia.org/wiki/Albania). After a previous visit in June, I decided to make Tiranë my home for part of my remote work contract. I moved in this past week.

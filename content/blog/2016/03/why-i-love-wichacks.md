@@ -13,7 +13,7 @@ tags:
   - "hfoss"
   - "rochester-institute-of-technology"
   - "women-in-computing-wic"
-coverImage: "/img/WiCHacks-Opening-Ceremony.jpg"
+images: ["/img/WiCHacks-Opening-Ceremony.jpg"]
 ---
 
 Two weekends ago, from February 27th to the 28th, the [Women in Computing](http://wic.rit.edu) program at the [Rochester Institute of Technology](https://www.rit.edu/) hosted their third annual [WiCHacks](http://wichacks.rit.edu/) hackathon. WiCHacks is a women-only hackathon open to university students and high school juniors and seniors. WiCHacks is a collaborative event bringing women together from across RIT, the country, and even the world (including attendees from Germany). The participants are in a supportive and empowering environment to build something awesome and present it to everyone else in the span of one weekend.

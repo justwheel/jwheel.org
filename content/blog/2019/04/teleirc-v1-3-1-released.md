@@ -18,7 +18,7 @@ tags:
   - "telegram"
   - "teleirc"
   - "upstream"
-coverImage: "/img/teleirc-development-update.jpg"
+images: ["/img/teleirc-development-update.jpg"]
 ---
 
 On April 20th, 2019, the TeleIRC development team [released TeleIRC v1.3.1](https://github.com/RITlug/teleirc/releases/tag/v1.3.1), the latest version after the final development sprint for the university semester. This release introduces minor improvements in order to accommodate heavier work-balance loads on our volunteer contributors. However, it gave us an opportunity to reduce technical debt. This blog post explains what's new in TeleIRC v1.3.1 and also offers a retrospective into how this last sprint went.

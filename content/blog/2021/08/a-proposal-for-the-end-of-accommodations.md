@@ -17,7 +17,7 @@ tags:
   - "reflections"
   - "things-you-should-know-understand"
   - "working-together"
-coverImage: "end-of-accommodations.jpg"
+images: ["/blog/2021/08/end-of-accommodations.jpg"]
 ---
 
 Language is powerful. Words are subtle building blocks to how we imagine the world around us. So, with the goal of pursuing more equitable language, I propose the end of accommodations.

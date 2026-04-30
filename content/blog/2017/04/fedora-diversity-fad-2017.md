@@ -18,7 +18,7 @@ tags:
   - "fedora-planet"
   - "open-source-communities"
   - "travel"
-coverImage: "fedora-diversity-fad-2017.png"
+images: ["/blog/2017/04/fedora-diversity-fad-2017.png"]
 ---
 
 [_This article was originally published on the Fedora Community Blog._](https://communityblog.fedoraproject.org/fedora-diversity-fad-2017/)

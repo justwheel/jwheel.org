@@ -8,7 +8,7 @@ tags:
   - "reflections"
   - "spirituality"
   - "what-its-all-about"
-coverImage: "middle-path.jpg"
+images: ["/blog/2022/12/middle-path.jpg"]
 ---
 
 The answer suddenly appeared that the only way to solve my dilemma of two split worlds was to find the middle path.

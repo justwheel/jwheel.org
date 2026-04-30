@@ -12,7 +12,7 @@ tags:
   - "open-source"
   - "rochester-institute-of-technology"
   - "teaching-open-source"
-coverImage: "github-organizations-for-clubs.png"
+images: ["/blog/2016/10/github-organizations-for-clubs.png"]
 ---
 
 For many universities and colleges, there are many technical clubs that students can join. Some clubs focus on programming or using programming for collaborative projects. For anything involving code, clubs usually turn to GitHub. GitHub has become the standard for open source project hosting by thousands of projects in the world. GitHub organizations are the tool GitHub provides to allow someone to create a team of people for working on projects. Organizations can have many repositories and smaller teams inside of them. When getting started with GitHub, there is a method to the madness, and there are ways you can have an ordered organization instead of keeping it messy. Here's how you do it.

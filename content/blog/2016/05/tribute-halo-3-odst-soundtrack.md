@@ -6,7 +6,7 @@ categories:
 tags: 
   - "halo"
   - "music-review"
-coverImage: "halo-3-odst-resized.jpg"
+images: ["/blog/2016/05/halo-3-odst-resized.jpg"]
 ---
 
 The time is nearing 2:00am on a Wednesday morning. Outside is dark, a swirling mist of rain and blurred lights. As I stare out the window, the white light from my laptop illuminates my face. Around me, a room that is as quiet as the deserted roads and parking lots I see from my window. This is the scene that surrounds me as I listen to the 2009 [Halo 3: ODST](https://en.wikipedia.org/wiki/Halo_3:_ODST) Original Soundtrack. Anyone who knows me well knows that I love the Halo series, especially the music that surrounds it.

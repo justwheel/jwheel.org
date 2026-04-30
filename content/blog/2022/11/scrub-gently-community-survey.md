@@ -11,7 +11,7 @@ tags:
   - "data-analysis"
   - "fedora-planet"
   - "open-source-communities"
-coverImage: "scrub-gently-community-survey.jpg"
+images: ["/blog/2022/11/scrub-gently-community-survey.jpg"]
 ---
 
 Recently, my team with the [CHAOSS Project](https://chaoss.community/) had a data concern emerge when I was working on a project to run a community survey. This community had never run a survey before, and it was the first notable event where the project made an explicit, structured ask for feedback from the community. As a result, this first experience was also a calibration event, so we could guide this kind of work in future years.

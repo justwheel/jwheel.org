@@ -16,7 +16,7 @@ tags:
   - "musicbrainz"
   - "rochester-institute-of-technology"
   - "rochester-ny-usa"
-coverImage: "five-queen-songs-mainstream.jpg"
+images: ["/blog/2018/10/five-queen-songs-mainstream.jpg"]
 ---
 
 [_Originally published on the MusicBrainz blog._](http://blog.musicbrainz.org/2018/10/16/five-queen-songs-mainstream/)

@@ -13,7 +13,7 @@ tags:
   - "internship"
   - "open-source"
   - "open-source-communities"
-coverImage: "win-win-for-all-outreachy.png"
+images: ["/blog/2024/03/win-win-for-all-outreachy.png"]
 ---
 
 This year, I am mentoring again with the [Outreachy internship program](https://www.outreachy.org/). It is my third time mentoring for Outreachy and my second time with the [Fedora Project](https://jwfblog.wpenginepowered.com/category/fedora/). However, it is my first time mentoring as a [Red Hat](https://jwfblog.wpenginepowered.com/category/red-hat/) associate. What also makes this time different from before is that I am mentoring a non-engineering project with Outreachy. Or in other words, my project does not _require_ an applicant to write any code. Evidently, the internship description was a hook. We received an extremely large wave of applicants literally overnight. Between 40-50 new contributors arrived to the Fedora Marketing Team in the first week. Planning tasks and contributions for beginners already took effort. Scaling that planning work overnight for up to 50 people simultaneously is extraordinarily difficult.

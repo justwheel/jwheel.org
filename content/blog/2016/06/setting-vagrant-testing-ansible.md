@@ -15,7 +15,7 @@ tags:
   - "open-source"
   - "vagrant"
   - "virtual-machines-vm"
-coverImage: "/img/Google-Summer-of-Code-announcement.png"
+images: ["/img/Google-Summer-of-Code-announcement.png"]
 ---
 
 As part of my [Google Summer of Code](https://summerofcode.withgoogle.com/) project proposal for the [Fedora Project](https://fedoraproject.org/wiki/Overview), I've spent a lot of time learning about the ins and outs of Ansible. [Ansible](https://www.ansible.com/) is a handy task and configuration automation utility. In the Fedora Project, Ansible is [used extensively](https://infrastructure.fedoraproject.org/cgit/ansible.git/) in Fedora's infrastructure. But if you're first starting to learn Ansible, it might be tricky to test and play with it if you don't have production or development servers you can use. This is where Vagrant comes in.

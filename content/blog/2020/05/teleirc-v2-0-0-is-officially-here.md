@@ -16,7 +16,7 @@ tags:
   - "teleirc"
   - "upstream"
   - "working-together"
-coverImage: "/img/teleirc-development-update.jpg"
+images: ["/img/teleirc-development-update.jpg"]
 ---
 
 After almost eight months of work, the TeleIRC Team is happy to announce **General Availability of TeleIRC v2.0.0 today**. Thanks to the hard work of our volunteer community, we are celebrating an on-time release of a major undertaking to make a more sustainable future for TeleIRC.

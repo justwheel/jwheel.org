@@ -7,7 +7,7 @@ tags:
   - "digital-era"
   - "fedora-planet"
   - "mental-health"
-coverImage: "digitalism.jpg"
+images: ["/blog/2023/05/digitalism.jpg"]
 ---
 
 _Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._

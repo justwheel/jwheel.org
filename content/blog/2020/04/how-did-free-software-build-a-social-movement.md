@@ -22,7 +22,7 @@ tags:
   - "reflections"
   - "things-you-should-know-understand"
   - "working-together"
-coverImage: "free-software-social-movement.png"
+images: ["/blog/2020/04/free-software-social-movement.png"]
 ---
 
 The Free Software movement is rooted to origins in the 1980s. As part of a talk I gave with my colleague and friend Mike Nolan [at FOSDEM 2020](https://jwfblog.wpenginepowered.com/2020/04/fosdem-2020-pt-2-can-free-software-include-ethical-ai-systems/), we analyzed how the Free Software movement emerged as a response to a changing digital world in three different phases. This blog post is an exploration and framing of that history to understand how the social movement we call "Free Software" was constructed.

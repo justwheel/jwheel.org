@@ -15,7 +15,7 @@ tags:
   - "gsoc"
   - "summer-activities"
   - "wordpress"
-coverImage: "/img/Google-Summer-of-Code-announcement.png"
+images: ["/img/Google-Summer-of-Code-announcement.png"]
 ---
 
 This week wraps up for July and the last period of Google Summer of Code (GSoC 2016) is almost here. As the summer comes to a close, I'm working on the last steps for preparing my project for deployment into Fedora's [Ansible infrastructure](https://infrastructure.fedoraproject.org/cgit/ansible.git/). Once it checks out in a staging instance, it can make the move to production.

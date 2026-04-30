@@ -18,7 +18,7 @@ tags:
   - "flock"
   - "flock-2016"
   - "poland"
-coverImage: "zegnajcie-fedora-flock-2016.jpg"
+images: ["/blog/2016/08/zegnajcie-fedora-flock-2016.jpg"]
 ---
 
 From August 2 - 5, the annual Fedora contributor conference, [Flock](https://flocktofedora.org/), was held in the beautiful city of [Kraków, Poland](https://en.wikipedia.org/wiki/Krak%C3%B3w). Fedora contributors from all over the world attend for a week of talks, workshops, collaboration, fun, and community building (if you're tuning in and not sure what Fedora is exactly, you can read more [here](https://fedoraproject.org/wiki/Overview)). Talks range from technical topics dealing with upcoming changes to the distribution, talks focusing on the community and things working well and how to improve, and many more. The workshops are a chance for people normally separated by thousands of miles to work and collaborate on real issues, problems, and tasks in the same room. As a Fedora contributor, this is the "premier" event to attend as a community member.

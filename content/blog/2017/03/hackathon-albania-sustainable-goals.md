@@ -18,7 +18,7 @@ tags:
   - "tirana-al"
   - "travel"
   - "united-nations"
-coverImage: "/img/BIZ_HighTrust_1110_A.png"
+images: ["/img/BIZ_HighTrust_1110_A.png"]
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/17/3/open-labs-48-hour-hackathon-albania)

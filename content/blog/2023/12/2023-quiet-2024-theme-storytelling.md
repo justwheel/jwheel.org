@@ -10,7 +10,7 @@ tags:
   - "fedora-planet"
   - "reflections"
   - "writing"
-coverImage: "2024-storytelling-theme.jpg"
+images: ["/blog/2023/12/2024-storytelling-theme.jpg"]
 ---
 
 2023 is almost over. It was a busy year. When I was a student, I used to write about what I was learning. But after finishing my studies, I stopped writing regularly. Now I want to focus on the future and adopt a storytelling theme for 2024. This post summarizes my intentions of committing to storytelling.

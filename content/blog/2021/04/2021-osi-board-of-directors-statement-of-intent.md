@@ -14,7 +14,7 @@ tags:
   - "open-source-licenses"
   - "reflections"
   - "what-its-all-about"
-coverImage: "osi-statement-intent.jpg"
+images: ["/blog/2021/04/osi-statement-intent.jpg"]
 ---
 
 _This first appeared [on the Open Source Initiative Wiki](https://wiki.opensource.org/bin/Main/OSI%20Board%20of%20Directors/Board%20Member%20Elections/2021%20Individual%20and%20Affiliate%20Elections/Flory2021/). In light of the [election update this year](https://opensource.org/election_update), I am republishing my statement of intent on my personal blog._

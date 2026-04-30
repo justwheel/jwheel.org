@@ -7,7 +7,7 @@ tags:
   - "2020s"
   - "reflections"
   - "travel"
-coverImage: "eventually-for-eternity.jpg"
+images: ["/blog/2024/02/eventually-for-eternity.jpg"]
 ---
 
 _A poem to describe love from a constantly suspended state of waiting and wonder. Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._

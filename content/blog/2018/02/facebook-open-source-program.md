@@ -12,7 +12,7 @@ tags:
   - "rochester-institute-of-technology"
   - "social-media"
   - "teaching-open-source"
-coverImage: "LAW-Internet_construction_9401467_520x292_0512_dc.png"
+images: ["/blog/2018/02/LAW-Internet_construction_9401467_520x292_0512_dc.png"]
 ---
 
 [_Originally published on Opensource.com._](https://opensource.com/article/18/1/inside-facebooks-open-source-program)

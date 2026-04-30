@@ -11,7 +11,7 @@ tags:
   - "fedora-magazine"
   - "fedora-planet"
   - "gsoc"
-coverImage: "/img/Google-Summer-of-Code-announcement.png"
+images: ["/img/Google-Summer-of-Code-announcement.png"]
 ---
 
 This week is the [Google Summer of Code 2016](https://summerofcode.withgoogle.com/) midterm evaluation week. Over the past month since the program started, I've learned more about the technology I'm working with, implementing it within my infrastructure, and moving closer to completing my proposal. My [original project proposal](https://fedoraproject.org/wiki/GSOC_2016/Student_Application_jflory7) details how I am working with [Ansible](https://www.ansible.com/) to bring improved automation for WordPress platforms within Fedora, particularly to the [Fedora Community Blog](https://communityblog.fedoraproject.org/) and the [Fedora Magazine](https://fedoramagazine.org/).

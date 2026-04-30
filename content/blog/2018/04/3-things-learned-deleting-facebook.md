@@ -12,7 +12,7 @@ tags:
   - "life-lessons"
   - "reflections"
   - "social-media"
-coverImage: "3-things-learned-deleting-facebook.png"
+images: ["/blog/2018/04/3-things-learned-deleting-facebook.png"]
 ---
 
 Six months ago, I deleted my Facebook and Instagram accounts. Beyond data privacy concerns, social media became a virtual band-aid applied to moments of weakness and sadness for me. I became more aware of the effects of social media on my mood and general outlook on the world, as I explained in my decision to [delete my accounts](https://medium.com/@jflory7/cut-the-plug-deleting-facebook-and-instagram-6cbe7c86d9c9). Six months now passed since I deleted my accounts. Along the way, I learned a few lessons on creating a healthy diet of media and pop culture consumption in a world of constant connectivity and endless memes.

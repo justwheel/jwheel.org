@@ -17,7 +17,7 @@ tags:
   - "rochester-institute-of-technology"
   - "teaching-open-source"
   - "women-in-computing-wic"
-coverImage: "virtual-meetup-wic-open-labs-foss-wave.png"
+images: ["/blog/2016/10/virtual-meetup-wic-open-labs-foss-wave.png"]
 ---
 
 Over the past year, I've met incredible people from around the world doing great things in their local communities. At my university, the [Women in Computing @ RIT](http://wic.rit.edu/) program provides networking for students with faculty, staff, and alumni. They also help advance women in computing through community outreach. I've also come into contact with two other international tech communities with interesting stories of their own. With the help of the [WiC events committee](http://wic.rit.edu/pages/committees.php), we are working on organizing a virtual meetup with WiC from New York, [Open Labs Albania](https://openlabs.cc/), and [FOSS Wave](http://landing.fosswave.com/) from India to introduce each other, share experiences, and more.

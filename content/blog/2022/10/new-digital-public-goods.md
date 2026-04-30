@@ -21,7 +21,7 @@ tags:
   - "teaching-open-source"
   - "unicef"
   - "working-together"
-coverImage: "UN0441160_0.jpeg"
+images: ["/blog/2022/10/UN0441160_0.jpeg"]
 ---
 
 [_Originally published on 27 September 2022 via unicef.org_.](https://www.unicef.org/innovation/stories/spurring-new-digital-public-goods)

@@ -11,7 +11,7 @@ tags:
   - "friends"
   - "reflections"
   - "what-its-all-about"
-coverImage: "IMG_20180304_123446-scaled.jpg"
+images: ["/blog/2020/09/IMG_20180304_123446-scaled.jpg"]
 ---
 
 _Trigger warning: Grief, death._

@@ -11,7 +11,7 @@ tags:
   - "fedora-planet"
   - "open-source-communities"
   - "retrospective"
-coverImage: "fedora-year-in-review-coming-soon.jpg"
+images: ["/blog/2018/01/fedora-year-in-review-coming-soon.jpg"]
 ---
 
 The past year was a busy for Fedora. The community released Fedora 26 and 27. Different sub-projects of Fedora give their share of time for the overall success of Fedora. But in a project as big as Fedora, it's hard to keep track of what everyone is doing! If you're a developer, you likely know more about what's happening inside the code of Fedora, but you may not know what's happening with the Fedora Ambassadors. Or maybe you're involved with Globalization (G11n) and translating and know what's happening there, but you're not as familiar with what the Fedora Design team is working on.

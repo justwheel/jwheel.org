@@ -24,7 +24,7 @@ tags:
   - "metrics"
   - "open-source-communities"
   - "rochester-institute-of-technology"
-coverImage: "devconf-2020.png"
+images: ["/blog/2020/02/devconf-2020.png"]
 ---
 
 DevConf CZ 2020 took place from Friday, January 24th to Sunday January 27th in Brno, Czech Republic:

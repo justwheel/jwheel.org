@@ -14,7 +14,7 @@ tags:
   - "messaging"
   - "open-source-communities"
   - "things-you-should-know-understand"
-coverImage: "riot-matrix-osdc.png"
+images: ["/blog/2017/08/riot-matrix-osdc.png"]
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/17/5/introducing-riot-IRC)

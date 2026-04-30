@@ -15,7 +15,7 @@ tags:
   - "research-and-learning"
   - "things-you-should-know-understand"
   - "time-series-data"
-coverImage: "osdc_520x292_opendata_0613mm.png"
+images: ["/blog/2017/08/osdc_520x292_opendata_0613mm.png"]
 ---
 
 [_Article originally published on Opensource.com._](https://opensource.com/article/17/8/influxdb-time-series-database-stack)

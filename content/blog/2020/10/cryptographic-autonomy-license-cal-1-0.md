@@ -12,7 +12,7 @@ tags:
   - "open-source-licenses"
   - "opinion"
   - "teaching-open-source"
-coverImage: "cryptographic-autonomy-license.jpg"
+images: ["/blog/2020/10/cryptographic-autonomy-license.jpg"]
 ---
 
 The bookmark was creeping on my browser's toolbar for months. "Cryptographic Autonomy License" CAL-1.0 on the [Open Source Initiative webpage](https://opensource.org/licenses/CAL-1.0). But today, I decided it was time to do my first amateur license review. This is a fun exercise (for me). Remember, **I am not a lawyer and this does not constitute legal advice**!

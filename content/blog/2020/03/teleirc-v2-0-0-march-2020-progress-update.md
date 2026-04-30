@@ -20,7 +20,7 @@ tags:
   - "teleirc"
   - "upstream"
   - "working-together"
-coverImage: "/img/teleirc-development-update.jpg"
+images: ["/img/teleirc-development-update.jpg"]
 ---
 
 Since September 2019, the [RITlug](https://ritlug.com/) TeleIRC team is hard at work on the [v2.0.0 release](https://github.com/RITlug/teleirc/milestone/8) of TeleIRC. This blog post is a short update on what is coming in TeleIRC v2.0.0, our progress so far, and when to expect the next major release.

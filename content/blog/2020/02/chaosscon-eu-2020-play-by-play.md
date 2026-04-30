@@ -24,7 +24,7 @@ tags:
   - "open-source-communities"
   - "rochester-institute-of-technology"
   - "travel"
-coverImage: "chaosscon-eu-2020.png"
+images: ["/blog/2020/02/chaosscon-eu-2020.png"]
 ---
 
 CHAOSScon EU 2020 took place on Friday, 31 January, 2020 in Brussels, Belgium (the day after [Sustain OSS 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/)):

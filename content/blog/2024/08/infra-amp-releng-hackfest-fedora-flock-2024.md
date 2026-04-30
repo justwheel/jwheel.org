@@ -15,7 +15,7 @@ tags:
   - "fedora-planet"
   - "flock"
   - "open-source-communities"
-coverImage: "community-operations-initiative.jpg"
+images: ["/blog/2024/08/community-operations-initiative.jpg"]
 ---
 
 This blog post summarizes the discussions and action items from the Infrastructure and Release Engineering workshop held at Flock 2024 in Rochester, New York, USA.
