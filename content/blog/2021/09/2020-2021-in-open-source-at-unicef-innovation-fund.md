@@ -35,9 +35,9 @@ This article looks at a few aspects of Open Source engagement at the Innovation 
 
 ## New to Open Source at UNICEF?
 
-If you are hearing about the [UNICEF Open Source Mentorship programme](https://unicef.github.io/inventory/meta/overview/) for the first time, check out this introduction post to get important context behind why UNICEF invests in [Open Source mentorship and support](https://jwfblog.wpenginepowered.com/2021/07/unicef-open-source-mentorship/) for Innovation Fund portfolio teams:
+If you are hearing about the [UNICEF Open Source Mentorship programme](https://unicef.github.io/inventory/meta/overview/) for the first time, check out this introduction post to get important context behind why UNICEF invests in [Open Source mentorship and support](/blog/2021/07/unicef-open-source-mentorship/) for Innovation Fund portfolio teams:
 
-https://jwfblog.wpenginepowered.com/2021/07/unicef-open-source-mentorship/
+/blog/2021/07/unicef-open-source-mentorship/
 
 ## Innovation Fund support models
 

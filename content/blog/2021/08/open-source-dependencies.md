@@ -73,7 +73,7 @@ Legacies of kindness and love result in thriving communities where contributors 
 
 ### Example of legacies
 
-[Seth Vidal](https://jwfblog.wpenginepowered.com/2018/11/fedora-appreciation-week-tribute-to-a-legacy/) wrote the Yellowdog Update Manager (Y.U.M.), and he contributed to Fedora. [Matthew Williams](https://communityblog.fedoraproject.org/remembering-matthew-williams/) helped others learn about Linux and Open Source, and he contributed to Fedora. [Thomas Gilliaird](https://communityblog.fedoraproject.org/remembering-thomas-gilliard-satellit/) helped me with using Fedora Linux in IRC as a teenager, and he contributed to Fedora. The ways we help other humans while on our own journey is how we create a legacy with wider wings. The impact of a few kind people is enough to inspire more to follow.
+[Seth Vidal](/blog/2018/11/fedora-appreciation-week-tribute-to-a-legacy/) wrote the Yellowdog Update Manager (Y.U.M.), and he contributed to Fedora. [Matthew Williams](https://communityblog.fedoraproject.org/remembering-matthew-williams/) helped others learn about Linux and Open Source, and he contributed to Fedora. [Thomas Gilliaird](https://communityblog.fedoraproject.org/remembering-thomas-gilliard-satellit/) helped me with using Fedora Linux in IRC as a teenager, and he contributed to Fedora. The ways we help other humans while on our own journey is how we create a legacy with wider wings. The impact of a few kind people is enough to inspire more to follow.
 
 To ignore the impact of legacies in social activities surrounding Open Source is to deny the impact of charismatic leaders who lead in styles of either unity or division.
 

@@ -56,7 +56,7 @@ tags:
 images: ["/blog/2017/02/2016-year-in-review.jpg"]
 ---
 
-Before looking too far ahead to the future, it's important to spend time to reflect over the past year's events, identify successes and failures, and devise ways to improve. Describing my 2016 is a challenge for me to find the right words for. This post continues a habit I started last year with my [2015 Year in Review](https://jwfblog.wpenginepowered.com/2016/02/2015-year-review/). One thing I discover nearly every day is that I'm always learning new things from various people and circumstances. Even though 2017 is already getting started, I want to reflect back on some of these experiences and opportunities of the past year.
+Before looking too far ahead to the future, it's important to spend time to reflect over the past year's events, identify successes and failures, and devise ways to improve. Describing my 2016 is a challenge for me to find the right words for. This post continues a habit I started last year with my [2015 Year in Review](/blog/2016/02/2015-year-review/). One thing I discover nearly every day is that I'm always learning new things from various people and circumstances. Even though 2017 is already getting started, I want to reflect back on some of these experiences and opportunities of the past year.
 
 <!--more-->
 
@@ -76,7 +76,7 @@ Many things changed since I decided to pack up my life and go to a school a thou
 
 ![On 2016 Dec. 10th, the "FOSS Family" went to dinner at a local restaurant to celebrate the semester](/blog/2017/02/Group-photo.jpg "On 2016 Dec. 10th, the \"FOSS Family\" went to dinner at a local restaurant to celebrate the semester")
 
-My involvement with the [Free and Open Source Software (FOSS) community at RIT](http://foss.rit.edu) has grown exponentially since I began participating in 2015. I took [my first course](https://hfoss-ritjoe.rhcloud.com/) in the FOSS minor, Humanitarian Free and Open Source Software Development in spring 2016. In the following fall 2016 semester, I [became the teaching assistant](https://hfoss16f-ritjoe.rhcloud.com/) for the course. I helped show our community's projects [at Imagine RIT](https://opensource.com/education/16/6/imagine-rit). I helped carry the [RIT FOSS flag in California](https://jwfblog.wpenginepowered.com/2016/11/spigotmc-california-minecon/) (more on that later). The FOSS@MAGIC initiative was an influencing factor for my decision to attend RIT and continues to play an impact in my life as a student.
+My involvement with the [Free and Open Source Software (FOSS) community at RIT](http://foss.rit.edu) has grown exponentially since I began participating in 2015. I took [my first course](https://hfoss-ritjoe.rhcloud.com/) in the FOSS minor, Humanitarian Free and Open Source Software Development in spring 2016. In the following fall 2016 semester, I [became the teaching assistant](https://hfoss16f-ritjoe.rhcloud.com/) for the course. I helped show our community's projects [at Imagine RIT](https://opensource.com/education/16/6/imagine-rit). I helped carry the [RIT FOSS flag in California](/blog/2016/11/spigotmc-california-minecon/) (more on that later). The FOSS@MAGIC initiative was an influencing factor for my decision to attend RIT and continues to play an impact in my life as a student.
 
 I eagerly look forward to future opportunities for the FOSS projects and initiatives at RIT to grow and expand. Bringing open source into more students' hands excites me!
 
@@ -84,7 +84,7 @@ I eagerly look forward to future opportunities for the FOSS projects and initiat
 
 With a new schedule, the fall 2016 semester marked the beginning of my active involvement with the Women in Computing (WiC) program at RIT, as part of the Allies committee. Together with other members of the RIT community, we work together to find issues in our community, discuss them and share experiences, and find ways to grow the WiC mission: to promote the success and advancement of women in their academic and professional careers.
 
-[![WiCHacks 2016 Opening Ceremony](/img/WiCHacks-Opening-Ceremony.jpg)](/img/WiCHacks-Opening-Ceremony.jpg)In spring 2016, I participated as a [volunteer for WiCHacks](https://jwfblog.wpenginepowered.com/2016/03/why-i-love-wichacks/), the annual [all-female hackathon](http://wichacks.rit.edu/) hosted at RIT. My first experience with WiCHacks left me impressed by all the hard work by the organizers and the entire atmosphere and environment of the event. After participating as a volunteer, I knew I wanted to become more involved with the organization. Fortunately, fall 2016 enabled me to become more active and engaged with the community. Even though I will be unable to attend WiCHacks 2017, I hope to help support the event in any way I can.
+[![WiCHacks 2016 Opening Ceremony](/img/WiCHacks-Opening-Ceremony.jpg)](/img/WiCHacks-Opening-Ceremony.jpg)In spring 2016, I participated as a [volunteer for WiCHacks](/blog/2016/03/why-i-love-wichacks/), the annual [all-female hackathon](http://wichacks.rit.edu/) hosted at RIT. My first experience with WiCHacks left me impressed by all the hard work by the organizers and the entire atmosphere and environment of the event. After participating as a volunteer, I knew I wanted to become more involved with the organization. Fortunately, fall 2016 enabled me to become more active and engaged with the community. Even though I will be unable to attend WiCHacks 2017, I hope to help support the event in any way I can.
 
 Also, hey! If you're a female high school or university student in the Rochester area (or willing to do some travel), you should seriously [check this out](http://wichacks.rit.edu/)!
 
@@ -96,17 +96,17 @@ It would be unfair for a reflection to count successes but not failures. GSoC wa
 
 On the positive side, GSoC helped formally introduce me to Ansible, and to a lesser extent, the value of automation in operations work. My work in GSoC helped enable me to become a sponsored sysadmin of Fedora, where I mostly focus my time contributing to the [Badges site](https://badges.fedoraproject.org/about). Additionally, my experience in GSoC helped me when interviewing for summer internships (also more on this later).
 
-Google Summer of Code came with many ups and downs. But I made it and [passed the program](https://jwfblog.wpenginepowered.com/2016/08/gsoc-2016-thats-wrap/). I'm happy and fortunate to have received this opportunity from the Fedora Project and Google. I learned several valuable lessons that have and will impact going forward into my career. I look forward to participating either as a mentor or organizer for GSoC 2017 with the Fedora Project this year.
+Google Summer of Code came with many ups and downs. But I made it and [passed the program](/blog/2016/08/gsoc-2016-thats-wrap/). I'm happy and fortunate to have received this opportunity from the Fedora Project and Google. I learned several valuable lessons that have and will impact going forward into my career. I look forward to participating either as a mentor or organizer for GSoC 2017 with the Fedora Project this year.
 
 ## Flock 2016
 
 ![Group photo of all Flock 2016 attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)](/blog/2017/02/flock-group-photo-5_28949792761_o.jpg "Group photo of all Flock 2016 (https://flocktofedora.org/) attendees outside of the conference venue (Photo courtesy of Joe Brockmeier)")
 
-Towards the end of summer, in the beginning of August, I was [accepted as a speaker](https://jwfblog.wpenginepowered.com/2016/07/czesc-poland-back-europe/) to the annual Fedora Project contributor conference, [Flock](https://flocktofedora.org/). As a speaker, my travel and accommodation were sponsored to the event venue in Kraków, Poland.
+Towards the end of summer, in the beginning of August, I was [accepted as a speaker](/blog/2016/07/czesc-poland-back-europe/) to the annual Fedora Project contributor conference, [Flock](https://flocktofedora.org/). As a speaker, my travel and accommodation were sponsored to the event venue in Kraków, Poland.
 
 Months after Flock, I am still incredibly grateful for receiving the opportunity to attend the conference. I am appreciative and thankful to Red Hat for helping cover my costs to attend, which is something I would never be able to do on my own. Outside of the real work and productivity that happened during the conference, I am happy to have mapped names to faces. I met incredible people from all corners of the world and have made new lifelong friends (who I was fortunate to see again in 2017)! Flock introduced me in-person to the diverse and brilliant community behind the Fedora Project. It is an experience that will stay with me forever.
 
-To read a more in-depth analysis of my time in Poland, you can read [my full write-up](https://jwfblog.wpenginepowered.com/2016/08/fedora-flock-2016/) of Flock 2016.
+To read a more in-depth analysis of my time in Poland, you can read [my full write-up](/blog/2016/08/fedora-flock-2016/) of Flock 2016.
 
 ![To Kraków for Flock with Bee, Amita, Jona, and Giannis](/img/IMG_9225.jpg "On a bus to the Kraków city center with Bee Padalkar, Amita Sharma, Jona Azizaj, and Giannis Konstantinidis (left to right).")
 
@@ -116,17 +116,17 @@ To read a more in-depth analysis of my time in Poland, you can read [my full wri
 
 2016 provided me the opportunity to explore various parts of my country. Throughout the year, I attended various conferences to represent the [Fedora Project](https://fedoraproject.org/wiki/Overview), the [SpigotMC project](https://www.spigotmc.org/wiki/about-spigot/), and the [RIT open source](http://foss.rit.edu) community.
 
-There are three distinct events that stand out in my memory. For the first time, I visited the [University of Maryland for Bitcamp](https://jwfblog.wpenginepowered.com/2016/04/bitcamp-2016/) as a Fedora Ambassador. It also provided me an opportunity to see my nation's capitol for the first time. I also visited Boston for the first time this year as well for HackMIT, MIT's annual hackathon event. I also participated as a Fedora Ambassador and [met brilliant students](https://communityblog.fedoraproject.org/hackmit-meets-fedora/) from around the country (and even the world, with one student I met flying in from India for the weekend).
+There are three distinct events that stand out in my memory. For the first time, I visited the [University of Maryland for Bitcamp](/blog/2016/04/bitcamp-2016/) as a Fedora Ambassador. It also provided me an opportunity to see my nation's capitol for the first time. I also visited Boston for the first time this year as well for HackMIT, MIT's annual hackathon event. I also participated as a Fedora Ambassador and [met brilliant students](https://communityblog.fedoraproject.org/hackmit-meets-fedora/) from around the country (and even the world, with one student I met flying in from India for the weekend).
 
 ![Team Ubuntu shows off their project to Charles Profitt before the project deadline for HackMIT 2016](/blog/2017/02/Team-Ubuntu-2.jpg "Team Ubuntu shows off their project to Charles Profitt (https://fedoraproject.org/wiki/User:Cprofitt) before the project deadline for HackMIT 2016 (https://hackmit.org/)")
 
-Lastly, I also took my first journey to the US west coast for MINECON 2016, the annual Minecraft convention. [I attended](https://jwfblog.wpenginepowered.com/2016/11/spigotmc-california-minecon/) as a staff member of the SpigotMC project and a representative of the open source community at RIT.
+Lastly, I also took my first journey to the US west coast for MINECON 2016, the annual Minecraft convention. [I attended](/blog/2016/11/spigotmc-california-minecon/) as a staff member of the SpigotMC project and a representative of the open source community at RIT.
 
 All three of these events have their own event reports to go with them. More info and plenty of pictures are in the full reports.
 
-- [Going to Bitcamp 2016](https://jwfblog.wpenginepowered.com/2016/04/bitcamp-2016/)
+- [Going to Bitcamp 2016](/blog/2016/04/bitcamp-2016/)
 - [HackMIT meets Fedora](https://communityblog.fedoraproject.org/hackmit-meets-fedora/)
-- [SpigotMC goes to California for MINECON](https://jwfblog.wpenginepowered.com/2016/11/spigotmc-california-minecon/)
+- [SpigotMC goes to California for MINECON](/blog/2016/11/spigotmc-california-minecon/)
 
 ## Vermont 2016 with Matt
 

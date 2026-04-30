@@ -12,7 +12,7 @@ tags:
   - "vacation"
 ---
 
-_This article is part of an ongoing series about [how to earn specific Fedora badges](https://jwfblog.wpenginepowered.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Vacation badge!_
+_This article is part of an ongoing series about [how to earn specific Fedora badges](/blog/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Vacation badge!_
 
 ## "Vacation": What is it?
 

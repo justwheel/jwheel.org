@@ -12,7 +12,7 @@ tags:
   - "irc"
 ---
 
-_This article is part of an ongoing series about [how to earn specific Fedora badges](https://jwfblog.wpenginepowered.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Speak Up! badge!_
+_This article is part of an ongoing series about [how to earn specific Fedora badges](/blog/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Speak Up! badge!_
 
 ## "Speak Up!": What is it?
 

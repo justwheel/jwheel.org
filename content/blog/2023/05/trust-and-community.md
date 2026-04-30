@@ -17,7 +17,7 @@ tags:
 images: ["/blog/2023/05/i-am-wilderness.jpg"]
 ---
 
-Trust is a word and a concept that is on my mind lately. Trust is an idea that permeates all levels of our waking consciousness, and impacts how we build connections and relationships with other human beings. It is something impossible to ignore, yet it is ironically hard to define and pin down. Beyond what is written in a dictionary, what _is_ trust? What does trust look like? What does trust feel like? Anyone who works in "community work" knows that trust is often the fundamental tie between [community leadership](https://jwfblog.wpenginepowered.com/tag/community-management/) and community members. A leader wants to be trusted by the people whom they represent, and a person wants to trust their leaders to represent them fairly and accurately.
+Trust is a word and a concept that is on my mind lately. Trust is an idea that permeates all levels of our waking consciousness, and impacts how we build connections and relationships with other human beings. It is something impossible to ignore, yet it is ironically hard to define and pin down. Beyond what is written in a dictionary, what _is_ trust? What does trust look like? What does trust feel like? Anyone who works in "community work" knows that trust is often the fundamental tie between [community leadership](/tags/community-management/) and community members. A leader wants to be trusted by the people whom they represent, and a person wants to trust their leaders to represent them fairly and accurately.
 
 While I was pondering this reflection, my employer announced layoffs a couple weeks ago. While there is a lot that could be said about that, what I will say is that a certain root was pulled; the foundation of trust built between leadership and employee was shaken. Only further action and time will show the full impact on the company and my remaining colleagues. Nonetheless, a very recent negative experience with regard to trust also expanded my perspective of how trust is defined and what its role is in a community.
 
@@ -25,7 +25,7 @@ While I was pondering this reflection, my employer announced layoffs a couple we
 
 Later, I came across a sound bite of an [interview with Brené Brown](https://www.youtube.com/watch?v=6qfbpBzqitA) about trust (and more). Toward the end of the interview, she talks about her book, _[Braving the Wilderness](https://brenebrown.com/book/braving-the-wilderness/)_ (which I haven't read, but seems interesting). She explained what the wilderness is and a tool that we can keep with us ("BRAVING") to stay grounded in ourselves and also what trust means.
 
-She also had a powerful definition of belonging, which put forward the idea that [belonging](https://jwfblog.wpenginepowered.com/tag/dei/) is internal to ourselves and even is a spiritual practice; belonging is not defined externally or given to and taken from us by others.
+She also had a powerful definition of belonging, which put forward the idea that [belonging](/tags/dei/) is internal to ourselves and even is a spiritual practice; belonging is not defined externally or given to and taken from us by others.
 
 Below is my summary of "BRAVING" and the wilderness, together with notes and thoughts about how community leaders can act honestly and authentically, both when times are good and when times are hard.
 

@@ -14,7 +14,7 @@ tags:
 images: ["/blog/2020/09/tergiversate-el-ten-eleven-self-titled.png"]
 ---
 
-_This El Ten Eleven article is part of my [Tervigersate column](https://jwfblog.wpenginepowered.com/tag/tergiversate-music-column/) on my blog, where I review albums by musicians spanning multiple genres. Articles introduce an album and give my interpretation of their meaning._
+_This El Ten Eleven article is part of my [Tervigersate column](/tags/tergiversate-music-column/) on my blog, where I review albums by musicians spanning multiple genres. Articles introduce an album and give my interpretation of their meaning._
 
 * * *
 

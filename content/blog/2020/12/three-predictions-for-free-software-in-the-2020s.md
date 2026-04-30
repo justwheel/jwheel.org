@@ -21,7 +21,7 @@ images: ["/blog/2020/12/three-predictions-free-software-2020s.png"]
 
 From January to May 2020, I completed an independent study at the [Rochester Institute of Technology](https://www.rit.edu/) on _Business and Legal Aspects of Free/Open Source Software_. This was the final credit for my completion of the [Free and Open Source Software and Free Culture](https://www.rit.edu/study/free-and-open-source-software-and-free-culture-minor) minor.
 
-That semester, I traveled to [different international FOSS conferences](https://jwfblog.wpenginepowered.com/tag/2020-foss-conferences/) (before COVID-19), analyzed contemporary changes and trends in Free Software, and reflected on where _I think_ we are going. I am sharing an edited version of my final report here, as a look into my "crystal ball" for what is coming to Free Software in the 2020s.
+That semester, I traveled to [different international FOSS conferences](/tags/2020-foss-conferences/) (before COVID-19), analyzed contemporary changes and trends in Free Software, and reflected on where _I think_ we are going. I am sharing an edited version of my final report here, as a look into my "crystal ball" for what is coming to Free Software in the 2020s.
 
 <!--more-->
 
@@ -67,9 +67,9 @@ While I cannot predict what sustainability will mean to us in 2030, I am confide
 
 ## Free Software will have its ethics interrogated.
 
-Free Software emerged in the 1970s as a social movement in an act of defiance to a global market change, when software became a commodity. Activists stood together and asserted what they believed to be essential freedoms of all computer users. So, Software Freedom as a concept was born through the [GNU Project in 1983](https://jwfblog.wpenginepowered.com/2020/04/how-did-free-software-build-a-social-movement/).
+Free Software emerged in the 1970s as a social movement in an act of defiance to a global market change, when software became a commodity. Activists stood together and asserted what they believed to be essential freedoms of all computer users. So, Software Freedom as a concept was born through the [GNU Project in 1983](/blog/2020/04/how-did-free-software-build-a-social-movement/).
 
-Today, a similar storm is on our horizon. The world is shifting again. It is not just software that is a commodity. It is [data and human futures](https://jwfblog.wpenginepowered.com/2020/04/fosdem-2020-pt-2-can-free-software-include-ethical-ai-systems/). Free Software was a bold assertion of essential freedoms about software. But those in the 1980s did not know how the world would change nearly forty years later. Today, the plot has thickened. The world is more complex. Technology impacts our lives in ways we never imagined in 1983. Software Freedom may protect us in one aspect of our digital lives, but it fails us in other ways.
+Today, a similar storm is on our horizon. The world is shifting again. It is not just software that is a commodity. It is [data and human futures](/blog/2020/04/fosdem-2020-pt-2-can-free-software-include-ethical-ai-systems/). Free Software was a bold assertion of essential freedoms about software. But those in the 1980s did not know how the world would change nearly forty years later. Today, the plot has thickened. The world is more complex. Technology impacts our lives in ways we never imagined in 1983. Software Freedom may protect us in one aspect of our digital lives, but it fails us in other ways.
 
 ### Ethical Source?
 

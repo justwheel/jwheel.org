@@ -17,7 +17,7 @@ Music is a key part of my life. I spend a lot of time listening and analyzing mu
 
 ## Tergiversate: New articles in 2018
 
-Tergiversate takes the form of a column on my blog. New posts will appear in the [_Music_ category](https://jwfblog.wpenginepowered.com/category/music/). Since this is a personal undertaking, I did not want to commit to a publishing schedule, but I hope to cover one to two albums a month.
+Tergiversate takes the form of a column on my blog. New posts will appear in the [_Music_ category](/categories/music/). Since this is a personal undertaking, I did not want to commit to a publishing schedule, but I hope to cover one to two albums a month.
 
 The album columns will not always be a review or an analysis, but rather a spotlight or highlight on albums that have a special or intrinsic value to me. I hope to cover both new releases from current-day artists as well as introduce older albums from some of my favorite artists.
 

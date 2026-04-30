@@ -14,7 +14,7 @@ tags:
   - "what-its-all-about"
 ---
 
-Recently, I reviewed my unfinished blog posts to see what was left. This post is my oldest draft, last modified on April 19th, 2016\. I drafted this near the end of my second semester of freshman year in college. This was a pivotal time for me for various reasons: family background, living in a new place after so long, finding a community of people, and a few months before one of [my earliest trips abroad](https://jwfblog.wpenginepowered.com/2016/07/czesc-poland-back-europe/) to Kraków, Poland. My [2016 year in review](https://jwfblog.wpenginepowered.com/2017/02/2016-my-year-in-review/) captures this sentiment.
+Recently, I reviewed my unfinished blog posts to see what was left. This post is my oldest draft, last modified on April 19th, 2016\. I drafted this near the end of my second semester of freshman year in college. This was a pivotal time for me for various reasons: family background, living in a new place after so long, finding a community of people, and a few months before one of [my earliest trips abroad](/blog/2016/07/czesc-poland-back-europe/) to Kraków, Poland. My [2016 year in review](/blog/2017/02/2016-my-year-in-review/) captures this sentiment.
 
 The blog post I wrote comes from this place in my life. It writes in a voice I would not write in today. It also does not accurately reflect my current perspectives. However, instead of tossing it, I figured to publish it unfinished with this disclaimer would be no different.
 

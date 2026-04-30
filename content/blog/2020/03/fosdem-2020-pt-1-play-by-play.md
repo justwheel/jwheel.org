@@ -23,7 +23,7 @@ tags:
 images: ["/img/fosdem-2020.png"]
 ---
 
-FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after [Sustain OSS 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/) and [CHAOSScon EU 2020](https://jwfblog.wpenginepowered.com/2020/02/chaosscon-eu-2020-play-by-play/)):
+FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after [Sustain OSS 2020](/blog/2020/02/sustain-oss-2020-quick-rewind/) and [CHAOSScon EU 2020](/blog/2020/02/chaosscon-eu-2020-play-by-play/)):
 
 > FOSDEM is a free and non-commercial event organized by the community for the community. The goal is to provide free and open source software developers and communities a place to meet to:
 > 
@@ -57,7 +57,7 @@ Also, I live-tweeted several sessions of FOSDEM 2020, so some sections include t
 > 
 > [Deb Nicholson](https://fosdem.org/2020/schedule/event/capitalismethicaloss/)
 
-Deb is making a [regular appearance](https://jwfblog.wpenginepowered.com/tag/2020-foss-conferences/) on my blog.
+Deb is making a [regular appearance](/tags/2020-foss-conferences/) on my blog.
 
 A foundational piece of Deb's FOSDEM 2020 talk is something I started calling the "buck factor." In 20 minutes, she gave context for the challenges of fundraising and achieving financial sustainability for open source projects with ethical missions. She also commented on the divides between "community" and "enterprise," and how they are frequently on opposing ends of a spectrum.
 
@@ -245,7 +245,7 @@ I meticulously live-tweeted this one. Check out the tweet thread below! There ar
 
 Of course, there is much more to FOSDEM than just a conference. Some highlights outside of the conference were my daily reflective breakfasts with Mike, a ramen lunch with him and Gloria Dwomoh, and evening dinners with Remy DeCausemaker, Georg Link, and Justin Dorfman.
 
-Also, originally I intended to give myself the Monday after FOSDEM off to recover and work from home. However, I heard about this other little conference called [Copyleft Conf](https://2020.copyleftconf.org/about/) happening the next day. So, I ended up buying a last-minute ticket for this one too! **[Read the details in my full event report!](https://jwfblog.wpenginepowered.com/2020/04/copyleftconf-2020-quick-rewind/)**
+Also, originally I intended to give myself the Monday after FOSDEM off to recover and work from home. However, I heard about this other little conference called [Copyleft Conf](https://2020.copyleftconf.org/about/) happening the next day. So, I ended up buying a last-minute ticket for this one too! **[Read the details in my full event report!](/blog/2020/04/copyleftconf-2020-quick-rewind/)**
 
 ## Thanks folx!
 

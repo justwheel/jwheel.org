@@ -14,7 +14,7 @@ tags:
 images: ["/blog/2018/01/tergiversate-demon-days-gorillaz.jpg"]
 ---
 
-The first album to début in my [Tergiversate music column](https://jwfblog.wpenginepowered.com/tag/tergiversate-music-column/) isn't a new album, but it's an album with a meaning that evolves and changes over time into something new. [_Demon Days_](https://en.wikipedia.org/wiki/Demon_Days) is the second studio album released by [Gorillaz](https://en.wikipedia.org/wiki/Gorillaz) in 2005. _Demon Days_ is officially classified as alternative hip hop, but it's better described as a fusion of styles and genres, rolled together. Some tracks hang true to the underground hip hop sounds from the first album, others to a pop-ish sound found in their third album, and others are completely unique to _Demon Days_.
+The first album to début in my [Tergiversate music column](/tags/tergiversate-music-column/) isn't a new album, but it's an album with a meaning that evolves and changes over time into something new. [_Demon Days_](https://en.wikipedia.org/wiki/Demon_Days) is the second studio album released by [Gorillaz](https://en.wikipedia.org/wiki/Gorillaz) in 2005. _Demon Days_ is officially classified as alternative hip hop, but it's better described as a fusion of styles and genres, rolled together. Some tracks hang true to the underground hip hop sounds from the first album, others to a pop-ish sound found in their third album, and others are completely unique to _Demon Days_.
 
 <!--more-->
 

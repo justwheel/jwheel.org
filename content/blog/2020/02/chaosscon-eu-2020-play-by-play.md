@@ -27,7 +27,7 @@ tags:
 images: ["/blog/2020/02/chaosscon-eu-2020.png"]
 ---
 
-CHAOSScon EU 2020 took place on Friday, 31 January, 2020 in Brussels, Belgium (the day after [Sustain OSS 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/)):
+CHAOSScon EU 2020 took place on Friday, 31 January, 2020 in Brussels, Belgium (the day after [Sustain OSS 2020](/blog/2020/02/sustain-oss-2020-quick-rewind/)):
 
 > Learn about open source project health metrics and tools used by open source projects, communities, and engineering teams to track and analyze their community work. This conference will provide a venue for discussing open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. We will also share insights from the CHAOSS working groups on Diversity and Inclusion, Evolution, Risk, Value, and Common Metrics.
 > 
@@ -223,7 +223,7 @@ There are a few things I'm genuinely proud to have contributed to open source. M
 
 {{< x user="mary_grace" id="1221075300584448000" >}}
 
-> DevConf CZ 2020 candy swap, mentioned in a [previous blog post](https://jwfblog.wpenginepowered.com/2020/02/devconf-cz-2020-play-by-play/)
+> DevConf CZ 2020 candy swap, mentioned in a [previous blog post](/blog/2020/02/devconf-cz-2020-play-by-play/)
 
 Candy swaps are fun, informal events hosted during a conference. Attendees bring local candies, sweets, or snacks from their hometowns to the conference. For an hour or so, folks gather together to swap candies. Before sampling the sweets, everyone introduces themselves, where they are from, and anything special about what they brought with them. When everyone introduces themselves and their candies, the floor is open to sample from the collected assortment.
 

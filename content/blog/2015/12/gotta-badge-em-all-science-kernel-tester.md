@@ -12,7 +12,7 @@ tags:
   - "linux-kernel"
 ---
 
-_This article is part of an ongoing series about [how to earn specific Fedora badges](https://jwfblog.wpenginepowered.com/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Science badge!_
+_This article is part of an ongoing series about [how to earn specific Fedora badges](/blog/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Science badge!_
 
 ## "Science": What is it?
 

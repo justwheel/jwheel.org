@@ -14,7 +14,7 @@ tags:
 images: ["/blog/2016/11/spigotmc-california-minecon.jpg"]
 ---
 
-Every year, [Mojang](http://mojang.com/) holds the annual [Minecraft](https://minecraft.net/en/) convention, MINECON. [MINECON](https://en.wikipedia.org/wiki/Minecon) is a convention where Minecraft players, software developers, content creators, and others in the Minecraft gaming world come together for a weekend of panels, activities, shows, and most importantly, comradery. I traveled to [Anaheim, California](https://en.wikipedia.org/wiki/Anaheim,_California) to see the [SpigotMC](https://www.spigotmc.org/) team again and help represent the open source cause. The convention was from September 24-25, 2016. This is my second time going to MINECON – [last year](https://jwfblog.wpenginepowered.com/2016/02/2015-year-review/), I went to London with the team as well.
+Every year, [Mojang](http://mojang.com/) holds the annual [Minecraft](https://minecraft.net/en/) convention, MINECON. [MINECON](https://en.wikipedia.org/wiki/Minecon) is a convention where Minecraft players, software developers, content creators, and others in the Minecraft gaming world come together for a weekend of panels, activities, shows, and most importantly, comradery. I traveled to [Anaheim, California](https://en.wikipedia.org/wiki/Anaheim,_California) to see the [SpigotMC](https://www.spigotmc.org/) team again and help represent the open source cause. The convention was from September 24-25, 2016. This is my second time going to MINECON – [last year](/blog/2016/02/2015-year-review/), I went to London with the team as well.
 
 <!--more-->
 

@@ -17,7 +17,7 @@ images: ["/blog/2020/10/cryptographic-autonomy-license.jpg"]
 
 The bookmark was creeping on my browser's toolbar for months. "Cryptographic Autonomy License" CAL-1.0 on the [Open Source Initiative webpage](https://opensource.org/licenses/CAL-1.0). But today, I decided it was time to do my first amateur license review. This is a fun exercise (for me). Remember, **I am not a lawyer and this does not constitute legal advice**!
 
-The **Cryptographic Autonomy License** is one of newest Open Source licenses on the block. The Open Source Initiative [approved](https://lists.opensource.org/pipermail/license-review_lists.opensource.org/2020-February/004693.html) it in February 2020. This license also made ripples when it came through. But the question I had, and [could not find a clear answer to](https://jwfblog.wpenginepowered.com/2020/04/copyleftconf-2020-quick-rewind/), was _why is it so interesting_?
+The **Cryptographic Autonomy License** is one of newest Open Source licenses on the block. The Open Source Initiative [approved](https://lists.opensource.org/pipermail/license-review_lists.opensource.org/2020-February/004693.html) it in February 2020. This license also made ripples when it came through. But the question I had, and [could not find a clear answer to](/blog/2020/04/copyleftconf-2020-quick-rewind/), was _why is it so interesting_?
 
 This blog post is my attempt to do a casual coffee-table review of the license. If you agree or disagree, I encourage you to leave a comment and share your opinion and **why**!
 

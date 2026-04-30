@@ -21,6 +21,6 @@ How does this compare to today? Most online content by the masses is condensed i
 
 As we progress further along in this decade, the art of blogging as a vehicle for human expression becomes sidelined further in nostalgia. Maybe in part because we have less collective time than we did before. Perhaps also because we became lost in this mirage of how we are supposed to appear and how we are supposed to act when our lives are lived out in this strangely self-controlled yet algorithmically influenced existence. Blogging, as a form of expression dating back to the earliest times in the Internet, exists partially outside this algorithmic existence.
 
-Yet it still exists. For me, my blog is still online. But my blog maintains an absence of these kinds of [emotional, artful expressions](https://jwfblog.wpenginepowered.com/2021/03/breakfast-in-bosnia/) that better show me as a human being, not just a contributor or participant in some technology projects or communities.
+Yet it still exists. For me, my blog is still online. But my blog maintains an absence of these kinds of [emotional, artful expressions](/blog/2021/03/breakfast-in-bosnia/) that better show me as a human being, not just a contributor or participant in some technology projects or communities.
 
 So, lost somewhere in that cyclical loop of (self-defeating?) nostalgia, I push my thoughts out into the sea of the Internet; a message in a bottle without a final destination. Just a thought: here for a moment and gone in the next.

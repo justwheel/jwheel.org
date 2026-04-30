@@ -46,7 +46,7 @@ After my volunteering shift ended, I had a homework assignment for one of my cla
 
 I was curious after a while to hear what they were working on. I kept hearing the words "open source" and "FOSS" dropping, and it pulled my attention in. I learned that their idea was to make a social platform to help make it easier for girls to get involved with open source software. The plan was to collect an inventory of open source projects that need help and connect interested girls with project mentors to guide them in contributing.
 
-There was overlap with some ideas I've had while working with the [Fedora CommOps](https://jwfblog.wpenginepowered.com/2015/11/fedora-commops-im-working/) team towards boosting [#WomenInComputing](https://communityblog.fedoraproject.org/women-in-computing-and-fedora/) in Fedora's community. I was anticipating hearing out their idea and seeing what they would come up with!
+There was overlap with some ideas I've had while working with the [Fedora CommOps](/blog/2015/11/fedora-commops-im-working/) team towards boosting [#WomenInComputing](https://communityblog.fedoraproject.org/women-in-computing-and-fedora/) in Fedora's community. I was anticipating hearing out their idea and seeing what they would come up with!
 
 Their project would be known as [OpenCircle](https://github.com/Open-Circle/WicHacks2016Demo). After 6:45pm rolled around, I started packing up my gear to head out for the evening. The OpenCircle team was busy hacking away on laptops or making slight alterations to the whiteboard mock designs they had drawn. It was clear that the creativity and motivation were running high when I left.
 

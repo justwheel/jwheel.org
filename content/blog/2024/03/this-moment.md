@@ -9,7 +9,7 @@ tags:
 images: ["/blog/2024/03/this-moment.jpg"]
 ---
 
-_A short poem that I was inspired to write after a short drive running errands, and I was absorbed momentarily into the beauty of the natural world around me. Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._
+_A short poem that I was inspired to write after a short drive running errands, and I was absorbed momentarily into the beauty of the natural world around me. Read more of [my poetry](/categories/poems/) on my blog._
 
 <!--more-->
 

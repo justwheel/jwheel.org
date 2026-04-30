@@ -17,7 +17,7 @@ tags:
 
 In May 2018, Mozilla and Open Tech Strategies released a 40-page report titled, "_Open Source Archetypes_". This blog post is a recap of how this report influences the Open Source Mentorship programme I lead at the UNICEF Innovation Fund.
 
-I joined the UNICEF Innovation team in June 2020, although this is [not the first time](https://jwfblog.wpenginepowered.com/2018/02/unicef-internship/) I have worked with UNICEF Innovation. I have had [some opportunity](https://www.unicef.org/innovation/stories/unicefs-open-source-approach-innovation) to write about Open Source, but my personal blog has been quiet! So, this felt like the right opportunity to talk about what I am up to these days.
+I joined the UNICEF Innovation team in June 2020, although this is [not the first time](/blog/2018/02/unicef-internship/) I have worked with UNICEF Innovation. I have had [some opportunity](https://www.unicef.org/innovation/stories/unicefs-open-source-approach-innovation) to write about Open Source, but my personal blog has been quiet! So, this felt like the right opportunity to talk about what I am up to these days.
 
 The _Open Source Archetypes_ report (_below_) provides nine archetypes common among Open Source projects and communities. These archetypes provide a common language and perspective to think about how to capture the most value of Open Source in various contexts.
 

@@ -28,7 +28,7 @@ This post identifies specific tasks the TeleIRC team identified as "good first i
 
 Before sharing how you can contribute for Hacktoberfest, what about _why_ you should contribute?
 
-TeleIRC originally launched in 2016. Since then, we have [built up a community of users](https://jwfblog.wpenginepowered.com/tag/teleirc/) around the world. TeleIRC is also used in other larger Open Source projects like the Fedora Project and LibreOffice! Of course, it is still used in the Rochester Institute of Technology community where it was first developed.
+TeleIRC originally launched in 2016. Since then, we have [built up a community of users](/tags/teleirc/) around the world. TeleIRC is also used in other larger Open Source projects like the Fedora Project and LibreOffice! Of course, it is still used in the Rochester Institute of Technology community where it was first developed.
 
 Working on TeleIRC means you can contribute to a project that is actually used in the real world. Hundreds of user communities, some even the size of thousands of people, use TeleIRC. Your improvements and changes will help the many downstream users of our project. (P.S. – See the full list of [who uses TeleIRC](https://docs.teleirc.com/en/latest/about/who-uses-teleirc/) in our docs!)
 

@@ -23,11 +23,11 @@ tags:
 images: ["/img/listenbrainz-rit-independent-study.png"]
 ---
 
-_This post is part of a series of posts where I contribute to the ListenBrainz project for my independent study at the Rochester Institute of Technology in the fall 2017 semester. For more posts, find them in [this tag](https://jwfblog.wpenginepowered.com/tag/rit-2171/)._
+_This post is part of a series of posts where I contribute to the ListenBrainz project for my independent study at the Rochester Institute of Technology in the fall 2017 semester. For more posts, find them in [this tag](/tags/rit-2171/)._
 
 * * *
 
-This week is the last week of the fall 2017 semester at RIT. This semester, I spent time with the MetaBrainz community working on ListenBrainz for an independent study. This post explains what I was working on in the last month and reflects back on my [original objectives](https://jwfblog.wpenginepowered.com/2017/10/contributing-listenbrainz/) for the independent study.
+This week is the last week of the fall 2017 semester at RIT. This semester, I spent time with the MetaBrainz community working on ListenBrainz for an independent study. This post explains what I was working on in the last month and reflects back on my [original objectives](/blog/2017/10/contributing-listenbrainz/) for the independent study.
 
 <!--more-->
 
@@ -66,7 +66,7 @@ Too late, I realized I spent too much time on my own and not asking for help. I 
 
 ## Reflecting back
 
-I looked back on my [original objectives](https://jwfblog.wpenginepowered.com/2017/10/contributing-listenbrainz/) for the independent study, and I was satisfied and dissatisfied.
+I looked back on my [original objectives](/blog/2017/10/contributing-listenbrainz/) for the independent study, and I was satisfied and dissatisfied.
 
 #### Not enough programming
 

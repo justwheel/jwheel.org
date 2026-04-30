@@ -39,7 +39,7 @@ Additionally, contributor documentation improved. I added [contributor guideline
 
 ## TeleIRC v1.3.1: sprint retrospective
 
-Originally, we [planned to release v1.4](https://jwfblog.wpenginepowered.com/2019/03/teleirc-roadmap-v1-4/) at the end of this sprint. For a number of reasons, this did not happen. We decided to reduce our scope and finish strong with a bugfix release instead of the originally-planned feature release. This retrospective summarizes "lessons learned" for future project sprints with a team of university students.
+Originally, we [planned to release v1.4](/blog/2019/03/teleirc-roadmap-v1-4/) at the end of this sprint. For a number of reasons, this did not happen. We decided to reduce our scope and finish strong with a bugfix release instead of the originally-planned feature release. This retrospective summarizes "lessons learned" for future project sprints with a team of university students.
 
 ### Extended holidays are sprint bookends
 
@@ -59,7 +59,7 @@ The compromise is keeping our sprints short at the start of a semester and stret
 
 More opportunities are coming to participate with TeleIRC! The team is happy for new people to join us. Opportunities are available for short-term and long-term contributions.
 
-Come say hello in our developer chat rooms, either on [IRC](https://webchat.freenode.net/?channels=ritlug-teleirc) or in [Telegram](https://t.me/teleirc)! Watch for [TeleIRC development reports](https://jwfblog.wpenginepowered.com/tag/teleirc/) on my blog for more announcements.
+Come say hello in our developer chat rooms, either on [IRC](https://webchat.freenode.net/?channels=ritlug-teleirc) or in [Telegram](https://t.me/teleirc)! Watch for [TeleIRC development reports](/tags/teleirc/) on my blog for more announcements.
 
 * * *
 

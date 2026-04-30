@@ -10,7 +10,7 @@ tags:
 images: ["/blog/2023/05/digitalism.jpg"]
 ---
 
-_Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._
+_Read more of [my poetry](/categories/poems/) on my blog._
 
 * * *
 

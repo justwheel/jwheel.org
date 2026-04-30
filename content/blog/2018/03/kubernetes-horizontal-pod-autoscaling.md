@@ -14,7 +14,7 @@ tags:
   - "system-administration"
 ---
 
-Scale is a critical part of how we develop applications in today's world of infrastructure. Now, containers and container orchestration like Docker and [Kubernetes](https://jwfblog.wpenginepowered.com/2017/07/introduction-kubernetes-fedora/) make it easier to think about scale. One of the "magical" things about The potential of Kubernetes is fully realized when you have a sudden increase in load, your infrastructure scales up and grows to accommodate. How does this work? With **Horizontal Pod Autoscaling**, Kubernetes adds more pods when you have more load and drops them once things return to normal.
+Scale is a critical part of how we develop applications in today's world of infrastructure. Now, containers and container orchestration like Docker and [Kubernetes](/blog/2017/07/introduction-kubernetes-fedora/) make it easier to think about scale. One of the "magical" things about The potential of Kubernetes is fully realized when you have a sudden increase in load, your infrastructure scales up and grows to accommodate. How does this work? With **Horizontal Pod Autoscaling**, Kubernetes adds more pods when you have more load and drops them once things return to normal.
 
 This article covers Horizontal Pod Autoscaling, what it is, and how to try it out with the [Kubernetes guestbook](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) example. By the end of this article, you will…
 

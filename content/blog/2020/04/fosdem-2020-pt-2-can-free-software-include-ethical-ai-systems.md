@@ -20,11 +20,11 @@ tags:
 images: ["/img/fosdem-2020.png"]
 ---
 
-_This post is a follow-up to [FOSDEM 2020, pt. 1: Play by play](https://jwfblog.wpenginepowered.com/2020/03/fosdem-2020-pt-1-play-by-play/). This post summarizes the talk given by me and my colleague, [Mike Nolan](https://nolski.rocks/), at FOSDEM 2020._
+_This post is a follow-up to [FOSDEM 2020, pt. 1: Play by play](/blog/2020/03/fosdem-2020-pt-1-play-by-play/). This post summarizes the talk given by me and my colleague, [Mike Nolan](https://nolski.rocks/), at FOSDEM 2020._
 
 * * *
 
-FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after [Sustain OSS 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/) and [CHAOSScon EU 2020](https://jwfblog.wpenginepowered.com/2020/02/chaosscon-eu-2020-play-by-play/)). On Saturday, together with my colleague and friend Mike Nolan, we presented on a topic he and I have co-conspired on for the last six months. What are the intersections of Free Software and artificial intelligence (AI)?
+FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after [Sustain OSS 2020](/blog/2020/02/sustain-oss-2020-quick-rewind/) and [CHAOSScon EU 2020](/blog/2020/02/chaosscon-eu-2020-play-by-play/)). On Saturday, together with my colleague and friend Mike Nolan, we presented on a topic he and I have co-conspired on for the last six months. What are the intersections of Free Software and artificial intelligence (AI)?
 
 > What is a rights-based approach for designing minimally safe and transparent guidelines for AI systems? In this talk, we explore what a Free AI system might look like. Then, taking research and guidelines from organizations such as Google and the UN Office for the Coordination of Humanitarian Affairs, we propose practical policies and tools to ensure those building an AI system respect user freedom. Lastly, we propose the outlines of a new kind of framework where all derivative works also respect those freedoms.
 > 
@@ -52,7 +52,7 @@ This blog post is a partial recap of what we covered in that FOSDEM 2020 session
 
 ## Looking to yesterday for today
 
-Before we define AI freedoms, we need to define the origin of Free Software. While the precise origin is debatable, Mike and I posit that the [Free Software movement began with a definition of rights](https://jwfblog.wpenginepowered.com/2020/04/how-did-free-software-build-a-social-movement/). These freedoms were first established by the GNU Project on 27 Sept. 1983.
+Before we define AI freedoms, we need to define the origin of Free Software. While the precise origin is debatable, Mike and I posit that the [Free Software movement began with a definition of rights](/blog/2020/04/how-did-free-software-build-a-social-movement/). These freedoms were first established by the GNU Project on 27 Sept. 1983.
 
 So, in the spirit of the movement that precedes us today, Mike and I started asking questions. As we go into a new decade, what would Freedoms of AI look like? We know we aren't presenting _The Truth_ or _The Answer_. But we are presenting our experiences and reflections.
 
@@ -122,7 +122,7 @@ How else could we describe the freedom to appeal? We must not erase the opportun
 
 The stakes have never been higher. These systems are being built not next year, not next month, not tomorrow, but **now**. These problems are not going to go away. They are only going to continue and grow. But we know we can imagine and have a better world, because we have to. The alternative is simply unacceptable.
 
-The history of the Free Software movement [left us clues](https://jwfblog.wpenginepowered.com/2020/04/how-did-free-software-build-a-social-movement/) about how to build a social movement to address problematic patterns in our digital society. So, let's take the cues and demand for our Freedoms to be respected, just like those who came before us nearly 40 years ago.
+The history of the Free Software movement [left us clues](/blog/2020/04/how-did-free-software-build-a-social-movement/) about how to build a social movement to address problematic patterns in our digital society. So, let's take the cues and demand for our Freedoms to be respected, just like those who came before us nearly 40 years ago.
 
 If there is anything to take away from this post, or the original talk, it is this: me, you, and everyone has some power to make change. So, let's build a future that we own, together, for everyone.
 

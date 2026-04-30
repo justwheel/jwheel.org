@@ -29,7 +29,7 @@ So, if I could commit to one theme, what would it would be? It would have to be 
 
 ## storytelling is my theme
 
-I admire storytelling [since a long time](https://jwfblog.wpenginepowered.com/tag/writing/). I admire its flexibility to be simple yet powerful. It is flexible because there are multiple forms of storytelling. Storytelling can be defined in a literal sense and a metaphorical sense.
+I admire storytelling [since a long time](/tags/writing/). I admire its flexibility to be simple yet powerful. It is flexible because there are multiple forms of storytelling. Storytelling can be defined in a literal sense and a metaphorical sense.
 
 In a literal sense, storytelling is the telling of stories. Telling could mean written, spoken, or shown. Stories could mean almost any expression of human experience that fits into a timeline with a plot. Therefore, storytelling is creatively sharing a human experience with others.
 

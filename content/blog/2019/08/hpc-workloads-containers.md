@@ -18,7 +18,7 @@ images: ["/blog/2019/08/hpc-workloads-containers.jpg"]
 
 Recently, I worked on an interesting project to evaluate different container run-times for high-performance computing (HPC) clusters. HPC clusters are what we once knew as [supercomputers](https://en.wikipedia.org/wiki/Supercomputer). Today, instead of giant mainframes, they are hundreds, thousands, or tens of thousands of [massively parallel](https://en.wikipedia.org/wiki/Massively_parallel) systems. Since performance is critical, virtualization with tools like virtual machines or Docker containers was not realistic. The overhead was too much compared to bare metal.
 
-However, the times are a-changing! [Containers](https://jwfblog.wpenginepowered.com/tag/containers/) are entering as real players in the HPC space. Previously, containers were brushed off as incompatible with most HPC workflows. Now, several open source projects are emerging with unique approaches to enabling containers for HPC workloads. This blog post evaluates four container run-times in an HPC context, as they stand in July 2019:
+However, the times are a-changing! [Containers](/tags/containers/) are entering as real players in the HPC space. Previously, containers were brushed off as incompatible with most HPC workflows. Now, several open source projects are emerging with unique approaches to enabling containers for HPC workloads. This blog post evaluates four container run-times in an HPC context, as they stand in July 2019:
 
 - Charliecloud
 - Shifter

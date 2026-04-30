@@ -28,7 +28,7 @@ So, this post is a brief reflection of your life as I knew you. A final celebrat
 
 ## Ciao!
 
-We had a unique privilege of meeting first in person before meeting online. At [Flock 2015](https://jwfblog.wpenginepowered.com/2016/02/2015-year-review/), of course I remember coming to your [Fedora-Join session](https://flock2015.sched.com/event/3rak/fedora-join). This was my first introduction to the volunteer-supported mentorship community that exists in Fedora. Even though there was one particularly disruptive audience member, I remember learning from you and noting your long-time experience in the Fedora Community.
+We had a unique privilege of meeting first in person before meeting online. At [Flock 2015](/blog/2016/02/2015-year-review/), of course I remember coming to your [Fedora-Join session](https://flock2015.sched.com/event/3rak/fedora-join). This was my first introduction to the volunteer-supported mentorship community that exists in Fedora. Even though there was one particularly disruptive audience member, I remember learning from you and noting your long-time experience in the Fedora Community.
 
 After that, we would come to know each other better. As I began a new chapter of my life at my university, we would become frequent collaborators. The Fedora Marketing team was always interesting to me, as part of the group of people who helped our community talk about and share the Fedora Project with others. Underneath your gentle mentorship, I learned the focus areas and history of the Fedora Marketing team.
 
@@ -66,7 +66,7 @@ I never got to take you up on your offer to visit your home and meet your family
 
 I didn't write this post with an outline, or a template. These words came to me while sitting with my own emotions and feelings. I am writing this because this is an effective coping mechanism for me to process what is lost, but also how to move forward from the loss.
 
-The Fedora Project has given me a lot over the last five years. I have met many wonderful people and contributed to things that matter a great deal to me. But Fedora has also [taught me about loss](https://jwfblog.wpenginepowered.com/2018/11/fedora-appreciation-week-tribute-to-a-legacy/). There are many lessons in life that have nothing to do with work, code, software, or engineering, but have everything to do with how we look at the world.
+The Fedora Project has given me a lot over the last five years. I have met many wonderful people and contributed to things that matter a great deal to me. But Fedora has also [taught me about loss](/blog/2018/11/fedora-appreciation-week-tribute-to-a-legacy/). There are many lessons in life that have nothing to do with work, code, software, or engineering, but have everything to do with how we look at the world.
 
 In the wake of losing you, I think of the kind words and memories we shared that I did not tell you were important to me. I think of how the opportunity is permanently missed for me to share my appreciation of your kindness and friendship. The tragedy of youth is perhaps that I failed to fully appreciate our connection until after you passed.
 

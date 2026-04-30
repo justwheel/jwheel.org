@@ -11,7 +11,7 @@ tags:
 images: ["/blog/2016/08/achievement-get-rainbow.png"]
 ---
 
-Earlier this month, I received the [_Rainbow_ badge](https://badges.fedoraproject.org/badge/rainbow-cookie-v) in [Fedora Badges](https://badges.fedoraproject.org/about). _Rainbow_ is the fifth badge in a series for receiving "karma cookies" from others in IRC. Every time I receive a new badge in this series, I like to [reflect](https://jwfblog.wpenginepowered.com/2016/03/achievement-get-pizzelle/) back on the past and where my Fedora journey has taken me [since October 2015](https://jwfblog.wpenginepowered.com/2015/10/my-journey-into-fedora/).
+Earlier this month, I received the [_Rainbow_ badge](https://badges.fedoraproject.org/badge/rainbow-cookie-v) in [Fedora Badges](https://badges.fedoraproject.org/about). _Rainbow_ is the fifth badge in a series for receiving "karma cookies" from others in IRC. Every time I receive a new badge in this series, I like to [reflect](/blog/2016/03/achievement-get-pizzelle/) back on the past and where my Fedora journey has taken me [since October 2015](/blog/2015/10/my-journey-into-fedora/).
 
 <!--more-->
 
@@ -27,9 +27,7 @@ The [_Rainbow_ badge](https://badges.fedoraproject.org/badge/rainbow-cookie-v) i
 
 ## Thank you!
 
-I did spend a lot of time giving thanks and appreciation in my [Flock 2016 write-up](https://jwfblog.wpenginepowered.com/2016/08/fedora-flock-2016/), so I think it would be better to point there for a longer, more verbose expression of gratitude.
-
-https://jwfblog.wpenginepowered.com/2016/08/fedora-flock-2016/
+I did spend a lot of time giving thanks and appreciation in my [Flock 2016 write-up](/blog/2016/08/fedora-flock-2016/), so I think it would be better to point there for a longer, more verbose expression of gratitude.
 
 I am still appreciative and thankful of all the people who have spared their time for helping get me started in Fedora. Sometimes, it's hard to believe it hasn't yet been a full year since my first contributions. The opportunities and friendships that being a member of the Fedora community have provided are irreplaceable. I hope that I am able to continue making an impact on Fedora far into the future and share some cookies with some other contributors. And as always, I hope to pay forward the kindness and guidance that others have bestowed to me towards others who are entering our project.
 

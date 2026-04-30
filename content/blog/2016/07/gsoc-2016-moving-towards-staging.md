@@ -36,6 +36,6 @@ When running the upgrade playbook, it would trigger an issue with `rsync` requir
 
 ## Flock 2016
 
-On Sunday, I'll be [flying out to Poland](https://jwfblog.wpenginepowered.com/2016/07/czesc-poland-back-europe/) for [Flock 2016](https://flocktofedora.org/), Fedora's annual contributor conference. During Flock, I'll meet several other Fedora contributors in person, including my mentor. We plan to set up the staging instance either later tonight or during Flock, depending on how time ends up going.
+On Sunday, I'll be [flying out to Poland](/blog/2016/07/czesc-poland-back-europe/) for [Flock 2016](https://flocktofedora.org/), Fedora's annual contributor conference. During Flock, I'll meet several other Fedora contributors in person, including my mentor. We plan to set up the staging instance either later tonight or during Flock, depending on how time ends up going.
 
 I'll also be delivering a talk and hosting a workshop during the week as well! One of the workshops I'm hoping to attend is the [Ansible best practice working session](https://flock2016.sched.org/event/76oY/ansible-best-practice-working-session). I'll be seeing if there's anything I can glean to build into the last week of the project during the workshop.

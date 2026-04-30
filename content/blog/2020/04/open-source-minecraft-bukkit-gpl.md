@@ -153,7 +153,7 @@ The only conclusion I can muster on this saga is from that same Reddit thread: "
 
 ## Why did I write this?
 
-Because I keep coming back to this story, across my life. I was writing an event report about a [copyleft licensing conference](https://jwfblog.wpenginepowered.com/2020/04/copyleftconf-2020-quick-rewind/) I went to [in February 2020](https://jwfblog.wpenginepowered.com/tag/2020-foss-conferences/), when I recapped this same story to someone there in-person. It wasn't the first time I told this story at a conference though. It's such an interesting case study of copyleft licensing.
+Because I keep coming back to this story, across my life. I was writing an event report about a [copyleft licensing conference](/blog/2020/04/copyleftconf-2020-quick-rewind/) I went to [in February 2020](/tags/2020-foss-conferences/), when I recapped this same story to someone there in-person. It wasn't the first time I told this story at a conference though. It's such an interesting case study of copyleft licensing.
 
 Because it is in the open source gaming world and the largest demographic of this particular gaming community is under 30 years old, many folks who have been "around the block" in open source are unaware of this story.
 

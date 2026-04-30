@@ -57,7 +57,7 @@ tags:
 images: ["/blog/2018/02/2017-year-review.jpg"]
 ---
 
-I can't remember how [writing an annual reflection](https://jwfblog.wpenginepowered.com/tag/year-in-review/) became a tradition, but after writing them for the last two years, it is now a habit. Every time I look back on all that the last year brought into my life, it is surreal. Many things that happened, I could never have expected one or two years ago. And perhaps now, I see that life is defined by the unexpected moments: the things that surprise us, warm our hearts, sadden us, and remind us of our humanity. Thus, I present my year in review of 2017.
+I can't remember how [writing an annual reflection](/tags/year-in-review/) became a tradition, but after writing them for the last two years, it is now a habit. Every time I look back on all that the last year brought into my life, it is surreal. Many things that happened, I could never have expected one or two years ago. And perhaps now, I see that life is defined by the unexpected moments: the things that surprise us, warm our hearts, sadden us, and remind us of our humanity. Thus, I present my year in review of 2017.
 
 <!--more-->
 
@@ -195,7 +195,7 @@ More details on this will be found in its own event report!
 
 ## ListenBrainz indie study
 
-In my fall semester of 2017, I took on an [independent study](https://jwfblog.wpenginepowered.com/tag/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](https://metabrainz.org/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
+In my fall semester of 2017, I took on an [independent study](/tags/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](https://metabrainz.org/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
 
 In my independent study, I had a chance to contribute documentation and community tools (like issue / PR templates), as well as explore how the project gathers and builds metrics. I didn't make my original milestone of major code contributions to the project, but I better understood the community and tried to help in the areas of low coverage, like documentation.
 
@@ -225,9 +225,7 @@ I followed up with the team behind the project to evaluate the impact of this id
 - **Week starting 2017-04-03**: 35 sent
 - **Week starting 2017-04-10 (challenge week)**: 72 sent
 
-You can read more about the challenge in my original blog post. Keep an eye out for it again in 2018.
-
-https://jwfblog.wpenginepowered.com/2017/04/happiness-packets-challenge/
+You can read more about the challenge in my [original blog post](/blog/2017/04/happiness-packets-challenge/). Keep an eye out for it again in 2018.
 
 ## Living openly
 

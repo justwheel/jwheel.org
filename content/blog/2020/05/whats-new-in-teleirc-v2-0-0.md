@@ -21,7 +21,7 @@ tags:
 images: ["/img/teleirc-development-update.jpg"]
 ---
 
-TeleIRC v2.0.0 is the latest major release of our open source Telegram <=> IRC bridge. Download the [latest release](https://github.com/RITlug/teleirc/releases/tag/v2.0.0) and read the [release announcement](https://jwfblog.wpenginepowered.com/2020/05/teleirc-v2-0-0-is-officially-here/) for the full story.
+TeleIRC v2.0.0 is the latest major release of our open source Telegram <=> IRC bridge. Download the [latest release](https://github.com/RITlug/teleirc/releases/tag/v2.0.0) and read the [release announcement](/blog/2020/05/teleirc-v2-0-0-is-officially-here/) for the full story.
 
 There are several new and noteworthy changes in TeleIRC v2.0.0. This post walks you through the major changes and differences for TeleIRC v2.0.0. Read on for the highlight reel of this release.
 
@@ -51,7 +51,7 @@ Thanks to feedback collected during the pre-release process, the documentation i
 
 ## Future roadmap for containers
 
-Because of [v2.0.0 design decisions](https://jwfblog.wpenginepowered.com/2020/03/teleirc-v2-0-0-march-2020-progress-update/), there is a planned future for container and container orchestration use cases. At release time, a [Dockerfile is available](https://github.com/RITlug/teleirc/tree/v2.0.0/deployments/container), but it is not yet tested or documented.
+Because of [v2.0.0 design decisions](/blog/2020/03/teleirc-v2-0-0-march-2020-progress-update/), there is a planned future for container and container orchestration use cases. At release time, a [Dockerfile is available](https://github.com/RITlug/teleirc/tree/v2.0.0/deployments/container), but it is not yet tested or documented.
 
 In future releases, the TeleIRC Team will continue to test the container image and iron out bugs. Future deployment assets and documentation will offer pathways to run TeleIRC in Kubernetes or OpenShift v4.x.x.
 

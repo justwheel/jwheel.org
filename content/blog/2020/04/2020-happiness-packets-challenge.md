@@ -13,7 +13,7 @@ tags:
 images: ["/img/happiness-packet-challenge.png"]
 ---
 
-In this brave new COVID-19 world, we have to watch out for each other. These times are unusual and not normal. This year in 2020, **I challenge you to join me and others in the Happiness Packets Challenge from Monday, 27 April to Sunday, 3 May**! This is the same challenge I made [in 2017](https://jwfblog.wpenginepowered.com/2017/04/happiness-packets-challenge/). Can you say thanks to someone different every day for one week?
+In this brave new COVID-19 world, we have to watch out for each other. These times are unusual and not normal. This year in 2020, **I challenge you to join me and others in the Happiness Packets Challenge from Monday, 27 April to Sunday, 3 May**! This is the same challenge I made [in 2017](/blog/2017/04/happiness-packets-challenge/). Can you say thanks to someone different every day for one week?
 
 When I was a kid, one of the most important lessons I learned was saying "thank you" when someones does something nice for you. So, a few years ago, I learned about this [awesome little website](https://happinesspackets.io/) called Happiness Packets. Its purpose is simple but powerful. Happiness Packets are open source thank-you cards you can send over email. You can send Happiness Packets to anyone for anything. Your message can be as short or as long as you like. You can put your name on it or keep it anonymous. The choice is yours. And now, **I want to challenge you (yes, _you_) to the 2020 [#HappinessPacketChallenge](https://twitter.com/search?q=%23HappinessPacketChallenge)**!
 

@@ -25,7 +25,7 @@ I created this for the [RIT Linux User's Group](https://ritlug.com/) (a.k.a. RIT
 
 ## "Start writing ReStructuredText already!"  
 
-The philosophy with this small project is: "_Start writing ReStructuredText already!_" I use Sphinx with ReadTheDocs as a deployment option across [different organizations](https://jwfblog.wpenginepowered.com/2018/02/unicef-internship/). I want a common base to later customize for a specific project's needs.
+The philosophy with this small project is: "_Start writing ReStructuredText already!_" I use Sphinx with ReadTheDocs as a deployment option across [different organizations](/blog/2018/02/unicef-internship/). I want a common base to later customize for a specific project's needs.
 
 The whole point of this project is to save time kicking off a new project's recently-established documentation effort.
 

@@ -10,7 +10,7 @@ tags:
 images: ["/blog/2024/02/eventually-for-eternity.jpg"]
 ---
 
-_A poem to describe love from a constantly suspended state of waiting and wonder. Read more of [my poetry](https://jwfblog.wpenginepowered.com/category/poems/) on my blog._
+_A poem to describe love from a constantly suspended state of waiting and wonder. Read more of [my poetry](/categories/poems/) on my blog._
 
 <!--more-->
 

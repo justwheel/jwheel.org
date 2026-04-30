@@ -27,7 +27,7 @@ The last deliverable items from my project are two (2) git patches, one (1) git 
 
 - Git patches ([ansible.git](https://jflory7.fedorapeople.org/pub/gsoc/2016/patches/0001-Add-role-and-playbooks-for-installing-and-upgrading-.patch) and [infra-docs.git](https://jflory7.fedorapeople.org/pub/gsoc/2016/patches/0001-Add-WordPress-SOP-based-on-corresponding-additions-t.patch))
 - [Git repository](https://pagure.io/jflory7-ansible)
-- [Blog posts](https://jwfblog.wpenginepowered.com/tag/gsoc/feed/)
+- [Blog posts](/tags/gsoc/)
 
 ## Closing plans
 
@@ -80,7 +80,7 @@ A lot of development action happens in this channels, or people who can help you
 
 #### Balancing project with open source contributions
 
-I think my single, most difficult challenge with Google Summer of Code was balancing my proposal-specific contributions with the rest of contributions and work in the Fedora Project. I believe I was a minority of Google Summer of Code students who applied for the program as an active member of the project [almost a full year](https://jwfblog.wpenginepowered.com/2015/10/my-journey-into-fedora/) before the program began. Additionally, my areas of contribution in Fedora before GSoC were mostly unrelated to my project proposal. My project proposal mostly aligned with my [intended degree](http://nsa.rit.edu/) and education I am pursuing. A lot of the technology I would be working with was new to me and I had minimal knowledge about it before beginning the summer. As a result, this presented a unique set of challenges and problems I would face throughout my project.
+I think my single, most difficult challenge with Google Summer of Code was balancing my proposal-specific contributions with the rest of contributions and work in the Fedora Project. I believe I was a minority of Google Summer of Code students who applied for the program as an active member of the project [almost a full year](/blog/2015/10/my-journey-into-fedora/) before the program began. Additionally, my areas of contribution in Fedora before GSoC were mostly unrelated to my project proposal. My project proposal mostly aligned with my [intended degree](http://nsa.rit.edu/) and education I am pursuing. A lot of the technology I would be working with was new to me and I had minimal knowledge about it before beginning the summer. As a result, this presented a unique set of challenges and problems I would face throughout my project.
 
 The consequences of this were that I had to spend a lot more time researching and becoming familiar with the technology before advancing with creating the deliverable items. A great resource for me to learn about Ansible was [_Ansible for DevOps_ by Jeff Geerling](https://www.ansiblefordevops.com/). But I spent more time on learning and "trying out the tech" than I had anticipated.
 
@@ -88,6 +88,6 @@ This extra time spent on research and experimentation were in tandem to my ongoi
 
 ## Special thanks
 
-I'm both thankful and grateful to those who have offered their mentorship, time, and guidance for me to be a member of the GSoC Class of 2016. Special thanks go to [Patrick Uiterwijk](https://fedoraproject.org/wiki/User:Puiterwijk), my mentor for the program. I've learned a lot from Patrick through these past few months and enjoyed our conversations. Even though we were both running around the entire week, I'm glad I had the chance to meet him at [Flock 2016](https://jwfblog.wpenginepowered.com/2016/08/fedora-flock-2016/) (and hope to see him soon at [FOSDEM](https://fosdem.org/2017/) or [DevConf](http://devconf.cz/))! Another thanks goes to one of my former supporting mentors and program administrator [Remy DeCausemaker](https://fedoraproject.org/wiki/User:Decause).
+I'm both thankful and grateful to those who have offered their mentorship, time, and guidance for me to be a member of the GSoC Class of 2016. Special thanks go to [Patrick Uiterwijk](https://fedoraproject.org/wiki/User:Puiterwijk), my mentor for the program. I've learned a lot from Patrick through these past few months and enjoyed our conversations. Even though we were both running around the entire week, I'm glad I had the chance to meet him at [Flock 2016](/blog/2016/08/fedora-flock-2016/) (and hope to see him soon at [FOSDEM](https://fosdem.org/2017/) or [DevConf](http://devconf.cz/))! Another thanks goes to one of my former supporting mentors and program administrator [Remy DeCausemaker](https://fedoraproject.org/wiki/User:Decause).
 
 I'm looking forward to another year and beyond of Fedora contributions, and can't wait to see what's next!

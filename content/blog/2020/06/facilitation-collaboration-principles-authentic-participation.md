@@ -43,7 +43,7 @@ If you are hooked, read on.
 
 How does a discussion topic at a one-day conference evolve into an inter-organizational, international collaboration that spans three months?
 
-When the accountability and transparency discussion groups formed at [Sustain Summit 2020](https://jwfblog.wpenginepowered.com/2020/02/sustain-oss-2020-quick-rewind/), none of us knew what would come after the event. Not to mention, there were several different sustainability topics explored at the Summit.
+When the accountability and transparency discussion groups formed at [Sustain Summit 2020](/blog/2020/02/sustain-oss-2020-quick-rewind/), none of us knew what would come after the event. Not to mention, there were several different sustainability topics explored at the Summit.
 
 So, the conversation about corporate accountability was about the same as every other conversation during that morning: **someone was motivated enough to step up and say, "I'll do it – I'll facilitate this conversation!"**
 

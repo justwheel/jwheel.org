@@ -23,7 +23,7 @@ tags:
 images: ["/img/listenbrainz-rit-independent-study.png"]
 ---
 
-_This post is part of a series of posts where I contribute to the ListenBrainz project for my independent study at the Rochester Institute of Technology in the fall 2017 semester. For more posts, find them in [this tag](https://jwfblog.wpenginepowered.com/tag/rit-2171/)._
+_This post is part of a series of posts where I contribute to the ListenBrainz project for my independent study at the Rochester Institute of Technology in the fall 2017 semester. For more posts, find them in [this tag](/tags/rit-2171/)._
 
 * * *
 

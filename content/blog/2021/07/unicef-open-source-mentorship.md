@@ -58,6 +58,6 @@ The report explores the impact technology has in each key area:
 Therefore, the conception and development of Open Source Mentorship is inspired by the Roadmap, in four key aspects:
 
 1. **Digital Public Goods**: To encourage knowledge transfer and collaboration on practical, everyday advice on building technology projects in line with the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/).
-2. **Digital Capacity-Building**: Empowering others with the [skills and information](https://jwfblog.wpenginepowered.com/2020/11/open-source-archetypes-unicef-open-source/) they need to be bringers of Open Source change and innovation in a disruptive and competitive Venture Capital ecosystem.
+2. **Digital Capacity-Building**: Empowering others with the [skills and information](/blog/2020/11/open-source-archetypes-unicef-open-source/) they need to be bringers of Open Source change and innovation in a disruptive and competitive Venture Capital ecosystem.
 3. **Digital Trust and Security**: Providing a holistic view of Open Source intellectual property that is influenced by, but not bound by, quarterly earnings reports and share prices. Understanding the commitments of Open Source licenses and technology, and how trust is earned and lost in Open Source products and communities.
 4. **Global Digital Cooperation**: Designing and structuring communities to be healthy and collaborative in nature, united in resolving common challenges and problems.
