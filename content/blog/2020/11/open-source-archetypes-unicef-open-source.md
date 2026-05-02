@@ -21,7 +21,7 @@ I joined the UNICEF Innovation team in June 2020, although this is [not the firs
 
 The _Open Source Archetypes_ report (_below_) provides nine archetypes common among Open Source projects and communities. These archetypes provide a common language and perspective to think about how to capture the most value of Open Source in various contexts.
 
-[Open Source Archetypes (May 2018)](/docs/Open-Source-Archetypes-Mozilla-Open-Tech-Strategies-May-2018.pdf)[Download](/docs/Open-Source-Archetypes-Mozilla-Open-Tech-Strategies-May-2018.pdf)
+{{< pdf-download file="/docs/Open-Source-Archetypes-Mozilla-Open-Tech-Strategies-May-2018.pdf" title="Open Source Archetypes (May 2018)" description="A framework by Mozilla and Open Tech Strategies defining nine common open source project models, their trade-offs, and practical guidance for choosing the right approach." >}}
 
 This article covers the following topics:
 
