@@ -22,7 +22,7 @@ git submodule update --remote --rebase
 git submodule update --init
 ```
 
-Hugo Extended 0.158.0 locally and in CI. The theme requires minimum Hugo 0.123.0 (for `.GetTerms`).
+Hugo Extended 0.159.0 locally and in CI. The theme requires minimum Hugo 0.158.0 (for `css.Build`).
 
 ## Two-Repository Architecture
 
@@ -37,7 +37,7 @@ If `themes/toph/` does not exist or is empty, the git submodule has not been clo
 
 ## Content Structure
 
-- `content/blog/` — Blog posts (Markdown), organized by `YYYY/MM/slug.md`. Images stored alongside posts in the same directory. Front matter: `title`, `date`, `categories`, `tags`, `coverImage`. See the "Blog Migration" section below for critical rules.
+- `content/blog/` — Blog posts (Markdown), organized by `YYYY/MM/slug.md`. Images stored alongside posts in the same directory. Front matter: `title`, `date`, `categories`, `tags`, `images`. See the "Blog Migration" section below for critical rules.
 - `content/about-me.md` — About Me page with bio imported from WordPress.
 - `content/projects/` — Project profiles with numeric prefix ordering (e.g., `01-red-hat.en.md`). Front matter requires: `title`, `date`, `slug`, `icon`, `hide_sitemap: true`, `categories: ["projects"]`. Translations use `.<lang>.md` suffix.
 - `content/footer/` — Dynamic footer badges. Front matter requires: `categories: ["footer"]`, `hide_sitemap: true`.
@@ -85,7 +85,7 @@ Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without H
 
 ## Cover Images
 
-Blog posts can set `coverImage: "filename.jpg"` in front matter to display a full-width image between the title and post metadata. Non-absolute paths are resolved relative to the post's directory via `path.Join`. Posts are standalone files (not leaf bundles), so `.Resources` is not available.
+Blog posts can set `images: ["/blog/2023/12/photo.jpg"]` in front matter (YAML flow sequence) to display a cover image and enable automatic OpenGraph/Twitter card previews via Hugo's built-in templates. Absolute paths are used as-is; relative paths are resolved via `path.Join`. Posts are standalone files (not leaf bundles), so `.Resources` is not available.
 
 ## Image Captions
 
