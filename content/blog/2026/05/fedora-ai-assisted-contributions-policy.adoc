@@ -1,0 +1,100 @@
+---
+title: Why the Fedora AI-Assisted Contributions Policy Matters for Open Source
+date: 2026-05-04T08:00:00-00:00
+description: A pragmatic look at the Fedora AI-Assisted Contributions Policy, its impact on maintainer burnout, and how it protects software freedom.
+categories:
+    - fedora
+    - foss
+tags:
+    - 2020s
+    - ai-assisted
+    - artificial-intelligence
+    - copyright
+    - ethics
+    - fedora
+    - fedora-council
+    - fedora-planet
+    - linux
+    - open-source
+    - open-source-communities
+images: ["/blog/2026/05/fedora-ai-assisted-contributions-policy.png"]
+---
+
+The intersection of open source development and artificial intelligence (AI) is currently a minefield of valid excitement and legitimate anxiety.
+Recently, the Fedora Project introduced the Fedora AI-Assisted Contributions Policy.
+The https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/[full policy text] outlines the basic ground rules.
+I was informally involved in the drafting process.
+Since its rollout, I am actively adjusting my own workflow to comply with its requirements.
+
+For those outside the link:/categories/fedora/[Fedora ecosystem], the policy establishes basic ground rules for how AI can be used in the project.
+It operates on three main pillars:
+
+. *Accountability*:
+  You can use AI, but you own the output.
+  The human contributor is always the author and fully accountable for the submission's quality, license compliance, and utility.
+. *Transparency*:
+  If a significant part of a contribution is taken unchanged from an AI tool, you must disclose it (typically via an `Assisted-by:` commit trailer).
+. *Evaluation Limits*:
+  AI cannot act as the final judge on substantive contributions or evaluate a person's standing within the community.
+
+As someone who relies on these tools, I want to share my perspective on why this policy matters, the harsh realities of enforcing it, and why we must tactically embrace AI to protect the future of software freedom.
+
+
+[[accountability]]
+== The "Accountability" Reality and the Threat of "Slop"
+
+On paper, the _Accountability_ clause looks like a strong deterrent against low-quality, automated spam.
+In reality, it functions primarily as a legal liability shield.
+If a contributor breaks a system by submitting AI-generated falsehoods, the policy simply puts the fault at their feet.
+
+It does not, however, stop the spam.
+
+We saw this clearly during a recent round of the https://www.outreachy.org[Outreachy internship program].
+We had a record number of contributions recorded, but very few were actually merged.
+The volume of noise and sloppy contributions ballooned compared to past rounds.
+Many newcomers ignored the transparency mandate and flooded our git repositories with low-quality contributions.
+What actually deterred this "AI slop" wasn't the text of the policy; it was the tangible enforcement mechanism of internship eligibility.
+
+The primary consequence of submitting AI spam isn't legal prosecution.
+It is reputational damage.
+
+
+[[ethics]]
+== The Ethical Elephant in the Room
+
+This brings us to the loudest objection from the open source community: the ethics of AI generation.
+Many maintainers deeply feel that LLMs are fundamentally engaged in theft.
+Maintainers recognize that the companies behind the LLMs extracted immense value from 40+ years of open source material without contributing value back, bypassing licenses and author attribution entirely.
+
+I sympathize with the maintainers who hold this objection.
+It is frustrating to watch value extracted without reciprocity.
+However, I do not share the same sense of existential panic as other maintainers.
+
+My view goes that the old rules simply no longer apply.
+Open source projects must evolve to survive.
+Instead of playing defense and fighting a philosophical war we cannot win, we need to think about how to _tactically_ use AI to advance the interests of software freedom in a time when it has never been more threatened.
+
+
+[[dual-mandate]]
+== The Fedora AI-Assisted Contributions Policy Dual Mandate
+
+When used responsibly, AI has the potential to be a massive equalizer.
+It can lower the barrier to entry for non-native English speakers drafting documentation and help junior developers navigate legacy codebases with decades or more of context.
+Democratizing access is how we attract the next generation of open source contributors and strengthen the social fabric of our community.
+This includes Fedora!
+
+But there is a dark side to this democratization.
+Dumping a massive volume of low-effort, AI-facilitated contributions onto the laps of Fedora maintainers is a recipe for disaster.
+Many Fedora contributors are already stretched thin, doing more than is required of them.
+Forcing them to review a tidal wave of "AI slop" breeds deep resentment; to them, it feels like the active "enshittification" of our own community.
+
+This is why we cannot focus solely on the people side of AI inclusion.
+We must carefully balance it by providing maintainers with the resources, support, and AI-facilitated tooling they need to survive.
+Practical improvements need deeper research and evaluation, such as using AI for advanced automated testing, scaling review workflows, and complex code refactoring.
+We should use AI to improve the quality and efficiency of our community's work, ensuring that the same technology that lowers the barrier to entry also helps maintainers manage the gates.
+
+If we handle this correctly, AI won't replace the community.
+It will empower a more inclusive, diverse, and heavily-fortified one.
+The Fedora AI-Assisted Contributions Policy is our first step.
+Review the https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/[official Fedora Project policy] to see the framework in action.
+Let's keep the process open, keep the declarations honest, and tactically build the future of open source together.
