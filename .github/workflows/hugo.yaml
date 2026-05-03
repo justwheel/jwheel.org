@@ -10,6 +10,11 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Build the site twice a day at 08:15 UTC and 20:15 UTC.
+  # This helps ensure posts published on a given day are actually built and appear on the site.
+  schedule:
+    - cron: '15 8,20 * * *'
+
 # Opt into Node.js 24 for all actions to avoid deprecation warnings.
 # See: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
 env:
