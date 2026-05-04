@@ -1,0 +1,22 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" -}}
+{{- $caption := .Get "caption" -}}
+{{- $width := .Get "width" | default "400" -}}
+
+{{- with resources.Get $src -}}
+  {{- $ogPath := printf "/%s" $src -}}
+  {{- $og := resources.Copy $ogPath . -}}
+  {{- $ogPermalink := $og.RelPermalink -}}
+
+  {{- $mask := resources.Get "masks/oval-mask.png" -}}
+  {{- $spec := printf "resize %sx" $width -}}
+  {{- $filters := slice (images.Process $spec) images.Grayscale (images.Process "webp") (images.Mask $mask) -}}
+  {{- $processed := .Filter $filters -}}
+
+  <figure class="profile-photo">
+      <img src="{{ $processed.RelPermalink }}" width="{{ $processed.Width }}" height="{{ $processed.Height }}" alt="{{ $alt }}" title="{{ $alt }}" loading="lazy">
+    {{- with $caption }}
+    <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end }}
+  </figure>
+{{- end -}}
