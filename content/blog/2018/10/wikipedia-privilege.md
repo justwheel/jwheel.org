@@ -2,8 +2,8 @@
 title: "Wikipedia is a privilege"
 date: 2018-10-09
 categories: 
-  - "perspective"
   - "foss"
+  - "perspective"
 tags: 
   - "access"
   - "dei"

@@ -3,8 +3,8 @@ title: "On Free Software, Red Hat, and Iran"
 date: 2021-10-26
 categories: 
   - "fedora"
-  - "tech"
   - "foss"
+  - "tech"
 tags: 
   - "access"
   - "activism"
