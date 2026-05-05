@@ -7,7 +7,6 @@ categories:
   - "foss"
 tags: 
   - "fedora-badges"
-  - "fedora"
   - "fedora-planet"
   - "hfoss"
   - "python"

@@ -11,7 +11,6 @@ tags:
   - "inspirational-women"
   - "international-womens-day"
   - "ireland"
-  - "open-source"
   - "travel"
   - "wikimedia"
   - "wikipedia"

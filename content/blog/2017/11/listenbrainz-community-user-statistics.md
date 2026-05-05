@@ -16,7 +16,6 @@ tags:
   - "metabrainz"
   - "metrics"
   - "musicbrainz"
-  - "open-source"
   - "open-source-communities"
   - "rit-2171"
   - "rochester-institute-of-technology"

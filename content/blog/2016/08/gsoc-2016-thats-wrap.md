@@ -3,16 +3,15 @@ title: "GSoC 2016: That's a wrap!"
 date: 2016-08-21
 categories: 
   - "fedora"
+  - "foss"
 tags: 
   - "ansible"
   - "devops"
   - "documentation"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
   - "gsoc"
-  - "open-source"
   - "summer-activities"
 images: ["/img/Google-Summer-of-Code-announcement.png"]
 ---

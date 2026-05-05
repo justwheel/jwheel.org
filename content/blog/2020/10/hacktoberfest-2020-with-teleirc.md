@@ -11,7 +11,6 @@ tags:
   - "github"
   - "hackathons"
   - "irc"
-  - "open-source"
   - "open-source-communities"
   - "telegram"
   - "teleirc"

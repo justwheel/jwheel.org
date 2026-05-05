@@ -7,12 +7,10 @@ categories:
   - "foss"
 tags: 
   - "albania"
-  - "fedora"
   - "fedora-planet"
   - "foss-wave-india"
   - "india"
   - "open-labs-albania"
-  - "open-source"
   - "oscal-open-source-conference-albania"
   - "rochester-institute-of-technology"
   - "teaching-open-source"

@@ -8,7 +8,6 @@ tags:
   - "fedora-planet"
   - "hfoss"
   - "literature"
-  - "open-source"
 ---
 
 ![What is Open Source? - Steve Weber](http://steveweber.typepad.com/.a/6a00d83423046e53ef00e55004c30a8833-150wi "Steve Weber")

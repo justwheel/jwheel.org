@@ -8,7 +8,6 @@ tags:
   - "community"
   - "fedora-planet"
   - "hfoss"
-  - "open-source"
   - "open-source-communities"
   - "unicef"
   - "unicef-internship-2018"

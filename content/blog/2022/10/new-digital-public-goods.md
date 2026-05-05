@@ -12,7 +12,6 @@ tags:
   - "hfoss"
   - "international"
   - "mentoring"
-  - "open-source"
   - "open-source-communities"
   - "retrospective"
   - "scalability"

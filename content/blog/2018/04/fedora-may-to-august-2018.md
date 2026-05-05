@@ -3,11 +3,10 @@ title: "Stepping out of Fedora: May to August 2018"
 date: 2018-04-09
 categories: 
   - "fedora"
+  - "foss"
 tags: 
   - "community"
-  - "fedora"
   - "fedora-planet"
-  - "open-source"
   - "working-together"
 ---
 

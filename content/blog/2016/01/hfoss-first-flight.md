@@ -8,7 +8,6 @@ tags:
   - "fedora-planet"
   - "getting-started"
   - "hfoss"
-  - "open-source"
   - "rochester-institute-of-technology"
 ---
 

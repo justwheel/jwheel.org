@@ -10,7 +10,6 @@ tags:
   - "government"
   - "nextcloud"
   - "open-labs-albania"
-  - "open-source"
   - "oscal-open-source-conference-albania"
 images: ["/blog/2017/08/osdc_government_building_sky.jpg"]
 ---

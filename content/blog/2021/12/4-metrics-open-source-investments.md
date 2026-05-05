@@ -14,7 +14,6 @@ tags:
   - "fedora-planet"
   - "hfoss"
   - "metrics"
-  - "open-source"
   - "reflections"
   - "sustainability"
   - "working-together"

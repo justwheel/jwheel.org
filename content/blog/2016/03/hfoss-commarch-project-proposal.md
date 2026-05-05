@@ -8,11 +8,9 @@ categories:
 tags: 
   - "communication"
   - "community"
-  - "fedora"
   - "fedora-planet"
   - "getting-started"
   - "hfoss"
-  - "open-source"
   - "rochester-institute-of-technology"
 ---
 

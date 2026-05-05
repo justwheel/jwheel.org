@@ -7,7 +7,6 @@ tags:
   - "ansible"
   - "fedora-badges"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-planet"
 images: ["/blog/2016/07/push-fedora-badges.png"]
 ---

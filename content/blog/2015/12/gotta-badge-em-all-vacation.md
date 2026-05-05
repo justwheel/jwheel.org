@@ -6,7 +6,6 @@ categories:
   - "foss"
 tags: 
   - "fedora-badges"
-  - "fedora"
   - "fedora-planet"
   - "gotta-badge-em-all"
   - "vacation"

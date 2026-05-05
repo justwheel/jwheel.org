@@ -8,7 +8,6 @@ tags:
   - "community"
   - "education"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-packaging"
   - "fedora-planet"
   - "open-source-communities"

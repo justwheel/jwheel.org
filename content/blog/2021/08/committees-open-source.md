@@ -10,7 +10,6 @@ tags:
   - "community-management"
   - "dei"
   - "fedora-commops"
-  - "fedora"
   - "fedora-mindshare"
   - "fedora-planet"
   - "open-source-communities"

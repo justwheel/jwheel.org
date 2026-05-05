@@ -11,11 +11,9 @@ tags:
     - artificial-intelligence
     - copyright
     - ethics
-    - fedora
     - fedora-council
     - fedora-planet
     - linux
-    - open-source
     - open-source-communities
 images: ["/blog/2026/05/fedora-ai-assisted-contributions-policy.png"]
 ---

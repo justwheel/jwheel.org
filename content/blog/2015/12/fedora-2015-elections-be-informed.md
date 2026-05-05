@@ -8,7 +8,6 @@ tags:
   - "fedora-ambassadors"
   - "fedora-commops"
   - "fedora-elections"
-  - "fedora"
   - "fedora-planet"
 ---
 

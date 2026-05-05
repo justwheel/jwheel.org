@@ -16,7 +16,6 @@ tags:
   - "gplv3"
   - "history"
   - "life-lessons"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "opinion"

@@ -19,7 +19,6 @@ tags:
   - "hfoss"
   - "international"
   - "life-lessons"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "opinion"

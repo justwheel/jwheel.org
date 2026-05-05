@@ -6,7 +6,6 @@ categories:
 tags: 
   - "community"
   - "fedora-badges"
-  - "fedora"
   - "fedora-planet"
 images: ["/blog/2016/08/achievement-get-rainbow.png"]
 ---

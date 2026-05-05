@@ -18,7 +18,6 @@ tags:
   - "dei"
   - "documentation"
   - "events"
-  - "fedora"
   - "fedora-planet"
   - "infrastructure"
   - "metrics"

@@ -9,7 +9,6 @@ tags:
   - "brickhack"
   - "events"
   - "fedora-ambassadors"
-  - "fedora"
   - "fedora-planet"
   - "friends"
   - "hfoss"

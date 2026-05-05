@@ -16,7 +16,6 @@ tags:
   - "metabrainz"
   - "music"
   - "musicbrainz"
-  - "open-source"
   - "reflections"
   - "rit-2171"
   - "rochester-institute-of-technology"

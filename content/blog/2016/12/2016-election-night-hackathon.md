@@ -3,6 +3,7 @@ title: "Students and professors work across the aisle during Election Night Hack
 date: 2016-12-15
 categories: 
   - "education"
+  - "foss"
 tags: 
   - "community"
   - "fedora-elections"
@@ -10,7 +11,6 @@ tags:
   - "hackathons"
   - "hacking"
   - "hfoss"
-  - "open-source"
   - "rochester-institute-of-technology"
 ---
 

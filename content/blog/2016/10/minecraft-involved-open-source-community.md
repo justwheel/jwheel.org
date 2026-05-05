@@ -8,12 +8,10 @@ categories:
 tags: 
   - "fedora-ambassadors"
   - "fedora-commops"
-  - "fedora"
   - "fedora-planet"
   - "getting-started"
   - "gsoc"
   - "minecraft"
-  - "open-source"
   - "rochester-institute-of-technology"
   - "spigotmc"
 images: ["/blog/2016/10/myopensourcestory.png"]

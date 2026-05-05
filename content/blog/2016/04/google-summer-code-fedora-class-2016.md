@@ -6,13 +6,11 @@ categories:
   - "fedora"
   - "foss"
 tags: 
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
   - "getting-started"
   - "gsoc"
   - "hfoss"
-  - "open-source"
   - "summer-activities"
 images: ["/img/Google-Summer-of-Code-announcement.png"]
 ---

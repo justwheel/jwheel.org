@@ -7,7 +7,6 @@ tags:
   - "albania"
   - "fedora-planet"
   - "open-labs-albania"
-  - "open-source"
   - "open-source-communities"
   - "open-source-design"
 images: ["/blog/2017/07/ura-design-osdc.png"]

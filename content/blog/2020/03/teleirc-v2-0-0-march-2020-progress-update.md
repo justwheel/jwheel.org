@@ -12,7 +12,6 @@ tags:
   - "hacking"
   - "irc"
   - "messaging"
-  - "open-source"
   - "research-and-learning"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"

@@ -10,7 +10,6 @@ tags:
   - "fedora-planet"
   - "high-performance-computing-hpc"
   - "linux"
-  - "open-source"
   - "open-source-communities"
   - "research-and-learning"
 images: ["/blog/2019/08/hpc-workloads-containers.jpg"]

@@ -9,7 +9,6 @@ tags:
   - "fedora-planet"
   - "gplv3"
   - "hfoss"
-  - "open-source"
   - "open-source-licenses"
   - "things-you-should-know-understand"
 ---

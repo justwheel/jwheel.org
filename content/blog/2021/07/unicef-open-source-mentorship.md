@@ -11,7 +11,6 @@ tags:
   - "digital-public-goods"
   - "humanitarian"
   - "librecorps"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "rochester-institute-of-technology"

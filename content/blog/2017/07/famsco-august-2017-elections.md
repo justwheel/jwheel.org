@@ -7,7 +7,6 @@ tags:
   - "community"
   - "fedora-ambassadors"
   - "fedora-elections"
-  - "fedora"
   - "fedora-planet"
   - "open-source-communities"
   - "working-together"

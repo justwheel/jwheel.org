@@ -7,7 +7,6 @@ categories:
 tags: 
   - "events"
   - "fedora-commops"
-  - "fedora"
   - "fedora-planet"
   - "fosdem"
   - "metrics"

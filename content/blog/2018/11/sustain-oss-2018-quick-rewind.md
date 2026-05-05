@@ -13,7 +13,6 @@ tags:
   - "fedora-planet"
   - "hfoss"
   - "metabrainz"
-  - "open-source"
   - "open-source-communities"
   - "open-source-design"
   - "scalability"

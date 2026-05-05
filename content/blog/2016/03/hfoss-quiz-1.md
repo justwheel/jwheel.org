@@ -8,7 +8,6 @@ tags:
   - "fedora-planet"
   - "history"
   - "hfoss"
-  - "open-source"
   - "quiz"
   - "rochester-institute-of-technology"
 ---

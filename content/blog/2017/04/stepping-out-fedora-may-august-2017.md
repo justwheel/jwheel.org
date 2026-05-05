@@ -5,7 +5,6 @@ categories:
   - "fedora"
 tags: 
   - "community"
-  - "fedora"
   - "fedora-planet"
   - "working-together"
 ---

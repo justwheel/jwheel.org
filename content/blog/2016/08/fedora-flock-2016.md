@@ -12,7 +12,6 @@ tags:
   - "fedora-ambassadors"
   - "fedora-commops"
   - "fedora-design"
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
   - "flock"

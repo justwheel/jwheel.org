@@ -6,7 +6,6 @@ categories:
   - "tech"
 tags: 
   - "ansible"
-  - "fedora"
   - "fedora-planet"
   - "vagrant"
   - "virtual-machines-vm"

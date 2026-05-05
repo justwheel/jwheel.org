@@ -7,7 +7,6 @@ categories:
 tags: 
   - "ansible"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
   - "gsoc"

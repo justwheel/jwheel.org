@@ -5,7 +5,6 @@ categories:
   - "fedora"
   - "perspective"
 tags: 
-  - "fedora"
   - "fedora-planet"
 ---
 

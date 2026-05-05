@@ -16,7 +16,6 @@ tags:
   - "fedora-planet"
   - "fossmagic"
   - "librecorps"
-  - "open-source"
   - "open-source-communities"
   - "rochester-institute-of-technology"
   - "sustain-oss"

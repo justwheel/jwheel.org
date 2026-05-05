@@ -7,7 +7,6 @@ categories:
   - "foss"
 tags: 
   - "bugfix"
-  - "fedora"
   - "fedora-planet"
   - "getting-started"
   - "hfoss"

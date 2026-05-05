@@ -7,7 +7,6 @@ tags:
   - "facebook"
   - "foss-talks"
   - "fossmagic"
-  - "open-source"
   - "open-source-communities"
   - "rochester-institute-of-technology"
   - "social-media"

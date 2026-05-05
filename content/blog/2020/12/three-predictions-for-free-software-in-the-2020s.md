@@ -11,7 +11,6 @@ tags:
   - "fedora-planet"
   - "independent-study"
   - "life-lessons"
-  - "open-source"
   - "opinion"
   - "reflections"
   - "rochester-institute-of-technology"

@@ -7,7 +7,6 @@ tags:
   - "best-practices"
   - "communication"
   - "fedora-planet"
-  - "open-source"
   - "open-source-communities"
 images: ["/blog/2022/12/three-product-roadmaps.jpg"]
 ---

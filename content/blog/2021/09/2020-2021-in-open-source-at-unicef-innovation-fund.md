@@ -9,7 +9,6 @@ tags:
   - "digital-public-goods"
   - "fedora-planet"
   - "humanitarian"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "teaching-open-source"

@@ -7,7 +7,6 @@ tags:
   - "ansible"
   - "fedora-commops"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
   - "flock"

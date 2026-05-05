@@ -5,7 +5,6 @@ categories:
   - "fedora"
   - "foss"
 tags: 
-  - "fedora"
   - "fedora-planet"
   - "flock"
   - "linux"

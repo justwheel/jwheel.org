@@ -16,7 +16,6 @@ tags:
   - "fosdem"
   - "history"
   - "life-lessons"
-  - "open-source"
   - "open-source-licenses"
   - "politics"
   - "reflections"

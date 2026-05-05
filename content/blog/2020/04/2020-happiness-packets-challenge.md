@@ -8,7 +8,6 @@ tags:
   - "fedora-planet"
   - "friends"
   - "happiness-packets"
-  - "open-source"
   - "what-its-all-about"
 images: ["/img/happiness-packet-challenge.png"]
 ---

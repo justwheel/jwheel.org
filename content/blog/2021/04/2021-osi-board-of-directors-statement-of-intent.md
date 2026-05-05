@@ -8,7 +8,6 @@ tags:
   - "2020s"
   - "activism"
   - "fedora-planet"
-  - "open-source"
   - "open-source-communities"
   - "open-source-initiative-osi"
   - "open-source-licenses"

@@ -8,10 +8,8 @@ categories:
 tags: 
   - "education"
   - "fedora-ambassadors"
-  - "fedora"
   - "fedora-planet"
   - "hfoss"
-  - "open-source"
   - "outreach"
 ---
 

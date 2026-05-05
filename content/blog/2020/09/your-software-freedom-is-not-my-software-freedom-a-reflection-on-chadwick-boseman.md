@@ -16,7 +16,6 @@ tags:
   - "history"
   - "international"
   - "life-lessons"
-  - "open-source"
   - "opinion"
   - "politics"
   - "privilege"

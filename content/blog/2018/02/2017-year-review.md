@@ -25,7 +25,6 @@ tags:
   - "fedora-commops"
   - "fedora-council"
   - "fedora-dei"
-  - "fedora"
   - "flock"
   - "flock-2017"
   - "fosdem"

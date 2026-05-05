@@ -12,7 +12,6 @@ tags:
   - "conferences"
   - "fedora-planet"
   - "history"
-  - "open-source"
   - "open-source-communities"
   - "retrospective"
   - "sustain-oss"

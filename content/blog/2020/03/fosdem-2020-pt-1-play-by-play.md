@@ -16,7 +16,6 @@ tags:
   - "fosdem"
   - "fossmagic"
   - "librecorps"
-  - "open-source"
   - "open-source-design"
   - "rochester-institute-of-technology"
   - "travel"

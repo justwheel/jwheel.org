@@ -7,7 +7,6 @@ categories:
 tags: 
   - "community"
   - "fedora-badges"
-  - "fedora"
   - "fedora-planet"
   - "gotta-badge-em-all"
 images: ["/blog/2015/11/Fedora-Badges.png"]

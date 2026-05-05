@@ -20,7 +20,6 @@ tags:
   - "github"
   - "librecorps"
   - "metrics"
-  - "open-source"
   - "open-source-communities"
   - "rochester-institute-of-technology"
   - "travel"

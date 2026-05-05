@@ -7,7 +7,6 @@ categories:
   - "tech"
 tags: 
   - "2010s"
-  - "fedora"
   - "fedora-packaging"
   - "fedora-planet"
   - "linux"

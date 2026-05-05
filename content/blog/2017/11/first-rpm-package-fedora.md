@@ -1,14 +1,13 @@
 ---
 title: "How I created my first RPM package in Fedora"
 date: 2017-11-07
-categories: 
+categories:
   - "fedora"
+  - "foss"
   - "tech"
-tags: 
-  - "fedora"
+tags:
   - "fedora-packaging"
   - "fedora-planet"
-  - "open-source"
   - "packaging"
   - "rpm"
 images: ["/blog/2017/11/newpackage.png"]

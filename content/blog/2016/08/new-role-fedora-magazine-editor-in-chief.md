@@ -4,7 +4,6 @@ date: 2016-08-22
 categories: 
   - "fedora"
 tags: 
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
 images: ["/blog/2016/08/new-role-magazine-editor-in-chief.png"]

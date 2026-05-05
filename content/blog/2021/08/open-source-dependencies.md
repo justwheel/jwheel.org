@@ -1,17 +1,16 @@
 ---
 title: "What if Open Source dependencies weren't software?"
 date: 2021-08-10
-categories: 
+categories:
+  - "fedora"
   - "foss"
   - "perspective"
   - "tech"
-tags: 
+tags:
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-planet"
   - "history"
   - "hfoss"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "politics"
@@ -80,7 +79,7 @@ To ignore the impact of legacies in social activities surrounding Open Source is
 ## Dependencies: Love
 
 > Power at its best is **love implementing the demands of justice**. Justice at its best is **love correcting everything that stands against love**.
-> 
+>
 > [Dr. Martin Luther King, Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 The act of existence can be political. We cannot escape the sociopolitical environment of our world, no matter how much we wish to push it aside. If we choose to ignore it, there are others who choose to manipulate common ignorance, to the exploit of their own unbounded wealth. We must embrace and acknowledge the political atmosphere permeates our world; it does not disappear and hide away when it makes us uncomfortable.

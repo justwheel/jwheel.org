@@ -7,7 +7,6 @@ categories:
   - "red-hat"
 tags: 
   - "2020s"
-  - "fedora"
   - "fedora-planet"
   - "internship"
   - "open-source-communities"

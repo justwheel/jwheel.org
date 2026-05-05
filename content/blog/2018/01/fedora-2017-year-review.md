@@ -7,7 +7,6 @@ tags:
   - "communication"
   - "community"
   - "fedora-commops"
-  - "fedora"
   - "fedora-planet"
   - "open-source-communities"
   - "retrospective"

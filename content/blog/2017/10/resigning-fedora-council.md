@@ -7,7 +7,6 @@ tags:
   - "community"
   - "fedora-council"
   - "fedora-elections"
-  - "fedora"
   - "fedora-planet"
   - "open-source-communities"
 images: ["/img/community.png"]

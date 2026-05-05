@@ -3,12 +3,11 @@ title: "GSoC 2016 Weekly Rundown: Breaking down WordPress networks"
 date: 2016-07-02
 categories: 
   - "fedora"
+  - "foss"
 tags: 
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-planet"
   - "gsoc"
-  - "open-source"
   - "research-and-learning"
   - "wordpress"
 images: ["/img/Google-Summer-of-Code-announcement.png"]

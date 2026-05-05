@@ -9,7 +9,6 @@ tags:
   - "fedora-ambassadors"
   - "fedora-badges"
   - "fedora-commops"
-  - "fedora"
   - "fedora-magazine"
   - "fedora-planet"
 ---

@@ -3,14 +3,13 @@ title: "Fedora Ambassadors: Communicating about Design"
 date: 2016-06-30
 categories: 
   - "fedora"
+  - "foss"
 tags: 
   - "communication"
   - "fedora-ambassadors"
   - "fedora-commops"
   - "fedora-design"
-  - "fedora"
   - "fedora-planet"
-  - "open-source"
   - "working-together"
 images: ["/blog/2016/06/ambassadors-communicating-design.png"]
 ---

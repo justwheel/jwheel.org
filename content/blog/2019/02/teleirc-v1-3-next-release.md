@@ -10,7 +10,6 @@ tags:
   - "irc"
   - "javascript"
   - "messaging"
-  - "open-source"
   - "open-source-communities"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"

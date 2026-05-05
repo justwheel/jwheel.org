@@ -11,7 +11,6 @@ tags:
   - "fedora-marketing"
   - "fedora-planet"
   - "internship"
-  - "open-source"
   - "open-source-communities"
 images: ["/blog/2024/03/win-win-for-all-outreachy.png"]
 ---

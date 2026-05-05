@@ -8,7 +8,6 @@ tags:
   - "communication"
   - "community"
   - "fedora-commops"
-  - "fedora"
   - "fedora-planet"
 ---
 

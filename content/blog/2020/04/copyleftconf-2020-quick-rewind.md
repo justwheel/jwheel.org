@@ -17,7 +17,6 @@ tags:
   - "fedora-planet"
   - "fossmagic"
   - "librecorps"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "politics"

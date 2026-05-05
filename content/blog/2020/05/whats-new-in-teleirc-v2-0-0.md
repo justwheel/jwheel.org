@@ -10,7 +10,6 @@ tags:
   - "development"
   - "fedora-planet"
   - "irc"
-  - "open-source"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
   - "rochester-ny-usa"

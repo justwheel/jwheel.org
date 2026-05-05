@@ -9,7 +9,6 @@ tags:
   - "education"
   - "fedora-planet"
   - "github"
-  - "open-source"
   - "rochester-institute-of-technology"
   - "teaching-open-source"
 images: ["/blog/2016/10/github-organizations-for-clubs.png"]

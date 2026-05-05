@@ -11,7 +11,6 @@ tags:
   - "conferences"
   - "fedora-planet"
   - "open-labs-albania"
-  - "open-source"
   - "open-source-communities"
   - "oscal-open-source-conference-albania"
   - "teaching-open-source"

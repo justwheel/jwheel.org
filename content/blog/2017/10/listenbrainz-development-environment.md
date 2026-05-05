@@ -17,7 +17,6 @@ tags:
   - "metabrainz"
   - "music"
   - "musicbrainz"
-  - "open-source"
   - "rit-2171"
   - "rochester-institute-of-technology"
 images: ["/img/listenbrainz-rit-independent-study.png"]

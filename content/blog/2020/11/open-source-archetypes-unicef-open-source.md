@@ -7,7 +7,6 @@ categories:
   - "unicef"
 tags:
   - "mozilla"
-  - "open-source"
   - "open-source-communities"
   - "open-source-licenses"
   - "research-and-learning"

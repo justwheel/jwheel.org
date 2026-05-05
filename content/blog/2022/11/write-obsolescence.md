@@ -9,7 +9,6 @@ tags:
   - "community"
   - "documentation"
   - "fedora-planet"
-  - "open-source"
   - "reflections"
   - "unicef"
   - "writing"

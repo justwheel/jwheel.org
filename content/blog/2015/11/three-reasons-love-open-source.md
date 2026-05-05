@@ -8,7 +8,6 @@ categories:
 tags:
   - "community"
   - "culture"
-  - "fedora"
   - "fedora-planet"
 ---
 

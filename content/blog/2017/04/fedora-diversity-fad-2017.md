@@ -14,7 +14,6 @@ tags:
   - "events"
   - "fedora-activity-day-fad"
   - "fedora-dei"
-  - "fedora"
   - "fedora-planet"
   - "open-source-communities"
   - "travel"

@@ -9,7 +9,6 @@ tags:
   - "community"
   - "culture"
   - "fedora-appreciation-week"
-  - "fedora"
   - "fedora-planet"
   - "friends"
   - "open-source-inspirations"

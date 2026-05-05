@@ -9,10 +9,8 @@ tags:
   - "ansible"
   - "devops"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-planet"
   - "gsoc"
-  - "open-source"
   - "vagrant"
   - "virtual-machines-vm"
 images: ["/img/Google-Summer-of-Code-announcement.png"]

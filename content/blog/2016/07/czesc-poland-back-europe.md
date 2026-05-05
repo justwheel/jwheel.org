@@ -3,14 +3,13 @@ title: "Cześć, Poland! Back to Europe"
 date: 2016-07-11
 categories: 
   - "fedora"
+  - "foss"
 tags: 
   - "fedora-ambassadors"
   - "fedora-commops"
-  - "fedora"
   - "fedora-planet"
   - "flock"
   - "flock-2016"
-  - "open-source"
   - "poland"
   - "travel"
 images: ["/blog/2016/07/poland-flock-2016.png"]

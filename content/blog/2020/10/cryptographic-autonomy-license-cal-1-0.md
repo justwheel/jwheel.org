@@ -8,7 +8,6 @@ tags:
   - "copyright"
   - "data"
   - "fedora-planet"
-  - "open-source"
   - "open-source-licenses"
   - "opinion"
   - "teaching-open-source"

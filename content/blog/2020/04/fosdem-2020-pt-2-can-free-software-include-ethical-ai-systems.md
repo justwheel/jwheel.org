@@ -15,7 +15,6 @@ tags:
   - "events"
   - "fosdem"
   - "librecorps"
-  - "open-source"
   - "travel"
 images: ["/img/fosdem-2020.png"]
 ---

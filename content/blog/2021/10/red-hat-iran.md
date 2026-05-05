@@ -4,6 +4,7 @@ date: 2021-10-26
 categories: 
   - "fedora"
   - "tech"
+  - "foss"
 tags: 
   - "access"
   - "activism"
@@ -11,12 +12,10 @@ tags:
   - "dei"
   - "ethics"
   - "fedora-council"
-  - "fedora"
   - "fedora-planet"
   - "free-information"
   - "government"
   - "international"
-  - "open-source"
   - "open-source-communities"
   - "united-states"
 images: ["/blog/2021/10/iran.jpg"]

@@ -12,7 +12,6 @@ tags:
   - "hackathons"
   - "hacking"
   - "open-labs-albania"
-  - "open-source"
   - "sustainable-development-goals"
   - "teaching-open-source"
   - "tirana-al"

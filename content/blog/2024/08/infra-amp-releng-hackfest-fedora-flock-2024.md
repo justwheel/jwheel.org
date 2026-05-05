@@ -11,7 +11,6 @@ tags:
   - "events"
   - "fedora-commops"
   - "fedora-infrastructure"
-  - "fedora"
   - "fedora-planet"
   - "flock"
   - "open-source-communities"
