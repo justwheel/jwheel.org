@@ -44,6 +44,9 @@ If `themes/toph/` does not exist or is empty, the git submodule has not been clo
 - `content/categories/` — Category term `_index.md` files with human-readable `title`, descriptions, and optional `hide_sitemap: true` to hide from listings.
 - `content/tags/` — Tag term `_index.md` files. Tags with `hide_sitemap: true` are hidden from the word cloud and taxonomy listings.
 - `content/*.adoc` — Root pages (index, legal) use AsciiDoc format.
+- `assets/masks/` — Image filter masks for Hugo image processing (not served statically).
+- `assets/pages/` — Page-specific images processed by Hugo (e.g., About Me profile photo).
+- `assets/content/` — Reserved for blog and content images (future migration from `static/img/`).
 - `static/img/` — Shared images used by multiple posts; `static/docs/` — PDFs; `static/archive/` — archived assets.
 
 Structural categories (`footer`, `projects`) are filtered from taxonomy pages via `params.taxonomy_exclude` in config. Individual categories and tags can also be hidden via `hide_sitemap: true` in their `_index.md` front matter.
@@ -94,6 +97,14 @@ Images with captions use the Markdown title attribute: `![alt](src "caption text
 ## RSS Feed
 
 Custom RSS template at `layouts/_default/rss.xml` with full post content in CDATA, `.RegularPages` filtering, and `biography.name` for managing editor. Tag-specific feeds are available at `/tags/<tag>/index.xml` (e.g., `/tags/fedora-planet/index.xml`).
+
+Posts with `images` front matter include the cover image in RSS items as both an inline `<img>` in CDATA content and an RSS 2.0 `<enclosure>` element with file size and MIME type. Image path resolution uses the shared `resolve-image-path.html` partial (same logic as `single.html`).
+
+## Site-Level Shortcodes
+
+The site has its own shortcodes in `layouts/shortcodes/` (separate from theme shortcodes):
+
+- `profile-photo.html` — Renders a profile photo with Hugo image filters (resize, grayscale, WebP, oval mask via `images.Mask`). Used on the About Me page. Publishes the original image at its source path via `resources.Copy` for OpenGraph compatibility.
 
 ## Heading Anchors
 
