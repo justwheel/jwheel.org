@@ -22,7 +22,7 @@ git submodule update --remote --rebase
 git submodule update --init
 ```
 
-Hugo Extended 0.159.0 locally and in CI. The theme requires minimum Hugo 0.158.0 (for `css.Build`).
+Hugo Extended 0.159.0 locally; 0.158.0 in CI. The theme requires minimum Hugo 0.158.0 (for `css.Build`).
 
 ## Two-Repository Architecture
 
@@ -88,7 +88,7 @@ Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without H
 
 ## Cover Images
 
-Blog posts can set `images: ["/blog/2023/12/photo.jpg"]` in front matter (YAML flow sequence) to display a cover image and enable automatic OpenGraph/Twitter card previews via Hugo's built-in templates. Absolute paths are used as-is; relative paths are resolved via `path.Join`. Posts are standalone files (not leaf bundles), so `.Resources` is not available.
+Blog posts can set `images: ["/blog/2023/12/photo.jpg"]` in front matter (YAML flow sequence) to display a cover image and enable automatic OpenGraph/Twitter card previews via Hugo's built-in templates. Path resolution (absolute, relative, remote, protocol-relative) is handled by the theme's shared `resolve-image-path.html` partial. Posts are standalone files (not leaf bundles), so `.Resources` is not available.
 
 ## Image Captions
 
