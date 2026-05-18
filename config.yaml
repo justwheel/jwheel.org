@@ -11,7 +11,7 @@
 title: Justin Wheeler
 baseURL: https://jwheel.org/
 theme: toph
-languageCode: en-us
+locale: en-us
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: false
@@ -160,11 +160,11 @@ params:
 defaultContentLang: en
 languages:
   ar:
-    languageDirection: rtl
-    languageName: عربي
+    direction: rtl
+    label: عربي
   en:
-    languageName: English
+    label: English
   es:
-    languageName: español
+    label: español
   hi:
-    languageName: हिन्दी
+    label: हिन्दी
