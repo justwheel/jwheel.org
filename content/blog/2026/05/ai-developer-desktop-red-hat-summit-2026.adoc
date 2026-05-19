@@ -8,6 +8,7 @@ categories:
 tags:
     - 2020s
     - ai-assisted
+    - artificial-intelligence
     - copyright
     - events
     - fedora-council
@@ -25,20 +26,22 @@ The 1:1 conversations over coffee or meals provide the blunt truth about how peo
 Over breakfast one morning, I asked three different people a simple question.
 _If you could change one thing about Fedora governance or the project right now, what would it be?_
 I received three entirely different answers.
-Under the https://en.wikipedia.org/wiki/Chatham_House_Rule[Chatham House Rule], I want to share those concerns and what I believe they mean for our immediate future.
+While this question was not specifically about the Fedora AI Developer Desktop, it provided an opportunity to hear governance grievances and think aloud together about what fixing these things may look like.
+With the spirit of collaboration and transparency in mind and respecting the https://en.wikipedia.org/wiki/Chatham_House_Rule[Chatham House Rule], I want to share those concerns and what I believe they mean for our immediate future.
 
 
 [[weight-of-minus-one]]
 == 1. The AI Developer Desktop: The Weight of the "-1" and the Demand for Consensus
 
 The first piece of feedback came from a FESCo member who expressed deep exhaustion over the recent Fedora AI Developer Desktop https://fedoraproject.org/wiki/Initiatives/AI_Developer_Desktop_Initiative_2026[proposal].
-The FESCo member highlighted a structural imbalance: the feeling that appointed roles on the https://docs.fedoraproject.org/en-US/council/[Fedora Council] wield too much executive authority, leaving elected Council representatives feeling powerless to stand up against what may appear like thorny, political pushes.
+The FESCo member highlighted a structural imbalance: the feeling that all appointed roles on the https://docs.fedoraproject.org/en-US/council/[Fedora Council] wield too much executive authority, leaving elected Council representatives feeling powerless to stand up against what may appear like thorny, political pushes.
 
 This is not just an abstract fear.
 I heard from past and present Council members who privately expressed reservations about a proposal, yet felt immense pressure to vote "yes" publicly.
 A strong desire for unanimous consent inadvertently coerces people into agreement, even when core concerns remain unaddressed.
 
-This dynamic is exactly why I cast a `-1` vote on the Fedora AI Developer Desktop initiative.
+This dynamic is part of why I cast a `-1` vote on the Fedora AI Developer Desktop initiative, even after having initially voted `+1` in favor.
+I did not take the decision to change my vote lightly, but the fact that I changed my vote to pump the brakes validates the feedback I have heard informally.
 
 If you look at the https://docs.fedoraproject.org/en-US/council/#decisions[Fedora Council charter], we operate on a consensus decision-making model designed to foster collaboration and seek agreement.
 A `-1` vote does not act as a hostile veto or a permanent denial.
@@ -47,32 +50,47 @@ It triggers a mandatory *cooling-off period*.
 When we move too fast, risking the alienation of our core engineering and kernel experts, we must utilize the tools our charter gives us to buy time, address specific concerns, and ensure actual, rather than theatrical, consensus.
 Burning bridges in any community is far easier than rebuilding them.
 
+Perhaps there is room to evolve the Fedora Council governance and decision-making model to leave more room for non-blocking dissent.
+There is definitely room to consider how the Fedora Council invites community feedback into difficult conversations, in a way that feels like we are listening instead of dictating.
+
 
 [[vision-void]]
 == 2. The Vision Void Surrounding the AI Developer Desktop
 
 The second insight came from a long-time Fedora contributor.
 This contributor works for a major cloud hyperscaler, but their heart always prioritizes the community.
-The feedback was simple: our messaging is muddled, and we fail to tell a coherent story about what we produce.
+The feedback was simple: our overall messaging is muddled, and we fail to tell a coherent story about what we produce.
+This was not specific to any individual output or deliverable, such as the Fedora AI Developer Desktop, but rather as a whole in terms of how we promote what Fedora is and is not.
 
 This symptom points to a larger issue: we currently lack a cohesive, strategic vision.
 We build more deliverables than ever, yet new users find it increasingly confusing to know where to begin.
 It reminds me of the pre-2014 era of Fedora, before https://mattdm.org/[Matthew Miller] led the https://fedoraproject.org/wiki/Fedora.next[Fedora.next strategy].
-The creation of Fedora Editions gave us a crisp, defined story about our work and impact.
+Back then, it felt like the message about what Fedora Linux was unclear.
+We had several downloads available, all promoted equally.
+It was confusing for end-users about where to start consuming Fedora, and which things were more polished and which things were more experimental.
+So, the creation of Fedora Editions gave us a crisp, defined story about our work and impact.
+It provided the narrative and structure to better explain the most critical, most important parts of what we produce as a community.
 Today, in 2026, perhaps we find ourselves lost in the weeds again.
 
-Our current Fedora Project Leader, https://fedoraproject.org/wiki/User:Jspaleta[Jef Spaleta], privately shared a vision that he sees as critical for the future of the project.
-However, a vision cannot effectively guide a community if it remains private and lacks community input.
-The project would benefit immensely if Jef shared that vision publicly.
-I offer this as an open, collaborative invitation to put those ideas out into the open so the community can read them, critique them, and help shape them.
-We cannot align on a strategy we have not read.
+Since coming into the role last year, the current Fedora Project Leader, https://fedoraproject.org/wiki/User:Jspaleta[Jef Spaleta], has spent a lot of time thinking about vision.
+The world changed a lot in the last few years, and there are parts of Fedora which are struggling to keep up.
+The insight shared with me by the Fedora contributor in this section reminded me of the ideas that Jef has voiced about what a new vision for Fedora could look like.
+What comes after Fedora.next?
+I do not envy him because it is a huge challenge to address, yet it is critical for the future of the project.
+I believe that Jef has the makings of a vision that could rally the community for the next decade of our work.
+Perhaps we, as Fedora Council, could help rally around the ideas for a new vision and surface this in the community.
+As a member of the Fedora governance, I would be happy to work together with Jef and other Fedora community leaders to have the wider conversation.
+
+In time, I hope we can address this insight shared by the Fedora contributor I spoke with.
+Ultimately, we cannot align on a strategy we have not yet read.
+I am optimistic that we will build something together with the community for the next decade of Fedora.
 
 
 [[trademarks]]
 == 3. Trademarks, Transparency, and an AI Developer Desktop Remix
 
 The final piece of feedback came from an EPEL maintainer with deep community roots, currently employed by Red Hat.
-He expressed frustration over Red Hat using the https://docs.fedoraproject.org/en-US/legal/trademarks/[Fedora trademark] in major product announcements without clear community visibility.
+They expressed frustration over Red Hat using the https://docs.fedoraproject.org/en-US/legal/trademarks/[Fedora trademark] in major product announcements without clear community visibility.
 
 Effective Fedora governance requires modernized trademark guidelines and a commitment to transparency.
 I propose creating a *public trademark ledger*.
