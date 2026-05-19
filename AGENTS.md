@@ -22,7 +22,7 @@ git submodule update --remote --rebase
 git submodule update --init
 ```
 
-Hugo Extended 0.159.0 locally; 0.158.0 in CI. The theme requires minimum Hugo 0.158.0 (for `css.Build`).
+Hugo Extended 0.161.1 locally and in CI. The theme requires minimum Hugo 0.158.0 (for `css.Build`).
 
 ## Two-Repository Architecture
 
