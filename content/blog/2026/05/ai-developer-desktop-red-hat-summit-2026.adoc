@@ -33,8 +33,8 @@ With the spirit of collaboration and transparency in mind and respecting the htt
 [[weight-of-minus-one]]
 == 1. The AI Developer Desktop: The Weight of the "-1" and the Demand for Consensus
 
-The first piece of feedback came from a FESCo member who expressed deep exhaustion over the recent Fedora AI Developer Desktop https://fedoraproject.org/wiki/Initiatives/AI_Developer_Desktop_Initiative_2026[proposal].
-The FESCo member highlighted a structural imbalance: the feeling that all appointed roles on the https://docs.fedoraproject.org/en-US/council/[Fedora Council] wield too much executive authority, leaving elected Council representatives feeling powerless to stand up against what may appear like thorny, political pushes.
+The first piece of feedback came from a community member who expressed deep exhaustion over the recent Fedora AI Developer Desktop https://fedoraproject.org/wiki/Initiatives/AI_Developer_Desktop_Initiative_2026[proposal].
+They highlighted a structural imbalance: the feeling that all appointed roles on the https://docs.fedoraproject.org/en-US/council/[Fedora Council] wield too much executive authority, leaving elected Council representatives feeling powerless to stand up against what may appear like thorny, political pushes.
 
 This is not just an abstract fear.
 I heard from past and present Council members who privately expressed reservations about a proposal, yet felt immense pressure to vote "yes" publicly.
@@ -58,7 +58,7 @@ There is definitely room to consider how the Fedora Council invites community fe
 == 2. The Vision Void Surrounding the AI Developer Desktop
 
 The second insight came from a long-time Fedora contributor.
-This contributor works for a major cloud hyperscaler, but their heart always prioritizes the community.
+This contributor participates in Fedora as part of their job, but their heart always prioritizes the community.
 The feedback was simple: our overall messaging is muddled, and we fail to tell a coherent story about what we produce.
 This was not specific to any individual output or deliverable, such as the Fedora AI Developer Desktop, but rather as a whole in terms of how we promote what Fedora is and is not.
 
@@ -89,7 +89,7 @@ I am optimistic that we will build something together with the community for the
 [[trademarks]]
 == 3. Trademarks, Transparency, and an AI Developer Desktop Remix
 
-The final piece of feedback came from an EPEL maintainer with deep community roots, currently employed by Red Hat.
+The final piece of feedback came from an EPEL maintainer with deep community roots.
 They expressed frustration over Red Hat using the https://docs.fedoraproject.org/en-US/legal/trademarks/[Fedora trademark] in major product announcements without clear community visibility.
 
 Effective Fedora governance requires modernized trademark guidelines and a commitment to transparency.
