@@ -29,7 +29,7 @@ The theme is developed in a separate repository:
 
 ### Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) 0.158.0 or later
+- [Hugo Extended](https://gohugo.io/installation/) 0.161.0 or later
 - [Asciidoctor](https://asciidoctor.org/) (for AsciiDoc content)
 - Git (for submodule management)
 
