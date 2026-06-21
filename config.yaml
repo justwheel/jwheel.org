@@ -98,6 +98,8 @@ params:
     email: contact@jwheel.org
     blog: https://jwheel.org/blog/
     first_online: 2014
+    employer: Red Hat
+    job_title: Fedora Community Architect
     knows_about: [
       "Ansible",
       "CentOS",

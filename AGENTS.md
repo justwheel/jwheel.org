@@ -142,6 +142,23 @@ Never skip this step, even if the user has approved similar comments before. Eac
 - **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
 - User creates branches and approves all changes
 
+## Hugo Template Conventions
+
+### Global `site` function (ALWAYS use)
+
+Always use Hugo's global `site` function to access site-level data in templates.
+Never use `$.Site` or `.Site`.
+
+| Use this | Not this |
+|----------|----------|
+| `site.Title` | `$.Site.Title` or `.Site.Title` |
+| `site.Params.description` | `$.Site.Params.description` |
+| `site.BaseURL` | `$.Site.BaseURL` |
+
+The global `site` function is not context-dependent — it works correctly inside `with`, `range`, and other blocks that rebind the `.` context.
+When modifying existing templates that use `$.Site` or `.Site`, convert them to `site` as part of the change.
+Do not leave mixed usage in the same file.
+
 ## JavaScript Conventions
 
 - Vanilla JS only (no dependencies beyond Bootstrap)
