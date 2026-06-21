@@ -1,6 +1,7 @@
 ---
 title: "SpigotMC goes to California for MINECON"
 date: 2016-11-15
+description: "MINECON 2016 took place from September 24-26, 2016 in Anaheim, California. I joined the SpigotMC team one final time to help rock the convention floor."
 categories: 
   - "foss"
   - "travel"

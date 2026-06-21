@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Vacation"
 date: 2015-12-21
+description: "The Vacation badge is awarded to contributors who mark when they will be unavailable in the Fedora Calendar app. This helps others know when you'll be away."
 categories: 
   - "fedora"
   - "foss"

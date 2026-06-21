@@ -1,6 +1,7 @@
 ---
 title: "Tergiversate: Demon Days by Gorillaz"
 date: 2018-01-16
+description: "Demon Days is the second studio album released by Gorillaz in 2005. Demon Days is officially classified as alternative hip hop, but it's better described as a fusion of styles and genres, rolled together."
 categories: 
   - "music"
 tags: 

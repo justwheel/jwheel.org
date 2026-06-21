@@ -1,6 +1,7 @@
 ---
 title: "What I discovered in Tirana, Albania"
 date: 2017-05-15
+description: "The Open Labs Hackerspace in Tirana, Albania is passionate and empowered about open source and its ability to influence change in the region."
 categories: 
   - "foss"
   - "perspective"

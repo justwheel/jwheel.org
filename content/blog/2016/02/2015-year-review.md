@@ -1,6 +1,7 @@
 ---
 title: "2015 - My Year in Review"
 date: 2016-02-25
+description: "I originally began drafting this post 900 miles away from my current location. It was an hour until the New Year and I was trying to put together a rough outline of the things that made 2015 such an incredible year for me. However, for reasons I don’t really know,"
 categories:
   - "education"
   - "fedora"

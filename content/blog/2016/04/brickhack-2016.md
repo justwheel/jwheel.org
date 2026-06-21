@@ -1,6 +1,7 @@
 ---
 title: "BrickHack 2016"
 date: 2016-04-15
+description: "BrickHack 2016 recently happened at the Rochester Institute of Technology. I attended as a Fedora Project Ambassador. Read up on BrickHack 2016!"
 categories: 
   - "education"
   - "fedora"

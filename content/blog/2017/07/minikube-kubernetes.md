@@ -1,6 +1,7 @@
 ---
 title: "Clustered computing on Fedora with Minikube"
 date: 2017-07-07
+description: "This tutorial builds on basic Kubernetes knowledge and shows you how to use Minikube to build a single-node cluster on your own desktop and deploy an app."
 categories: 
   - "tech"
 tags: 

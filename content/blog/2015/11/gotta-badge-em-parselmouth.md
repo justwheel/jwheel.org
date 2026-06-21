@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Parselmouth"
 date: 2015-11-23
+description: "Parselmouth is awarded to Fedora contributors who assist in porting Python 2 packages in Fedora to Python 3. Learn how you can Parselmouth too!"
 categories: 
   - "fedora"
   - "foss"

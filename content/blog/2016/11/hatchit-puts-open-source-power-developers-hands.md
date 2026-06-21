@@ -1,6 +1,7 @@
 ---
 title: "Hatchit puts open source power in developers' hands"
 date: 2016-11-03
+description: "This post was originally published on OpenSource.com. More and more students are learning about the world of open source through video games. Games like FreeCiv let players build empires based on the history of human civilization while games like Minetest emulates Minecraft in an open source block-building sandbox. Students are"
 categories: 
   - "education"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "HPC workloads in containers: Comparison of container run-times"
 date: 2019-08-20
+description: "Containers are slowly taking over the world. Does this include the high-performance computing (HPC) world? As of July 2019, the answer might be yes!"
 categories: 
   - "foss"
   - "tech"

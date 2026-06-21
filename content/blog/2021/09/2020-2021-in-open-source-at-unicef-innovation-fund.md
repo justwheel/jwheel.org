@@ -1,6 +1,7 @@
 ---
 title: "2020/2021 in Open Source at UNICEF Innovation Fund"
 date: 2021-09-07
+description: "The UNICEF Innovation Fund offers a unique Open Source mentorship programme. This article looks back at the highlights of 2020/2021."
 categories: 
   - "foss"
   - "unicef"

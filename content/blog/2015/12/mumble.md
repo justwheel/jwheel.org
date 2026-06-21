@@ -1,6 +1,7 @@
 ---
 title: "Mumble ready for testing"
 date: 2015-12-03
+description: "Mumble is back! The popular Voice Over IP (VoIP) program, Mumble, is being repackaged once again for Fedora 22 and 23. Learn how you can help test."
 categories: 
   - "fedora"
   - "foss"

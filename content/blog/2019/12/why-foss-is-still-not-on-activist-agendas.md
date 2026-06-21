@@ -1,6 +1,7 @@
 ---
 title: "Why FOSS is still not on activist agendas"
 date: 2019-12-13
+description: "In 2006, Bruce Byfield asked why open source was not on activist agendas. Have things changed in 2019? What did Byfield get right? What did he leave out?"
 categories: 
   - "foss"
   - "perspective"

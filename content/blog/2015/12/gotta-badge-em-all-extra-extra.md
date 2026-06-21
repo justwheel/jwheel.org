@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Extra! Extra!"
 date: 2015-12-07
+description: "The Extra! Extra! badge is awarded to Fedora contributors that write an article for the Fedora Magazine, the premiere publication offered by Fedora."
 categories: 
   - "fedora"
   - "foss"

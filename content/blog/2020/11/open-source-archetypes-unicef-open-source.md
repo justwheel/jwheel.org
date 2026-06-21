@@ -1,6 +1,7 @@
 ---
 title: "How Mozilla Open Source Archetypes influence UNICEF Open Source Mentorship"
 date: 2020-11-10
+description: 'Mozilla published the "Open Source Archetypes" in 2018. This article recaps how the report influences the UNICEF Innovation Fund.'
 categories:
   - "foss"
   - "tech"

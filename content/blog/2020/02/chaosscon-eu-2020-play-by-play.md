@@ -1,6 +1,7 @@
 ---
 title: "CHAOSScon EU 2020: play by play"
 date: 2020-02-25
+description: "CHAOSScon EU 2020 took place on Friday, January 31, 2020 in Brussels, Belgium. This event report is a play by play recap of the sessions and conversations."
 categories: 
   - "foss"
   - "tech"

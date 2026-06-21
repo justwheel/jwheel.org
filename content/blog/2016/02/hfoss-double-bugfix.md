@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Double bugfix"
 date: 2016-02-15
+description: "For this week's homework, we are tasked with finding an open source project, looking at known bugs or finding new ones, and submitting a bugfix."
 categories: 
   - "education"
   - "fedora"

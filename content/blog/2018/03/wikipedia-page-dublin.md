@@ -1,6 +1,7 @@
 ---
 title: "How I accidentally wrote a Wikipedia page on a layover in Dublin"
 date: 2018-03-15
+description: "My flight to NYC from Dublin was canceled and I had an extra day to spend in Ireland. I didn't know it yet, but I would learn about the influence of Irish women in medicine and write a Wikipedia article on one of them. What a layover!"
 categories: 
   - "foss"
   - "travel"

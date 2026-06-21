@@ -1,6 +1,7 @@
 ---
 title: "Keep your open source project organized with GitHub project boards"
 date: 2018-06-05
+description: "Managing an open source project is hard work. Learn how to make your open source project more transparent and organized with GitHub project boards."
 categories: 
   - "foss"
   - "tech"

@@ -1,6 +1,7 @@
 ---
 title: "Telegram: 21st century communication"
 date: 2015-11-12
+description: "I have stumbled across a single communication platform that exceeds the standards of any other application I've used before: Telegram. But why use Telegram?"
 categories: 
   - "foss"
 tags: 

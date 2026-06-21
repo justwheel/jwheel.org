@@ -1,6 +1,7 @@
 ---
 title: "Fedora Appreciation Week: Tribute to a legacy"
 date: 2018-11-06
+description: "I learned more about a man named Seth Vidal by chance. For Fedora Appreciation Week, I wanted to share a personal story surrounding his life and passing."
 categories: 
   - "fedora"
   - "perspective"

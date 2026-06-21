@@ -1,6 +1,7 @@
 ---
 title: "How did Free Software build a social movement?"
 date: 2020-04-14
+description: "The Free Software movement is rooted to origins in the 1980s. As part of a talk I gave with my colleague and friend Mike Nolan at FOSDEM 2020, we analyzed how the Free Software movement emerged as a response to a changing digital world in three different phases. This blog"
 categories: 
   - "foss"
   - "perspective"

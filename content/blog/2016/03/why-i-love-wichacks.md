@@ -1,6 +1,7 @@
 ---
 title: "Why I love WiCHacks"
 date: 2016-03-07
+description: "WiCHacks is an annual hackathon put on by Women in Computing at RIT. I registered as a volunteer and ended up discovering an incredible community."
 categories: 
   - "education"
   - "foss"

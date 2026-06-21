@@ -1,6 +1,7 @@
 ---
 title: "GSoC 2016: That's a wrap!"
 date: 2016-08-21
+description: "August 22, 2016, marks the end of the Google Summer of Code (GSoC) 2016 program. This post is an overview of my participation and a short reflection."
 categories: 
   - "fedora"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Tergiversate: Abysma by Geotic"
 date: 2018-03-19
+description: "Abysma by Geotic is a cross between electronica and indie pop that pushes us to introspect on ourselves, acknowledge our worst qualities, and recognize they can be overcome. Justin W. Flory reviews the album in his music column, Tergiversate."
 categories: 
   - "music"
 tags: 

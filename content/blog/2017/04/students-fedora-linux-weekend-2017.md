@@ -1,6 +1,7 @@
 ---
 title: "Students meet Fedora at Linux Weekend 2017"
 date: 2017-04-04
+description: "Open source events happen all over the world. From March 25-26, 2017, students were introduced to Fedora at Linux Weekend 2017 in Tirana, Albania."
 categories: 
   - "fedora"
   - "foss"

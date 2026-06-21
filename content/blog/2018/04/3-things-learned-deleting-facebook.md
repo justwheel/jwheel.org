@@ -1,6 +1,7 @@
 ---
 title: "Six months later: 3 things I learned from deleting Facebook"
 date: 2018-04-02
+description: "Six months ago, I deleted my Facebook and Instagram accounts. Along the way, I learned a few lessons on creating a healthy diet of media and pop culture consumption in a world of constant connectivity and endless media reservoirs."
 categories: 
   - "perspective"
   - "tech"

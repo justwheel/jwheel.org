@@ -1,6 +1,7 @@
 ---
 title: "Write yourself into obsolescence."
 date: 2022-11-29
+description: "A brief meditation on why you should write yourself into obsolescence and also what kind of writing matters most when documenting yourself and your responsibilities."
 categories: 
   - "foss"
   - "perspective"

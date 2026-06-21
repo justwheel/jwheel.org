@@ -1,6 +1,7 @@
 ---
 title: "Fedora CommOps - What I'm working on"
 date: 2015-11-18
+description: "Over the past few months, I have worked closely with the Fedora Community Operations (CommOps) team. It's exciting work and moving quickly - try to keep up!"
 categories: 
   - "fedora"
   - "foss"

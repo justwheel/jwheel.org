@@ -1,6 +1,7 @@
 ---
 title: "2021 OSI Board of Directors statement of intent"
 date: 2021-04-13
+description: "This first appeared on the Open Source Initiative Wiki. In light of the election update this year, I am republishing my statement of intent on my personal blog. No culture can live if it attempts to be exclusive. Mahatma Gandhi I believe in the value of upholding the Open Source"
 categories: 
   - "foss"
   - "tech"

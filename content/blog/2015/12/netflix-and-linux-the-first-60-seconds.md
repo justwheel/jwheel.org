@@ -1,6 +1,7 @@
 ---
 title: "Netflix and Linux: The First 60 Seconds"
 date: 2015-12-02
+description: "Netflix system administrator Brendan Gregg published an article on the Netflix blog about what they do in the first 60 seconds when analyzing performance."
 categories: 
   - "foss"
   - "tech"

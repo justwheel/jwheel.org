@@ -1,6 +1,7 @@
 ---
 title: "Win-win for all: How to run a non-engineering Outreachy internship"
 date: 2024-03-28
+description: "The contribution phase of Outreachy can be intimidating. Check these best practices for mentors organizing a non-coding Outreachy internship."
 categories: 
   - "fedora"
   - "foss"

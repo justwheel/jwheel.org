@@ -1,6 +1,7 @@
 ---
 title: "Shells."
 date: 2023-05-11
+description: "Friend, are you okay?"
 categories: 
   - "desk-drawer"
 tags: 

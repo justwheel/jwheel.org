@@ -1,6 +1,7 @@
 ---
 title: "CHAOSS DEI Review: Midyear reflection"
 date: 2022-10-25
+description: "In 2021, CHAOSS initiated a review of its diversity, equity, and inclusion practices. This post summarizes progress made by the team in 2022."
 categories: 
   - "foss"
 tags: 

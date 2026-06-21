@@ -1,6 +1,7 @@
 ---
 title: "On Free Software, Red Hat, and Iran"
 date: 2021-10-26
+description: "A story in which I visit the Fedora Council ticket tracker and find an important opportunity to advocate for contributors from Iran."
 categories: 
   - "fedora"
   - "foss"

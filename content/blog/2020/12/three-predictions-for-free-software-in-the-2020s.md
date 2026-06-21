@@ -1,6 +1,7 @@
 ---
 title: "Three predictions for Free Software in the 2020s"
 date: 2020-12-31
+description: "What major changes await Free Software and Open Source in the 2020s? Flory shares three emerging trends that could shape the next decade."
 categories: 
   - "foss"
   - "tech"

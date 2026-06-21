@@ -1,6 +1,7 @@
 ---
 title: "What if Open Source dependencies weren't software?"
 date: 2021-08-10
+description: "What if dependencies took a human-centered, or community-centered, approach? We describe dependencies in machine terms, but we miss something."
 categories:
   - "fedora"
   - "foss"

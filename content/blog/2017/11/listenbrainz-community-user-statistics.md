@@ -1,6 +1,7 @@
 ---
 title: "ListenBrainz community gardening and user statistics"
 date: 2017-11-13
+description: "My independent study with ListenBrainz progresses with new contributor documentation and exploring user statistics further with Google BigQuery."
 categories: 
   - "education"
   - "metabrainz"

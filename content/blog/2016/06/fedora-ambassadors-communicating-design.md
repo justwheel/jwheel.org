@@ -1,6 +1,7 @@
 ---
 title: "Fedora Ambassadors: Communicating about Design"
 date: 2016-06-30
+description: "Communicating the guidelines for requesting and creating artwork assets is important for both Fedora Ambassadors and the Design Team. Let's talk design!"
 categories: 
   - "fedora"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "A reflection: Gabriele Trombini (mailga)"
 date: 2020-09-18
+description: "Trigger warning: Grief, death. Two years passed since we last met in Bolzano. I remember you traveled in for a day to join the 2018 Fedora Mindshare FAD. You came many hours from your home to see us, and share your experiences and wisdom from both the global and Italian"
 categories: 
   - "desk-drawer"
   - "fedora"

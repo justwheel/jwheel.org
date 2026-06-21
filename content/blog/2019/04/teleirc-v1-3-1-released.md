@@ -1,6 +1,7 @@
 ---
 title: "TeleIRC v1.3.1 released with quality-of-life improvements"
 date: 2019-04-22
+description: "On April 20th, 2019, the TeleIRC developers released TeleIRC v1.3.1. This explains what's new and offers a development sprint retrospective."
 categories: 
   - "foss"
   - "tech"

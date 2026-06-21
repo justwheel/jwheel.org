@@ -1,6 +1,7 @@
 ---
 title: "Cyclical nostalgia."
 date: 2021-08-12
+description: "Nostalgia is cyclical at times. Nostalgia keeps us in the past but sticks with us in the present, much like blogging and blogs in the 2020s."
 categories: 
   - "desk-drawer"
 tags: 

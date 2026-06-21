@@ -1,6 +1,7 @@
 ---
 title: "The most important part of your project might not even be a line of code"
 date: 2016-02-10
+description: "Does your software project have licensing? Learn why the most important part of your project may not even be a single line of code and how to use licensing."
 categories: 
   - "foss"
   - "tech"

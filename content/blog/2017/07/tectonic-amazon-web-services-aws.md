@@ -1,6 +1,7 @@
 ---
 title: "Deploy CoreOS Tectonic to Amazon Web Services (AWS)"
 date: 2017-07-28
+description: "Following along in the Kubernetes series, this article shows you how to deploy CoreOS Tectonic to Amazon Web Services (AWS) to build your infrastructure."
 categories: 
   - "tech"
 tags: 

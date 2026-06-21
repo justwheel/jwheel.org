@@ -1,6 +1,7 @@
 ---
 title: "XPOST: Spurring new Digital Public Goods"
 date: 2022-10-06
+description: "This post describes my coaching and mentoring work with the UNICEF Venture Fund in 2021-2022 on the Digital Public Goods Standard."
 categories: 
   - "foss"
   - "unicef"

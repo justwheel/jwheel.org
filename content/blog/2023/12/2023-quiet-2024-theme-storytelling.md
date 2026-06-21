@@ -1,6 +1,7 @@
 ---
 title: "Storytelling: 2023 was a quiet blog year. In 2024, I recommit to storytelling."
 date: 2023-12-31
+description: "When I was a student, I wrote about what I learned, but I stopped writing regularly. Now I want restart my storytelling habits again in 2024."
 categories: 
   - "desk-drawer"
 tags: 

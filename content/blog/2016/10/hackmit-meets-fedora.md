@@ -1,6 +1,7 @@
 ---
 title: "HackMIT meets Fedora"
 date: 2016-10-04
+description: "HackMIT is the annual hackathon event organized by students at MIT. This year, the Fedora Project attended as sponsors and mentors during the hacking."
 categories: 
   - "education"
   - "fedora"

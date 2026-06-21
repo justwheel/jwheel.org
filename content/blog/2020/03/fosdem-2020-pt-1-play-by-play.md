@@ -1,6 +1,7 @@
 ---
 title: "FOSDEM 2020, pt. 1: Play by play"
 date: 2020-03-05
+description: "I attended FOSDEM 2020 on behalf of RIT LibreCorps to represent our engagement with the UNICEF Innovation. Here is a play-by-play recap of FOSDEM 2020!"
 categories: 
   - "foss"
   - "travel"

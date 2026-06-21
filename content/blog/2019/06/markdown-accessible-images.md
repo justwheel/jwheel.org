@@ -1,6 +1,7 @@
 ---
 title: "Write more accessible Markdown images with this one simple trick"
 date: 2019-06-18
+description: "Do you frequently write comments or READMEs in Markdown? Learn how to make your Markdown images more accessible with this one simple trick. No gimmicks!"
 categories: 
   - "foss"
   - "perspective"

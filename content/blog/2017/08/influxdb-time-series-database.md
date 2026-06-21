@@ -1,6 +1,7 @@
 ---
 title: "Introducing InfluxDB: Time-series database stack"
 date: 2017-08-15
+description: "InfluxDB is a time-series database by InfluxData that lets you work with large amounts of time-series data quickly. Learn more about the TICK stack tools."
 categories: 
   - "foss"
   - "tech"

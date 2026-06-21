@@ -1,6 +1,7 @@
 ---
 title: "Setting up Vagrant for testing Ansible"
 date: 2016-06-10
+description: "Learn how to use Vagrant and Ansible together to create local, virtual machines for running and testing Ansible playbooks in a controlled environment."
 categories: 
   - "fedora"
   - "foss"

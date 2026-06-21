@@ -1,6 +1,7 @@
 ---
 title: "Inside Facebook's open source program at RIT"
 date: 2018-02-26
+description: "Facebook developer advocate Christine Abernathy attended the Rochester Institute of Technology in November to talk about the Facebook open source program."
 categories: 
   - "foss"
 tags: 

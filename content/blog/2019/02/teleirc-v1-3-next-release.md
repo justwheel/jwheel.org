@@ -1,6 +1,7 @@
 ---
 title: "TeleIRC v1.3: Developers map out next release"
 date: 2019-02-03
+description: "On Feb. 2nd, 2019, the Teleirc community held the first developers' meeting. Contributors planned the next sprint for Teleirc v1.3 expected in March 2019."
 categories: 
   - "foss"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Willful Winds"
 date: 2016-10-09
+description: "This post is published as part of a personal archival project of my poetry and other creative works. This poem was written in October 2016."
 categories: 
   - "poems"
 tags: 

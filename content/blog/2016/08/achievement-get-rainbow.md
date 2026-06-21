@@ -1,6 +1,7 @@
 ---
 title: "Achievement get: Rainbow!"
 date: 2016-08-25
+description: 'Earlier this month, I received the Rainbow badge in Fedora Badges. Rainbow is the fifth badge of six for receiving "karma cookies" from other users in IRC.'
 categories: 
   - "fedora"
 tags: 

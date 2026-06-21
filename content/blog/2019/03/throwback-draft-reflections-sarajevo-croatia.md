@@ -1,6 +1,7 @@
 ---
 title: "Throwback draft: Reflections on Sarajevo and Croatia"
 date: 2019-03-19
+description: "This is an unfinished draft from the end of my 2017 study abroad semester in Dubrovnik, Croatia. It includes a parting memory from Sarajevo, Bosnia."
 categories: 
   - "perspective"
   - "travel"

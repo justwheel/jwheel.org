@@ -1,6 +1,7 @@
 ---
 title: "this moment"
 date: 2024-03-25
+description: "In this moment, I am here, one with the breath of the wind, dissolved into the colors of the spring afternoon."
 categories: 
   - "poems"
 tags: 

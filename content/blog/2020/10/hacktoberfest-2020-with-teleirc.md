@@ -1,6 +1,7 @@
 ---
 title: "Hacktoberfest 2020 with TeleIRC"
 date: 2020-10-12
+description: "Hacktoberfest 2020 is here, and TeleIRC has issues ready to help you get your Hacktoberfest t-shirt or tree. Check out what there is to do!"
 categories: 
   - "foss"
   - "tech"

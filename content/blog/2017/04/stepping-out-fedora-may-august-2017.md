@@ -1,6 +1,7 @@
 ---
 title: "Stepping out of Fedora: May to August 2017"
 date: 2017-04-05
+description: "I am stepping out of the Fedora community from May to August 2017 for an upcoming internship. This post is intended to help clarify my future availability."
 categories: 
   - "fedora"
 tags: 

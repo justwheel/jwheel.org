@@ -1,6 +1,7 @@
 ---
 title: "Throwback draft: Integral of a community"
 date: 2019-03-05
+description: "What is a community and what does it mean to belong to one? What makes a community so important to someone? Read more to understand what community is."
 categories: 
   - "perspective"
 tags: 

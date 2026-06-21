@@ -1,6 +1,7 @@
 ---
 title: "Ura Design crowdfunds free design for open source projects"
 date: 2017-07-25
+description: "Open source software is nothing new in 2017. But what about open source design? The Ura Design team brings open philosophies and practices into design work."
 categories: 
   - "foss"
 tags: 

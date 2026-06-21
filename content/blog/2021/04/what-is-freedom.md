@@ -1,6 +1,7 @@
 ---
 title: "What is Freedom?"
 date: 2021-04-12
+description: "When I first saw the letter asking for Richard Stallman and the FSF Board of Directors resignations with merely five signatures, I knew I had to sign. Not because I knew it would be the popular thing to do. But because it was what was true in my heart. Only"
 categories: 
   - "foss"
 tags: 

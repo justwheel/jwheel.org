@@ -1,6 +1,7 @@
 ---
 title: "Committee risk: A governance challenge for Open Source"
 date: 2021-08-26
+description: "Open Source communities often turn to a committee model for governing their projects. Sometimes it works, but other times it does not. Why?"
 categories: 
   - "fedora"
   - "foss"

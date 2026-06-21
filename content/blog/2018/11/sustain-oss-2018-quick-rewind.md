@@ -1,6 +1,7 @@
 ---
 title: "Sustain OSS 2018: quick rewind"
 date: 2018-11-13
+description: "A quick recap of the Sustain OSS 2018 conference, covering topics such as human aspects of governance, financial sustainability models, diversity, and more."
 categories: 
   - "foss"
   - "travel"

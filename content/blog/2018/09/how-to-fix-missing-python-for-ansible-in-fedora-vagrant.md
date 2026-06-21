@@ -1,6 +1,7 @@
 ---
 title: "How to fix missing Python for Ansible in Fedora Vagrant"
 date: 2018-09-18
+description: "Does Python not exist for you in a Fedora Vagrant virtual machine? You might run into this problem using Ansible in Vagrant with Fedora. Here's the fix."
 categories: 
   - "fedora"
   - "tech"

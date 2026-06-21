@@ -1,6 +1,7 @@
 ---
 title: "Roadmap for TeleIRC v1.4"
 date: 2019-03-23
+description: "The RITlug TeleIRC developer team celebrated the v1.3 release on March 3rd, 2019. Looking ahead, the team is mapping out next steps for quality-of-life improvements in v1.4. What’s coming in TeleIRC v1.4 TeleIRC v1.4 is the next feature release of TeleIRC. The targeted release date for v1.4 is by the"
 categories: 
   - "foss"
   - "tech"

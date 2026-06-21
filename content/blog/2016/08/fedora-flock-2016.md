@@ -1,6 +1,7 @@
 ---
 title: "Żegnajcie! Fedora Flock 2016 in words"
 date: 2016-08-15
+description: "From August 2 - 5, the annual Fedora contributor conference, Flock, was held in Kraków, Poland. This is my report and analysis of the conference."
 categories: 
   - "fedora"
   - "foss"

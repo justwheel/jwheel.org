@@ -1,6 +1,7 @@
 ---
 title: "Analyzing Fedora's impact at FOSDEM and beyond"
 date: 2016-03-09
+description: "Fedora contributor Bee Padalkar wrote an analysis on Fedora's impact at the FOSDEM conference in Europe. Learn more about her analysis and what is next!"
 categories: 
   - "fedora"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Three reasons I love open source"
 date: 2015-11-16
+description: "I am a user of open source software. I am a contributor of open source software. There are three reasons I love open source and what it stands for."
 categories:
   - "fedora"
   - "foss"

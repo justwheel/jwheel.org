@@ -1,6 +1,7 @@
 ---
 title: "How I created my first RPM package in Fedora"
 date: 2017-11-07
+description: "I needed a tool to change my laptop backlight brightness. After discovering there was no RPM in Fedora, I set out to package my first RPM for Fedora."
 categories:
   - "fedora"
   - "foss"

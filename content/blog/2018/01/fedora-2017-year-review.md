@@ -1,6 +1,7 @@
 ---
 title: "Tell us your Fedora 2017 Year in Review"
 date: 2018-01-11
+description: "2017 was a busy year for the Fedora Project. Help share the story of what your sub-project or team in Fedora was up to by writing a Year in Review post on the Community Blog!"
 categories: 
   - "fedora"
 tags: 

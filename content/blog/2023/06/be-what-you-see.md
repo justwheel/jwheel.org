@@ -1,6 +1,7 @@
 ---
 title: "White narrative: You cannot be what you cannot see?"
 date: 2023-06-06
+description: "Can white privilege and identity become superpowers for love and justice? If I can't wait for that story, maybe I have to take the first step."
 categories: 
   - "desk-drawer"
 tags: 

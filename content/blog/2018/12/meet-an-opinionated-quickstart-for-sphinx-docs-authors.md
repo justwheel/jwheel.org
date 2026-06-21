@@ -1,6 +1,7 @@
 ---
 title: "Sphinx docs authors: Meet an opinionated quickstart"
 date: 2018-12-03
+description: "Do you write documentation with Sphinx? Check out this template repository with ReStructuredText docs, Travis CI testing, and readthedocs.org publishing."
 categories: 
   - "foss"
   - "tech"

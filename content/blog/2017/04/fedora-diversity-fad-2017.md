@@ -1,6 +1,7 @@
 ---
 title: "Mission to understand: Fedora Diversity FAD 2017"
 date: 2017-04-17
+description: "The 2017 Fedora Diversity FAD (or team sprint) took place during the weekend of DevConf, 27-29 January. We worked on three major goals with our team."
 categories: 
   - "fedora"
   - "foss"

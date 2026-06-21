@@ -1,6 +1,7 @@
 ---
 title: "Raspberry Pis and open source at Rochester Mini Maker Faire"
 date: 2018-01-09
+description: "FOSS@MAGIC and the RIT Linux Users Group (RITlug) teamed up to exhibit at the Rochester Mini Maker Faire in 2017. See what we brought with us!"
 categories: 
   - "foss"
   - "tech"

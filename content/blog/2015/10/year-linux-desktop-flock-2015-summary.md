@@ -1,6 +1,7 @@
 ---
 title: "Year of the Linux Desktop: Flock 2015 Summary"
 date: 2015-10-26
+description: "Is 2015 the year of the Linux desktop? As this year begins to come to close, it isn't looking too good. But why is this the case? What limits the desktop?"
 categories: 
   - "fedora"
   - "foss"

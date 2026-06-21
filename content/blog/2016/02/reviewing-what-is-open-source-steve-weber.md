@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Reviewing \"What is Open Source?\", Steve Weber"
 date: 2016-02-08
+description: 'I review "What is Open Source?", Chapter 3 by Steve Weber as part of an assignment in my Humanitarian Free and Open Source Software Development course.'
 categories: 
   - "education"
   - "foss"

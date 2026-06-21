@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Smoke test an XO laptop"
 date: 2016-02-22
+description: "For the next assignment in my HFOSS class, we were tasked to run a one hour smoke test on the XO laptops we were assigned to use for the semester."
 categories: 
   - "education"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Throwback draft: An untitled poem"
 date: 2016-05-27
+description: "This post is published as part of a personal archival project of my poetry and other creative works. This poem was written in May 2016."
 categories: 
   - "poems"
 tags: 

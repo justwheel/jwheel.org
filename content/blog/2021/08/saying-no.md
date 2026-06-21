@@ -1,6 +1,7 @@
 ---
 title: "Saying no."
 date: 2021-08-19
+description: 'This is a story about how I learned to say "no", when the pressure to say "yes" was so great. Learning how to say no became my new superpower.'
 categories: 
   - "desk-drawer"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "The day open source died: a story about Minecraft, Bukkit, and the GPL"
 date: 2020-04-07
+description: "Once upon a time, I volunteered in the Minecraft open source community with Bukkit and Spigot. This is a story about FOSS and young folks."
 categories: 
   - "foss"
   - "perspective"

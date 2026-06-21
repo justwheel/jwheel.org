@@ -1,6 +1,7 @@
 ---
 title: "Statistics proposal and self-hosting ListenBrainz"
 date: 2017-12-18
+description: "My independent study to work on ListenBrainz comes to a close. I talk about my work in the last month and reflect back on my original objectives."
 categories: 
   - "education"
   - "metabrainz"

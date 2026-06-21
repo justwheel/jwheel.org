@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Science"
 date: 2015-12-14
+description: "The Science badge is awarded to Fedora contributors that help test the kernels in Fedora by running a script and uploading the log file to a website."
 categories: 
   - "fedora"
   - "foss"

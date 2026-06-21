@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Quiz #1"
 date: 2016-03-04
+description: "In the Humanitarian Free and Open Source Software Development course at RIT, we submit a quiz in the form of a blog post. This is Spring 2016, Quiz #1."
 categories: 
   - "education"
   - "foss"

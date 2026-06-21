@@ -1,6 +1,7 @@
 ---
 title: "Tergiversate: El Ten Eleven self-titled debut"
 date: 2020-09-20
+description: "El Ten Eleven released their self-titled debut album in late 2004. This review by Flory shares hidden background and trivia on El Ten Eleven."
 categories: 
   - "music"
 tags: 

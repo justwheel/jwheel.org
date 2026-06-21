@@ -1,6 +1,7 @@
 ---
 title: "2017 - My Year in Review"
 date: 2018-02-12
+description: "2017 was a fully-packed year for me. This post walks through my last year and reflects on the experiences I had. Would you believe my passport is running out of pages?"
 categories: 
   - "education"
   - "fedora"

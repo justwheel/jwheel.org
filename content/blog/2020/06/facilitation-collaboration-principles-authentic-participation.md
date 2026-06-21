@@ -1,6 +1,7 @@
 ---
 title: "Facilitation, collaboration, and webcams: A story about Principles of Authentic Participation"
 date: 2020-06-12
+description: "This is the story about the facilitation of the Principles of Authentic Participation. This blog post is a story, or perhaps open source lore."
 categories: 
   - "foss"
   - "perspective"

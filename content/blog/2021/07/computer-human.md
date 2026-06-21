@@ -1,6 +1,7 @@
 ---
 title: "Computer human."
 date: 2021-07-01
+description: "Recently a Spotify playlist curated into my feed. The playlist was a perfect match for my soul when I needed it most. This led me to wonder, who or what curated this playlist? What caused it to appear in my feed that day?"
 categories: 
   - "perspective"
 tags: 

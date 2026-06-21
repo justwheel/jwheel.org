@@ -1,6 +1,7 @@
 ---
 title: "4 metrics to measure sustainable open source investments."
 date: 2021-12-31
+description: "How do we understand sustainability when we talk about open source investments? Here are four CHAOSS metrics to help you measure it."
 categories: 
   - "foss"
   - "tech"

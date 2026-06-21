@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Telegraphist"
 date: 2015-11-30
+description: "Telegraphist is awarded to Fedora contributors and users who map the names of their favorite upstream projects to actual packages available in Fedora."
 categories: 
   - "fedora"
   - "foss"

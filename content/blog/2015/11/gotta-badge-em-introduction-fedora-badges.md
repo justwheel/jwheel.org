@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Introduction to Fedora Badges"
 date: 2015-11-23
+description: "Introducing a new series - \"Gotta Badge 'Em All!\" This series aims to the hundreds of Fedora badges that can be earned by members of the Fedora community."
 categories: 
   - "fedora"
   - "foss"

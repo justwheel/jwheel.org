@@ -1,6 +1,7 @@
 ---
 title: "Gotta Badge 'Em All: Speak Up!"
 date: 2016-01-04
+description: "The Speak Up! badge is awarded to anyone who says something in an official Fedora IRC meeting. It's easy to get involved and meet other contributors!"
 categories: 
   - "fedora"
   - "foss"

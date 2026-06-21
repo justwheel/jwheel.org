@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Kubernetes with Fedora"
 date: 2017-07-03
+description: "For containerized applications at scale, there are many challenges to consider. Kubernetes is one way to build resilient and scalable infrastructure."
 categories: 
   - "tech"
 tags: 

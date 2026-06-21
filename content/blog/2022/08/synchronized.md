@@ -1,6 +1,7 @@
 ---
 title: "synchronized"
 date: 2022-08-22
+description: "A poem that found me while riding my bicycle in the early evening hours of Georgia."
 categories: 
   - "poems"
 tags: 

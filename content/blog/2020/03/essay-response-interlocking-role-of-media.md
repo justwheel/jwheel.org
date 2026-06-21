@@ -1,6 +1,7 @@
 ---
 title: "Essay response: Interlocking role of media"
 date: 2020-03-17
+description: "This blog post is an essay response from a class I took at the Rochester Institute of Technology, WGST-357: Communication, Gender, and Media. This course was taught by Dr. Nickesia Gordon. The essay prompt encouraged us to reflect broadly on the role of media in society. I liked my response"
 categories: 
   - "desk-drawer"
 tags: 

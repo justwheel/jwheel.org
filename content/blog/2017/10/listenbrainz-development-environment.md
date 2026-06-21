@@ -1,6 +1,7 @@
 ---
 title: "How to set up a ListenBrainz development environment"
 date: 2017-10-04
+description: "Learn how to set up a ListenBrainz development environment to start working and contributing to the listenbrainz-server project."
 categories: 
   - "education"
   - "metabrainz"

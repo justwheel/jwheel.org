@@ -1,6 +1,7 @@
 ---
 title: "The night I became a hacker"
 date: 2016-04-18
+description: "On the night of April 15th, 2016, I became a hacker with my friends from the FOSSbox at RIT. Our medium was 1995's movie, \"Hackers\"."
 categories: 
   - "education"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Google Summer of Code, Fedora Class of 2016"
 date: 2016-04-27
+description: "This summer, I will be working on the Fedora Project via Google Summer of Code (GSoC). I intend to migrate services to Ansible configurations and more."
 categories: 
   - "education"
   - "fedora"

@@ -1,6 +1,7 @@
 ---
 title: "Eventually for eternity."
 date: 2024-02-27
+description: 'A poem to describe love from a constantly suspended state of waiting and wonder. "And the stolen moment, promises eventually for eternity."'
 categories: 
   - "poems"
 tags: 

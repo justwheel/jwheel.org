@@ -1,6 +1,7 @@
 ---
 title: "Middle path."
 date: 2022-12-13
+description: "The answer to solve my dilemma of two split paths was to find the middle path. Those two separate paths were my personal life and my career."
 categories: 
   - "perspective"
 tags: 

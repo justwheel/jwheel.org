@@ -1,6 +1,7 @@
 ---
 title: "On the data refrain: Contributing to ListenBrainz"
 date: 2017-10-02
+description: "This semester, I'm taking an independent study where I contribute to ListenBrainz. By the end, I hope to accomplish three goals for ListenBrainz."
 categories: 
   - "education"
   - "metabrainz"

@@ -1,10 +1,11 @@
 ---
 title: "My journey into Fedora"
 date: 2015-10-21
-categories: 
+description: "I am learning a lot as I become more involved and active with the Fedora Project, and I could not be more happy to begin my journey."
+categories:
   - "fedora"
   - "perspective"
-tags: 
+tags:
   - "fedora-planet"
 ---
 

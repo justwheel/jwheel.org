@@ -1,6 +1,7 @@
 ---
 title: "Përshëndetje nga Tiranë 🇦🇱"
 date: 2021-08-02
+description: "Përshëndetje nga Tiranë, or hello from Tirana in Albanian. I am residing for a short time in Tiranë (pronounced Ti·ra·na), Albania."
 categories: 
   - "travel"
 tags: 

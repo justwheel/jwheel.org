@@ -1,6 +1,7 @@
 ---
 title: "Infra & Releng Hackfest @ Fedora Flock 2024"
 date: 2024-08-22
+description: "This blog post summarizes the discussions and action items from the Infrastructure and Release Engineering workshop held at Flock 2024 in Rochester, New York, USA. This post is also an experiment in using AI-generated summaries."
 categories:
   - "fedora"
   - "red-hat"

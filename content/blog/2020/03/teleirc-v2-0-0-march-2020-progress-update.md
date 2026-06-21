@@ -1,6 +1,7 @@
 ---
 title: "TeleIRC v2.0.0: March 2020 progress update"
 date: 2020-03-19
+description: "The RITlug TeleIRC team is working on TeleIRC v2.0.0. This is an update on what is coming in TeleIRC v2.0.0, our progress so far, and what to expect next."
 categories: 
   - "foss"
   - "tech"

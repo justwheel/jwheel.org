@@ -1,6 +1,7 @@
 ---
 title: "First-ever overnight hackathon in Albania for sustainable goals"
 date: 2017-03-23
+description: 'During 18-19 March 2017, the Open Labs Hackerspace in Albania organized a 48 hour "open source" hackathon focused on UN Sustainable Development Goals.'
 categories: 
   - "foss"
   - "tech"

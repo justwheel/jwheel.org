@@ -1,6 +1,7 @@
 ---
 title: "How five Queen songs went mainstream in totally different ways"
 date: 2018-10-16
+description: "What was Queen's secret to success? With help from MusicBrainz, a team of students from the Rochester Institute of Technology try to answer the question."
 categories: 
   - "education"
   - "metabrainz"

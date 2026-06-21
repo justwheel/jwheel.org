@@ -1,6 +1,7 @@
 ---
 title: "Exploring Google Code-In, ListenBrainz easyfix bugs, D3.js"
 date: 2017-10-21
+description: "Last week was busy with new changes and documentation for ListenBrainz. I also picked some new tasks and will participate as a mentor for Google Code-In!"
 categories: 
   - "education"
   - "metabrainz"

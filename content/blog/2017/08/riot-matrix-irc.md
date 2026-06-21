@@ -1,6 +1,7 @@
 ---
 title: "IRC for the 21st century: introducing Riot"
 date: 2017-08-08
+description: "IRC doesn't have to be complicated anymore. Introducing Riot, an open source IRC client based off of the decentralized and open Matrix protocols."
 categories: 
   - "foss"
   - "tech"

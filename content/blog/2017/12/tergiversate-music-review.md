@@ -1,6 +1,7 @@
 ---
 title: "Tergiversate: Introducing music review column"
 date: 2017-12-27
+description: "Music is a key part of my life. I spend a lot of time listening and analyzing music. However, music is as much a personal experience as it is a social one too. In music, an artist shares their perspective and experience with the listener. The listener, in turn, shares"
 categories: 
   - "music"
 tags: 

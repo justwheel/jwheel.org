@@ -1,6 +1,7 @@
 ---
 title: "\"I am the wilderness\": On trust & community"
 date: 2023-05-09
+description: 'Brené Brown suggests seven elements to trust in her book, "Braving the Wilderness". You can remember these elements as an acronym: "BRAVING".'
 categories: 
   - "perspective"
 tags: 

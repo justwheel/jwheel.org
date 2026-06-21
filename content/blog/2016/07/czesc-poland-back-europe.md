@@ -1,6 +1,7 @@
 ---
 title: "Cześć, Poland! Back to Europe"
 date: 2016-07-11
+description: "In August 2016, I will travel to Kraków, Poland for the annual Fedora Flock conference. I will be giving a talk and leading a workshop this year."
 categories: 
   - "fedora"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Your Software Freedom is not my Software Freedom: A reflection on Chadwick Boseman"
 date: 2020-09-29
+description: "Trigger warning: Grief, police violence, death. This blog post was first written on August 28th, 2020. Today is a sad day. Chadwick Boseman is dead. At 43 years old, he lost a terminal battle with stage IV colon cancer. As his great light dims, I am left to wonder what"
 categories: 
   - "foss"
   - "perspective"

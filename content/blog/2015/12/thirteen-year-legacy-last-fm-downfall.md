@@ -1,6 +1,7 @@
 ---
 title: "Thirteen Year Legacy: Last.fm Downfall?"
 date: 2015-12-11
+description: "Last.fm is a service connecting friends with music similarities. In 2015, Last.fm redesigned their site to poor reception. What's going on with Last.fm?"
 categories: 
   - "foss"
   - "perspective"

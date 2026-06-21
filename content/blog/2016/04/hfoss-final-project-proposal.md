@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Final Project Proposal"
 date: 2016-04-04
+description: "Our final project for the Humanitarian Free and Open Source Software Development course (HFOSS) is PyCut, a pizza-making puzzle game for 4th graders."
 categories: 
   - "education"
   - "foss"

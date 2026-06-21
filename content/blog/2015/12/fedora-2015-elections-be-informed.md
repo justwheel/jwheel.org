@@ -1,6 +1,7 @@
 ---
 title: "Fedora Elections 2015: Be informed!"
 date: 2015-12-08
+description: "Today, the Fedora Elections for December 2015 officially began. Voting is one of the greatest ways you can have an impact in how Fedora runs. Be informed!"
 categories: 
   - "fedora"
 tags: 

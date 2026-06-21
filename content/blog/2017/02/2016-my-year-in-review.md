@@ -1,6 +1,7 @@
 ---
 title: "2016 – My Year in Review"
 date: 2017-02-17
+description: "2016 was a blur: Bitcamp in Maryland, HackMIT in Boston, WiCHacks 2016, Flock to Fedora in Poland, Vermont with Matt, NYC with Mike, and so much more."
 categories: 
   - "education"
   - "fedora"

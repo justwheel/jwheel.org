@@ -1,6 +1,7 @@
 ---
 title: "Better than I knew myself."
 date: 2021-08-27
+description: "There are moments I reflect back on my life when I met someone who interacted with me in an impressive way. Though unknown to me then, I feel now that they perceived my authentic, true self when I was still searching."
 categories: 
   - "desk-drawer"
 tags: 

@@ -1,6 +1,7 @@
 ---
 title: "Going to Bitcamp 2016"
 date: 2016-04-24
+description: "Over the weekend of April 9th to 10th, the Fedora Ambassadors of North America attended Bitcamp 2016 at the University of Maryland. Open source abound!"
 categories: 
   - "education"
   - "fedora"

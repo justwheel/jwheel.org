@@ -1,6 +1,7 @@
 ---
 title: "Election night hackathon supports civic engagement"
 date: 2017-12-13
+description: "On November 7, 2017, members of the RIT community came together for the annual Election Night Hackathon held in the Simone Center for Student Innovation."
 categories: 
   - "education"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "Virtual meetup with WiC, Open Labs, FOSS Wave"
 date: 2016-10-08
+description: "Women in Computing @ RIT, Open Labs Albania, and FOSS Wave India are working on organizing a virtual meetup in October and November 2016."
 categories: 
   - "education"
   - "fedora"

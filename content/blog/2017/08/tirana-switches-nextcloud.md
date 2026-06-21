@@ -1,6 +1,7 @@
 ---
 title: "Embracing open source cloud: Local government in Tirana switches to open source cloud solution"
 date: 2017-08-22
+description: "The municipality of Tirana, Albania recently migrated to NextCloud, an open source private cloud solution for the 600 employees of the municipality."
 categories: 
   - "foss"
   - "tech"

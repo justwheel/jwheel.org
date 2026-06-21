@@ -1,6 +1,7 @@
 ---
 title: "Humanitarian open source work: My internship at UNICEF"
 date: 2018-02-22
+description: "In December, I received the happy news of an offer for a internship position at UNICEF in the Office of Innovation. The Office of Innovation drives rapid technological innovation by rapid prototyping of new ideas and building full-stack products to make a positive impact in the lives of children. This"
 categories: 
   - "foss"
   - "unicef"

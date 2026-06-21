@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: The First Flight"
 date: 2016-01-28
+description: "Humanitarian Free and Open Source Software Development (HFOSS) is a course that I am taking at RIT. This marks my first flight into FOSS education."
 categories: 
   - "education"
   - "foss"

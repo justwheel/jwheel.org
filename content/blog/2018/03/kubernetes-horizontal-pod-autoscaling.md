@@ -1,6 +1,7 @@
 ---
 title: "How to automatically scale Kubernetes with Horizontal Pod Autoscaling"
 date: 2018-03-06
+description: "Ever wondered how to dynamically grow your infrastructure to handle increased traffic and load? Figure out how with Kubernetes Horizontal Pod Autoscaling."
 categories: 
   - "tech"
 tags: 

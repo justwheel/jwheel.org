@@ -1,6 +1,7 @@
 ---
 title: "How Minecraft got me involved in the open source community"
 date: 2016-10-10
+description: "My story in open source started with gaming and Minecraft. Since then, it's been a wild ride full of new adventures and experiences."
 categories: 
   - "fedora"
   - "foss"

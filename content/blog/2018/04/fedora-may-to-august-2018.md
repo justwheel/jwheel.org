@@ -1,6 +1,7 @@
 ---
 title: "Stepping out of Fedora: May to August 2018"
 date: 2018-04-09
+description: "Similar to last year, I am putting forward a note of planned absence from the Fedora Project community from May to August 2018. Transparency is important to me. I wanted to make this announcement ahead of time to set clear expectations for the upcoming months. I am returning to Chicago,"
 categories: 
   - "fedora"
   - "foss"

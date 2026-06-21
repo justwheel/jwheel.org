@@ -1,6 +1,7 @@
 ---
 title: "New role as Fedora Magazine editor in chief"
 date: 2016-08-22
+description: "Today, I am pleased to announce my new role as the Fedora Magazine editor-in-chief. I aim to provide my own unique leadership and guidance to the Magazine."
 categories: 
   - "fedora"
 tags: 

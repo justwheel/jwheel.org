@@ -1,6 +1,7 @@
 ---
 title: "Introducing UNICEF Open Source Mentorship"
 date: 2021-07-06
+description: "2020 saw the launch of a formalized Open Source Mentorship programme for the UNICEF Innovation Fund. Learn more about it in this reflection."
 categories: 
   - "foss"
   - "tech"

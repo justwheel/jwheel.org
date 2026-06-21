@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Community Architecture (CommArch) Project Proposal"
 date: 2016-03-04
+description: "This post documents the project proposal for the HFOSS Community Architecture (CommArch) project at the Rochester Institute of Technology, Spring 2016."
 categories: 
   - "fedora"
   - "foss"

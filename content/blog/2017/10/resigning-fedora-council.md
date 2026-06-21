@@ -1,6 +1,7 @@
 ---
 title: "Resigning from Fedora Council for Fedora 27"
 date: 2017-10-19
+description: "After deep consideration, I am resigning from the Fedora Council at the end of the Fedora 26 release cycle, opening a new Council seat for Fedora 27."
 categories: 
   - "fedora"
 tags: 

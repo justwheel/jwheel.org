@@ -1,6 +1,7 @@
 ---
 title: "WordPress Cron, CloudFlare, and SSL"
 date: 2015-12-16
+description: "Using WordPress cron, CloudFlare, and SSL can sometimes break WordPress cron. Fortunately, there is a simple and easy fix to get it back up and running!"
 categories:
   - "tech"
 tags:

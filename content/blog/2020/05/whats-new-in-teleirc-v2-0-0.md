@@ -1,6 +1,7 @@
 ---
 title: "What's new in TeleIRC v2.0.0"
 date: 2020-05-24
+description: "There are many new changes in TeleIRC v2.0.0. This post explains major changes for TeleIRC v2.0.0. Read on for the release highlight reel."
 categories: 
   - "foss"
   - "tech"

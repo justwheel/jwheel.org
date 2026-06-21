@@ -1,6 +1,7 @@
 ---
 title: "Outreachy May 2024: A letter to Fedora applicants"
 date: 2024-05-02
+description: "To all Outreachy May 2024 applicants to the Fedora Project, Today is May 2nd, 2024. The Outreachy May 2024 round results will be published in a few short hours. This year, the participation in Fedora for Outreachy May 2024 was record-breaking. Fedora will fund three internships this year. During the"
 categories: 
   - "fedora"
   - "foss"

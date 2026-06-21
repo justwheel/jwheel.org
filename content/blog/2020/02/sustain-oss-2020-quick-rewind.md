@@ -1,6 +1,7 @@
 ---
 title: "Sustain OSS 2020: quick rewind"
 date: 2020-02-20
+description: "An event report from Sustain OSS 2020. I learned about community-first governance and co-created blueprints for Principles of Authentic Participation."
 categories: 
   - "foss"
   - "travel"

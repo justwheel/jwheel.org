@@ -1,6 +1,7 @@
 ---
 title: "Cryptographic Autonomy License (CAL-1.0): My first license review"
 date: 2020-10-28
+description: "An amateur license review of the Cryptographic Autonomy License version 1 (CAL-1.0). What makes the CAL-1.0 different from other licenses?"
 categories: 
   - "foss"
 tags: 

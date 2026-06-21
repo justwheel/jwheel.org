@@ -1,6 +1,7 @@
 ---
 title: "Achievement get: Pizzelle!"
 date: 2016-03-31
+description: 'The Pizzelle badge is awarded after receiving 50 "karma cookies" in IRC. I recently received my Pizzelle and want to thank those who helped me in Fedora.'
 categories: 
   - "fedora"
   - "foss"

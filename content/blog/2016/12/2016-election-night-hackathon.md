@@ -1,6 +1,7 @@
 ---
 title: "Students and professors work across the aisle during Election Night Hackathon"
 date: 2016-12-15
+description: "Over 140 students from across campus and across departments gathered together as the election night results rolled in to work on a range of civic projects."
 categories: 
   - "education"
   - "foss"

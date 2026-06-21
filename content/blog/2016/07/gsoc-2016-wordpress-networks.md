@@ -1,6 +1,7 @@
 ---
 title: "GSoC 2016 Weekly Rundown: Breaking down WordPress networks"
 date: 2016-07-02
+description: "This week, with an initial playbook for creating a WordPress installation created, my next focus was to look at creating a WordPress multi-site network."
 categories: 
   - "fedora"
   - "foss"

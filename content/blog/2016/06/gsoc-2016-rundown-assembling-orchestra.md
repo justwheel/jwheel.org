@@ -1,6 +1,7 @@
 ---
 title: "GSoC 2016 Weekly Rundown: Assembling the orchestra"
 date: 2016-06-24
+description: 'This week is the midterm evaluations for Google Summer of Code, or GSoC 2016. This post is a project update on my "Ansible and the Community" proposal.'
 categories: 
   - "fedora"
   - "foss"

@@ -1,6 +1,7 @@
 ---
 title: "HFOSS: Community Architecture Team Project Report"
 date: 2016-03-14
+description: "For the Community Architecture (CommArch) project for the HFOSS course at RIT, our group chose to analyze Tahrir, an extension of OpenBadges, by Fedora."
 categories: 
   - "education"
   - "fedora"

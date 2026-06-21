@@ -1,6 +1,7 @@
 ---
 title: "Scrub gently: On data scrubbing in a community survey."
 date: 2022-11-15
+description: "Should we be too quick to discard negative, harmful responses in a community survey? This short review considers a time when an Open Source community is evaluating its community with a survey. What did we decide to do in the end?"
 categories: 
   - "perspective"
   - "tech"

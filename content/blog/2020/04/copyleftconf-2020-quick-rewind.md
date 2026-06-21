@@ -1,6 +1,7 @@
 ---
 title: "CopyleftConf 2020: quick rewind"
 date: 2020-04-09
+description: "CopyleftConf 2020 took place on Monday, 3 February, 2020 in Brussels, Belgium. This event report summarizes key takeaways and thoughts from CopyleftConf."
 categories: 
   - "foss"
   - "perspective"

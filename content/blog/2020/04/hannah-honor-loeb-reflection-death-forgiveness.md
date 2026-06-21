@@ -1,6 +1,7 @@
 ---
 title: "Hannah/Honor Loeb: A reflection on death and forgiveness"
 date: 2020-04-16
+description: "Grief is a strange emotion. Today, my memories and heart are on my former roommate and friend Hannah / Honor Loeb."
 categories: 
   - "desk-drawer"
   - "perspective"

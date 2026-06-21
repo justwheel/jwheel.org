@@ -1,6 +1,7 @@
 ---
 title: "Wikipedia is a privilege"
 date: 2018-10-09
+description: "What is a world that goes with or without? A world of access to free information like Wikipedia? What does privilege afford and take away from all of us?"
 categories: 
   - "foss"
   - "perspective"

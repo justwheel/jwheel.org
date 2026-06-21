@@ -1,6 +1,7 @@
 ---
 title: "GSoC 2016: Moving towards staging"
 date: 2016-07-29
+description: "This week wraps up for July and the final period of Google Summer of Code (GSoC 2016) is almost here. I'm working on the final steps to deploying my work."
 categories: 
   - "fedora"
 tags: 
