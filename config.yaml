@@ -79,10 +79,6 @@ menu:
       url: /tags/
       parent: blog
       weight: 20
-    - identifier: open
-      name: "#open"
-      url: https://docs.fedoraproject.org/en-US/commops/
-      weight: 40
     - identifier: legal
       name: legal
       url: /legal/
