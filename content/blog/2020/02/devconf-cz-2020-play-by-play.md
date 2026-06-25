@@ -271,7 +271,7 @@ This was a favorite of the weekend. "Fedora Outreachy intern Lenka Segura on how
 
 I put effort into live-tweeting a Twitter thread. Get the full scoop there!
 
-{{< x user="jflory7" id="1221372453777264640" >}}
+{{< tweet-archive id="1221372453777264640" >}}
 
 ### Connect and grow your community through meetups
 

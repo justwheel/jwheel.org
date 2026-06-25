@@ -80,4 +80,4 @@ Thank you for this great experience, [RCSI](https://www.rcsi.com/dublin/) and [W
 
 I'm not sure if this will make me anticipate flight cancellations more or less from now on.
 
-{{< x user="jflory7" id="971731790024073217" >}}
+{{< tweet-archive id="971731790024073217" >}}

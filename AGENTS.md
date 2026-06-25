@@ -43,6 +43,7 @@ If `themes/toph/` does not exist or is empty, the git submodule has not been clo
 - `content/footer/` — Dynamic footer badges. Front matter requires: `categories: ["footer"]`, `hide_sitemap: true`.
 - `content/categories/` — Category term `_index.md` files with human-readable `title`, descriptions, and optional `hide_sitemap: true` to hide from listings.
 - `content/tags/` — Tag term `_index.md` files. Tags with `hide_sitemap: true` are hidden from the word cloud and taxonomy listings.
+- `content/tweets/` — Archived tweets as Hugo page bundles. Each tweet is a directory named by tweet ID (e.g., `1223242916988096512/`) containing `index.md` and associated images (`photo1.jpg`, etc.). Front matter: `title`, `date`, `tweet_id`, `author`, `author_name`, `categories: ["tweets"]`. Tweet text is standard Markdown with @mentions linked to `x.com` profiles and #hashtags linked to `x.com/hashtag/`. Tweets are deliberately NOT hidden from sitemaps — they are designed for SEO indexing. Embedded in blog posts via the `tweet-archive` shortcode.
 - `content/*.adoc` — Root pages (index, legal) use AsciiDoc format.
 - `assets/masks/` — Image filter masks for Hugo image processing (not served statically).
 - `assets/pages/` — Page-specific images processed by Hugo (e.g., About Me profile photo).

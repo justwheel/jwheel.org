@@ -83,7 +83,7 @@ This talk served as inspiration for something I hope to explore later in 2020.
 > 
 > [Sharan Foga](https://chaoss.community/chaosscon-2020-eu/#user-content-sharan-foga)
 
-{{< x user="jflory7" id="1223203171834744833" >}}
+{{< tweet-archive id="1223203171834744833" >}}
 
 > Sharan introduced five factors to measure culture: **bus factor, contributor experience, contributor retention, sentiment analysis, and key phrase extraction**.
 
@@ -121,7 +121,7 @@ I had two key takeaways. First, **nothing matches completely**, so don't over-re
 > 
 > [Jose Manrique Lopez de la Fuente](https://chaoss.community/chaosscon-2020-eu/#user-content-jose-manrique-lopez-de-la-fuente)
 
-{{< x user="jflory7" id="1223229295813976064" >}}
+{{< tweet-archive id="1223229295813976064" >}}
 
 I had no written notes other than "wow!"
 
@@ -137,9 +137,9 @@ I have some homework to do!
 > 
 > [Isabella Vieira Ferreira](https://chaoss.community/chaosscon-2020-eu/#user-content-isabella-vieira-ferreira)
 
-{{< x user="jflory7" id="1223236768222392320" >}}
+{{< tweet-archive id="1223236768222392320" >}}
 
-{{< x user="jflory7" id="1223238519432384513" >}}
+{{< tweet-archive id="1223238519432384513" >}}
 
 {{< x user="emmy_ft" id="1223240475395678208" >}}
 
@@ -155,9 +155,9 @@ This is especially true for supporting grassroots advocacy communities. Localiza
 > 
 > [Matt Broberg](https://chaoss.community/chaosscon-2020-eu/#user-content-matt-broberg)
 
-{{< x user="jflory7" id="1223242916988096512" >}}
+{{< tweet-archive id="1223242916988096512" >}}
 
-{{< x user="jflory7" id="1223243457533181953" >}}
+{{< tweet-archive id="1223243457533181953" >}}
 
 Matt's CHAOSScon EU 2020 session pitched strategy on communicating the value of developer relations to our organizations. He covered a lot of material and left me many thoughts to reflect on. I look forward to seeing the video recording of this talk to reflect further on integrating his ideas into my day-to-day. The themes of Matt's talk struck a chord with me for challenging advocacy work ahead for me in 2020.
 
@@ -191,7 +191,7 @@ I also gave a shout-out to [RIT LibreCorps](https://fossrit.github.io/librecorps
 > 
 > [Yo Yehudi](https://chaoss.community/chaosscon-2020-eu/#user-content-yo-yehudi)
 
-{{< x user="jflory7" id="1223266016186322944" >}}
+{{< tweet-archive id="1223266016186322944" >}}
 
 Yo teamed up with [Emmy Tsang](https://twitter.com/emmy_ft) and [Mateusz Kuzak](https://twitter.com/matkuzak) to deliver this session. I appreciated the audience participation in the second half, which was a creative idea for a session later in the day. It helped revive the conference energy!
 
@@ -203,7 +203,7 @@ Yo and the team captured [excellent notes from their time across Brussels](https
 > 
 > [Matt Germonprez](https://chaoss.community/chaosscon-2020-eu/#user-content-matt-germonprez)
 
-{{< x user="jflory7" id="1223280367039324161" >}}
+{{< tweet-archive id="1223280367039324161" >}}
 
 First, I must pay my full respect and gratitude to Matt for digging into this topic. It is hard. It is tricky. Nobody I know of is working on this. So, my feedback comes from a place of love because this is an important topic to me too, and I appreciate Matt's work! **Thank you Matt and the [CHAOSS D&I Working Group](https://chaoss.community/diversity-and-inclusion/)**.
 
@@ -237,7 +237,7 @@ While it is not a metric in itself, it would be cool to see things like this inc
 > 
 > [Brian Proffitt](https://chaoss.community/chaosscon-2020-eu/#user-content-brian-proffitt)
 
-{{< x user="jflory7" id="1223299402229583872" >}}
+{{< tweet-archive id="1223299402229583872" >}}
 
 Brian explained what to avoid in building healthy open source communities. While I was already familiar with most of them, the most interesting "sin" for me was the last one: "_**not seeing ourselves in others**_."
 
