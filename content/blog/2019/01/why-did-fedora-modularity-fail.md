@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "tech"
 tags: 
+  - "2010s"
   - "community"
   - "education"
   - "fedora-infrastructure"

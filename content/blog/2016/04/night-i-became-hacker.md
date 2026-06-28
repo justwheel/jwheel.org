@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2010s"
   - "culture"
   - "fedora-planet"
   - "hacking"

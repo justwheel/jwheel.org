@@ -7,6 +7,7 @@ categories:
   - "perspective"
   - "tech"
 tags: 
+  - "2020s"
   - "2020-foss-conferences"
   - "activism"
   - "artificial-intelligence"

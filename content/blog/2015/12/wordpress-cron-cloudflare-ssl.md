@@ -5,6 +5,7 @@ description: "Using WordPress cron, CloudFlare, and SSL can sometimes break Word
 categories:
   - "tech"
 tags:
+  - "2010s"
   - "bugfix"
   - "cloudflare"
   - "encryption"

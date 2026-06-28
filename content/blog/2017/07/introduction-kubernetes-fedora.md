@@ -5,6 +5,7 @@ description: "For containerized applications at scale, there are many challenges
 categories: 
   - "tech"
 tags: 
+  - "2010s"
   - "cluster-computing"
   - "containers"
   - "fedora-planet"

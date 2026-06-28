@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2010s"
   - "ansible"
   - "devops"
   - "fedora-infrastructure"

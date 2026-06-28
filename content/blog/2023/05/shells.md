@@ -5,6 +5,7 @@ description: "Friend, are you okay?"
 categories: 
   - "desk-drawer"
 tags: 
+  - "2020s"
   - "el-ten-eleven"
   - "life-lessons"
   - "mental-health"

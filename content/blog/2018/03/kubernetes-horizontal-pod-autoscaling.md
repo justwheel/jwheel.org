@@ -5,6 +5,7 @@ description: "Ever wondered how to dynamically grow your infrastructure to handl
 categories: 
   - "tech"
 tags: 
+  - "2010s"
   - "cloud-computing"
   - "cluster-computing"
   - "containers"

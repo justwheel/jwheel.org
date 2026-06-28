@@ -6,6 +6,7 @@ categories:
   - "perspective"
   - "tech"
 tags: 
+  - "2020s"
   - "chaoss-project"
   - "community"
   - "data"

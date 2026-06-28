@@ -5,6 +5,7 @@ description: "Recently, I came across three product roadmaps from Proton. They d
 categories: 
   - "foss"
 tags: 
+  - "2020s"
   - "best-practices"
   - "communication"
   - "fedora-planet"

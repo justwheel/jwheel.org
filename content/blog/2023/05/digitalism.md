@@ -5,6 +5,7 @@ description: "\"Digitalism\" is a poem I originally wrote in August 2022. the po
 categories: 
   - "poems"
 tags: 
+  - "2020s"
   - "digital-era"
   - "fedora-planet"
   - "mental-health"

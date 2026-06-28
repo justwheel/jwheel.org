@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "fedora-badges"
   - "fedora-magazine"
   - "fedora-planet"

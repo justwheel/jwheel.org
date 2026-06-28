@@ -5,6 +5,7 @@ description: 'Brené Brown suggests seven elements to trust in her book, "Bravin
 categories: 
   - "perspective"
 tags: 
+  - "2020s"
   - "becoming-the-better-ally"
   - "communication"
   - "community"

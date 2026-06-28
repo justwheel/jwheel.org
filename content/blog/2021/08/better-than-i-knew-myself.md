@@ -5,6 +5,7 @@ description: "There are moments I reflect back on my life when I met someone who
 categories: 
   - "desk-drawer"
 tags: 
+  - "2020s"
   - "flock"
   - "reflections"
   - "travel"

@@ -5,6 +5,7 @@ description: "Today, the Fedora Elections for December 2015 officially began. Vo
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-ambassadors"
   - "fedora-commops"

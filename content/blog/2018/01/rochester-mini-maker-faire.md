@@ -7,6 +7,7 @@ categories:
   - "tech"
   - "travel"
 tags: 
+  - "2010s"
   - "events"
   - "fedora-planet"
   - "fossmagic"

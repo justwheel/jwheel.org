@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2020s"
   - "access"
   - "activism"
   - "becoming-the-better-ally"

@@ -5,6 +5,7 @@ description: "Recently a Spotify playlist curated into my feed. The playlist was
 categories: 
   - "perspective"
 tags: 
+  - "2020s"
   - "digital-era"
   - "music"
   - "reflections"

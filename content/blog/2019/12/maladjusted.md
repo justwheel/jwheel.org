@@ -1,9 +1,9 @@
 ---
 title: "Maladjusted"
 date: 2019-12-17
-categories: 
+categories:
   - "perspective"
-tags: 
+tags:
   - "1960s"
   - "activism"
   - "becoming-the-better-ally"

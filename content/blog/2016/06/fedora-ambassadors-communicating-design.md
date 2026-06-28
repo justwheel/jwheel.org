@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "communication"
   - "fedora-ambassadors"
   - "fedora-commops"

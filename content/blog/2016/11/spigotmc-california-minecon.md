@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "travel"
 tags: 
+  - "2010s"
   - "california"
   - "fedora-planet"
   - "minecon"

@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "events"
   - "fedora-commops"
   - "fedora-planet"

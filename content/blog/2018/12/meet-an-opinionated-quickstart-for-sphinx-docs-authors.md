@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2010s"
   - "best-practices"
   - "documentation"
   - "fedora-planet"

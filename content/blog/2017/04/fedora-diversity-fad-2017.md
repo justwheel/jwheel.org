@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "travel"
 tags: 
+  - "2010s"
   - "community"
   - "conferences"
   - "czech-republic"

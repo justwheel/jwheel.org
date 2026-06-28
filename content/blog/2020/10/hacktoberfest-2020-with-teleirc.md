@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2020s"
   - "development"
   - "events"
   - "fedora-planet"

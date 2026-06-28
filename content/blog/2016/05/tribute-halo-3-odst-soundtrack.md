@@ -5,6 +5,7 @@ description: "A lone soldier treks through an empty city. Mystery fills the air.
 categories: 
   - "music"
 tags: 
+  - "2010s"
   - "halo"
   - "music-review"
 images: ["/blog/2016/05/halo-3-odst-resized.jpg"]

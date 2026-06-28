@@ -5,6 +5,7 @@ description: "The world of digital devices alters modern experience of reality. 
 categories: 
   - "perspective"
 tags: 
+  - "2010s"
   - "digital-era"
   - "fedora-planet"
   - "life-lessons"

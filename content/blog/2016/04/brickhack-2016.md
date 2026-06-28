@@ -7,6 +7,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "brickhack"
   - "events"
   - "fedora-ambassadors"

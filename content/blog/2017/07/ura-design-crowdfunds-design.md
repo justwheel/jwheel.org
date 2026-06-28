@@ -5,6 +5,7 @@ description: "Open source software is nothing new in 2017. But what about open s
 categories: 
   - "foss"
 tags: 
+  - "2010s"
   - "albania"
   - "fedora-planet"
   - "open-labs-albania"

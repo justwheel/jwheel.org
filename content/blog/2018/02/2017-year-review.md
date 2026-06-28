@@ -11,6 +11,7 @@ categories:
   - "tech"
   - "travel"
 tags: 
+  - "2010s"
   - "albania"
   - "all-things-open"
   - "balkans"

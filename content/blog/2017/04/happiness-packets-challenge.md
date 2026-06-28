@@ -5,6 +5,7 @@ description: "Are you a REAL open source fan? Happiness Packets are one way to s
 categories: 
   - "foss"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-planet"
   - "friends"

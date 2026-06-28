@@ -5,6 +5,7 @@ description: "In 2021, CHAOSS initiated a review of its diversity, equity, and i
 categories: 
   - "foss"
 tags: 
+  - "2020s"
   - "accessibility"
   - "becoming-the-better-ally"
   - "chaoss-project"

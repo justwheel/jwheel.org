@@ -5,6 +5,7 @@ description: "2017 was a busy year for the Fedora Project. Help share the story 
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "communication"
   - "community"
   - "fedora-commops"

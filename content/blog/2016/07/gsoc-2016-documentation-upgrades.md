@@ -5,6 +5,7 @@ description: "The past week of my Google Summer of Code (GSoC 2016) proposal loo
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "ansible"
   - "fedora-commops"
   - "fedora-infrastructure"

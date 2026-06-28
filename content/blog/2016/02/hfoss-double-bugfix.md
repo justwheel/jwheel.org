@@ -7,6 +7,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "bugfix"
   - "fedora-planet"
   - "getting-started"

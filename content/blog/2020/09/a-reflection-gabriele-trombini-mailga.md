@@ -6,6 +6,7 @@ categories:
   - "desk-drawer"
   - "fedora"
 tags: 
+  - "2020s"
   - "death"
   - "fedora-mindshare"
   - "fedora-planet"

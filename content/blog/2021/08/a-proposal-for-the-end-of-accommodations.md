@@ -5,6 +5,7 @@ description: "Language is powerful. Words are subtle building blocks to how we i
 categories: 
   - "desk-drawer"
 tags: 
+  - "2020s"
   - "access"
   - "accessibility"
   - "becoming-the-better-ally"

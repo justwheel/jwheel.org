@@ -8,6 +8,7 @@ categories:
   - "music"
   - "foss"
 tags: 
+  - "2010s"
   - "data"
   - "data-analysis"
   - "data-science"

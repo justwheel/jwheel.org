@@ -5,6 +5,7 @@ description: "After deep consideration, I am resigning from the Fedora Council a
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-council"
   - "fedora-elections"

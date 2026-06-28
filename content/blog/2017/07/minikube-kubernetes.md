@@ -5,6 +5,7 @@ description: "This tutorial builds on basic Kubernetes knowledge and shows you h
 categories: 
   - "tech"
 tags: 
+  - "2010s"
   - "cluster-computing"
   - "containers"
   - "fedora-planet"

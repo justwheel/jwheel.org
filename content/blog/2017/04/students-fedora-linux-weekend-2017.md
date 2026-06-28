@@ -8,6 +8,7 @@ categories:
   - "tech"
   - "travel"
 tags: 
+  - "2010s"
   - "albania"
   - "community"
   - "conferences"

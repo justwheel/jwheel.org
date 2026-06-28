@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "perspective"
 tags:
+  - "2010s"
   - "community"
   - "culture"
   - "fedora-planet"

@@ -5,6 +5,7 @@ description: "Happiness Packets are an open source way to say thanks to others. 
 categories: 
   - "foss"
 tags: 
+  - "2020s"
   - "community"
   - "fedora-planet"
   - "friends"

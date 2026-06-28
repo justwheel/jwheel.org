@@ -5,6 +5,7 @@ description: "This blog post is an essay response from a class I took at the Roc
 categories: 
   - "desk-drawer"
 tags: 
+  - "2020s"
   - "education"
   - "gaming"
   - "gender"

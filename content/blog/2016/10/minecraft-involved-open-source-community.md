@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2010s"
   - "fedora-ambassadors"
   - "fedora-commops"
   - "fedora-planet"

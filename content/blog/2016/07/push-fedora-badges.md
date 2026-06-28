@@ -5,6 +5,7 @@ description: "Ever wondered about the magic behind Fedora Badges? Learn how to p
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "ansible"
   - "fedora-badges"
   - "fedora-infrastructure"

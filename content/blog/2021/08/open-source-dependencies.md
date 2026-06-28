@@ -8,6 +8,7 @@ categories:
   - "perspective"
   - "tech"
 tags:
+  - "2020s"
   - "fedora-infrastructure"
   - "fedora-planet"
   - "history"

@@ -5,6 +5,7 @@ description: "This week wraps up for July and the final period of Google Summer 
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "ansible"
   - "fedora-commops"
   - "fedora-infrastructure"

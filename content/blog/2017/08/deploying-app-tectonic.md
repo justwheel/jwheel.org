@@ -5,6 +5,7 @@ description: "Start playing with CoreOS Tectonic by installing a simple web app 
 categories: 
   - "tech"
 tags: 
+  - "2010s"
   - "cluster-computing"
   - "containers"
   - "coreos"

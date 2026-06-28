@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "perspective"
 tags: 
+  - "2010s"
   - "access"
   - "dei"
   - "free-information"

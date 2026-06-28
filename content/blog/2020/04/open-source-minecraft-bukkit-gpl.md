@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "perspective"
 tags: 
+  - "2020s"
   - "community-management"
   - "copyright"
   - "gaming"

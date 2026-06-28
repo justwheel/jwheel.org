@@ -2,10 +2,10 @@
 title: "Cryptographic Autonomy License (CAL-1.0): My first license review"
 date: 2020-10-28
 description: "An amateur license review of the Cryptographic Autonomy License version 1 (CAL-1.0). What makes the CAL-1.0 different from other licenses?"
-categories: 
+categories:
   - "foss"
-tags: 
-  - "2010s"
+tags:
+  - "2020s"
   - "copyright"
   - "data"
   - "fedora-planet"
@@ -60,7 +60,7 @@ _Note_: The number in parentheses before each line is the corresponding section 
 The fresh take on this license from other licenses is all in **4.2. Maintain User Autonomy**:
 
 > In addition to providing each Recipient the opportunity to have Access to the Source Code, You cannot use the permissions given under this License to interfere with a Recipient’s ability to fully use an independent copy of the Work generated from the Source Code You provide with the Recipient’s own User Data.
-> 
+>
 > Section 4.2 Maintain User Autonomy: intro text
 
 My non-lawyer take on this is that user data plays a much more prominent role in the terms of this license than other copyleft licenses. Just like the AGPL was a response to the changing world of network services and cloud computing, the CAL-1.0 is a response to the changing world of machine learning and data science.

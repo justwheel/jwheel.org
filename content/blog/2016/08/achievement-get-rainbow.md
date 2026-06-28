@@ -5,6 +5,7 @@ description: 'Earlier this month, I received the Rainbow badge in Fedora Badges.
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-badges"
   - "fedora-planet"

@@ -6,6 +6,7 @@ categories:
   - "education"
   - "foss"
 tags: 
+  - "2010s"
   - "fedora-planet"
   - "hfoss"
   - "olpc-xo"

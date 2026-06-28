@@ -6,6 +6,7 @@ categories:
   - "foss"
   - "tech"
 tags: 
+  - "2010s"
   - "copyright"
   - "fedora-planet"
   - "gplv3"

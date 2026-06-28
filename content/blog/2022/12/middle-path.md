@@ -5,6 +5,7 @@ description: "The answer to solve my dilemma of two split paths was to find the 
 categories: 
   - "perspective"
 tags: 
+  - "2020s"
   - "buddhism"
   - "reflections"
   - "spirituality"

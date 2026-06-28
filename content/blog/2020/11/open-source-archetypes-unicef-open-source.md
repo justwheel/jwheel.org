@@ -7,6 +7,7 @@ categories:
   - "tech"
   - "unicef"
 tags:
+  - "2020s"
   - "mozilla"
   - "open-source-communities"
   - "open-source-licenses"

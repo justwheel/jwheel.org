@@ -2,10 +2,11 @@
 title: "Converting sounds into words: All of a Sudden I Miss Everyone"
 date: 2016-10-20
 description: "Released in 2007, Texas-based band Explosions in the Sky share an irreplaceable part of human psyche and emotion in All of a Sudden I Miss Everyone."
-categories: 
+categories:
   - "music"
-tags: 
+tags:
   - "2000s"
+  - "2010s"
   - "ambient-music"
   - "explosions-in-the-sky"
   - "music"

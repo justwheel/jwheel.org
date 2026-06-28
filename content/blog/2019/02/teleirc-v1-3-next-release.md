@@ -5,6 +5,7 @@ description: "On Feb. 2nd, 2019, the Teleirc community held the first developers
 categories: 
   - "foss"
 tags: 
+  - "2010s"
   - "development"
   - "fedora-planet"
   - "fossmagic"

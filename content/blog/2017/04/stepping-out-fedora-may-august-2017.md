@@ -5,6 +5,7 @@ description: "I am stepping out of the Fedora community from May to August 2017 
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-planet"
   - "working-together"

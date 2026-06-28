@@ -6,6 +6,7 @@ categories:
   - "perspective"
   - "tech"
 tags: 
+  - "2010s"
   - "culture"
   - "digital-era"
   - "facebook"

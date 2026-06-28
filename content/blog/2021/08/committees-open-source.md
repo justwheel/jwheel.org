@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2020s"
   - "community"
   - "community-governance"
   - "community-management"

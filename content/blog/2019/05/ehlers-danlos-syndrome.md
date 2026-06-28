@@ -5,6 +5,7 @@ description: "Ehlers-Danlos Syndrome (EDS) is a genetic disorder that has a huge
 categories: 
   - "perspective"
 tags: 
+  - "2010s"
   - "ehlers-danlos"
   - "health"
   - "invisible-illness"

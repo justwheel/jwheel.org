@@ -5,6 +5,7 @@ description: "Following along in the Kubernetes series, this article shows you h
 categories: 
   - "tech"
 tags: 
+  - "2010s"
   - "cluster-computing"
   - "containers"
   - "coreos"

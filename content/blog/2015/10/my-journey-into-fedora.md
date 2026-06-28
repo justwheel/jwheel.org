@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "perspective"
 tags:
+  - "2010s"
   - "fedora-planet"
 ---
 

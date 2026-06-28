@@ -5,6 +5,7 @@ description: "A new round of Fedora community leadership elections are coming up
 categories: 
   - "fedora"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-ambassadors"
   - "fedora-elections"

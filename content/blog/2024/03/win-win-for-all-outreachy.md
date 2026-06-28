@@ -7,6 +7,7 @@ categories:
   - "foss"
   - "red-hat"
 tags: 
+  - "2020s"
   - "community-management"
   - "fedora-dei"
   - "fedora-marketing"

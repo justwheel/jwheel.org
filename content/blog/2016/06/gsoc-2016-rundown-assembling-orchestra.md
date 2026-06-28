@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "ansible"
   - "fedora-infrastructure"
   - "fedora-magazine"

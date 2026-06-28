@@ -7,6 +7,7 @@ categories:
   - "perspective"
   - "tech"
 tags: 
+  - "2010s"
   - "fedora-planet"
   - "last-fm"
   - "music"

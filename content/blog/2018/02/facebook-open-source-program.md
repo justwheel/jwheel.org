@@ -5,6 +5,7 @@ description: "Facebook developer advocate Christine Abernathy attended the Roche
 categories: 
   - "foss"
 tags: 
+  - "2010s"
   - "facebook"
   - "foss-talks"
   - "fossmagic"

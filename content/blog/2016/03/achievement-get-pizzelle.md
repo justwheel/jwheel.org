@@ -6,6 +6,7 @@ categories:
   - "fedora"
   - "foss"
 tags: 
+  - "2010s"
   - "community"
   - "fedora-ambassadors"
   - "fedora-badges"

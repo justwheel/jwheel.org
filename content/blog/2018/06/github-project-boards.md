@@ -7,6 +7,7 @@ categories:
   - "tech"
   - "unicef"
 tags: 
+  - "2010s"
   - "business-process-management"
   - "communication"
   - "community"
