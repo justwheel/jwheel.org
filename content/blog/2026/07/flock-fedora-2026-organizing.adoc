@@ -146,7 +146,7 @@ However, now that we have the updated contract, we can start earlier on the spon
 [[outro]]
 == More in this series
 
-* link:/blog/2026/07/flock-fedora-2026/[*Flock to Fedora 2026: What Happened*]:
+* link:/blog/2026/06/flock-fedora-2026/[*Flock to Fedora 2026: What Happened*]:
   The highlights of the event, including the hallway track, packager data trends, and record-breaking sponsorship.
 //* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
 //  What organizing Flock has taught me about community, inclusion, and the future of the event.
