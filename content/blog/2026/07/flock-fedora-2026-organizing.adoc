@@ -1,0 +1,152 @@
+---
+title: "How Flock to Fedora Gets Organized"
+date: 2026-07-02T08:00:00-00:00
+description: A look behind the scenes at the team, the workflow, and the paperwork that goes into producing the Flock to Fedora contributor conference.
+categories:
+    - fedora
+    - red-hat
+tags:
+    - 2020s
+    - ai-assisted
+    - events
+    - fedora-council
+    - fedora-planet
+    - flock
+    - open-source-communities
+    - working-together
+images: ["flock-fedora-2026-organizing.jpg"]
+---
+:imagesdir: /blog/2026/07/
+
+Flock to Fedora is the https://fedoraproject.org/flock/[flagship contributor community event] for the link:/categories/fedora/[Fedora Project].
+A lot of work goes into Flock, with planning efforts usually kicking off ten months before the conference target dates.
+This is often the invisible work which the community rarely gets a window into seeing.
+
+This blog post pulls back the curtain on what it actually looks like to organize Flock.
+It is the second post in a three-part series on Flock to Fedora 2026.
+The link:/blog/2026/06/flock-fedora-2026/[first post] covers the highlights of what happened at the event.
+//The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on the experience.
+
+
+[[scope]]
+== The FCA Role and Flock
+
+Flock to Fedora is a key part of the https://docs.fedoraproject.org/en-US/council/fca/[Fedora Community Architect] (FCA) role at Red Hat.
+It is the flagship event of the Fedora Project community, and all three FCAs before me played pivotal roles in the organization of Flock to Fedora.
+However, Flock is the only event of its kind that I organize in the calendar year.
+While I support other events in the Fedora community, I do not take the role of a core organizer in any other event like I do with Flock.
+
+There is a structural tension in the FCA role when it comes to Flock.
+There are several months of the year where the Flock event planning workload is light, and we are working through small steps at a time.
+But in the two to three months before Flock, the workload ramps up significantly.
+The team is working together more often and there are more tasks to coordinate.
+Meanwhile, the rest of the FCA's responsibilities — supporting the community, budgeting, coordinating with Red Hat — do not scale down to make room.
+
+This is not a new challenge; it is endemic to the role.
+All four years I have been involved as a core Flock organizer, this dynamic has been present.
+Perhaps there is a way to streamline and schedule Flock in a more programmatic way, so certain steps can happen earlier and others can get involved and help out.
+It is worth noting for anyone who inherits or reshapes this role in the future.
+
+
+[[team]]
+== The Flock Organizing Team
+
+Flock to Fedora would be nothing if not for the people who put in the time, effort, love, and care to make it the community event that it is.
+It is because of the amazing colleagues and teammates in the Flock core planning team that we pull off the high-quality, engaging event we do.
+I am incredibly grateful to the various folks who contribute various levels of time into the Flock event planning process.
+So, this section of my post is where I give some sincere thank-yous to Fedora Friends who take up an exceptional share of the planning work.
+All names are in alphabetical order:
+
+* *Allison d'Amboise*:
+  Operations support, sponsorship & legal support
+* https://ananya.fedorapeople.org/[*Ananya Nalavathu*]:
+  Foundations Wall, social media support, https://fedoramagazine.org/tag/flock-2026-commit-history/[#CommitHistory interview campaign]
+* https://fedoraproject.org/wiki/User:Amoloney[*Aoife Moloney*]:
+  Event Co-Lead
+* *Dorka Volavkova*:
+  Event Co-Lead
+* https://fedoraproject.org/wiki/User:Ekidney[*Emma Kidney*]:
+  Design, print, & brand/identity support
+* *Greg Sutcliffe*:
+  Matrix virtual experience support
+* https://fedoraproject.org/wiki/User:Jasonbrooks[*Jason Brooks*]:
+  Operations support
+* https://fedoraproject.org/wiki/User:Jspaleta[*Jef Spaleta*]:
+  Strategic support
+* *Jennifer McGinnis*:
+  Operations support
+* *Jennifer Schimmoller*:
+  On-site event support, logistics, and event execution
+* *Jess Chitas*:
+  Flock website UI/UX improvements
+* https://fedoraproject.org/wiki/User:Jonatoni[*Jona Azizaj*]:
+  Event Co-Lead
+* https://fedoraproject.org/wiki/User:Joseph[*Joseph Gayoso*]:
+  Social media support
+* *Juliana Furlow*:
+  Sponsored Travel coordinator
+* https://fedoraproject.org/wiki/User:Kevin[*Kevin Fenzi*]:
+  Matrix virtual experience support
+* *Lidija "Lydia" Balija*:
+  CfP lead, ops support
+* https://fedoraproject.org/wiki/User:Madelinepeck[*Madeline Peck*]:
+  Design, print, & brand/identity support
+* *Shaun McCance*:
+  Event Co-Lead
+
+image::jennifer-dorka-jona-aoife.jpg[alt="A photograph of four smiling Flock to Fedora organizers posing together at the Monday night social reception. They are standing in front of a warmly lit bar area and a large blue Fedora graphic banner. Left to right: Jennifer Schimmoller, Dorka Volavkova, Jona Azizaj, Aoife Moloney.", title="Four Flock to Fedora organizers standing together and smiling at the Monday night social reception. Y'all are amazing! _Left to right: Jennifer Schimmoller, Dorka Volavkova, Jona Azizaj, Aoife Moloney_.", link="https://jflory7.fedorapeople.org/pub/flock/2026/photos/IMG_1389.JPG"]
+
+There are even more people who have contributed something to Flock.
+But these are the people who went above and beyond to contribute to the success of the event.
+I could not do Flock without each and every one of them!
+
+
+[[workflow]]
+== Workflow Experiment: Public Issue Tracking
+
+I also tried out a new approach to public project management for Flock 2026.
+There is a new Fedora Forge repository under the Fedora Council organization, https://forge.fedoraproject.org/council/flock[_council/flock_].
+I attempted to use this as a way to track ongoing work and have more public-facing project management to demonstrate what actually goes into executing Flock.
+
+image::fedora-forge-council-flock-issues.png[alt="A screenshot of a dark-themed issue tracker for the \"council/flock\" Fedora Forge repository, displaying a list of seven open and 119 closed tasks. The visible open issues include post-event tasks such as processing reimbursements and publishing session recordings, each detailed with color-coded area and priority labels, the \"2026 Post-Event\" milestone, progress bars, assignee avatars, and comment counts.", title="A screenshot of a Fedora Forge issue tracker for the https://forge.fedoraproject.org/council/flock[_council/flock_] repository displaying various open and closed Flock 2026 event management tasks.", link="https://forge.fedoraproject.org/council/flock"]
+
+I rate the use of this experimental repository as a mixed success.
+Its biggest issue was that it was incorporated late into the planning cycle and I did not involve other Flock team members in the repository workflow.
+So, it was largely a tool that I used alone.
+I provided few and sparse updates until May on the various issues.
+
+I did use AI-assisted workflows to help process meeting summaries and transcripts into issue updates.
+Our Flock 2026 organizer team was already using AI assistance for note-taking and generating transcripts from our regular video meetings.
+After Flock ended, I used a structured interview format with an AI agent to review all open issues in the Fedora Forge API, answer follow-up questions about their status, and create a record of what was accomplished and what remained.
+
+While this tool was not directly useful to planning Flock 2026, it could be a useful starting point for other tools to analyze, plan, and suggest timelines for various Flock planning and execution work.
+The final goal in using the repository after Flock 2026 was to get unwritten institutional knowledge into a public issue tracker so it could be referenced in the future when we actually need to look back and remember what we did before and what lessons we learned.
+
+
+[[paperwork]]
+== Paperwork: Sponsor Contracts
+
+It is the most boring thing ever, perhaps, but Red Hat Legal approved an updated Flock to Fedora sponsor contract.
+This is something that me and my colleague Shaun McCance have been working on for years, as part of the CentOS Connect and Flock to Fedora event planning.
+The challenge with our old sponsor contract was that it had requirements which did not actually make sense for Flock.
+For example, a sponsor had to provide proof of up to $1 million USD insurance for their event sponsorship.
+This is actually somewhat standard for corporate events where companies rent big, expensive exhibit booths.
+But Flock does not have, and never had, sponsor booths.
+Our community is always too immersed in the hallway track, and we encourage sponsors to send their reps to participate in the hallway track to get more out of their sponsorship.
+
+While the $1 million USD insurance requirement was one of the most notorious challenges, especially for smaller companies and organizations, there were other changes made as well.
+I will not list them all, but the greatest advantage of this was the ability to bring back some past sponsors due to less corporate verbiage in the contract, and more community-friendly language.
+We did not _add_ anything new to the contract; we only removed lots of content and sections.
+All in all, this made our contracts shorter, leaner, more aligned with the actual event we produce, and importantly, easier for other company's legal teams to review, process, and sign.
+
+We got these updated contracts in January, which was part of why we were delayed somewhat in our sponsor outreach.
+However, now that we have the updated contract, we can start earlier on the sponsor outreach since we will only have to get an approval next year on a contract update which mostly changes dates, years, and not much else.
+
+
+[[outro]]
+== More in this series
+
+* link:/blog/2026/07/flock-fedora-2026/[*Flock to Fedora 2026: What Happened*]:
+  The highlights of the event, including the hallway track, packager data trends, and record-breaking sponsorship.
+//* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
+//  What organizing Flock has taught me about community, inclusion, and the future of the event.
