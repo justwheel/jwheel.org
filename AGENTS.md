@@ -60,6 +60,13 @@ The `content/blog/` directory contains 173 blog posts migrated from WordPress (f
 
 **File names in `content/blog/` MUST NEVER BE CHANGED UNDER ANY CIRCUMSTANCES.** Once a blog post is "published", its URL is permanent. The URL schema (`/blog/YYYY/MM/slug/`) is a 1:1 match with the previous WordPress URL structure (formerly at `blog.jwf.io`). This enables proxy-level traffic redirection to `jwheel.org/blog/` without any URL breakage. Renaming, moving, or restructuring any existing blog file would break this redirect mapping.
 
+### Decade Tags (REQUIRED)
+
+Every blog post must include a decade tag in its front matter `tags` list, matching the decade in which the post was published.
+Posts in `content/blog/201*/` use `2010s`.
+Posts in `content/blog/202*/` use `2020s`.
+This enables browsing posts by era on the tags page.
+
 ## Configuration
 
 `config.yaml` (YAML, not TOML). Key sections:
