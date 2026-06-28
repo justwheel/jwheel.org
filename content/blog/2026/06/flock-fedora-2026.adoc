@@ -1,14 +1,14 @@
 ---
-title: Flock to Fedora 2026, from an inside perspective
-date: 2026-06-25T08:00:00-00:00
-description: What happened at Flock 2026, the annual contributor conference for Fedora Project? Here is my insider view as one of the main organizers.
+title: "Flock to Fedora 2026: What Happened"
+date: 2026-06-30T08:00:00-00:00
+description: What happened at Flock 2026, the annual contributor conference for Fedora Project? Here are the highlights from the event in Prague.
 categories:
     - fedora
     - red-hat
     - travel
 tags:
     - 2020s
-    - artificial-intelligence
+    - ai-assisted
     - czech-republic
     - events
     - fedora-council
@@ -17,170 +17,35 @@ tags:
     - international
     - linux
     - open-source-communities
-    - reflections
     - working-together
-images: [""]
+images: ["flock-fedora-2026.jpg"]
 ---
+:imagesdir: /blog/2026/06/
 
 In the blink of an eye, it was over almost as quickly as it began.
-But the three days of in-person engagement at the annual Flock to Fedora conference from 14–16 June 2026 in link:/tags/czech-republic/[Prague, Czechia] still felt like an eternity.
+But the three days at the annual Flock to Fedora conference from 14–16 June 2026 in link:/tags/czech-republic/[Prague, Czechia] were packed with the kind of engagement that keeps the Fedora community going.
 Flock to Fedora, or often simply referred to as Flock, is the https://fedoraproject.org/flock/[flagship contributor community event] for the Fedora community.
 Flock is a place where the "doers" of our community gather annually to share our work, discuss ongoing collaborations, and shape the future of our next year ahead.
 Ultimately, it is one of my favorite parts of the link:/categories/fedora/[Fedora Project].
 Being one of the lead organizers is one of the greatest privileges of serving in the Fedora Community Architect role at link:/categories/red-hat/[Red Hat].
 
-This blog post is my attempt to capture the essence of Flock 2026 while it is fresh in mind.
+This blog post is my attempt to capture the highlights of Flock 2026 while they are fresh in mind.
 The https://lwn.net/Articles/1077832/[Linux and open source media] already began their coverage.
-So, I thought this was a good moment to get my foot in the door on the narrative of the event and give an insider perspective to Flock.
+So, I thought this was a good moment to share my perspective on the event.
 This was my ninth Flock that I have attended and the fourth Flock where I played a leading role as an organizer.
-It is one of the most challenging assignments I have ever had in my career, especially when you consider my background was networking and systems administration.
-Nevertheless, it is a toil that reaps great rewards.
 
-In this blog post reflection of Flock 2026, I want to capture my reflections and key takeaways across various parts of the event:
-
-. link:#pre-flock-2026[*Pre-Event*]:
-  What it looked like from the inside in pulling together Flock, including highlights and challenges.
-. link:#during-flock-2026[*During Flock*]:
-  How did the event actually go, what was the impact, and what ideas are sticking as Flock concludes?
-. link:#post-flock-2026[*Post-Event*]:
-  What the Flock organizing team is doing next, locations and dates, and the virtual experience.
+////
+[NOTE]
+====
+This is the first post in a three-part series on Flock to Fedora 2026.
+The link:/blog/2026/07/flock-fedora-2026-organizing/[second post] covers how Flock gets organized behind the scenes.
+The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on organizing Flock as Fedora Community Architect.
+====
+////
 
 
-[[pre-flock-2026]]
-== Flock 2026 Pre-Event Planning: My Scope, My Team, My Workflow, and Paperwork
-
-In the four years I am involved as a core Flock to Fedora conference organizer, we are always making improvements and changes.
-A lot of work goes into Flock, with planning efforts usually kicking off ten months before the conference target dates.
-This is often the invisible work which the community rarely gets a window into seeing.
-Nevertheless, we have several key people in the Flock organizing team from various backgrounds who represent different parts of the work required to make Flock happen.
-I could easily describe several aspects of the pre-event Flock 2026 planning, but I will focus on four parts:
-
-. _My Scope_:
-  A continual challenge for me personally with the scope of my role and how Flock planning happens.
-. _My Team_:
-  The amazing colleagues and teammates I work with who help make Flock into the event what it is.
-  And it is definitely not just me, even if I am sometimes more visible.
-. _My Workflow_:
-  A new issue tracker experiment I tried for Flock 2026 with mixed success, but hope can be iterated on in the future.
-. _Paperwork_:
-  There was one super boring accomplishment that happened in the Flock 2026 planning cycle, which was a game-changer.
-
-[[scope]]
-=== My Scope
-
-Flock to Fedora is a key part of the https://docs.fedoraproject.org/en-US/council/fca/[Fedora Community Architect] (FCA) role at Red Hat.
-It is the flagship event of the Fedora Project community, and all three FCAs before me played pivotal roles in the organization of Flock to Fedora.
-However, Flock is the only event of its kind that I organize in the calendar year.
-While I support other events in the Fedora community, I do not take the role of a core organizer in any other event like I do with Flock.
-This ultimately causes friction when I am working on lots of other things in my role which are not event planning and execution, but are still important for the Fedora community and our link:/tags/linux/[Linux] distribution.
-There are several months of the year where the Flock event planning workload is light, and we are working through small steps at a time.
-
-However, in the two to three months before Flock, everything begins to change.
-The workload gets bigger.
-The team is working together more often and there are more tasks and work to do.
-But our team is the same size, with the same responsibilities, and lots of other things to do too.
-So, for me, I always struggle with the challenge in scaling down my work in _other_ parts of the Fedora community in order to give my all to Flock planning.
-I always figure it out somehow in the end, but it is stressful, and I am not proud of the missed deadlines and action items that I missed along the way.
-
-All of this makes it hard for me to be the collaborative team member I want to be for Flock.
-I do not have any immediate solutions for this dynamic, but since it is always a difficult part for my involvement with Flock, I have to take note of it.
-Perhaps there is a way to streamline and schedule Flock in a more programmatic way, so certain steps can happen earlier and others can get involved and help out.
-
-[[team]]
-=== My Team
-
-Flock to Fedora would be nothing if not for the people who put in the time, effort, love, and care to make it the community event that it is.
-If Flock 2026 or any past edition was only left to me, we would likely not be holding Flock anymore and people might reflect on poor the event was!
-It is because of the amazing colleagues and teammates I have in the Flock core planning team that we pull off the high-quality, engaging event we do.
-I am incredibly grateful to the various folks who contribute various levels of time into the Flock event planning process.
-So, this section of my post is really where I make some obligatory thank-yous to Fedora Friends who take up an exceptional share of the planning work.
-All names are in alphabetical order:
-
-* *Allison d'Amboise*:
-  Operations support, sponsorship & legal support
-* *Ananya Nalavathu*:
-  Foundations Wall, social media support, https://fedoramagazine.org/tag/flock-2026-commit-history/[#CommitHistory interview campaign]
-* *Aoife Moloney*:
-  Event Co-Lead
-* *Dorota Volavkova*:
-  Event Co-Lead
-* *Emma Kidney*:
-  Design, print, & brand/identity support
-* *Greg Sutcliffe*:
-  Matrix virtual experience support
-* *Jason Brooks*:
-  Operations support
-* *Jef Spaleta*:
-  Strategic support
-* *Jennifer McGinnis*:
-  Operations support
-* *Jennifer Schimmoller*:
-  On-site event support, logistics, and event execution
-* *Jess Chitas*:
-  Flock website UI/UX improvements
-* *Jona Azizaj*:
-  Event Co-Lead
-* *Joseph Gayoso*:
-  Social media support
-* *Juliana Furlow*:
-  Sponsored Travel coordinator
-* *Kevin Fenzi*:
-  Matrix virtual experience support
-* *Lidija (Lydia) Balija*:
-  CfP lead, ops support
-* *Madeline Peck*:
-  Design, print, & brand/identity support
-* *Shaun McCance*:
-  Event Co-Lead
-
-There are even more people who have contributed something to Flock.
-But these are the people who went above and beyond to contribute to the success of the event.
-I could not do Flock without each and every one of them!
-Thank you, my amazing teammates!
-
-[[workflow]]
-=== My Workflow
-
-Additionally, I also tried out a new approach to public project management.
-There is a new Fedora Forge repository under the Fedora Council organization, https://forge.fedoraproject.org/council/flock[_council/flock_].
-I attempted to use this as a way to track ongoing work and have more public-facing project management to demonstrate what actually goes into executing Flock.
-However, I rate the use of this experimental repository as a mixed success.
-Its biggest issue was that it was incorporated late into the planning cycle and I did not involve other Flock team members in the repository workflow.
-So, it was largely a tool that I used alone.
-I provided few and sparse updates until May on the various issues.
-
-This was a cool experiment with agentic AI workflows though.
-I used various Flock planning team meeting summaries, notes, and transcripts to track the active conversations and work we were doing leading up to Flock.
-I provided the meeting assets and various other things, such as Pull Requests on the Flock website, as context to help me track the work happening on Flock.
-After Flock ended, I devised an "interview format" with my AI agent to check all open issues in the Fedora Forge API for the _council/flock_ repository and then ask me follow-up questions about the open issues.
-I would answer the AI's questions about the issue status.
-This created a "database" of sorts about the Flock execution, and various tasks and efforts that went into executing this year's Flock.
-
-In conclusion, while this tool was not directly useful to planning Flock 2026, it could be a useful starting point for other tools to analyze, plan, and suggest timelines for various Flock planning and execution work.
-My final goal in using the repository after Flock 2026 was to track unwritten context living in my head, and get it into a public issue tracker so it could be referenced in the future when we actually need to look back and remember what we did before and what lessons we learned.
-
-[[paperwork]]
-=== Paperwork
-
-It is the most boring thing ever, perhaps, but Red Hat Legal approved an updated Flock to Fedora sponsor contract.
-This is something that me and my colleague Shaun McCance have been working on for years, as part of the CentOS Connect and Flock to Fedora event planning.
-The challenge with our old sponsor contract was that it had requirements which did not actually make sense for Flock.
-For example, a sponsor had to provide proof of up to $1 million USD insurance for their event sponsorship.
-This is actually somewhat standard for corporate events where companies rent big, expensive exhibit booths.
-But Flock does not, and never had, sponsor booths.
-Our community is always too immersed in the hallway track, and we encourage sponsors to send their reps to participate in the hallway track to get more out of their sponsorship.
-
-While the $1 million USD insurance requirement was one of the most notorious challenges, especially for smaller companies and organizations, there were other changes made as well.
-I will not list them all, but the greatest advantage of this was the ability to bring back some past sponsors due to less corporate verbiage in the contract, and more community-friendly language.
-We did not _add_ anything new to the contract; we only removed lots of content and sections.
-All in all, this made our contracts shorter, leaner, more aligned with the actual event we produce, and importantly, easier for other company's legal teams to review, process, and sign.
-
-We got these updated contracts in January, which was part of why we delayed somewhat in our sponsor outreach.
-However, now that we have the updated contract, we can start earlier on the sponsor outreach since we will only have to get an approval next year on a contract update which mostly changes dates, years, and not much else.
-
-
-[[during-flock-2026]]
-== Flock 2026 On-site Experience
+[[hallway]]
+== The Hallway Track
 
 I often tell people that the 45 days before Flock are some of the most stressful days of my entire year.
 But all four times I have done this, once I actually arrive at Flock and the conference gets going, the stress melts away.
@@ -188,21 +53,6 @@ I am still running around a lot, taking care of this or that, but the important 
 Our speakers deliver great content, people reconnect after a long time of not seeing someone, and the hallway track is constantly lively.
 This year was no exception.
 I was pleasantly pleased to see and hear the community vibe which is essential to Flock was once again re-created.
-
-With that said though, there are three specific aspects of the event experience which I do want to highlight:
-
-. _Hallway Track_:
-  Consistently the only thing that everyone seems to agree is the most important part of Flock.
-. _"Generational switchover" and packager data trends_:
-  This part of the "State of Fedora" keynote got a lot of discussion and generated deep conversations in the hallway.
-  And there will presumably be more conversations as we get out of Flock mode and into the usual Fedora release mode!
-. _Record-breaking sponsor engagement_:
-  We had a record number of sponsors, both in financial commitment but also in actual in-person engagement.
-  This is a key driver of the success and growth of the event in the eyes of many.
-  It also enables us to broaden our impact through financial assistance opportunities.
-
-[[hallway]]
-=== Hallway Track
 
 Both my lived experience from nine years of Flock and the post-event data since we began collecting it in 2024 tells us one thing, absolutely.
 One of the most-valued parts of the Flock to Fedora experience is what is commonly known as "hallway track."
@@ -212,6 +62,8 @@ This "hallway track" is the informal conversations that take place outside of th
 They happen organically and they are usually unscripted.
 In-person attendees of Flock have been telling us for years that the "hallway track" at Flock is a critical, spotlight part of what makes the event worth attending.
 
+image::mentor-summit-lunch-table.jpg[alt="A group selfie of several individuals wearing blue Flock to Fedora conference lanyards gathered around a long dining table in a room with large glass windows. A handwritten sign reading \"Development\" sits on the table among plates and glasses as the group poses for the camera held by a man in the foreground.", title="A group selfie of people wearing blue Flock to Fedora conference lanyards seated at a dining table featuring a handwritten \"Development\" sign.", link="https://jflory7.fedorapeople.org/pub/flock/2026/photos/IMG20260614133105.jpg"]
+
 So, while it appears the Fedora community has vast opinions about Flock, what it is, and what it is supposed to be, we all seem to agree on one thing.
 Getting the face-time to speak with other Fedora contributors is invaluable and drives critical engagement that keeps people in our community.
 I genuinely think without Flock to bring our core contributor community together once a year, we might all be burnt-out, exhausted, and tired from the online engagement we have been doing for more than 23 years.
@@ -219,48 +71,42 @@ The in-person time is where the Fedora _Friends Foundation_ comes out on full di
 The hallway track is where people can go from colleagues to friends.
 When we talk about building trust in a community, it is experiences like the Flock to Fedora hallway track that turn trust-building from a concept to a concrete, practical thing.
 
-The only thing that I will add to the value of the hallway track is that the hallway track does not exclusively take place in hallways.
-At Flock to Fedora, we have a long-standing tradition of fantastic, inclusive social events which invite people to connect over something other than Fedora, Linux, and open source.
-As someone who has attended several of these social events and now had the privilege to co-organize some of them, I realize this is something truly unique to how we do Flock to Fedora.
-A lot of attention, time, and care is spent on curating thoughtful evening programming which gets our community to bond, get to know each other, and honestly, have some fun.
-In the heavily-corporate world of Open Source in the 2020s, we may not get to discuss the role and importance of _having fun_ as often as we should.
-But in my experience in Fedora, having fun together as a community is how we build the trust and relationships that get us through some of our most challenging and difficult moments as a project and community.
-So, whether "hallway track" takes place in the actual venue hallway, a river boat cruise, a local pub, or over a board game, all of these things are critical ingredients to making the Fedora community sustainable for all of the time we spent from wherever we call home, collaborating over video calls, Matrix, Discourse, mailing lists, and the overwhelming number of other places where Fedora contribution conversations take place.
 
 [[switchover-packagers]]
-=== "Generational switchover" and packager data trends
+== "Generational Switchover" and Packager Data Trends
 
 One of the most poignant parts of Flock 2026 came in the "State of Fedora" keynote delivered by the Fedora Project Leader, Jef Spaleta.
-Several thoughts were put forward, but what clearly generated buzz was a graph generated by my Fedora Data WG comrade, Michael Winters, on the number of unique package committers in Fedora over a six-year span.
-The https://lwn.net/Articles/1077832/[LWN article] shows the specific graph, but the idea is that the X-axis is every month of the year (i.e., 1 to 12) and the Y-axis is the number of unique Fedora packagers (i.e., people, not packages).
+Several thoughts were put forward, but what clearly generated buzz was a graph produced by https://forge.fedoraproject.org/mwinters[Michael Winters] from the https://forge.fedoraproject.org/fdwg/[Fedora Data Working Group].
+
+image::fedora-packagers-trend-mwinters-flock.png[alt="A line graph titled \"Year-over-Year Package Committers by Month.\" The x-axis tracks the month from 1 to 12. The y-axis measures unique Fedora package committers from 320 to 460. The graph plots data and dashed trend lines for three distinct years: 2020 in blue with a trend slope of -1.90, remaining mostly above 420; 2023 in orange with a steeper trend slope of -6.02, steadily declining from roughly 410 to 335; and 2026 in green, which only includes data for months 1 through 4, starting at 350 and dropping to 325 with the steepest trend slope of -8.70.", title="A line graph titled \"Year-over-Year Package Committers by Month\" showing a downward trend in the number of unique Fedora package committers across the years 2020, 2023, and early 2026."]
+
+Michael single-handedly developed user-level access to the wealth of packaging data we have been working to analyze, and the result was a striking visualization of the number of unique package committers in Fedora over a six-year span.
 The graph shows what seems to be a significant decline of the number of unique packagers actually working in Fedora Linux over a six-year span.
 The data appears to indicate a sharp decline in the number of unique packagers in 2026 so far versus the unique packagers in 2020 and 2023.
 It is a graph that is certainly concerning.
 
 Jef put forward theories of what he thought the data could be indicating.
-At one point, he mentioned the idea of generational switchover, and that one era is ending a new one is beginning.
-In the session following his keynote, the Fedora Council town-hall Q&A, this topic of generational switchover came up even more.
+At one point, he mentioned the idea of generational switchover, and that one era is ending and a new one is beginning.
+In the session following his keynote, the Fedora Council Q&A, this topic of generational switchover came up even more.
 Obviously, people felt concerned or triggered in some sort of way by this data.
-While the link:/tags/fedora-council/[Fedora Council] originally planned for the panel to focus more on a "what/how" conversation,, we ended up having more of a "why" conversation with attendees.
+While the link:/tags/fedora-council/[Fedora Council] originally planned for the panel to focus more on a "what/how" conversation, we ended up having more of a "why" conversation with attendees.
 
-However, it was a comment made by Aleksandra Fedorova which really stuck with me.
+It was a comment made by https://fedoraproject.org/wiki/User:Bookwar[Aleksandra Fedorova] which really stuck with me.
 At one point, she and I had touched on a shared experience for an in-person https://rsvp.fedoraproject.org/control/event/releases/f41-potsdam/[F41 Release Party in Potsdam, Germany].
-The interesting part of this was the unique intersection of both the local organizer, Rene Kuhn, and newcomer, junior students from the university (i.e., where the event was held) and old-timer, experienced contributors like myself and Aleksandra.
+The interesting part of this was the unique intersection of both the local organizer, René Kuhn, and newcomer, junior students from the university (i.e., where the event was held) and old-timer, experienced contributors like myself and Aleksandra.
 Aleksandra mentioned that her experience at this F41 Release Party reminded her that the young people and students of today were just like many of us with several years behind us were when we began in Free Software and Open Source.
 She said that it was not actually young people who were changing, but us, the people who had been here for years, who have changed.
 We are no longer the same young people we were.
 We are more experienced, more exhausted, perhaps more burnt-out, than we were in our own youth and entry to the Free Software movement.
 I encourage you to watch the full panel discussion once it is available, but this is a thought that is sticking with me after Flock ended.
 
-[[sponsors]]
-=== Record-breaking sponsor engagement
 
-Last but not least, we had a record-breaking level of engagement on the sponsor side of Flock 2026.
+[[sponsors]]
+== Record-Breaking Sponsor Engagement
+
+We had a record-breaking level of engagement on the sponsor side of Flock 2026.
 We raised more sponsorship funding from a larger number of unique sponsors than we have received in years.
-This was an exciting milestone for me especially, as I have tried to optimize the overall sponsor process and timeline, and work on improvements like the link:#paperwork[sponsor contract] I described previously.
-I often tease with people about one of the hardest parts of working in large corporations is figuring out how to spend money.
-Not deciding on _what_ to spend, but rather, the actual logistics of _getting money in and out_ of any given corporation.
-So, this milestone is significant because it shows us a couple of things:
+This milestone shows us a couple of things:
 
 * We have a diverse group of engaged sponsors, mostly from downstream products and companies, which care about the sustainability and well-being of Fedora.
 * We are growing the amount of sponsorship for Flock to Fedora, which can enable us to think on a bigger, grander scale for future editions.
@@ -273,41 +119,23 @@ However, the pool of engaged sponsors is diversifying.
 We have more commercial downstreams from Fedora Linux than we have ever had at any point in our history.
 To me, this represents healthy growth, even if it does raise more questions about how to sustain that growth and balance the increasing interest in Fedora Linux in a fair and equitable way.
 
-I am very proud to say that sponsoring Flock does not afford any company or organization additional benefits to do things in Fedora that others cannot.
-While there are Flock-specific benefits like face-time with Fedora leadership, logo visibility, swag items distributed, and social media promotion, our sponsors are not buying influence in Fedora Linux.
+Everyone tries to influence the direction of a project they care about.
+That is simply how communities work.
+What matters is whether the processes for exerting that influence are fair, equitable, and open to everyone.
+In Fedora, they are.
+Our sponsors do not buy influence in Fedora Linux.
 What is impressive about most of our Flock sponsors is that there are often coordinated groups of paid engineers and contributors from these companies who show up to do real, actual work in the Fedora community.
-Flock sponsorship is not just for demonstration of financial commitment, but often our sponsors invest both money and personnel time into the Fedora community.
-So, just like anyone else, employees of Flock sponsor companies and organizations can show up in Fedora, submit Fedora Changes, get them reviewed by FESCo, and integrated into Fedora Linux.
+They submit Fedora Changes, get them reviewed by FESCo, and integrated into Fedora Linux — the same process available to anyone.
 Our hardware vendor sponsors can also participate in initiatives like https://docs.fedoraproject.org/en-US/marketing/ready/[Fedora Ready], to provide greater assurance and information for Linux consumers to purchase hardware which has a guaranteed quality experience with Fedora Linux.
-All of these things are open and public; it is sort of what our Open Source ethos is all about.
 Our sponsors are not complacent and they do not rely on financial sponsorship to get them special favors.
 If they want something done, they show up and do the work themselves, together with the input and participation of the rest of the community.
-
-So, while there is lots more I could say about the state of sponsorship for Flock, what I can say is that _this_ particular trend is moving in the right direction.
-It will be exciting if we can figure out how to tap into this growing momentum on the sponsorship side to address key challenges, like the decline in number of unique packagers in the Fedora community.
 
 A special thank-you to the individual folks at our various sponsoring organizations who raise the Fedora Project flag in their teams, departments, and entire organization.
 Without you, these special, collaborative relationships we have would not be possible.
 
 
-[[post-flock-2026]]
-== After Flock 2026: What comes next
-
-Now that Flock 2026 is behind us, there is no time to waste.
-The Flock organizing team is already discussing what Flock 2027 may look like.
-We have lots of ideas, but of course, we need the community input to guide our conversations and help us navigate toward the option that works best for the global Fedora community.
-So, this final section of this blog post will focus on three key aspects in my mind as we start thinking ahead to the next edition:
-
-. _Post-Event Survey_:
-  The most critical part of what actually influences the future of the Flock to Fedora conference, including the most-curious questions of where and when.
-. _Global Equity and Regional Access_:
-  Balancing the choice of Flock's location with sustainable workloads to make the next Flock edition an improvement, not a regression.
-. _Virtual Experience Enhancements_:
-  This is one of the hardest parts of organizing Flock for the size of our event, yet it is one of the most important parts.
-  An inclusive virtual experience is a critical part of involving our global contributor community and connecting with people whom travel is not an option.
-
 [[survey]]
-=== Post-Event Survey
+== Fill Out the Flock 2026 Post-Event Survey!
 
 If you are reading this blog post, attended Flock in-person or virtually, and it is before 8 July 2026, stop everything you are doing.
 https://fedoraproject.limequery.com/flock-2026[Go and complete the Flock 2026 post-event survey] right now.
@@ -315,11 +143,9 @@ This is only because it is the most important part of the entire future Flock pl
 As one of the people with access to the data and also involved with the planning for future Flock editions, nothing else matters more than this.
 While I am always listening to what people have to say in the hallway or making my own observations at the conference, the survey gives us real data to understand what people think and feel about Flock to Fedora.
 I always read every single comment and response in the survey.
-It is so informative to me for hearing both what people liked and disliked.
 It matters to the entire Flock organizing team that we build an event that reflects the desires and wishes of our community.
 
-Since the survey is still live at the time of my publication of this blog post, we need to wait for the data to come in before speculating too much.
-However, one thing I will emphasize is that the survey is open to both in-person _and_ virtual attendees.
+The survey is open to both in-person _and_ virtual attendees.
 We know that the Fedora community is global and spread out all over the world.
 We also know that travel is not necessarily an equitable act; not everyone can afford to travel, or even is physically able to travel.
 Therefore, we invite everyone who considers themselves a part of the Fedora community and participating with Flock to share their opinions.
@@ -327,68 +153,15 @@ Therefore, we invite everyone who considers themselves a part of the Fedora comm
 After all, if we only sent our survey to our in-person European conference attendees, it seems quite likely that we will keep hearing about how Europe is the best location for Flock.
 So, even our virtual attendees and people who could not travel in-person to Flock 2026 can share their feedback and voice to help us make a better and more inclusive Flock in the next editions.
 
-[[equity-access]]
-=== Global Equity and Regional Access
-
-There are lots of things on my mind about Flock 2027, but of course, I am thinking about the _where_ question.
-Where should the next edition take place?
-What continent should the next Flock take place?
-Should we repeat cities more often, or go to brand-new places?
-How can we make sure we are not only appealing to our long-time contributors, but also our global community of people in regions where we historically had low engagement and participation?
-
-These are the kind of questions that keep me up late at night.
-Inclusion is critically important to me.
-Fedora is nothing without the global diversity and perspective we have, when anyone can participate and influence the future of their favorite operating system.
-Therefore, the location decision carries many delicate considerations that are not always obvious to people who have the privilege to attend Flock wherever and whenever it may be.
-
-I do not have answers here, but I am excited to see the survey results in July.
-The data always tells me a perspective grounded in actual feedback from the community.
-While there are various complex factors that go into where and when the next Flock will be, I always value what our community has to say about this.
-I look forward to sharing the results of the Flock 2026 post-event survey and what the community has to say about the next edition of Flock to Fedora.
-
-[[virtual]]
-=== Virtual Experience Enhancements
-
-Lastly, the virtual/hybrid experience of Flock is a critical part of how we should be thinking ahead to Flock 2027.
-Since Flock restarted after the COVID-19 pandemic, we invested significantly more into our virtual, hybrid experience.
-It is unfortunate that this often ends up as being one of the _most expensive costs_ of the entire event, even eclipsing spend on our financial assistance program and sponsored travel.
-Yet, it is critically important, both for people who cannot travel yet are key figures in the community, and for the long-term memory of the project contributors about what we are doing and focusing on now.
-There is also the benefit to the wider Linux and Open Source ecosystem to have visibility into what we are discussing and doing in Fedora from the live-stream and recorded sessions.
-
-I am content with how we have piloted the use of Matrix to curate virtual engagement in live sessions at Flock.
-While it is surely not perfect, it is amazing to me to compare to the digital infrastructure we have in 2026 to my first Flock in 2015.
-This is simply a level of engagement we could never have facilitated over IRC.
-I am not claiming an amazing, five-star virtual experience by any means.
-I know we have a lot to improve on.
-But I am keen to think more about how we keep this part of the event planning as a critical, important part.
-The virtual experience was not important or financially possible for the first Flock edition in Charleston, South Carolina back in 2013.
-But in 2026, it is more important than ever.
-
-I want to think more about how we can lean on Fedora's _First Foundation_ to show the rest of the Open Source ecosystem how to create the most inclusive, most engaging hybrid event experience there is.
-Perhaps we can lean on lessons from our virtual Fedora Release Parties we conduct twice a year.
-
-
+////
 [[outro]]
-== That's a wrap!
+== More in this series
 
-With that, this blog post comes to a close.
-I ended up writing much more than I actually anticipated writing.
-And I hardly covered all of the various odds and ends about the Flock experience that are in my mind!
-However, my intention was to get some of the most poignant, most important things out there while the experience was fresh in my mind.
-I believe I have achieved that, and I am excited to follow the conversations that come when Flock 2027 planning begins to come up.
-At publishing time, I believe I will have a very different role in the organization of Flock 2027 than I have now.
-But I know I will still be involved somehow.
-More of this will come in a future blog post.
+This post covered the highlights of what happened at Flock 2026.
+But there is more to say about how Flock gets organized and what the experience means on a personal level.
 
-In conclusion, some of the things I am most proud of about Flock 2026 was our record-breaking attendance and sponsorship, and how we can continue to make future editions of Flock to Fedora a wild success.
-I eagerly anticipate reading the complete results of the Flock 2026 post-event survey and what people have to say, good and bad, about this year's edition.
-I see how the entire Flock organizing team puts in a lot of effort and time to build an event that does represent ourselves, but represents the Fedora community.
-Since Flock is our annual flagship contributor event, this is a very important task!
-
-If there is any closing thought that I have, it is that the trajectory of Flock to Fedora is on the right path.
-There are still some friction points we need to improve, we need to start earlier on some things, and we need to leave room for the community to get involved.
-However, all that said, the signs I am watching are showing healthy growth.
-Now, we must not rest on our laurels, and sustain this momentum to deliver quality results for the entire Fedora community.
-
-Bye-bye, Flock 2026.
-Here we come, Flock 2027!
+* link:/blog/2026/07/flock-fedora-2026-organizing/[*How Flock to Fedora gets organized*]:
+  A look behind the scenes at the team, the workflow, and the paperwork that goes into producing Flock.
+* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
+  What organizing Flock has taught me about community, inclusion, and the future of the event.
+////
