@@ -129,12 +129,12 @@ The final goal in using the repository after Flock 2026 was to get unwritten ins
 It is the most boring thing ever, perhaps, but Red Hat Legal approved an updated Flock to Fedora sponsor contract.
 This is something that me and my colleague Shaun McCance have been working on for years, as part of the CentOS Connect and Flock to Fedora event planning.
 The challenge with our old sponsor contract was that it had requirements which did not actually make sense for Flock.
-For example, a sponsor had to provide proof of up to $1 million USD insurance for their event sponsorship.
+For example, a sponsor had to provide a proof of insurance with a significant deductible for their event sponsorship.
 This is actually somewhat standard for corporate events where companies rent big, expensive exhibit booths.
 But Flock does not have, and never had, sponsor booths.
 Our community is always too immersed in the hallway track, and we encourage sponsors to send their reps to participate in the hallway track to get more out of their sponsorship.
 
-While the $1 million USD insurance requirement was one of the most notorious challenges, especially for smaller companies and organizations, there were other changes made as well.
+While the insurance requirement was one of the most notorious challenges, especially for smaller companies and organizations, there were other changes made as well.
 I will not list them all, but the greatest advantage of this was the ability to bring back some past sponsors due to less corporate verbiage in the contract, and more community-friendly language.
 We did not _add_ anything new to the contract; we only removed lots of content and sections.
 All in all, this made our contracts shorter, leaner, more aligned with the actual event we produce, and importantly, easier for other company's legal teams to review, process, and sign.
