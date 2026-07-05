@@ -34,14 +34,14 @@ The https://lwn.net/Articles/1077832/[Linux and open source media] already began
 So, I thought this was a good moment to share my perspective on the event.
 This was my ninth Flock that I have attended and the fourth Flock where I played a leading role as an organizer.
 
-////
+
 [NOTE]
 ====
 This is the first post in a three-part series on Flock to Fedora 2026.
 The link:/blog/2026/07/flock-fedora-2026-organizing/[second post] covers how Flock gets organized behind the scenes.
-The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on organizing Flock as Fedora Community Architect.
+//The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on organizing Flock as Fedora Community Architect.
 ====
-////
+
 
 
 [[hallway]]
@@ -153,7 +153,7 @@ Therefore, we invite everyone who considers themselves a part of the Fedora comm
 After all, if we only sent our survey to our in-person European conference attendees, it seems quite likely that we will keep hearing about how Europe is the best location for Flock.
 So, even our virtual attendees and people who could not travel in-person to Flock 2026 can share their feedback and voice to help us make a better and more inclusive Flock in the next editions.
 
-////
+
 [[outro]]
 == More in this series
 
@@ -162,6 +162,6 @@ But there is more to say about how Flock gets organized and what the experience 
 
 * link:/blog/2026/07/flock-fedora-2026-organizing/[*How Flock to Fedora gets organized*]:
   A look behind the scenes at the team, the workflow, and the paperwork that goes into producing Flock.
-* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
-  What organizing Flock has taught me about community, inclusion, and the future of the event.
-////
+//* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
+//  What organizing Flock has taught me about community, inclusion, and the future of the event.
+
