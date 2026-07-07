@@ -39,7 +39,7 @@ This was my ninth Flock that I have attended and the fourth Flock where I played
 ====
 This is the first post in a three-part series on Flock to Fedora 2026.
 The link:/blog/2026/07/flock-fedora-2026-organizing/[second post] covers how Flock gets organized behind the scenes.
-//The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on organizing Flock as Fedora Community Architect.
+The link:/blog/2026/07/flock-fedora-2026-reflections/[third post] shares my personal reflections on organizing Flock as Fedora Community Architect.
 ====
 
 
@@ -162,6 +162,5 @@ But there is more to say about how Flock gets organized and what the experience 
 
 * link:/blog/2026/07/flock-fedora-2026-organizing/[*How Flock to Fedora gets organized*]:
   A look behind the scenes at the team, the workflow, and the paperwork that goes into producing Flock.
-//* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
-//  What organizing Flock has taught me about community, inclusion, and the future of the event.
-
+* link:/blog/2026/07/flock-fedora-2026-reflections/[*Reflections on organizing Flock as Fedora Community Architect*]:
+  What organizing Flock has taught me about community, inclusion, and the future of the event.
