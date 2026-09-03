@@ -1,0 +1,129 @@
+---
+title: "What does AI Alignment mean in open source?"
+date: 2026-09-15T08:00:00-00:00
+description: Reclaiming the term "AI Alignment" for the alignment of LLM-gen-AI models with open source community values.
+categories:
+    - fedora
+    - red-hat
+tags:
+    - 2020s
+    - artificial-intelligence
+    - chaoss-project
+    - events
+    - fedora-planet
+    - open-source-communities
+images: [""]
+---
+
+In July, I link:https://fedoramagazine.org/shaun-mccance-next-fedora-community-architect/[shared an update] about my new role as AI Alignment Community Architect at link:/categories/red-hat[Red Hat], focused on link:/categories/fedora/[Fedora].
+This post clarifies what that role entails, why "AI alignment" is more than a technical term, and how I plan to support the Fedora community in leveraging LLM-gen-AI.
+
+I organized this blog post into three sections:
+
+. *Reclaiming AI Alignment*:
+  The meaning behind the term.
+. *Model builder engagement*:
+  Why do we need bidirectional feedback loops?
+. *My work in Fedora*:
+  Upcoming priorities this quarter and the path forward.
+
+[NOTE]
+====
+I use the term “LLM-gen-AI” throughout this article aligned to the link:https://sfconservancy.org/llm-gen-ai/llm-backed-generative-ai-recommendations.html[Software Freedom Conservancy’s recommendations].
+This is in support of addressing this technology in community-first terms.
+====
+
+
+[[reclaim-ai-alignment]]
+== Reclaiming AI Alignment: The meaning behind a term
+
+As I defined my new role, I carefully considered the title.
+The Fedora community sentiment toward LLM-gen-AI is deeply divided: some rally against it, while others push for rapid adoption without wider community consensus.
+I needed a title that signaled a neutral, balanced approach.
+My mandate at Red Hat is to support upstream projects in adopting AI, focused primarily on Fedora.
+Working in the “AI” space at Red Hat is fascinating because I am exposed to diverse ways that customers use and deploy innovative open source technology.
+Additionally, Red Hat provides real value by supporting customers in their “hybrid AI” journeys.
+Many of my Red Hat colleagues consistently push for more Free Software and open source answers for customers and enterprises building infrastructure to support AI inference, local models, and more.
+Red Hat has a responsibility to innovate when new technology opportunities emerge that its customers are acting upon.
+With this in mind, I am more convinced that LLM-gen-AI is something that open source maintainers and contributors can leverage for real workloads.
+There are opportunities to solve real problems and routine maintenance tasks for complex projects.
+LLM-gen-AI used right can support maintainers in automating boring, cyclical work so they can focus more on the exciting work of innovation and focused engineering efforts within their projects.
+Or even going outside and spending time offline.
+
+However, I distinguish "AI alignment" from "AI adoption."
+"AI adoption" communicates a pre-defined, non-negotiable stance where the goal is simply to increase usage.
+"AI alignment," by contrast, communicates that LLM-gen-AI use exists on a spectrum.
+
+My intent in Fedora is not to insist, but to negotiate and compromise.
+I want to align how our community uses these tools with our existing values, norms, and culture.
+
+
+[[chaoss-ai-alignment]]
+== CHAOSS AI Alignment Working Group & model builders
+
+My approach to "AI alignment" is influenced by the CHAOSS Project.
+I co-chair the link:https://github.com/chaoss/wg-ai-alignment[CHAOSS AI Alignment Working Group] with Emma Irwin and Coraline Ada Ehmke.
+Recently, Emma, Adrian Edwards, and I link:https://2026.fossy.ca/schedule/presentation/443/[presented at FOSSY 2026] on this topic in greater detail.
+This experience frames my definition of "alignment" as I move forward in my new role.
+
+Traditionally, "AI alignment" is a term used by model builders to describe processes where communities have little influence.
+As LLM-gen-AI grows in widespread use, the power gap between those model builders and the communities they impact will widen.
+This creates an unsustainable dynamic in the safety and well-being of our communities with these new tools.
+
+We need more than just "AI adoption".
+We need bidirectional feedback loops.
+Free Software communities deserve a seat at the table.
+This is not just for iterating on model development, but for defining how we integrate LLM-gen-AI tools sustainably and responsibly.
+
+To achieve this, we (i.e., open source community citizens) need a stronger value proposition for engagement with model builders.
+Whether commercial or altruistic, we must persuade model builders that a community-driven approach is a critical advantage.
+If we refuse to engage, we risk Free Software values and culture being shut out of conversations entirely.
+So, I believe it is better to be an advisor than a bystander.
+Advising is its own form of open source contribution.
+Therefore, I lend my support toward the wider notion that "AI alignment" fosters two-way conversations that ensure model builders actually listen to the communities their work impacts.
+
+
+[[fedora]]
+== My work in Fedora: What I hope to work on next
+
+September 2026 is my first full month in this role.
+While there is still much to define, a few priorities have emerged.
+Here is where I will be focusing my initial energy:
+
+* *Migrating "This Week in Fedora"*:
+  Aurélien Bompard (link:https://forge.fedoraproject.org/abompard[@abompard]) created a useful tool for AI-curated, human-reviewed link:https://abompard.fedorapeople.org/twif/[weekly summaries].
+  Currently, it lives on a personal fedorapeople.org space.
+  I am beginning to work with Aurélien to migrate this to a weekly WordPress article on the Fedora Community Blog, since we first began talking about this in July.
+  I am already submitting pull requests to support this transition.
+
+* *Launching LLM-gen-AI Agent Skills*:
+  Together with the AI/ML SIG, we are building the link:https://forge.fedoraproject.org/ai-ml/skills-library[Fedora Agent Skills Library].
+  These define best practices for using LLM-gen-AI agents to automate routine maintenance.
+  My immediate task is community architecture: setting up the repository for contributions and improving documentation so these skills are accessible and scalable.
+
+* *AI/ML SIG Documentation*:
+  As the Fedora Docs Team works to identify "team captains" for specific topics, I am volunteering to lead AI/ML SIG documentation.
+  This involves importing or deprecating content in the Quick Docs site and migrating extensive Wiki documentation to the Fedora Docs site, creating a central, discoverable home for all things LLM-gen-AI in Fedora.
+
+* *An update to the Fedora AI-Assisted Contributions Policy?*:
+  Honestly, I am not sure about this one yet.
+  But it seems apparent to me that eleven months after the Fedora Council first introduced the link:https://docs.fedoraproject.org/en-US/council/policy/ai-contribution-policy/[Fedora AI-Assisted Contributions Policy], it is time for an update.
+  Nearly a full year of lived experience has happened within the framework of this lightweight policy.
+  Furthermore, a coalition of Fedora contributors agree that an update is needed, but there is not a single, shared view of what those updates should be.
+  It will take more community input and feedback to shape the next iteration to that policy.
+  I anticipate facilitating inclusive future community conversations about what those changes should be.
+
+I am both excited and nervous to work with fellow Fedorans on these initiatives.
+I know there are strongly-held opinions on both sides of the LLM-gen-AI debate.
+(_An understatement!_)
+I accepted this role because I believe participation is more constructive than standing on the sidelines.
+My goal is to navigate this work in _alignment_ with Fedora’s Four Foundations: Freedom, Friends, Features, First.
+
+
+[[outro]]
+== Until next time!
+
+Since March 2026, I invested a lot of time into migrating my blog to a new publishing system and improving the website user interface.
+However, now that my site is fully functioning on a technical level, it is refreshing to begin writing content again here.
+There is more to come from me in this space.
+Expect new content about my work in link:/categories/fedora/[Fedora] and the LLM-gen-AI space, and other link:/categories/foss/[open source] and personal items too.
