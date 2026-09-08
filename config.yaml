@@ -120,9 +120,16 @@ params:
       "web development"
     ]
   colors:
-    primary: darkorchid
-    secondary: linen
-    accent: darkslateblue
+    light:
+      primary: darkorchid
+      secondary: linen
+      accent: darkslateblue
+      background: linen
+    dark:
+      primary: "#9932CC"
+      secondary: "#f5f0fa"
+      accent: "#6D64A2"
+      background: "#121212"
   description: Homepage of Justin Wheeler, an Open Source contributor and Free Software advocate from Georgia, USA.
   fonts:
     default: Open Sans

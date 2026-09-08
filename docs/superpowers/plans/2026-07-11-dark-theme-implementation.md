@@ -181,7 +181,7 @@ Replace lines 35–65 of `themes/toph/layouts/partials/head.html` (from `{{ "<!-
 
 ```gotemplate
     {{ "<!-- colors and fonts from Hugo config -->" | safeHTML }}
-    {{- $mode := site.Params.color_mode | default "auto" -}}
+    {{- $color_mode := site.Params.color_mode | default "auto" -}}
     {{- $color_primary := $.Param "colors.light.primary" -}}
     {{- $color_secondary := $.Param "colors.light.secondary" -}}
     {{- $color_accent := $.Param "colors.light.accent" -}}
@@ -724,19 +724,21 @@ This is where dark mode becomes real. After this task, `color_mode: dark` or `co
 Insert immediately after the `<link rel="stylesheet" ... $css.Permalink ...>` line added in Task 1 (still inside `<head>`, before the font stylesheet links):
 
 ```gotemplate
-    {{- if ne $mode "light" }}
+    {{- if ne $color_mode "light" }}
     {{ "<!-- dark mode overrides -->" | safeHTML }}
     {{- $color_primary_dark := $.Param "colors.dark.primary" | default $color_primary -}}
     {{- $color_secondary_dark := $.Param "colors.dark.secondary" | default $color_secondary -}}
     {{- $color_accent_dark := $.Param "colors.dark.accent" | default $color_accent -}}
     {{- $color_background_dark := $.Param "colors.dark.background" | default "#121212" -}}
+    {{/* -text roles reference var(--primary)/var(--accent-color) so they track the
+         dark brand color at runtime (color-mix is resolved by the browser, not Hugo). */}}
     {{- $brand_dark := dict
         "primary" $color_primary_dark
         "secondary" $color_secondary_dark
         "accent-color" $color_accent_dark
         "background" $color_background_dark
-        "primary-text" (printf "color-mix(in srgb, %s 60%%, white)" $color_primary)
-        "accent-text" (printf "color-mix(in srgb, %s 60%%, white)" $color_accent)
+        "primary-text" "color-mix(in srgb, var(--primary) 60%, white)"
+        "accent-text" "color-mix(in srgb, var(--accent-color) 60%, white)"
     -}}
     {{- $neutral_dark := dict -}}
     {{- range $group, $entries := hugo.Data.style -}}
@@ -745,17 +747,41 @@ Insert immediately after the `<link rel="stylesheet" ... $css.Permalink ...>` li
         {{- end -}}
     {{- end -}}
     {{- $vars_dark := merge $brand_dark $neutral_dark -}}
+    {{/* Flatten the dark vars once so both the attribute block and the no-JS
+         media-query fallback below emit an identical declaration list. */}}
+    {{- $decls := "" -}}
+    {{- range $key, $val := $vars_dark -}}
+        {{- $decls = printf "%s\n      --%s: %s;" $decls $key $val -}}
+    {{- end -}}
     <style>:root[data-bs-theme="dark"] {
-{{- range $key, $val := $vars_dark }}
-      --{{ $key }}: {{ $val | safeCSS }};
-{{- end }}
+{{- $decls | safeCSS }}
     }</style>
+    {{- if eq $color_mode "auto" }}
+    {{ "<!-- no-JS fallback: honor OS dark preference when the FOUC script never set data-bs-theme -->" | safeHTML }}
+    <style>@media (prefers-color-scheme: dark) {
+      :root:not([data-bs-theme]) {
+{{- $decls | safeCSS }}
+      }
+    }</style>
+    {{- end }}
     {{- end }}
 ```
 
-Two details worth being deliberate about:
-- `primary-text`/`accent-text` mix from `$color_primary`/`$color_accent` (the **light**-mode hex), not `$color_primary_dark`/`$color_accent_dark`. If a site's dark bold-role value has itself been lightened from the light hex (as jwheel.org's accent and exampleSite's primary are, in Task 7/8), mixing from the already-lightened dark value would compound into a washed-out double-lightened result. Anchoring the tint formula to the light hex keeps it independent of whatever the dark bold value ends up being.
-- `{{ $val | safeCSS }}` is required, not optional. Go's `html/template` applies contextual auto-escaping inside `<style>` blocks the same way it does for `href` attributes — the exact class of bug already found and fixed in this theme's heading-anchor rendering (percent-encoding silently corrupting content in an escaped context). `color-mix(in srgb, #483D8B 60%, white)` contains a `%` character; `safeCSS` marks the string as pre-validated CSS so Hugo emits it verbatim instead of risking escaping it.
+Three details worth being deliberate about:
+- `primary-text`/`accent-text` mix from `var(--primary)`/`var(--accent-color)` — the *effective dark* brand value resolved by the browser at runtime — not a Hugo-interpolated hex.
+This reverses the plan's original light-hex anchoring: the PR #74 review flagged that anchoring to the light hex silently ignored a site's `colors.dark.primary`/`accent`, so a deliberately re-hued dark brand color would leave text mixing from the *light* hue and diverging from its own fills.
+Referencing the CSS variable keeps text and fills the same hue by construction.
+The trade-off the old anchoring warned about — compounded lightening when the dark bold value is itself already lightened for contrast (as jwheel's accent and exampleSite's primary are) — is now accepted deliberately: on a **dark** background, mixing an already-lightened color further toward white only *raises* contrast, so it never fails WCAG; the only cost is a slightly more pastel tint, which is acceptable and keeps the hue honest.
+Because the resolved `-text` value now depends on `colors.dark.*`, the exact contrast ratios are measured against the dark bold values in Task 7/8's verification, not pre-computed here.
+- Flatten the merged dark vars into a single `$decls` string once, then emit it verbatim in both the `[data-bs-theme="dark"]` attribute block and the no-JS `@media` fallback.
+This guarantees the two declaration lists can never drift apart.
+- `{{ $val | safeCSS }}` (here applied to the flattened `$decls`) is required, not optional.
+Go's `html/template` applies contextual auto-escaping inside `<style>` blocks the same way it does for `href` attributes — the exact class of bug already found and fixed in this theme's heading-anchor rendering (percent-encoding silently corrupting content in an escaped context).
+`color-mix(in srgb, var(--primary) 60%, white)` contains a `%` character; `safeCSS` marks the string as pre-validated CSS so Hugo emits it verbatim instead of risking escaping it.
+
+The no-JS fallback (`@media (prefers-color-scheme: dark) { :root:not([data-bs-theme]) { … } }`) is emitted only in `auto` mode, right after the attribute block.
+It applies the dark vars for visitors whose browser never ran the FOUC script (JavaScript disabled), scoped to `:root:not([data-bs-theme])` so it yields the instant the script — or a saved manual choice — sets the attribute.
+Forced `dark`/`light` modes pin the attribute statically and don't need it.
 
 - [ ] **Step 2: Wire `data-bs-theme` onto `<html>` for forced modes, in `baseof.html`**
 
@@ -780,9 +806,11 @@ In `themes/toph/layouts/partials/head.html`, insert right after the existing thr
     {{- if eq $color_mode "auto" }}
     <script>
     (function() {
-        var stored = localStorage.getItem('theme');
-        var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        document.documentElement.setAttribute('data-bs-theme', theme);
+        try {
+            var stored = localStorage.getItem('theme');
+            var theme = stored || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            document.documentElement.setAttribute('data-bs-theme', theme);
+        } catch (e) {}
     })();
     </script>
     {{- end }}
@@ -790,7 +818,9 @@ In `themes/toph/layouts/partials/head.html`, insert right after the existing thr
 
 This must be a synchronous inline `<script>` (no `src`, no `defer`/`async`) placed early in `<head>` — browsers block rendering on synchronous head scripts, so this runs and sets the attribute before the page's first paint, which is what prevents a visible flash from the wrong theme.
 
-Note `$color_mode` is now computed twice in `head.html` (here, and again at the top of the colors/fonts block from Task 1/this task's Step 1) plus once in `baseof.html`. This is intentional, not an oversight — `$mode`/`$color_mode` is a single cheap `site.Params` lookup with a `default`, and computing it locally in each of the three places it's needed avoids threading a value between a partial and its caller. Keep the same variable name (`$color_mode` in `baseof.html`, `$mode` in `head.html` — matching each file's existing local convention) — do not rename one to match the other, that's a bigger diff for no behavior change.
+The body is wrapped in `try/catch` (also a PR #74 review point): `localStorage.getItem` throws a `SecurityError` in sandboxed iframes and storage-disabled privacy modes, and an unguarded throw would abort the IIFE before `setAttribute` runs, leaving `data-bs-theme` unset. The empty `catch` is deliberate — the no-JS `@media` fallback (Step 1) already covers the "attribute never set" case, so failing silently degrades to system preference rather than erroring.
+
+Compute `$color_mode` once at the top of `head.html` and reuse it for both this FOUC gate and the dark-overrides block from Step 1 — a single cheap `site.Params` lookup with a `default`. `baseof.html` computes its own `$color_mode` because it's a separate template scope; that stays as-is (do not try to thread one value between the partial and its caller for no behavior change).
 
 - [ ] **Step 4: Build and manually verify all three modes**
 
@@ -1003,7 +1033,7 @@ Verified values:
 | `accent` | `#6D64A2` (**not** `#483D8B` — corrected from the design spec) | bold: same roles as primary | literal `#483D8B` measured 2.07:1 — fails 3:1 outright. `color-mix(in srgb, #483D8B 80%, white)` = `#6D64A2`, 3.56:1, passes with real margin |
 | `background` | `#121212` | page background | n/a (base value, not contrast-checked against itself) |
 
-`primary-text`/`accent-text` are not config keys — they're computed live by `head.html` from `colors.light.primary`/`colors.light.accent` (`darkorchid`/`darkslateblue`) via `color-mix(in srgb, <value> 60%, white)`, giving `#C284E0` (6.84:1) and `#918BB9` (5.89:1) respectively. No config change needed for those; Task 5 already wired the formula.
+`primary-text`/`accent-text` are not config keys — they're computed live in the browser via `color-mix(in srgb, var(--primary) 60%, white)` / `color-mix(in srgb, var(--accent-color) 60%, white)`, so they mix from the *effective dark* brand value, not the light hex (see Task 5). `--primary` here is `#9932CC` (darkorchid's own hex, so the primary tint is unchanged from the light-anchored result): `#C284E0`, 6.84:1. `--accent-color` here is the lightened dark accent `#6D64A2`, so `--accent-text` mixes from that: `#A7A2C7`, 7.71:1 — higher than the `#918BB9` (5.89:1) an anchor on the light `darkslateblue` would have produced, because the dark accent is already lightened. No config change needed for either; Task 5 already wired the formula.
 
 `color_mode` is intentionally left unset (defaults to `auto`) — jwheel.org gets the toggle and system-preference default, per the approved design.
 
@@ -1106,7 +1136,7 @@ Verified values:
 | `accent` | `#696349` (unchanged) | bold role | literal value measured 3.11:1 — passes 3:1, kept as-is (same rule applied to all four brand colors: lighten only where the literal value genuinely fails) |
 | `background` | `#121212` | page background | n/a |
 
-`primary-text`/`accent-text` come from `colors.light.primary`/`colors.light.accent` (`#8c1515`/`#696349`) via the same 60%-mix formula: `#BA7373` (5.16:1) and `#A5A192` (7.24:1). Already wired by Task 5, no config for it.
+`primary-text`/`accent-text` are computed live via `color-mix(... var(--primary) 60% ...)` / `color-mix(... var(--accent-color) 60% ...)`, mixing from the effective dark brand value (see Task 5). `--primary` here is the lightened dark primary `#A95050`, so `--primary-text` is `#CB9696`, 7.44:1 — higher than the `#BA7373` (5.16:1) a light-`#8c1515` anchor would give. `--accent-color`'s dark value `#696349` equals the light one, so `--accent-text` is unchanged: `#A5A192`, 7.24:1. Already wired by Task 5, no config for it.
 
 `color_mode` left unset (`auto`), matching jwheel.org.
 
@@ -1352,6 +1382,7 @@ Checklist (jwheel.org, `color_mode: auto`):
 - [ ] Click toggle → flips instantly, icon swaps, persists across reload.
 - [ ] Navbar, badges, buttons: primary/accent bold colors visible and distinct from the dark background in dark mode.
 - [ ] Body text, links, headings: legible in dark mode (this is the `--primary-text`/`--accent-text`/`text.dark.*` path).
+- [ ] **Title font in dark mode** (jwheel.org only): the configured `fonts.title` (Bungee Shade) bakes a drop-shadow into each glyph, which ghosts/doubles on the dark background. Reconsider the title font — a lighter Bungee sibling (Bungee / Inline / Outline / Hairline) applied universally, or a different title font entirely. Note `--title-font` drives both `h1` (`_global.css`) and the navbar brand (`_nav.css`), and the dark mechanism currently emits only color vars, not fonts — a per-mode font would need `--title-font` added to head.html's dark block plus a `fonts.dark.title` config. This is a purely site-level `config.yaml` choice; it cannot affect other theme users.
 - [ ] **Text/decoration role divergence** (raised in PR #72 review): Task 3 migrated text `color:` to the `-text` roles but deliberately left decorative `border-*-color` on the raw brand roles, so link underlines and card borders that sit *next to* migrated text can now diverge in dark mode. Eyeball the pairs where they visually read as one element: `.recent-view-all a` (dashed underline `--accent-color` vs text `--accent-text`), `.tag-cloud-item` (border `--primary` vs text `--primary-text`), and the `_blog-archive.css` inline-start accent borders. If a divergence looks wrong, promote that specific border to the matching `-text` role — do not blanket-migrate borders.
 - [ ] `/blog/2026/06/flock-fedora-2026/`: `[NOTE]` admonition renders with dark-mode colors when toggled.
 - [ ] Tweet archive card (any `content/tweets/` page): visible border in both modes (border-card fix).
