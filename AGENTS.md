@@ -71,7 +71,8 @@ This enables browsing posts by era on the tags page.
 
 `config.yaml` (YAML, not TOML). Key sections:
 - `taxonomies` — explicit `category: categories`, `tag: tags` mapping
-- `params.colors` — primary, secondary, accent
+- `params.colors` — nested by mode: `colors.light` and `colors.dark`, each with primary, secondary, accent, background
+- `params.color_mode` — `auto` (default), `light`, or `dark`
 - `params.fonts` — default, title, header (with weights)
 - `params.taxonomy_exclude` — categories hidden from taxonomy listings
 - `params.biography.tagline` — one-line tagline displayed in hero section
@@ -124,28 +125,42 @@ Section headings display a clickable 🔗 anchor on hover for sharing direct lin
 
 **AsciiDoc detection:** Use `.File.Ext == "adoc"` to detect AsciiDoc content. Do NOT use `.Markup` — it returns an object (not a string) in Hugo 0.157+ and string comparison will silently fail.
 
+**AsciiDoc parity (non-negotiable):** AsciiDoc is a first-class content format. Any feature built for Markdown MUST also work for AsciiDoc. A change that ships for one format only is incomplete. Because Asciidoctor bypasses Hugo's render hooks, AsciiDoc often needs a separate implementation reaching the same result (as heading anchors do above).
+
 ## GitHub API Access (CRITICAL)
 
-**ALWAYS** get explicit user consent before posting any content to GitHub under their account. This includes comments, replies, issue creation, PR creation, and any other action that publishes content visible to others.
+**ALWAYS** get explicit user consent before **any** mutating GitHub API call under their account. "Mutating" means any POST, PATCH, PUT, or DELETE — not only publishing new content. This includes comments, replies, and issue or PR creation; edits to an existing title, description, or comment; labels, assignees, milestones, and review requests; state changes such as closing, reopening, merging, or submitting a review; and branch, tag, or release operations. Read-only GET calls need no approval.
 
 The user and the agent work as a team. Communication on GitHub must be effective, genuine, and honest. This requires a human-in-the-loop check before every public-facing action.
 
 Workflow:
-1. Draft the proposed comment/reply in the terminal
+1. Draft the proposed change in the terminal — for edits to existing content, show a precise diff and confirm nothing else changed
 2. Present it to the user for review
 3. Wait for explicit approval (e.g., "post it")
 4. Only then execute the GitHub API call
 
-Never skip this step, even if the user has approved similar comments before. Each comment is a separate approval.
+Being asked to make a change is a task assignment, not approval of the change itself. "Edit the PR description" means draft the edit and show it — not apply it.
+
+Never skip this step, even if the user has approved similar actions before. Each call is a separate approval; approval for one action never carries forward to the next.
+
+### Formatting GitHub comments
+
+Comments posted through the API follow different conventions than files in the repo:
+
+- **Wrap paragraphs normally.** The one-sentence-per-line convention used for `.md` and `.adoc` files does not apply here.
+- **Never wrap commit hashes in backticks** — bare hashes render as browseable links. Use `owner/repo@hash` to link a commit in another repository.
+- **Do wrap color hex codes in backticks** — GitHub renders a color swatch preview for them.
+- **Closing keywords do not work across repositories.** `Closes owner/repo#12` from a different repo creates a backlink but will not close the issue; it must be closed manually.
 
 ## Git Conventions (CRITICAL)
 
 - **Gitmoji** prefix on all commit subject lines (e.g., `🍱 content: Import blog posts`)
-- **`Assisted-by:`** trailer citing exact AI model name (Fedora AI policy)
+- **`Assisted-by:`** trailer citing the exact AI model name and context window. Verify the model from the current session environment before writing it — never assume it from earlier in the conversation, since the user may switch models mid-session
 - Use `git commit --signoff` to add the `Signed-off-by` trailer — do not write it manually
-- Commit messages emphasize WHY, not just WHAT
-- Write commit messages to `/tmp/commit-msg-<descriptive-name>.txt` (unique filenames, never reuse) — user runs `git commit --edit --file /tmp/commit-msg-<name>.txt --gpg-sign --signoff`
-- **NEVER** run `git push` or create PRs — user does these manually
+- Commit messages emphasize WHY, not just WHAT. Concise — 3 to 6 sentences typical. Do not restate the diff or narrate mechanics
+- Write commit messages to `/tmp/commit-<descriptive-name>.txt` (unique, tab-completable filenames, never reuse) — user runs `git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`. Note that `/tmp` is periodically cleaned; if a message file disappears before it is used, rewrite it
+- Present git commands as single unbroken lines — the user's terminal is narrow, and wrapped lines need manual cleanup after pasting
+- **NEVER** run `git push`, `git commit`, or create PRs — user does these manually
 - **NEVER** use `--no-gpg-sign` or skip hooks
 - **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
 - User creates branches and approves all changes
@@ -173,6 +188,18 @@ Do not leave mixed usage in the same file.
 - Use `const` for variables that are not reassigned; `var` only when reassignment is needed
 - Always provide explicit radix to `parseInt()` (e.g., `parseInt(value, 10)`)
 
+## Writing Conventions
+
+Use **one sentence per line** (ventilated prose) in Markdown and AsciiDoc files.
+Each sentence starts on its own line; do not wrap at a fixed column.
+Consecutive lines render as one paragraph.
+This produces cleaner diffs and makes sentences easy to reorder or review individually.
+
+This applies to files in the repository.
+It does **not** apply to GitHub comments posted via the API — see "Formatting GitHub Comments" above.
+
 ## Style Guide for Agents
 
 When demonstrating or suggesting bash commands, always use the fully-expanded form of flags and parameters (e.g., `--signoff` instead of `-s`, `--file` instead of `-F`, `--init` instead of `-i`). This promotes learning for the user.
+
+All commands run from the project root (`/home/jwheel/git/web/jwheel.org`) — never `cd`. To run git against the theme submodule, use `git -C themes/toph/ …`. When presenting a theme command for the user to run, assume their working directory is `themes/toph/`.
