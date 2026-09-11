@@ -179,6 +179,17 @@ Comments posted through the API follow different conventions than files in the r
 - **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
 - User creates branches and approves all changes
 
+### Version Tags
+
+Annotated tag messages are written as GitHub-flavored Markdown and become the basis for release notes.
+
+- **Use setext headings** — the heading text on one line, a matching-length run of `-` beneath it — never `##`. `git tag` defaults to `--cleanup=strip`, which silently deletes every line beginning with `#`. Setext renders as the same `<h2>` on GitHub and no cleanup mode can strip it
+- Draft to `/tmp/tag-<repo>-<version>.txt` and confirm `grep -c '^#'` returns 0 before tagging
+- Create with `git tag --cleanup=verbatim --file=/tmp/tag-<repo>-<version>.txt --sign <version> <commit>`. `tag.gpgsign` is not set (unlike `commit.gpgsign`), so `--sign` must be explicit or the tag is unsigned
+- Verify with `git tag --verify <version>` and `git tag -l --format='%(contents)' <version>` before pushing, to confirm every heading survived
+- One sentence per line does **not** apply to tag messages — that convention governs repository `.md` and `.adoc` files
+- A GitHub release body is stored separately and is never re-read from the tag. Editing or force-pushing a tag does not update an existing release; check and fix both
+
 ## Hugo Template Conventions
 
 ### Global `site` function (ALWAYS use)
