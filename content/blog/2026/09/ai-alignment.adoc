@@ -7,10 +7,10 @@ categories:
     - red-hat
 tags:
     - 2020s
-    - artificial-intelligence
     - chaoss-project
     - events
     - fedora-planet
+    - llm-gen-ai
     - open-source-communities
 images: [""]
 ---

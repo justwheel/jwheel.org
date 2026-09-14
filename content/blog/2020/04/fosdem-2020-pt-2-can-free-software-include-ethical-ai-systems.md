@@ -9,13 +9,13 @@ categories:
 tags: 
   - "2020-foss-conferences"
   - "2020s"
-  - "artificial-intelligence"
   - "conferences"
   - "ethics"
   - "europe"
   - "events"
   - "fosdem"
   - "librecorps"
+  - "llm-gen-ai"
   - "travel"
 images: ["/content/fosdem-2020.png"]
 ---

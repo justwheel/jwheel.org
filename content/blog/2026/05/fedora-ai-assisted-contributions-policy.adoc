@@ -8,12 +8,12 @@ categories:
 tags:
     - 2020s
     - ai-assisted
-    - artificial-intelligence
     - copyright
     - ethics
     - fedora-council
     - fedora-planet
     - linux
+    - llm-gen-ai
     - open-source-communities
 images: ["/blog/2026/05/fedora-ai-assisted-contributions-policy.png"]
 ---

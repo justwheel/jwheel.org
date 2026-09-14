@@ -8,12 +8,12 @@ categories:
 tags:
     - 2020s
     - ai-assisted
-    - artificial-intelligence
     - copyright
     - events
     - fedora-council
     - fedora-planet
     - linux
+    - llm-gen-ai
     - open-source-communities
     - reflections
 images: ["ai-developer-desktop-red-hat-summit-2026.png"]
