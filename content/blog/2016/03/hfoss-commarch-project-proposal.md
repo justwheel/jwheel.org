@@ -2,11 +2,11 @@
 title: "HFOSS: Community Architecture (CommArch) Project Proposal"
 date: 2016-03-04
 description: "This post documents the project proposal for the HFOSS Community Architecture (CommArch) project at the Rochester Institute of Technology, Spring 2016."
-categories: 
+categories:
   - "fedora"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "community"
@@ -22,7 +22,7 @@ This post serves as the project proposal for me and my team's [Humanitarian Free
 
 In this project proposal, we take a preliminary look at the project we're looking at analyzing, [Tahrir](https://github.com/fedora-infra/tahrir), and the different criteria we are assigned to look at.
 
-![Fedora is a free and open-source Linux distribution.](/img/Full-Logo.png "Fedora is a free and open-source Linux distribution.")
+![Fedora is a free and open source Linux distribution.](/content/Full-Logo.png "Fedora is a free and open source Linux distribution.")
 
 <!--more-->
 

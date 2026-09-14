@@ -11,7 +11,7 @@ tags:
   - "friends"
   - "happiness-packets"
   - "what-its-all-about"
-images: ["/img/happiness-packet-challenge.png"]
+images: ["/content/happiness-packet-challenge.png"]
 ---
 
 In this brave new COVID-19 world, we have to watch out for each other. These times are unusual and not normal. This year in 2020, **I challenge you to join me and others in the Happiness Packets Challenge from Monday, 27 April to Sunday, 3 May**! This is the same challenge I made [in 2017](/blog/2017/04/happiness-packets-challenge/). Can you say thanks to someone different every day for one week?

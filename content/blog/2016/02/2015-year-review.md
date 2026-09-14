@@ -88,7 +88,7 @@ The Monday and Tuesday we were there, Cindy, Jordan, Alex, and I went around Lon
 
 This was truly a life-changing experience that was bestowed upon me. I was honored and privileged to have met the other members of the Spigot team that I've been working with for the past two years. I wouldn't trade my time in London for anything else, and I'm hoping that I'll be able to help host the crew this upcoming MINECON if it ends up in the northeast US.
 
-![SpigotMC Team](/img/Spigot-Team.jpg "You guys all rock.")
+![SpigotMC Team](/content/Spigot-Team.jpg "You guys all rock.")
 
 ## Open Source and Fedora
 

@@ -29,6 +29,20 @@ pagination:
   pagerSize: 10
 
 
+# --- module mounts ---
+module:
+  mounts:
+    # Preserve static directory for unmanaged assets (docs, archive, favicon)
+    - source: static
+      target: static
+    # Serve page assets statically while retaining access for Hugo image processing
+    - source: assets/pages
+      target: static/pages
+    # Serve content assets statically while retaining access for Hugo image processing
+    - source: assets/content
+      target: static/content
+
+
 # --- security settings ---
 security:
   exec:
@@ -138,7 +152,7 @@ params:
     header: Roboto Slab
     header_weight: ":wght@500"
   images:
-    - /img/logo.jpg
+    - /pages/logo.jpg
   git_repo: https://github.com/justwheel/jwheel.org
   taxonomy_exclude: ["footer", "projects"]
   hire_me: false

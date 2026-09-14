@@ -18,7 +18,7 @@ tags:
   - "teleirc"
   - "upstream"
   - "working-together"
-images: ["/img/teleirc-development-update.jpg"]
+images: ["/content/teleirc-development-update.jpg"]
 ---
 
 TeleIRC v2.0.0 is the latest major release of our open source Telegram <=> IRC bridge. Download the [latest release](https://github.com/RITlug/teleirc/releases/tag/v2.0.0) and read the [release announcement](/blog/2020/05/teleirc-v2-0-0-is-officially-here/) for the full story.

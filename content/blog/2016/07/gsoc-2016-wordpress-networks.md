@@ -12,7 +12,7 @@ tags:
   - "gsoc"
   - "research-and-learning"
   - "wordpress"
-images: ["/img/Google-Summer-of-Code-announcement.png"]
+images: ["/content/Google-Summer-of-Code-announcement.png"]
 ---
 
 This week, with an [initial playbook](https://pagure.io/jflory7-ansible/blob/master/f/playbooks/deliverables) for creating a WordPress installation created (albeit needing polish), my next focus was to look at the idea of creating a WordPress [multi-site network](https://codex.wordpress.org/Create_A_Network). Creating a multi-site network would offer the benefits of only having to keep up a single base installation, with new sites extending from the same core of WordPress. Before making further refinements to the playbook, I wanted to investigate whether a WordPress network would be the best fit for Fedora.

@@ -83,7 +83,7 @@ I eagerly look forward to future opportunities for the FOSS projects and initiat
 
 With a new schedule, the fall 2016 semester marked the beginning of my active involvement with the Women in Computing (WiC) program at RIT, as part of the Allies committee. Together with other members of the RIT community, we work together to find issues in our community, discuss them and share experiences, and find ways to grow the WiC mission: to promote the success and advancement of women in their academic and professional careers.
 
-[![WiCHacks 2016 Opening Ceremony](/img/WiCHacks-Opening-Ceremony.jpg)](/img/WiCHacks-Opening-Ceremony.jpg)In spring 2016, I participated as a [volunteer for WiCHacks](/blog/2016/03/why-i-love-wichacks/), the annual [all-female hackathon](http://wichacks.rit.edu/) hosted at RIT. My first experience with WiCHacks left me impressed by all the hard work by the organizers and the entire atmosphere and environment of the event. After participating as a volunteer, I knew I wanted to become more involved with the organization. Fortunately, fall 2016 enabled me to become more active and engaged with the community. Even though I will be unable to attend WiCHacks 2017, I hope to help support the event in any way I can.
+[![WiCHacks 2016 Opening Ceremony](/content/WiCHacks-Opening-Ceremony.jpg)](/content/WiCHacks-Opening-Ceremony.jpg)In spring 2016, I participated as a [volunteer for WiCHacks](/blog/2016/03/why-i-love-wichacks/), the annual [all-female hackathon](http://wichacks.rit.edu/) hosted at RIT. My first experience with WiCHacks left me impressed by all the hard work by the organizers and the entire atmosphere and environment of the event. After participating as a volunteer, I knew I wanted to become more involved with the organization. Fortunately, fall 2016 enabled me to become more active and engaged with the community. Even though I will be unable to attend WiCHacks 2017, I hope to help support the event in any way I can.
 
 Also, hey! If you're a female high school or university student in the Rochester area (or willing to do some travel), you should seriously [check this out](http://wichacks.rit.edu/)!
 
@@ -107,11 +107,11 @@ Months after Flock, I am still incredibly grateful for receiving the opportunity
 
 To read a more in-depth analysis of my time in Poland, you can read [my full write-up](/blog/2016/08/fedora-flock-2016/) of Flock 2016.
 
-![To Kraków for Flock with Bee, Amita, Jona, and Giannis](/img/IMG_9225.jpg "On a bus to the Kraków city center with Bee Padalkar, Amita Sharma, Jona Azizaj, and Giannis Konstantinidis (left to right).")
+![To Kraków for Flock with Bee, Amita, Jona, and Giannis](/content/IMG_9225.jpg "On a bus to the Kraków city center with Bee Padalkar, Amita Sharma, Jona Azizaj, and Giannis Konstantinidis (left to right).")
 
 ## Maryland (Bitcamp), Massachusetts (HackMIT), California (MINECON)
 
-![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/img/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin Wheeler (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
+![Bitcamp 2016: The Fedora Ambassadors of Bitcamp 2016](/content/group-photo.png "The Fedora Ambassadors at Bitcamp 2016. Left to right: Chaoyi Zha (cydrobolt), Justin Wheeler (jflory7), Mike DePaulo (mikedep333), Corey Sheldon (linuxmodder)")
 
 2016 provided me the opportunity to explore various parts of my country. Throughout the year, I attended various conferences to represent the [Fedora Project](https://fedoraproject.org/wiki/Overview), the [SpigotMC project](https://www.spigotmc.org/wiki/about-spigot/), and the [RIT open source](http://foss.rit.edu) community.
 

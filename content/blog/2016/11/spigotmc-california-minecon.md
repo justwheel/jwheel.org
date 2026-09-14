@@ -112,4 +112,4 @@ I was incredibly fortunate to have the opportunity to travel to California this 
 
 So long. See you soon.
 
-![SpigotMC Team at MINECON 2015 in London, England](/img/Spigot-Team.jpg "You guys all rock. Team photo from MINECON 2015 in London.")
+![SpigotMC Team at MINECON 2015 in London, England](/content/Spigot-Team.jpg "You guys all rock. Team photo from MINECON 2015 in London.")

@@ -14,7 +14,7 @@ tags:
   - "gsoc"
   - "hfoss"
   - "summer-activities"
-images: ["/img/Google-Summer-of-Code-announcement.png"]
+images: ["/content/Google-Summer-of-Code-announcement.png"]
 ---
 
 This summer, I'm excited to say I will be trying on a new pair of socks for size.

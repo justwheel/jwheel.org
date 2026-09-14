@@ -10,9 +10,9 @@ tags:
   - "fedora-planet"
 ---
 
-These past few weeks have been particularly exciting for me as I become more involved in the world of free and open-source software. For a long time, I've sat and idled in the various realms of the Fedora community, and I've sat on the sidelines thinking that I would be unable to contribute anything significant because of my inability to write fancy code or design super slick images or write documentation for the fancy code. However, I have gladly been proven wrong.
+These past few weeks have been particularly exciting for me as I become more involved in the world of free and open source software. For a long time, I've sat and idled in the various realms of the Fedora community, and I've sat on the sidelines thinking that I would be unable to contribute anything significant because of my inability to write fancy code or design super slick images or write documentation for the fancy code. However, I have gladly been proven wrong.
 
-![Fedora is a free and open-source Linux distribution.](/img/Full-Logo.png "Fedora is a free and open-source Linux distribution.")
+![Fedora is a free and open source Linux distribution.](/content/Full-Logo.png "Fedora is a free and open source Linux distribution.")
 
 <!--more-->
 
@@ -40,4 +40,4 @@ Most recently, I have been working closely with the Marketing team as a contribu
 
 ## In summary…
 
-My adventures into Fedora and the magic of free and open-source are just beginning, and I eagerly anticipate the upcoming future as I become more involved and make my impact in the Fedora community!
+My adventures into Fedora and the magic of free and open source are just beginning, and I eagerly anticipate the upcoming future as I become more involved and make my impact in the Fedora community!

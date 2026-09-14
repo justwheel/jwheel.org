@@ -2,7 +2,7 @@
 title: Red Hat
 date: 2022-10-10
 slug: red-hat
-icon: /img/red-hat.png
+icon: /pages/projects/red-hat.png
 hide_sitemap: true
 categories: ["projects"]
 

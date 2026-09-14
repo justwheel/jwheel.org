@@ -11,7 +11,7 @@ tags:
   - "fedora-elections"
   - "fedora-planet"
   - "open-source-communities"
-images: ["/img/community.png"]
+images: ["/content/fedora-community.png"]
 ---
 
 Since I became a Fedora contributor in August 2015, I've spent a lot of time in the community. One of the great things about a big community like Fedora is that there are several different things to try out. I've always tried to do the most help in Fedora with my contributions. I prefer to make long-term, in-depth contributions than short-term, "quick fix"-style work. However, like many others, Fedora is a project I contribute to in my free time. Over the last month, I've come to a difficult realization.

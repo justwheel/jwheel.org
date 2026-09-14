@@ -5,4 +5,4 @@ hide_sitemap: true
 ---
 
 [link=https://protonmail.com/]
-image::/img/proton.svg[ProtonMail Visionary user]
+image::/pages/footer/proton.svg[ProtonMail Visionary user]

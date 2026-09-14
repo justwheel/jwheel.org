@@ -118,7 +118,7 @@ I am incredibly thankful and grateful to be a part of the Fedora community. The 
 
 I would like to give special thanks and appreciation for the companionship and friendliness of [Amita](https://fedoraproject.org/wiki/User:Amsharma), [Bee](https://fedoraproject.org/wiki/User:Bee2502), [Jona](https://fedoraproject.org/wiki/User:Jonatoni), and [Giannis](https://fedoraproject.org/wiki/User:Giannisk) during Flock. We probably spent a large part of our time at the conference together and I have a deep appreciation for the opportunity to get to you know you all personally, not just as fellow contributors but as true friends. I anticipate the next time we can all be together in the same space again!
 
-![To Kraków for Flock with Bee, Amita, Jona, and Giannis](/img/IMG_9225.jpg "On a bus to the Kraków city center with Bee, Amita, Jona, and Giannis (left to right).")
+![To Kraków for Flock with Bee, Amita, Jona, and Giannis](/content/IMG_9225.jpg "On a bus to the Kraków city center with Bee, Amita, Jona, and Giannis (left to right).")
 
 ## Looking ahead
 

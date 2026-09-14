@@ -2,7 +2,7 @@
 title: Fedora Project
 date: 2022-10-01
 slug: fedora
-icon: /img/fedora.png
+icon: /pages/projects/fedora.png
 hide_sitemap: true
 categories: ["projects"]
 

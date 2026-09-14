@@ -20,7 +20,7 @@ tags:
   - "things-you-should-know-understand"
   - "upstream"
   - "working-together"
-images: ["/img/BIZ_HighTrust_1110_A.png"]
+images: ["/content/BIZ_HighTrust_1110_A.png"]
 ---
 
 This is the story about the facilitation of the [Principles of Authentic Participation](https://authentic-participation.readthedocs.io/).
