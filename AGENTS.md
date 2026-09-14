@@ -46,9 +46,9 @@ If `themes/toph/` does not exist or is empty, the git submodule has not been clo
 - `content/tweets/` — Archived tweets as Hugo page bundles. Each tweet is a directory named by tweet ID (e.g., `1223242916988096512/`) containing `index.md` and associated images (`photo1.jpg`, etc.). Front matter: `title`, `date`, `tweet_id`, `author`, `author_name`, `categories: ["tweets"]`. Tweet text is standard Markdown with @mentions linked to `x.com` profiles and #hashtags linked to `x.com/hashtag/`. Tweets are deliberately NOT hidden from sitemaps — they are designed for SEO indexing. Embedded in blog posts via the `tweet-archive` shortcode.
 - `content/*.adoc` — Root pages (index, legal) use AsciiDoc format.
 - `assets/masks/` — Image filter masks for Hugo image processing (not served statically).
-- `assets/pages/` — Page-specific images processed by Hugo (e.g., About Me profile photo).
-- `assets/content/` — Reserved for blog and content images (future migration from `static/img/`).
-- `static/img/` — Shared images used by multiple posts; `static/docs/` — PDFs; `static/archive/` — archived assets.
+- `assets/pages/` — Page-specific images processed by Hugo (e.g., About Me profile photo, hero photo), with `projects/` for project icons and `footer/` for footer badges.
+- `assets/content/` — Shared blog and content images.
+- `static/docs/` — PDFs; `static/archive/` — archived assets.
 
 Structural categories (`footer`, `projects`) are filtered from taxonomy pages via `params.taxonomy_exclude` in config. Individual categories and tags can also be hidden via `hide_sitemap: true` in their `_index.md` front matter.
 
