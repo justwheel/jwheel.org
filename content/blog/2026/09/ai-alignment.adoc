@@ -12,7 +12,7 @@ tags:
     - fedora-planet
     - llm-gen-ai
     - open-source-communities
-images: [""]
+images: ["ai-alignment.png"]
 ---
 
 In July, I link:https://fedoramagazine.org/shaun-mccance-next-fedora-community-architect/[shared an update] about my new role as AI Alignment Community Architect at link:/categories/red-hat[Red Hat], focused on link:/categories/fedora/[Fedora].
