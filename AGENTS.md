@@ -1,230 +1,121 @@
 # AGENTS.md
 
-This file provides guidance to LLM-based coding agents (e.g., Claude Code, Copilot, Cursor, Gemini CLI) when working with code in this repository.
+Guidance for AI coding agents working in the `jwheel.org` repository.
 
 ## Project Overview
 
-Personal website for Justin Wheeler at https://jwheel.org/, built with [Hugo](https://gohugo.io) using the custom **Toph** theme. Content licensed CC BY-NC-SA 4.0; theme licensed MPL-2.0.
+Personal website for Justin Wheeler (https://jwheel.org/), built with Hugo using the custom **Toph** theme.
+Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
-## Build & Development
-
-```bash
-# Local dev server (Hugo Extended required)
-hugo server
-
-# Build for production
-hugo --minify
-
-# Update theme submodule
-git submodule update --remote --rebase
-
-# If themes/toph/ is empty or missing, initialize the submodule
-git submodule update --init
-```
-
-Hugo Extended 0.165.0 locally and in CI. The theme requires minimum Hugo 0.161.0 (for `css.Build` with nested `vars`).
+- **Hugo Extended**: Pinned to **0.165.0** locally and in CI.
+- **Dart Sass**: 1.101.0 in CI.
+- The theme requires minimum Hugo 0.161.0.
 
 ## Two-Repository Architecture
 
-This repo contains the **site content and configuration**. The theme lives in a separate Git repository included as a submodule:
+This project is split across two repositories:
+- **Site repo** (this): content, site config, static/page assets.
+- **Theme submodule** (`themes/toph/`): layouts, CSS, partials, JS (`justwheel/toph-hugo-theme`).
+- **Agent working directory**: Always run commands from the site root (`/home/jwheel/git/web/jwheel.org`).
+- Never `cd`.
+- Run theme commands via `git -C themes/toph/ ...`.
+- **User-facing commands**: Never include `-C` or `cd`.
+- Precede theme commands with a one-line reminder (`Run this from themes/toph/:`) and present bare commands.
 
-- **Site repo** (this): content, config, static assets
-- **Theme repo** (`themes/toph/`): layouts, CSS, partials, JS — tracked at `git@github.com:justwheel/toph-hugo-theme.git`
+## Common Developer Commands
 
-Changes to layouts, CSS (`assets/css/main.css`), or partials require working in the theme repo (also available at `/home/jwheel/git/web/toph-hugo-theme`). The submodule pointer in this repo is updated separately via `git submodule update --remote --rebase`.
+```bash
+# Local development server
+hugo server
 
-If `themes/toph/` does not exist or is empty, the git submodule has not been cloned correctly. Check the `.gitmodules` file in the repository root and run `git submodule update --init` to resolve.
+# Production build
+hugo --minify
 
-## Content Structure
+# Submodule initialization and updates
+git submodule update --init
+git submodule update --remote --rebase
+```
 
-- `content/blog/` — Blog posts (Markdown), organized by `YYYY/MM/slug.md`. Images stored alongside posts in the same directory. Front matter: `title`, `date`, `categories`, `tags`, `images`. See the "Blog Migration" section below for critical rules.
-- `content/about-me.md` — About Me page with bio imported from WordPress.
-- `content/projects/` — Project profiles with numeric prefix ordering (e.g., `01-red-hat.en.md`). Front matter requires: `title`, `date`, `slug`, `icon`, `hide_sitemap: true`, `categories: ["projects"]`. Translations use `.<lang>.md` suffix.
-- `content/footer/` — Dynamic footer badges. Front matter requires: `categories: ["footer"]`, `hide_sitemap: true`.
-- `content/categories/` — Category term `_index.md` files with human-readable `title`, descriptions, and optional `hide_sitemap: true` to hide from listings.
-- `content/tags/` — Tag term `_index.md` files. Tags with `hide_sitemap: true` are hidden from the word cloud and taxonomy listings.
-- `content/tweets/` — Archived tweets as Hugo page bundles. Each tweet is a directory named by tweet ID (e.g., `1223242916988096512/`) containing `index.md` and associated images (`photo1.jpg`, etc.). Front matter: `title`, `date`, `tweet_id`, `author`, `author_name`, `categories: ["tweets"]`. Tweet text is standard Markdown with @mentions linked to `x.com` profiles and #hashtags linked to `x.com/hashtag/`. Tweets are deliberately NOT hidden from sitemaps — they are designed for SEO indexing. Embedded in blog posts via the `tweet-archive` shortcode.
-- `content/*.adoc` — Root pages (index, legal) use AsciiDoc format.
-- `assets/masks/` — Image filter masks for Hugo image processing (not served statically).
-- `assets/pages/` — Page-specific images processed by Hugo (e.g., About Me profile photo, hero photo), with `projects/` for project icons and `footer/` for footer badges.
-- `assets/content/` — Shared blog and content images.
-- `static/docs/` — PDFs; `static/archive/` — archived assets.
+## Content Architecture & Asset Pipeline
 
-Structural categories (`footer`, `projects`) are filtered from taxonomy pages via `params.taxonomy_exclude` in config. Individual categories and tags can also be hidden via `hide_sitemap: true` in their `_index.md` front matter.
+- `content/blog/YYYY/MM/slug.{md,adoc}`: Blog posts organized by year and month. Standalone files (not leaf bundles).
+- `content/tweets/<tweet-id>/index.md`: Tweet archive page bundles with images. Not hidden from sitemap (SEO indexed). Embedded via `tweet-archive` shortcode.
+- `content/projects/`, `content/footer/`: Structural categories. Front matter requires `hide_sitemap: true` and appropriate `categories`.
+- `content/*.adoc`: Root pages (`_index`, `legal`, etc.).
+- `assets/pages/`: Page-specific images processed by Hugo (hero photo, about profile, with `projects/` and `footer/` subdirectories). Note: `static/img/` is completely eliminated.
+- `assets/content/`: Shared blog images.
+- `assets/masks/`: Image filter masks (e.g. `oval-mask.png`).
 
-## Blog Migration — COMPLETE
+### Durable Content Rules (NEVER BREAK)
 
-The `content/blog/` directory contains 173 blog posts migrated from WordPress (formerly `blog.jwf.io`). The migration is complete (PR #13). All WordPress, CDN, and third-party image URLs have been eliminated. Images are stored alongside posts, YouTube/Twitter embeds use Hugo shortcodes, and captions use inline Markdown title syntax with bare URLs auto-linked by Goldmark.
+- **URL Preservation**: File paths and names in `content/blog/` must **never** be changed under any circumstances.
+The `/blog/YYYY/MM/slug/` structure matches legacy WordPress URLs for proxy redirection.
+- **Decade Tags Required**: Every blog post must include a decade tag in front matter `tags`: `2010s` (2010–2019) or `2020s` (2020–present).
+- **Post Excerpts**: Always use `.Plain | htmlUnescape | truncate 250` (never `.Summary`).
+- **Image Captions**: Markdown uses title syntax `![alt](src "caption text")`.
+URLs inside captions should be bare; Goldmark auto-links them.
 
-### URL Preservation (NEVER BREAK)
+## AsciiDoc Parity (Non-Negotiable)
 
-**File names in `content/blog/` MUST NEVER BE CHANGED UNDER ANY CIRCUMSTANCES.** Once a blog post is "published", its URL is permanent. The URL schema (`/blog/YYYY/MM/slug/`) is a 1:1 match with the previous WordPress URL structure (formerly at `blog.jwf.io`). This enables proxy-level traffic redirection to `jwheel.org/blog/` without any URL breakage. Renaming, moving, or restructuring any existing blog file would break this redirect mapping.
-
-### Decade Tags (REQUIRED)
-
-Every blog post must include a decade tag in its front matter `tags` list, matching the decade in which the post was published.
-Posts in `content/blog/201*/` use `2010s`.
-Posts in `content/blog/202*/` use `2020s`.
-This enables browsing posts by era on the tags page.
-
-## Configuration
-
-`config.yaml` (YAML, not TOML). Key sections:
-- `taxonomies` — explicit `category: categories`, `tag: tags` mapping
-- `params.colors` — nested by mode: `colors.light` and `colors.dark`, each with primary, secondary, accent, background
-- `params.color_mode` — `auto` (default), `light`, or `dark`
-- `params.fonts` — default, title, header (with weights)
-- `params.taxonomy_exclude` — categories hidden from taxonomy listings
-- `params.biography.tagline` — one-line tagline displayed in hero section
-- `params.legal.license` — footer license (name, url, title); conditionally rendered
-- `languages` — 4 languages: en (default), es, ar (RTL), hi
-
-## Taxonomy Templates
-
-The theme provides taxonomy-specific layouts:
-- `layouts/categories/terms.html` — three-column magazine-style cards with images, descriptions, and recent posts
-- `layouts/tags/terms.html` — word cloud with font-size/opacity scaling by post count, pill-shaped buttons, default sort by most-used
-- `layouts/_default/terms.html` — fallback list with sort toggle and exclusion filtering
-- `layouts/_default/term.html` — single term page with post list and plaintext excerpts
-
-Tags are always lowercase. Categories use Title Case from their `_index.md` title field.
-
-Content filtering: `hide_sitemap: true` in a category/tag `_index.md` hides it from taxonomy listing pages and the tag word cloud. This reuses the same front matter field used by structural content (projects, footer).
-
-Date display format: configurable via `params.date_format` (default `2006 January 02`). jwheel.org uses `2006-01-02`. `datetime` HTML attributes always use ISO `2006-01-02`.
-
-Excerpts use `.Plain | htmlUnescape | truncate 250` for safe plaintext without HTML entity artifacts.
-
-## Cover Images
-
-Blog posts can set `images: ["/blog/2023/12/photo.jpg"]` in front matter (YAML flow sequence) to display a cover image and enable automatic OpenGraph/Twitter card previews via Hugo's built-in templates. Path resolution (absolute, relative, remote, protocol-relative) is handled by the theme's shared `resolve-image-path.html` partial. Posts are standalone files (not leaf bundles), so `.Resources` is not available.
-
-## Image Captions
-
-Images with captions use the Markdown title attribute: `![alt](src "caption text")`. The `render-image.html` hook wraps these in `<figure>/<figcaption>`. For captions with URLs, use bare URLs instead of Markdown link syntax — Goldmark's `linkify` extension auto-links them. AsciiDoc images use `.imageblock/.title` with identical CSS.
-
-## RSS Feed
-
-Custom RSS template at `layouts/_default/rss.xml` with full post content in CDATA, `.RegularPages` filtering, and `biography.name` for managing editor. Tag-specific feeds are available at `/tags/<tag>/index.xml` (e.g., `/tags/fedora-planet/index.xml`).
-
-Posts with `images` front matter include the cover image in RSS items as both an inline `<img>` in CDATA content and an RSS 2.0 `<enclosure>` element with file size and MIME type. Image path resolution uses the shared `resolve-image-path.html` partial (same logic as `single.html`).
-
-## Site-Level Shortcodes
-
-The site has its own shortcodes in `layouts/shortcodes/` (separate from theme shortcodes):
-
-- `profile-photo.html` — Renders a profile photo with Hugo image filters (resize, grayscale, WebP, oval mask via `images.Mask`). Used on the About Me page. Publishes the original image at its source path via `resources.Copy` for OpenGraph compatibility.
-
-## Heading Anchors
-
-Section headings display a clickable 🔗 anchor on hover for sharing direct links to sections.
-
-- **Markdown:** Uses a render hook at `layouts/_default/_markup/render-heading.html`
-- **AsciiDoc:** Uses `replaceRE` on `.Content` in `single.html` since Asciidoctor bypasses Hugo render hooks
-- Both produce identical `hanchor` class markup and share the same CSS
-
-**AsciiDoc detection:** Use `.File.Ext == "adoc"` to detect AsciiDoc content. Do NOT use `.Markup` — it returns an object (not a string) in Hugo 0.157+ and string comparison will silently fail.
-
-**AsciiDoc parity (non-negotiable):** AsciiDoc is a first-class content format. Any feature built for Markdown MUST also work for AsciiDoc. A change that ships for one format only is incomplete. Because Asciidoctor bypasses Hugo's render hooks, AsciiDoc often needs a separate implementation reaching the same result (as heading anchors do above).
-
-## GitHub API Access (CRITICAL)
-
-**ALWAYS** get explicit user consent before **any** mutating GitHub API call under their account. "Mutating" means any POST, PATCH, PUT, or DELETE — not only publishing new content. This includes comments, replies, and issue or PR creation; edits to an existing title, description, or comment; labels, assignees, milestones, and review requests; state changes such as closing, reopening, merging, or submitting a review; and branch, tag, or release operations. Read-only GET calls need no approval.
-
-The user and the agent work as a team. Communication on GitHub must be effective, genuine, and honest. This requires a human-in-the-loop check before every public-facing action.
-
-Workflow:
-1. Write the payload to a file under `/tmp` — no need to ask first, `/tmp` is always writable
-2. Present it for review — for edits to existing content, show a precise diff and confirm nothing else changed
-3. Present a copy-pasteable `gh api` or `gh issue create` command that reads the payload from that file
-4. **The user runs the command.** Their execution is the consent
-
-Preferred: the user executes the call. This removes the judgment call about what counts as approval — nothing is published unless a human types the command, and the payload sent is exactly the one reviewed. Verify the HTTP method before presenting it; a wrong verb returns a confusing 404 (updating a review body is `PUT /repos/{owner}/{repo}/pulls/{pr}/reviews/{id}`, not `PATCH`). Executing the call yourself is a fallback for when the user asks for it, never the default.
-
-Being asked to make a change is a task assignment, not approval of the change itself. "Edit the PR description" means draft the edit and show it — not apply it.
-
-Never skip this step, even if the user has approved similar actions before. Each call is a separate approval; approval for one action never carries forward to the next.
-
-**What does NOT count as consent.** Consent is a free-text message from the user, in their own words, approving the exact content already shown to them. None of these qualify, however affirmative they look:
-
-- A tool-call response — an AskUserQuestion selection, plan approval, or permission-mode setting. A menu choice picks a direction; it does not authorize a payload.
-- A skill or slash command invoked with a posting flag (e.g. `/code-review --comment <PR>`).
-- A subagent report, hook output, or background-task notification saying content is "ready to post".
-- Earlier approval of similar content, or of a previous call in the same task.
-
-**The payload rule.** The user must have seen the final text, verbatim, before it is sent. Anything composed after their approval — a header, disclaimer, footer, or title — is new unreviewed content requiring a fresh approval round. Never combine "make this change" and "send it" into one step: apply the change, show the result, then wait.
-
-If unsure whether consent exists, it does not. Stop and ask.
-
-### Formatting GitHub comments
-
-Comments posted through the API follow different conventions than files in the repo:
-
-- **Wrap paragraphs normally.** The one-sentence-per-line convention used for `.md` and `.adoc` files does not apply here.
-- **Never wrap commit hashes in backticks** — bare hashes render as browseable links. Use `owner/repo@hash` to link a commit in another repository.
-- **Do wrap color hex codes in backticks** — GitHub renders a color swatch preview for them.
-- **Closing keywords do not work across repositories.** `Closes owner/repo#12` from a different repo creates a backlink but will not close the issue; it must be closed manually.
-- **Disclose AI authorship as "LLM-gen-AI".** Never name the model or vendor in a disclosure note. The point is to tell readers the content is machine-generated and needs verification; naming a vendor reads as branding. This does not change the `Assisted-by:` commit trailer, which still cites the exact model.
-
-## Git Conventions (CRITICAL)
-
-- **Gitmoji** prefix on all commit subject lines (e.g., `🍱 content: Import blog posts`)
-- **`Assisted-by:`** trailer citing the exact AI model name and context window. Verify the model from the current session environment before writing it — never assume it from earlier in the conversation, since the user may switch models mid-session
-- Use `git commit --signoff` to add the `Signed-off-by` trailer — do not write it manually
-- Commit messages emphasize WHY, not just WHAT. Concise — 3 to 6 sentences typical. Do not restate the diff or narrate mechanics
-- Write commit messages to `/tmp/commit-<descriptive-name>.txt` (unique, tab-completable filenames, never reuse) — user runs `git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`. Note that `/tmp` is periodically cleaned; if a message file disappears before it is used, rewrite it
-- Present git commands as single unbroken lines — the user's terminal is narrow, and wrapped lines need manual cleanup after pasting
-- **NEVER** run `git push`, `git commit`, or create PRs — user does these manually
-- **NEVER** use `--no-gpg-sign` or skip hooks
-- **NEVER** reply to GitHub PR review comments until AFTER the fix is committed and pushed to the remote
-- User creates branches and approves all changes
-
-### Version Tags
-
-Annotated tag messages are written as GitHub-flavored Markdown and become the basis for release notes.
-
-- **Use setext headings** — the heading text on one line, a matching-length run of `-` beneath it — never `##`. `git tag` defaults to `--cleanup=strip`, which silently deletes every line beginning with `#`. Setext renders as the same `<h2>` on GitHub and no cleanup mode can strip it
-- Draft to `/tmp/tag-<repo>-<version>.txt` and confirm `grep -c '^#'` returns 0 before tagging
-- Create with `git tag --cleanup=verbatim --file=/tmp/tag-<repo>-<version>.txt --sign <version> <commit>`. `tag.gpgsign` is not set (unlike `commit.gpgsign`), so `--sign` must be explicit or the tag is unsigned
-- Verify with `git tag --verify <version>` and `git tag -l --format='%(contents)' <version>` before pushing, to confirm every heading survived
-- One sentence per line does **not** apply to tag messages — that convention governs repository `.md` and `.adoc` files
-- A GitHub release body is stored separately and is never re-read from the tag. Editing or force-pushing a tag does not update an existing release; check and fix both
+AsciiDoc is a first-class content format.
+Every feature built for Markdown must also work for AsciiDoc.
+- **Detection**: Always use `.File.Ext == "adoc"`.
+Never use `.Markup` (returns an object in Hugo 0.157+, failing string comparisons).
+- **Hooks vs Post-Processing**: Asciidoctor bypasses Hugo render hooks.
+Markdown uses hooks (e.g., `render-heading.html`); AsciiDoc uses post-processing (e.g., `replaceRE` in `single.html`).
+Both must produce identical HTML markup and CSS classes.
 
 ## Hugo Template Conventions
 
-### Global `site` function (ALWAYS use)
+- **Global `site` Function**: Always use `site.Params`, `site.Title`, `site.BaseURL`—never `$.Site` or `.Site`.
+Convert any `.Site` occurrences encountered during refactoring.
+- **Asset Image Processing**: Guard raster processing with `reflect.IsImageResourceProcessable $resource`.
+Prefer `.Resize` for proportional scaling without cropping.
+Hugo's `.Fill` uses `Smart` crop by default, which shifts focal points and cuts edges/chins on portraits.
+If square aspect is required, specify explicit anchors (e.g., `.Fill "500x500 webp Center"`).
 
-Always use Hugo's global `site` function to access site-level data in templates.
-Never use `$.Site` or `.Site`.
+## Verification & State Checking
 
-| Use this | Not this |
-|----------|----------|
-| `site.Title` | `$.Site.Title` or `.Site.Title` |
-| `site.Params.description` | `$.Site.Params.description` |
-| `site.BaseURL` | `$.Site.BaseURL` |
+- **Prove State Before Asserting**: Always run the proving command first; the user explicitly accepts extra tool calls.
+A negative grep proves pattern absence, not positive correctness.
+Enumerate all surfaces before claiming exhaustiveness.
 
-The global `site` function is not context-dependent — it works correctly inside `with`, `range`, and other blocks that rebind the `.` context.
-When modifying existing templates that use `$.Site` or `.Site`, convert them to `site` as part of the change.
-Do not leave mixed usage in the same file.
+## Git Workflow & Conventions (CRITICAL)
 
-## JavaScript Conventions
+- **Execution**: NEVER run `git commit`, `git push`, or `git merge` directly.
+User executes these manually.
+- **Staging**: Prefer directory/glob arguments over long explicit file lists.
+Check `git status --porcelain` before staging.
+Never run `git reset` without permission (user stages manually to track work).
+- **Commit Messages**: Format: `<gitmoji> <component>: <summary>`.
+Body: Explain **WHY** (rationale, problem solved, alternatives considered), not WHAT or HOW (avoid diff narration).
+Three to six sentences typical.
+Follow the 50/72 rule: subject line ≤ 50 characters, body lines wrapped at ≤ 72 characters.
+- **Trailer**: `Assisted-by: <model> <version> (<context window>)`.
+Verify the exact model name from the environment (`gemini-3.8-flash`) before writing.
+Do **not** cite Fedora policy in the commit message or documentation.
+- **Sign-off**: Suggest `git commit --signoff` (never write `Signed-off-by` in text).
+- **Drafting**: Draft commit messages to `/tmp/commit-<name>.txt` (unique filename, human-readable).
+Present user command as a single unbroken line:
+`git add <path> && git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`
+- **Version Tags**: Tag messages use setext headings (underlined with `-`), never `##` (default `--cleanup=strip` removes `#`).
+Draft to `/tmp/tag-<repo>-<version>.txt`, check `grep -c '^#'` is 0, tag with `--cleanup=verbatim --sign`.
 
-- Vanilla JS only (no dependencies beyond Bootstrap)
-- Use `const` for variables that are not reassigned; `var` only when reassignment is needed
-- Always provide explicit radix to `parseInt()` (e.g., `parseInt(value, 10)`)
+## GitHub API Access (CRITICAL)
+
+- **Explicit Consent**: Required before ANY mutating GitHub API call (POST, PATCH, PUT, DELETE: comments, PR creation, review submissions, labels, state changes).
+- **Execution Protocol**:
+1. Write payload to `/tmp/`.
+2. Present payload/diff to user for review.
+3. Present copy-pasteable `gh` command (e.g., `gh issue comment <n> --body-file=/tmp/...`).
+4. User executes the command.
+- **AI Disclosure**: Disclose AI assistance on GitHub issues/PRs as `"LLM-gen-AI"`.
+Never name specific models or vendors in comments.
 
 ## Writing Conventions
 
-Use **one sentence per line** (ventilated prose) in Markdown and AsciiDoc files.
-Each sentence starts on its own line; do not wrap at a fixed column.
+- **One Sentence Per Line**: Use ventilated prose (one sentence per line) in Markdown (`.md`) and AsciiDoc (`.adoc`) files in the repository.
+Do not wrap at fixed column widths.
 Consecutive lines render as one paragraph.
-This produces cleaner diffs and makes sentences easy to reorder or review individually.
-
-This applies to files in the repository.
-It does **not** apply to GitHub comments posted via the API — see "Formatting GitHub Comments" above.
-
-## Style Guide for Agents
-
-When demonstrating or suggesting bash commands, always use the fully-expanded form of flags and parameters (e.g., `--signoff` instead of `-s`, `--file` instead of `-F`, `--init` instead of `-i`). This promotes learning for the user.
-
-All commands run from the project root (`/home/jwheel/git/web/jwheel.org`) — never `cd`. To run git against the theme submodule, use `git -C themes/toph/ …`. When presenting a theme command for the user to run, assume their working directory is `themes/toph/`.
+(Does not apply to GitHub comments or tag messages).
+- **Command Formatting**: Suggest bash commands with fully-expanded flag names (`--signoff`, `--file`, etc.).
