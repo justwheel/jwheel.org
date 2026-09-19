@@ -1,0 +1,109 @@
+---
+title: Guten Tag! My relocation to Germany 🇩🇪
+date: 2026-09-21T08:00:00-00:00
+description: I am moving to Germany by the end of 2026. This is a personal update on family, joining Red Hat GmbH, and shifting my open source focus to Europe.
+categories:
+    - perspective
+tags:
+    - 2020s
+    - adventure
+    - europe
+    - germany
+    - international
+    - travel
+images: ["guten-tag-germany-relocation.jpg"]
+---
+
+For the last few months, I am working on one of my greatest projects yet.
+It is a project with many intangible parts, leading to a tangible conclusion.
+However, this project will become more visible in my open source contributions, my global event presence, and where I call home.
+In short, I will officially and legally *relocate my life to Germany* 🇩🇪 by the end of this year.
+This post is to help me mark the moment by sharing some personal context and vulnerability about one of the biggest changes in my life so far.
+
+To help me organize my thoughts, this post will be organized in the following sections:
+
+. link:#why-germany[*Why to Germany?*]
+. link:#presence[*My contributions & event presence*]
+. link:#adjustments[*Making the small adjustments*]
+
+
+[[why-germany]]
+== Why am I moving to Germany?
+
+The single, most-important driving factor is family relocation.
+In a link:/blog/2026/04/one-day/[previous blog post], I highlighted that I became a married man in November 2025.
+There is a long story before and a long story after that point, particularly about passports, politics, and piles of paperwork.
+A concise way of describing it is that the heart wants what it wants, and we all must make choices about what matters most to us.
+
+Consequentially, my wife currently lives and works in link:/tags/germany/[Germany].
+In the beginning, we explored many options for family reunification in the United States.
+However, we quickly realized that the American immigration system is currently an ambiguous black box with unknown timelines and a constantly changing legal environment.
+Once this became clear, I vowed to my wife that I would find a viable pathway toward mutual legal residence status for us both.
+
+Earlier this year, I began working with my employer, link:/categories/red-hat/[Red Hat], to relocate to Germany.
+Thanks to my supportive manager and department, I have been steadily navigating several major milestones to make this into a reality.
+I already signed an offer letter to join _Red Hat Gmbh_, the registered German legal entity of Red Hat.
+As the relocation process continued, I began to reimagine my role and career based from Germany.
+There are exciting professional opportunities ahead, which I detail link:#presence[in the next section].
+
+Nevertheless, the process is still ongoing.
+But at last, it is approaching the final stages.
+I have quickly discovered how much work is involved with moving your life from one nation-state to another nation-state.
+Legally, anyways.
+Beyond my own life, I am also closing out my mother's estate.
+When I am not clocked into work, my hands remain pretty full.
+
+Perhaps one of the greatest delights as I move into this next chapter is the opportunity to finally build a more stable, rooted life.
+The circumstances of my life have denied me this opportunity for the last few years.
+I am ready to play the _Uno_ reverse card!
+
+
+[[presence]]
+== My contributions & event presence
+
+Beyond my personal motivations for the relocation, it also presents new opportunities for me in my career at Red Hat.
+Once I make the move to Germany, it will change both my capacity for link:/categories/foss/[open source] and the geographic center of my business travel.
+Realistically, this will have two constraints on my presence.
+
+First, my capacity for open source will reduce as I intend to reclaim long-needed work-life balance.
+To be fair, some of this is accumulating over a long time, and some of this is newly introduced.
+The long-time accumulating work-life balance issues come from the deterioration of routine and personal boundaries.
+The change I intend to take is to lean into the German working culture for when work begins and when work ends.
+This may not always be possible, but I aspire towards this ideal.
+A standard working day from 9 AM to 6 PM feels like a needed structure as I get into my next chapter in Germany.
+So, it will take time to discover what works, but the act of writing it here on my blog will help drive personal accountability!
+
+Second, the geographic center of my business travel will shift to Europe.
+Europe is a fascinating place to be for open source policy right now.
+Germany also comes up often as a country which either uses or funds a significant amount of Free Software.
+Naturally, there will be several new-to-me link:/tags/events/[events] as I shift further into my link:https://fedoramagazine.org/shaun-mccance-next-fedora-community-architect/[new role] at Red Hat.
+Therefore, my business travel will prioritize travel within Europe.
+I will pop up much less often around United States FOSS and Linux events.
+
+So, in summary, I look forward to logging off at 18:00 Central Europe or 12 PM US Eastern, and learning what community events are in my new European neighborhood.
+
+
+[[adjustments]]
+== Making the small adjustments
+
+Most of this post detailed the large adjustments coming up in my life.
+But there are also several small adjustments I am making too.
+Some of them are willing, and others are begrudgingly.
+
+For one, my Duolingo language-learning streak continues now, but in German.
+After several years of avoiding learning German, I now recognize the immense utility and practicality of German language mastery.
+Duolingo is not a serious language mastery tool, but I am looking to take my German studying to the next level soon.
+Additionally, I am reconfiguring my personal finances as I quickly learn which banks and financial institutions will or will not service an American citizen living overseas.
+Some weeks, it feels like I am spending an unhealthy amount of time chasing phone calls and following up on cold email threads.
+These are just some of the relatively smaller adjustments I am already making in preparation of _the big one_ later this year.
+
+Nevertheless, there is an adjustment I am eagerly anticipating.
+I am ready to live in a society which believes in a nationally-accessible rail network.
+I want to live in a society where public transit and trains are realities, not utopian dreams.
+While I know some will disagree with what I am about to say, it does not matter to me.
+Rail travel thrills me.
+I am looking forward to becoming a regular traveler on the Deutsche Bahn and wider Railteam networks!
+
+I have not written a personal update on my blog in some time, so the time felt right.
+This relocation "project" is a huge part of what I am working toward right now.
+I will share more about the relocation process as I move through it in the link:/tags/germany/[`germany`] tag on my blog.
