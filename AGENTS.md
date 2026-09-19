@@ -42,6 +42,7 @@ git submodule update --remote --rebase
 - `content/tweets/<tweet-id>/index.md`: Tweet archive page bundles with images. Not hidden from sitemap (SEO indexed). Embedded via `tweet-archive` shortcode.
 - `content/projects/`, `content/footer/`: Structural categories. Front matter requires `hide_sitemap: true` and appropriate `categories`.
 - `content/*.adoc`: Root pages (`_index`, `legal`, etc.).
+`content/_index.*.adoc` files **must** declare `layout: biography` in front matter; omitting it causes Hugo to silently fall back to `_default/list.html` without warnings, rendering an unstyled list of regular pages.
 - `assets/pages/`: Page-specific images processed by Hugo (hero photo, about profile, with `projects/` and `footer/` subdirectories). Note: `static/img/` is completely eliminated.
 - `assets/content/`: Shared blog images.
 - `assets/masks/`: Image filter masks (e.g. `oval-mask.png`).
@@ -73,6 +74,9 @@ Convert any `.Site` occurrences encountered during refactoring.
 Prefer `.Resize` for proportional scaling without cropping.
 Hugo's `.Fill` uses `Smart` crop by default, which shifts focal points and cuts edges/chins on portraits.
 If square aspect is required, specify explicit anchors (e.g., `.Fill "500x500 webp Center"`).
+The hero section (`hero.html`) standardizes on `.Resize` for uncropped aspect scaling across all hero shapes, and omits `height` on rectangular SVGs when `params.hero.shape: "square"` to prevent Cumulative Layout Shift (CLS).
+- **Heading Font Weights**: Configured weights in `fonts.title_weight`, `fonts.header_weight`, and `fonts.default_weight` bind directly to heading elements and `body` via CSS custom properties.
+Unconfigured heading weights default to `"500"` in `head.html` to preserve Bootstrap typography parity rather than inheriting body weight.
 
 ## Verification & State Checking
 
@@ -85,12 +89,14 @@ Enumerate all surfaces before claiming exhaustiveness.
 - **Execution**: NEVER run `git commit`, `git push`, or `git merge` directly.
 User executes these manually.
 - **Staging**: Prefer directory/glob arguments over long explicit file lists.
-Check `git status --porcelain` before staging.
+Check `git status --porcelain` before staging to avoid capturing untracked in-progress drafts.
 Never run `git reset` without permission (user stages manually to track work).
 - **Commit Messages**: Format: `<gitmoji> <component>: <summary>`.
 Body: Explain **WHY** (rationale, problem solved, alternatives considered), not WHAT or HOW (avoid diff narration).
 Three to six sentences typical.
 Follow the 50/72 rule: subject line ≤ 50 characters, body lines wrapped at ≤ 72 characters.
+Wrap technical identifiers, file paths, layout names, and code entities in backticks (`` ` ``).
+Backticks must never be split across line breaks (must open and close on the same line).
 - **Trailer**: `Assisted-by: <model> <version> (<context window>)`.
 Verify the exact model name from the environment (`gemini-3.8-flash`) before writing.
 Do **not** cite Fedora policy in the commit message or documentation.
