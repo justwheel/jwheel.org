@@ -9,7 +9,7 @@ Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
 - **Hugo Extended**: Pinned to **0.167.0** locally and in CI.
 - **Dart Sass**: 1.101.0 in CI.
-- The theme requires minimum Hugo 0.161.0.
+- The theme requires minimum Hugo 0.166.0.
 
 ## Two-Repository Architecture
 
@@ -115,7 +115,7 @@ After a push, confirm the Pages run succeeded and that production is serving the
 
 - Bump it in the **same commit** as the site changes that depend on it, so the two halves of a cross-repository change stay reviewable together.
 A theme bump landing alone, divorced from the content change that motivated it, reads as an unexplained version churn.
-- The theme's `theme.toml` declares `min_version = "0.161.0"`.
+- The theme's `theme.toml` declares `min_version = "0.166.0"`.
 That is a support floor for downstream users and is deliberately lower than the pinned build version — do not raise it to match.
 
 ## Performance
@@ -161,6 +161,7 @@ Present user command as a single unbroken line:
 `git add <path> && git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`
 - **Version Tags**: Tag messages use setext headings (underlined with `-`), never `##` (default `--cleanup=strip` removes `#`).
 Draft to `/tmp/tag-<repo>-<version>.txt`, check `grep -c '^#'` is 0, tag with `--cleanup=verbatim --sign`.
+Tag message files must end with a trailing newline: because `--cleanup=verbatim` does not normalize whitespace, a missing trailing newline causes Git to append the PGP signature block directly onto the last line of text, causing GPG verification to fail (`error: no signature found`).
 
 ## GitHub API Access (CRITICAL)
 
