@@ -136,3 +136,9 @@ I do not want to just clear my queue.
 I hope this overview of my flow and process is insightful.
 As of yet, I do not have a commenting feature on my blog, although I am looking into this.
 link:https://www.linkedin.com/in/jwwheel/[Tag me] in a LinkedIn post and we can continue the conversation there.
+
+'''
+
+_link:https://unsplash.com/photos/conductor-leading-an-orchestra-with-a-baton-mqqcU42QOwU[Original photo] by link:https://unsplash.com/@dm_david?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText[DM David] on Unsplash_.
+_Modified by Justin Wheeler_.
+_Modified cover photo exclusively distributed under CC BY-SA 4.0_.
