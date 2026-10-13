@@ -66,6 +66,16 @@ The `/blog/YYYY/MM/slug/` structure matches legacy WordPress URLs for proxy redi
 - **Image Captions**: Markdown uses title syntax `![alt](src "caption text")`.
 URLs inside captions should be bare; Goldmark auto-links them.
 
+### Featured Images and Sharing Metadata
+
+Blog posts are standalone files, so a relative front matter `images:` filename refers to the post's content directory, not the domain root or the post's permalink directory.
+For example, `images: ["managing-multiple-git-repos-with-ai.jpg"]` in the October 2026 post resolves to `/blog/2026/10/managing-multiple-git-repos-with-ai.jpg`.
+The theme owns this resolution for cover images, RSS, OpenGraph, Twitter Cards, and Schema.org Article metadata, for both Markdown and AsciiDoc.
+Do not work around a metadata regression by converting posts into leaf bundles, renaming content, or hardcoding production URLs in relative image fields.
+Verify the generated sharing metadata as well as the visible cover image: a correct on-page image does not prove that social previews have the correct URL.
+For local images, check that the emitted absolute metadata URL points to the published asset and retains any configured deployment subpath.
+See the theme's own guidance for the shared image-resolution and metadata implementation.
+
 ## AsciiDoc Parity (Non-Negotiable)
 
 AsciiDoc is a first-class content format.
@@ -75,6 +85,11 @@ Never use `.Markup` (returns an object in Hugo 0.157+, failing string comparison
 - **Hooks vs Post-Processing**: Asciidoctor bypasses Hugo render hooks, so the two formats reach the same HTML by different routes and both must be verified.
 The mechanics are a theme concern — see "AsciiDoc" in `themes/toph/AGENTS.md`.
 What matters here: content may be authored in either format, and a change verified only in Markdown is not verified.
+
+Parity applies wherever content appears, including section and taxonomy introductions, embedded project and footer content, and feeds, rather than only individual blog posts.
+The theme deliberately centralizes page-body rendering so AsciiDoc receives its compatibility processing even outside the single-post layout.
+Site-level layout overrides or content-embedding changes must preserve that contract; follow "Page-body rendering is a theme contract" in `themes/toph/AGENTS.md` rather than reverting to direct page-body output for convention alone.
+Verify both root-domain and subpath builds when changing internal-link behavior, because root-domain production can hide a broken preview deployment.
 
 ## Hugo Template Conventions
 
