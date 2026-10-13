@@ -1,0 +1,138 @@
+---
+title: "Managing multiple Git repos with AI: How I keep up with Fedora's sprawl"
+date: 2026-10-13T08:00:00-00:00
+description: How I use AI agents for managing multiple Git repos across Fedora's sprawl, and why protecting my time matters more than the tool.
+categories:
+    - fedora
+    - foss
+tags:
+    - 2020s
+    - ai-assisted
+    - community-management
+    - fedora-commops
+    - fedora-planet
+    - getting-started
+    - llm-gen-ai
+    - open-source-communities
+    - things-you-should-know-understand
+images: ["managing-multiple-git-repos-with-ai.jpg"]
+---
+
+No single person can know everything happening in Fedora at any given time.
+I say this often in our community, half as a warning and half for comfort.
+For a while, I did not really believe it applied to me.
+I wanted to know everything.
+I joined new teams, participated in tickets, and either participated or led meetings across the project.
+Surprisingly, as a link:/tags/rochester-institute-of-technology/[young university student], I held a vast amount of it in my head.
+
+But Fedora does not stand still long enough for that to last.
+Eventually, I was spread thin across more teams than I could realistically track.
+As my academic load increased or I began an internship, promises I made quietly fell off my radar.
+It was not because I did not care.
+It was because the systems I used to track them could not keep up with the sprawl, when my available time to contribute changed.
+
+However, as I reentered the Fedora community as a link:/categories/red-hat/[Red Hat employee], the same systems I used as a student were challenged.
+As I get going with link:/blog/2026/09/ai-alignment/[my new role], I am rethinking how I can rebalance my bandwidth sustainably.
+So, this post is about how I started managing multiple Git repos with AI agents to claw back some of that bandwidth.
+It is not really a story about a remarkable tool.
+It is an argument that in a project this sprawling, protecting your attention is the real win.
+I will cover two moments when things fell through the cracks, the workflow I built to catch them, a real example of it working, and an honest take on trusting AI when it sometimes gets things wrong.
+
+
+[[scale]]
+== Why managing multiple Git repos gets hard at Fedora's scale
+
+Fedora is sprawling.
+Fedora's link:https://src.fedoraproject.org[distribution Git (dist-git)], the home for package sources, holds something like 20,000 packages.
+Add the team and SIG repositories that coordinate the people behind those packages on link:https://forge.fedoraproject.org[Fedora Forge], and the number of places where decisions get made is enormous.
+Yet, most contributors only touch a handful of them.
+However, even a handful is often scattered across different platforms, with no single view of all of it.
+
+
+[[cracks]]
+== Where things fell through the cracks
+
+Before this workflow, it felt like pure chaos, _and_ I have the scars to prove it.
+Fedora runs on mailing lists, Fedora Discussion topics, Matrix chat rooms, and Fedora Forge issues/tickets.
+Furthermore, all of these are spread across dozens of teams, Working Groups (WGs), and Special Interest Groups (SIGs).
+In short, there are a lot of different places to follow a lot of different things.
+
+For a long stretch, the link:https://docs.fedoraproject.org/en-US/marketing/[Fedora Marketing Team] had a backlog of tickets.
+In a few cases, contributors asked for talks and presentations to be uploaded to the Fedora YouTube channel.
+I had the access to do it and other YouTube maintainers were no longer active, so therefore, it was quietly mine to own.
+I saw the tickets at least once, but I was overworked and busy with higher-priority work.
+The YouTube videos slid off my list.
+A new volunteer eventually picked them up months or even a year later.
+
+Additionally, Fedora also runs meetings well… on paper.
+Fedora holds virtual text meetings in Matrix chat rooms with a bot that logs everything.
+Each meeting has a clear start, a clear end, and annotated topics.
+But a faithful log is not the same as follow-through.
+For example, in AI/ML SIG meetings, we discuss a decision or someone takes an action item, and it gets logged.
+But it does not always make it back into the relevant ticket or discussion post.
+The record exists, but it does not connect itself to the places that need updating.
+
+Patterns like this repeat themselves.
+The examples above are merely specific examples of where things fall through the cracks.
+However, there are things like this that happen everyday in different corners of the community too.
+
+
+[[workflow]]
+== The AI multi-repo workflow
+
+So, here is the workflow I use now.
+It does not get rid of all the chaos, but it helps me manage it much better.
+First, I point an link:/tags/llm-gen-ai/[LLM-gen-AI] agent at a directory holding several cloned Git repositories.
+For example, the link:https://forge.fedoraproject.org/ai-ml/docs[AI/ML SIG docs repository], link:https://forge.fedoraproject.org/ai-ml/tickets[AI/ML SIG tickets repository], and link:https://forge.fedoraproject.org/ai-ml/skills-library[Agent Skills library].
+Then I ask it to analyze across all of them.
+
+I also feed it meeting logs or summaries.
+I ask it to cross-check them against open tickets and Fedora Discussion topics:
+
+* Did we document the decisions?
+* Did we track the action items?
+* Is anyone still waiting on a reply?
+
+Critically, I do not want it reading only files from my local `git` clones.
+I want it to query the remotes too: the Fedora Forge API, issues, discussions, and more.
+The underlying link:https://forgejo.org/docs/latest/user/api/usage/[Forgejo API] is enormous.
+It lets the agent track the actual cadence a team works at, not just a snapshot.
+
+[[trust]]
+=== A word on trust and hallucination
+
+I have to be honest here: the agent sometimes gets things wrong.
+It will occasionally misread a thread or hallucinate a detail.
+However, I do not think that disqualifies it.
+Humans get things wrong too.
+I would rather have slightly imperfect visibility into tens, hundreds, or even thousands of repositories than none at all.
+Ultimately, the question is not whether the agent is ever wrong.
+*The question is what level of risk you are willing to accept for the visibility you gain*.
+
+
+[[example]]
+== A real example: Reviewer guidelines across three repos
+
+Our link:https://forge.fedoraproject.org/ai-ml/skills-library[Fedora Agent Skills Library] needed reviewer guidelines.
+Laura Barcziová (link:https://forge.fedoraproject.org/lbarczio[@lbarczio]), on our reviewer team, wrote a solid `REVIEWING.md` in the `ai-ml/skills-library` repo.
+But our separate `ai-ml/docs` repository only had a page on creating a skill, and nothing on reviewing one.
+
+I used an agent in link:https://opencode.ai/[OpenCode] to pull discussion context from Fedora Forge issues about our reviewer process.
+It helped me reconcile that context with Laura's draft.
+Then I orchestrated multiple Pull Requests across the repositories at once.
+This brought the AI/ML SIG docs site in line with what the team had actually decided.
+
+
+[[payoff]]
+== The real payoff is not the tool
+
+In conclusion, the payoff is that it hands me back the capacity to zoom out.
+In a project where nobody can hold it all in their head, something should watch dozens of repositories.
+It surfaces what changed and what needs to catch up.
+*That means I can engage with people's feedback instead of just surviving the volume of it*.
+When someone takes the time to review my Pull Request, I want the bandwidth to genuinely consider what they said.
+I do not want to just clear my queue.
+
+I hope this overview of my flow and process is insightful.
+As of yet, I do not have a commenting feature on my blog, although I am looking into this.
+link:https://www.linkedin.com/in/jwwheel/[Tag me] in a LinkedIn post and we can continue the conversation there.
