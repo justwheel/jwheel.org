@@ -5,4 +5,4 @@ hide_sitemap: true
 ---
 
 [link=https://archive.org/about/]
-image::/pages/footer/archive.svg[Internet Archive supporter]
+image::/pages/footer/archive.svg[Internet Archive supporter,194,90]
