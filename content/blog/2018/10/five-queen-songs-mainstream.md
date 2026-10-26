@@ -23,8 +23,6 @@ images: ["/blog/2018/10/five-queen-songs-mainstream.jpg"]
 
 [_Originally published on the MusicBrainz blog._](http://blog.musicbrainz.org/2018/10/16/five-queen-songs-mainstream/)
 
-[](http://blog.musicbrainz.org/2018/10/16/five-queen-songs-mainstream/)
-
 * * *
 
 Making graphs is easy. Making intuitive, easy-to-understand graphs? It's harder than most people think. At the [Rochester Institute of Technology](https://www.rit.edu/), the ISTE-260 (Designing the User Experience) course teaches the language of design to IT students. For an introductory exercise in the class, students are tasked to visualize any set of data they desire. Students [David Kim](https://www.linkedin.com/in/davidkim18/), [Jathan Anandham](https://www.linkedin.com/in/jathan-a/), [Justin Wheeler](https://www.linkedin.com/in/jwwheel/), and [Scott Tinker](https://www.linkedin.com/in/scott-tinker-216962129/) used the MusicBrainz database to look at how five different Queen songs went mainstream in different ways.  
