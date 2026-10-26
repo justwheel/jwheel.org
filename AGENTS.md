@@ -7,8 +7,8 @@ Guidance for AI coding agents working in the `jwheel.org` repository.
 Personal website for Justin Wheeler (https://jwheel.org/), built with Hugo using the custom **Toph** theme.
 Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
-- **Hugo Extended**: Pinned to **0.167.0** locally and in CI.
-- **Dart Sass**: 1.101.0 in CI.
+- **Hugo Extended**: Pinned to **0.168.0** locally and in CI.
+- **Dart Sass**: 1.106.1 in CI.
 - The theme requires minimum Hugo 0.166.0.
 
 ## Two-Repository Architecture
@@ -116,7 +116,13 @@ A new user-visible string in a shortcode needs a key added to all four theme fil
 
 Built and deployed to GitHub Pages by `.github/workflows/hugo.yaml` on push to `main`.
 
-- CI pins `HUGO_VERSION: 0.167.0` and `DART_SASS_VERSION: 1.101.0` to match local development.
+- **Twice-daily scheduled rebuilds are essential**: the workflow also runs on a cron schedule at 08:15 and 20:15 UTC.
+Hugo excludes future-dated content from a build, so a post scheduled for the future only appears on the site after a build that runs on or after its date.
+Without the schedule, such a post stays invisible until the next push.
+Do not remove or reschedule the cron trigger without accounting for this.
+- Pull requests run the build only; the `deploy` job's `main`-only gate makes it display as a skipped check on every PR.
+This is known noise, not a failure.
+- CI pins `HUGO_VERSION: 0.168.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
 Dart Sass is installed although the theme contains no Sass; this is deliberate and should not be "cleaned up".
 - `--baseURL` is injected from the Pages configuration at build time; never hardcode it in `config.yaml`.
 - **GitHub Pages serves `cache-control: max-age=600`** on every asset and exposes no way to change it.
@@ -174,6 +180,11 @@ Do **not** cite Fedora policy in the commit message or documentation.
 - **Drafting**: Draft commit messages to `/tmp/commit-<name>.txt` (unique filename, human-readable).
 Present user command as a single unbroken line:
 `git add <path> && git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`
+`/tmp` is periodically cleaned — server restarts wipe it — so if a message file disappears before it is used, rewrite it.
+The harness-preferred location is `/tmp/opencode`.
+- **Worktrees**: Isolated worktrees suit parallel or agent-driven changes that must not touch the main checkout.
+A new worktree needs `git submodule update --init` before it can build.
+Move an uncommitted change back with a `git diff` patch applied in the main repo, then remove the worktree and its branch.
 - **Version Tags**: Tag messages use setext headings (underlined with `-`), never `##` (default `--cleanup=strip` removes `#`).
 Draft to `/tmp/tag-<repo>-<version>.txt`, check `grep -c '^#'` is 0, tag with `--cleanup=verbatim --sign`.
 Tag message files must end with a trailing newline: because `--cleanup=verbatim` does not normalize whitespace, a missing trailing newline causes Git to append the PGP signature block directly onto the last line of text, causing GPG verification to fail (`error: no signature found`).
@@ -196,3 +207,42 @@ Do not wrap at fixed column widths.
 Consecutive lines render as one paragraph.
 (Does not apply to GitHub comments or tag messages).
 - **Command Formatting**: Suggest bash commands with fully-expanded flag names (`--signoff`, `--file`, etc.).
+
+## Known Defects & Future Work
+
+Tracking for work confirmed by the October 2026 audit sessions but not yet landed.
+The GitHub issue trackers remain the canonical backlog; this section records findings and gotchas an agent would otherwise have to rediscover.
+
+### Live production defects
+
+- **Linen contrast**: the theme's `#767676` anchor/secondary gray drops to 4.04:1 on this site's linen (`#faf0e6`) background — over 160 WCAG AA failures across heading anchors, hero separators, PDF download metadata, and the tags page total.
+The fix is a site-level `data/style.yaml` restating the **entire** `text` group with `light.secondary` and `light.anchor` at `#676767` (4.99:1 on linen).
+Hugo replaces a top-level data group wholesale rather than deep-merging, so an override carrying only the changed leaf silently deletes the dark palette and every sibling token — the full-group restatement is mandatory.
+- **Empty anchors from linked images**: six posts still render `<figure>` inside `<a>`, which the browser's parser splits into an empty link: `2016/02/hfoss-double-bugfix`, `2016/03/community-architecture-project-report`, `2016/06/gsoc-2016-rundown-assembling-orchestra`, `2016/07/gsoc-2016-wordpress-networks`, `2017/02/2016-my-year-in-review`, `2017/07/ura-design-crowdfunds-design`.
+The fix is theme-side (see below) and lands as a theme PR plus submodule bump in the same site commit.
+
+### Theme work
+
+- **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
+`.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
+- **toph#78 (simplified)**: the pa11y audit only ever tests light mode, because headless Chrome's `prefers-color-scheme` default is light — the theme `AGENTS.md` claim that it defaults to dark is wrong and should be corrected in the same change.
+The minimal fix is one additional pa11y crawl of the same build with a `--config` overlay pinning `params.color_mode: dark`; an environment-variable override does not reach this key, but the overlay works, and forced modes render server-side so the crawl is deterministic.
+- **toph#75** (mode-aware syntax highlighting): latent on this site — no Markdown post uses a lexed code fence, so Hugo's `monokai` default never renders — but `markup.highlight.style: github` in `config.yaml` is the preventive interim.
+- **toph#81** (exampleSite dark palette): contributor-driven; review is gated on #78's both-modes auditing.
+- **Smalls**: toph#95 (`main.css` minify plus reproducible fingerprints), toph#88 (i18n strings in recent-posts), toph#82 (print stylesheet code-color leak).
+- **Parked**: toph#52 (comments; Staticman vs. Remark42 decision), toph#87 (theme-aware hero images), toph#96 (Bootstrap JS tree-shaking).
+
+### Site work
+
+- **#24 performance**: median 81 / 4.56 s LCP against the ≥ 90 / < 2.5 s targets; the remaining lever is same-origin render-blocking CSS (consolidation or critical-CSS inlining), with analytics-driven TBT handled separately.
+- **#23 llms.txt**: theme output format plus a curation decision (recent-N vs. a `featured:` flag vs. a data file; whether non-English files emit).
+- **#3**: friend shout-outs archetype.
+
+### Session-verified gotchas
+
+- Hugo data-file merging replaces top-level groups wholesale; site overrides must restate entire groups.
+- Environment-variable config overrides do not reach `params.color_mode`; `--config` overlay files do.
+- Headless Chrome defaults `prefers-color-scheme` to light.
+- Chroma `noClasses` bakes the highlight style's background onto `pre` at build time while uncolored tokens inherit the mode-flipping `--bs-code-color` — the mechanism behind dark-mode code contrast failures.
+- pa11y-ci is unreliable at concurrency above 1 under memory pressure; concurrency 1 is deterministic.
+- The GitHub MCP token is read-only; the `gh` CLI is the working mutation path.
