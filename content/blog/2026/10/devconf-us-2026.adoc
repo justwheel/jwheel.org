@@ -1,0 +1,140 @@
+---
+title: "DevConf US 2026: Lessons Learned About Reaching Students in Open Source & Linux"
+date: 2026-10-27T08:00:00-00:00
+description: What our joint Fedora and CentOS presence at Boston University taught us about university students, Linux defaults, and modernizing our event playbook.
+categories:
+    - fedora
+    - foss
+    - red-hat
+tags:
+    - 2020s
+    - ai-assisted
+    - conferences
+    - devconf
+    - events
+    - fedora-ambassadors
+    - fedora-planet
+    - hackathons
+    - linux
+    - massachusetts
+    - open-source-communities
+    - outreach
+    - retrospective
+    - travel
+    - united-states
+    - university
+images: ["devconf-us-2026.jpg"]
+---
+
+Walking up to the Fedora & CentOS booth on the first day of DevConf US in Boston, I was not quite sure what to expect.
+Although I have attended the Czech Republic variant of DevConf several times, this was my first time attending the US event.
+I was there as part of Red Hat's joint link:/categories/fedora/[Fedora] and CentOS community presence.
+What I found over those two days was not just a chance to hand out stickers and talk to Fedora Linux users.
+It was a useful reminder in what the Fedora event strategy needs to become.
+
+
+[[context]]
+== The setting: Red Hat tech on a university campus
+
+link:https://www.devconf.info/us/[DevConf US] is a community conference focused on developers and link:/categories/red-hat/[Red Hat] technologies.
+Being held on the Boston University campus during the academic semester meant we knew we would see students.
+What I did not fully anticipate was how the increased student presence here would reshape what I thought our booth should accomplish.
+
+Alongside my colleagues Shaun McCance, Matthew Miller, Amy Marrich, and To Hung Sze, we staffed a joint Fedora and CentOS table.
+We kept the booth table light, compared to other events.
+We did not have any laptop demos, elaborate staging, or any fancy technical displays.
+We brought ourselves and our trusty link:https://docs.fedoraproject.org/en-US/mindshare-committee/events/boxes/united-states/[Pelican event box] full of stickers, lanyards, pins, and swag.
+
+
+[[ubuntu-generation]]
+== Meeting the "Ubuntu is Linux" generation
+
+Most people who stopped by the table already knew Fedora, or at least recognized the logo.
+Most were students, but not all.
+We also met faculty members, industry professionals, and contributors to other open source projects.
+However, there was an unmistakable pattern among the students who approached us.
+For nearly all of them, their first real exposure to Linux happened in university computer science labs.
+And in university labs, Ubuntu is almost universally the default.
+
+For these students, Ubuntu was not simply a distribution preference.
+For them, Ubuntu _was_ Linux.
+
+What surprised me most was that they were not defensive about it.
+They were genuinely curious.
+They wanted to understand what else was out there, how different systems fit together, and why alternative distributions mattered.
+The subsequent conversations with those students are some of the most interesting, fun conversations to have at a Fedora booth.
+
+
+[[mouth-of-the-river]]
+== Upstream at the mouth of the river
+
+That curiosity opened the door to talk about Fedora's foundational place in the broader Linux ecosystem.
+When you use Fedora, you are standing directly at the upstream source of enterprise Linux _everywhere_.
+
+For the curious, the pitch goes something like this.
+Every three years, Fedora branches to become the foundation for CentOS Stream, which in turn feeds directly into Red Hat Enterprise Linux (RHEL).
+However, the reach does not stop with Red Hat products, which is often unknown to most students.
+Downstream enterprise rebuilds like AlmaLinux and Rocky Linux trace their lineage back through CentOS Stream to Fedora.
+Furthermore, hyperscalers stand out as interesting downstream operating systems too.
+For example, Amazon Linux is derived from Fedora Linux.
+And this year, Microsoft announced that link:https://github.com/microsoft/azurelinux[Azure Linux], their custom hypervisor container OS, will base its future architecture on Fedora.
+
+So, when you study and use Fedora, you are not just learning another distribution.
+You are standing at the mouth of the river.
+You see the innovations before they flow into every major cloud provider and enterprise datacenter in the world.
+
+
+[[career-conversations]]
+== The missing on-ramp
+
+The students understood that value proposition immediately.
+They grasped the architectural power of being upstream.
+However, the conversations that truly resonated were not about packaging flags or kernel versions.
+They were about careers.
+
+Students were asking how to build practical skills, how to level up beyond coursework, and what industry engineering teams actually look for.
+A handful asked specifically about how to contribute to open source and get involved with Fedora.
+
+That is where I realized what our booth was missing.
+*We had no clear call to action*.
+
+We could explain the architecture, and we could illustrate the ecosystem on a whiteboard, but we could not smoothly shepherd someone from curiosity to contribution.
+We lacked a concrete on-ramp.
+We had no printed guide explaining the first three steps to take after leaving the venue.
+We had no five-minute interactive exercise someone could complete right at the table to earn something tangible.
+Instead, we offered a sprawling overview of "everything you can do in Fedora," which is paralyzing when you are just getting started.
+
+
+[[earning-a-stake]]
+== What hackathons taught me about student engagement
+
+Years ago, as a student link:/tags/rochester-institute-of-technology/[at RIT] and a Fedora Ambassador, I staffed more than a few Fedora booths at collegiate hackathons like link:/blog/2016/10/hackmit-meets-fedora/[HackMIT] and link:/blog/2016/04/bitcamp-2016/[Bitcamp].
+Back then, I learned a vital lesson about engaging students: they need hands-on, achievable activities.
+
+Students need something doable, self-contained, and repeatable.
+Most importantly, they need something they can *earn*.
+A unique reward, like an event badge or a milestone achievement, creates an enduring memory.
+A standard sticker gets lost in a backpack; a challenge you solved at a booth creates a personal reason to stay connected to the community.
+
+
+[[modernized-playbook]]
+== Modernizing our student event strategy
+
+Executing a commercial trade-show booth strategy at a student-heavy venue does not work.
+Commercial attendees often browse passively for vendor solutions; students are actively planning their futures and want to understand how distributed engineering collaboration functions in the real world.
+Free Software and open source are precisely that, but we have to frame them to meet their goals.
+
+If we want to translate curiosity into long-term community contributors, our playbook needs three tangible upgrades:
+
+* *Tailored on-ramp materials*:
+  Brief, well-structured guides that explain what our sub-projects do and provide clear first tasks for beginners.
+* *Audience-specific talking points*:
+  Equipping booth ambassadors with prompts geared toward early-career engineers, highlighting the practical career value of public upstream contributions.
+* *Interactive booth challenges*:
+  Short, five-minute exercises that allow attendees to make a small contribution, file a test ticket, or solve a puzzle right at the table.
+
+So, should Fedora & CentOS return to DevConf US?
+Absolutely.
+DevConf US is a fantastic venue, but next time we must arrive prepared for the audience in the room.
+The curiosity is already there.
+We just need to build the bridge that lets them cross over into upstream work.
