@@ -38,6 +38,9 @@ A disagreement between the two files is a bug to reconcile, not a precedence que
 # Local development server
 hugo server
 
+# Local development server including scheduled future-dated posts
+hugo server --buildFuture
+
 # Production build
 hugo --minify
 
@@ -223,10 +226,11 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 
 ### Theme work
 
+- **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
 - **toph#78 (simplified)**: the pa11y audit only ever tests light mode, because headless Chrome's `prefers-color-scheme` default is light — the theme `AGENTS.md` claim that it defaults to dark is wrong and should be corrected in the same change.
-The minimal fix is one additional pa11y crawl of the same build with a `--config` overlay pinning `params.color_mode: dark`; an environment-variable override does not reach this key, but the overlay works, and forced modes render server-side so the crawl is deterministic.
+The minimal fix is one additional pa11y crawl of the same build with a `--config` overlay pinning `params.color_mode: dark`; an environment-variable overlay does not reach this key, but the overlay works, and forced modes render server-side so the crawl is deterministic.
 - **toph#75** (mode-aware syntax highlighting): latent on this site — no Markdown post uses a lexed code fence, so Hugo's `monokai` default never renders — but `markup.highlight.style: github` in `config.yaml` is the preventive interim.
 - **toph#81** (exampleSite dark palette): contributor-driven; review is gated on #78's both-modes auditing.
 - **Smalls**: toph#95 (`main.css` minify plus reproducible fingerprints), toph#88 (i18n strings in recent-posts), toph#82 (print stylesheet code-color leak).
@@ -234,7 +238,9 @@ The minimal fix is one additional pa11y crawl of the same build with a `--config
 
 ### Site work
 
-- **#24 performance**: median 81 / 4.56 s LCP against the ≥ 90 / < 2.5 s targets; the remaining lever is same-origin render-blocking CSS (consolidation or critical-CSS inlining), with analytics-driven TBT handled separately.
+- **#24 performance**: median 81 / 4.56 s LCP against the ≥ 90 / < 2.5 s targets; the remaining lever is same-origin render-blocking CSS (consolidation of `bootstrap.min.css`, `bootstrap-icons.min.css`, and `main.css` into a single pipeline via `resources.Concat`), with analytics-driven TBT handled separately.
+- **#25 title font resolved**: Jaro swapped in (`5513c96`), resolving the dark-theme drop-shadow ghosting defect.
+- **Pending blog drafts**: `content/blog/2026/10/fedora-copr-intro.adoc` is untracked and pending completion.
 - **#23 llms.txt**: theme output format plus a curation decision (recent-N vs. a `featured:` flag vs. a data file; whether non-English files emit).
 - **#3**: friend shout-outs archetype.
 
