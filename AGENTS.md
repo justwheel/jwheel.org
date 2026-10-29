@@ -7,7 +7,7 @@ Guidance for AI coding agents working in the `jwheel.org` repository.
 Personal website for Justin Wheeler (https://jwheel.org/), built with Hugo using the custom **Toph** theme.
 Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
-- **Hugo Extended**: Pinned to **0.168.0** locally and in CI.
+- **Hugo Extended**: Pinned to **0.169.0** locally and in CI.
 - **Dart Sass**: 1.106.1 in CI.
 - The theme requires minimum Hugo 0.166.0.
 
@@ -129,7 +129,7 @@ Without the schedule, such a post stays invisible until the next push.
 Do not remove or reschedule the cron trigger without accounting for this.
 - Pull requests run the build only; the `deploy` job's `main`-only gate makes it display as a skipped check on every PR.
 This is known noise, not a failure.
-- CI pins `HUGO_VERSION: 0.168.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
+- CI pins `HUGO_VERSION: 0.169.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
 Dart Sass is installed although the theme contains no Sass; this is deliberate and should not be "cleaned up".
 - `--baseURL` is injected from the Pages configuration at build time; never hardcode it in `config.yaml`.
 - **GitHub Pages serves `cache-control: max-age=600`** on every asset and exposes no way to change it.
