@@ -107,9 +107,13 @@ This applies to site-level shortcodes as well as theme templates.
 
 The site is published in four languages, configured under `languages:` in `config.yaml`: English (`en`, default), Spanish (`es`), Arabic (`ar`, `direction: rtl`), and Hindi (`hi`).
 
-- Translations are per-file suffixes, not separate trees: `content/projects/01-red-hat.{en,es,ar,hi}.md`.
+- Translations are per-file suffixes, not separate trees: `content/projects/01-red-hat.{en,es,ar,hi}.md` or `content/blog/YYYY/MM/slug.{en,ar}.adoc`.
 - Not all content is translated.
-Blog posts are English-only; projects and root pages carry the full set.
+Projects and root pages carry the full set.
+Blog posts are primarily English, with selected posts translated into Arabic (`.ar.adoc`).
+Draft blog posts (`draft: true`) must not be translated until finalized and published.
+- **Anchor Link Parity**: When translating AsciiDoc blog posts, preserve the original English `[[anchor]]` identifiers verbatim directly above translated headings.
+This guarantees link parity across language variants for deep links and fragment identifiers.
 - Arabic is right-to-left.
 Any layout or styling change must be checked in `ar` as well as `en`, because RTL is where asymmetric padding, margins, and float assumptions break.
 - UI strings live in the theme's `i18n/` files, not in this repository.
