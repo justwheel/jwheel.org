@@ -13,6 +13,7 @@ tags: ["M83","Echoes of Mine","Hurry Up We're Dreaming","music","lyrics"]
 [[francais]]
 == Français
 
+[verse, Anthony Gonzalez, Hurry Up We're Dreaming]
 ____
 Il est tard.
 Je cherche à rentrer chez moi, et je prends un chemin que je ne connais pas, un petit sentier qui longe les usines et la ville en coupant par la forêt.
@@ -38,6 +39,7 @@ ____
 
 https://web.archive.org/web/20171001211423/http://lyricstranslate.com/en/echoes-mine-echoes-mine.html[See original translations].
 
+[verse]
 ____
 It's late.
 I'm searching for my other home, and I'm taking a path I don't know: a little path that runs alongside the factories and the city intersecting through the forest.
@@ -61,6 +63,7 @@ ____
 [[english-google]]
 == English (_Google Translate_)
 
+[verse]
 ____
 It is late.
 I try to go home, and I take a road I do not know, a small path along the factories and the city cutting through the forest.
