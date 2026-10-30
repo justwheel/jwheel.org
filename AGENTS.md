@@ -200,7 +200,7 @@ Tag message files must end with a trailing newline: because `--cleanup=verbatim`
 
 - **Explicit Consent**: Required before ANY mutating GitHub API call (POST, PATCH, PUT, DELETE: comments, PR creation, review submissions, labels, state changes).
 - **Execution Protocol**:
-1. Write payload to `/tmp/`.
+1. Write payload to `/tmp/` (harness-preferred: `/tmp/opencode`).
 2. Present payload/diff to user for review.
 3. Present copy-pasteable `gh` command (e.g., `gh issue comment <n> --body-file=/tmp/...`).
 4. User executes the command.
@@ -230,11 +230,13 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 
 ### Theme work
 
+- **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`) is live here via the submodule pin at its branch commit while the PR remains open — theme `main` does not yet contain it, so do not assume `git -C themes/toph/ log main` shows the feature; Markdown blockquotes, AsciiDoc `.quoteblock`, and `.verseblock` all render with the accent-bar card, and verse blocks use the body font rather than monospace.
 - **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
-- **toph#78 (simplified)**: the pa11y audit only ever tests light mode, because headless Chrome's `prefers-color-scheme` default is light — the theme `AGENTS.md` claim that it defaults to dark is wrong and should be corrected in the same change.
+- **toph#78 (simplified)**: the pa11y audit only ever tests light mode, because headless Chrome's `prefers-color-scheme` default is light — the theme `AGENTS.md` has been corrected on this point, but the both-modes crawl itself is still missing.
 The minimal fix is one additional pa11y crawl of the same build with a `--config` overlay pinning `params.color_mode: dark`; an environment-variable overlay does not reach this key, but the overlay works, and forced modes render server-side so the crawl is deterministic.
+- **toph#103** (Hugo 0.169.0 deprecations): five templates read reserved front-matter fields through `.Params`/`.Param` — `layouts/_default/li.html`, `layouts/_default/card.html`, `layouts/blog/list.html`, `layouts/categories/terms.html`, and `layouts/partials/projects-carousel.html` — emitting deprecation notices on every site build; migrate each to the corresponding `Page` method (`.Description`, `.Title`) before Hugo removes the redirect.
 - **toph#75** (mode-aware syntax highlighting): latent on this site — no Markdown post uses a lexed code fence, so Hugo's `monokai` default never renders — but `markup.highlight.style: github` in `config.yaml` is the preventive interim.
 - **toph#81** (exampleSite dark palette): contributor-driven; review is gated on #78's both-modes auditing.
 - **Smalls**: toph#95 (`main.css` minify plus reproducible fingerprints), toph#88 (i18n strings in recent-posts), toph#82 (print stylesheet code-color leak).
@@ -244,6 +246,7 @@ The minimal fix is one additional pa11y crawl of the same build with a `--config
 
 - **#24 performance**: median 81 / 4.56 s LCP against the ≥ 90 / < 2.5 s targets; the remaining lever is same-origin render-blocking CSS (consolidation of `bootstrap.min.css`, `bootstrap-icons.min.css`, and `main.css` into a single pipeline via `resources.Concat`), with analytics-driven TBT handled separately.
 - **#25 title font resolved**: Jaro swapped in (`5513c96`), resolving the dark-theme drop-shadow ghosting defect.
+- **Landed**: October 2026 posts translated to Arabic with English `[[anchor]]` identifiers preserved (`211e208`), and `content/lyrics/m83-echoes-of-mine.adoc` migrated to AsciiDoc `[verse]` blocks (`d3cc132`) — `[verse]` is the correct block type for lyrics and poetry.
 - **Pending blog drafts**: `content/blog/2026/10/fedora-copr-intro.adoc` is untracked and pending completion.
 - **#23 llms.txt**: theme output format plus a curation decision (recent-N vs. a `featured:` flag vs. a data file; whether non-English files emit).
 - **#3**: friend shout-outs archetype.
