@@ -5,7 +5,7 @@ description: "Six months ago, I deleted my Facebook and Instagram accounts. Alon
 categories: 
   - "perspective"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "culture"
   - "digital-era"

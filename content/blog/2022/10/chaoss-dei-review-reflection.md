@@ -4,20 +4,19 @@ date: 2022-10-25
 description: "In 2021, CHAOSS initiated a review of its diversity, equity, and inclusion practices. This post summarizes progress made by the team in 2022."
 categories: 
   - "foss"
-tags: 
+tags:
   - "2020s"
   - "accessibility"
   - "becoming-the-better-ally"
   - "chaoss-project"
-  - "community-management"
   - "data"
   - "data-analysis"
   - "fedora-planet"
-  - "mentoring"
   - "open-source-communities"
   - "reflections"
   - "research-and-learning"
   - "sustainability"
+  - "teaching-open-source"
 images: ["/blog/2022/10/chaoss-dei-reflection.png"]
 ---
 

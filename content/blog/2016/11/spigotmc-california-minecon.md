@@ -5,14 +5,14 @@ description: "MINECON 2016 took place from September 24-26, 2016 in Anaheim, Cal
 categories: 
   - "foss"
   - "travel"
-tags: 
+tags:
   - "2010s"
-  - "california"
   - "fedora-planet"
   - "minecon"
   - "minecraft"
   - "spigotmc"
   - "travel"
+  - "us-california"
 images: ["/blog/2016/11/spigotmc-california-minecon.jpg"]
 ---
 

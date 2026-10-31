@@ -6,15 +6,13 @@ categories:
   - "education"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "culture"
   - "fedora-planet"
   - "hacking"
   - "hfoss"
-  - "movies-film"
   - "rochester-institute-of-technology"
-  - "traditions"
   - "what-its-all-about"
 ---
 

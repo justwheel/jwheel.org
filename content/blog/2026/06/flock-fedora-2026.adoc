@@ -7,17 +7,17 @@ categories:
     - red-hat
     - travel
 tags:
-    - 2020s
-    - ai-assisted
-    - czech-republic
-    - events
-    - fedora-council
-    - fedora-planet
-    - flock
-    - international
-    - linux
-    - open-source-communities
-    - working-together
+  - "2020s"
+  - "ai-assisted"
+  - "czech-republic"
+  - "events"
+  - "fedora-council"
+  - "fedora-planet"
+  - "flock"
+  - "international"
+  - "linux"
+  - "open-source-communities"
+  - "working-together"
 images: ["flock-fedora-2026.jpg"]
 ---
 :imagesdir: /blog/2026/06/

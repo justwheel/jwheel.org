@@ -5,14 +5,14 @@ description: "Trigger warning: Grief, police violence, death. This blog post was
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2020s"
   - "access"
   - "activism"
   - "becoming-the-better-ally"
   - "death"
-  - "digital-era"
   - "dei"
+  - "digital-era"
   - "ethics"
   - "history"
   - "international"

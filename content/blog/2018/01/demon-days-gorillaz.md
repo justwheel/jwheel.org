@@ -9,8 +9,6 @@ tags:
   - "2010s"
   - "culture"
   - "gorillaz"
-  - "hip-hop"
-  - "music"
   - "music-review"
   - "tergiversate-music-column"
 images: ["/blog/2018/01/tergiversate-demon-days-gorillaz.jpg"]

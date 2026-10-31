@@ -5,7 +5,7 @@ description: 'The Pizzelle badge is awarded after receiving 50 "karma cookies" i
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-ambassadors"

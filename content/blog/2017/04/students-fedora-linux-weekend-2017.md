@@ -7,7 +7,7 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "albania"
   - "community"
@@ -17,10 +17,8 @@ tags:
   - "fedora-planet"
   - "linux"
   - "linux-weekend"
-  - "linux-weekend-2017"
   - "open-labs-albania"
   - "teaching-open-source"
-  - "tirana-al"
   - "travel"
 images: ["/blog/2017/04/ARP6625.jpg"]
 ---

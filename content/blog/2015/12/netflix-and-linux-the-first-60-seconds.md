@@ -5,7 +5,7 @@ description: "Netflix system administrator Brendan Gregg published an article on
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "cloud-computing"
   - "fedora-planet"

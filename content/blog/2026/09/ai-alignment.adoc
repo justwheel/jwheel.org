@@ -6,12 +6,12 @@ categories:
     - fedora
     - red-hat
 tags:
-    - 2020s
-    - chaoss-project
-    - events
-    - fedora-planet
-    - llm-gen-ai
-    - open-source-communities
+  - "2020s"
+  - "chaoss-project"
+  - "events"
+  - "fedora-planet"
+  - "llm-gen-ai"
+  - "open-source-communities"
 images: ["ai-alignment.png"]
 ---
 

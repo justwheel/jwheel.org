@@ -4,13 +4,10 @@ date: 2020-09-20
 description: "El Ten Eleven released their self-titled debut album in late 2004. This review by Flory shares hidden background and trivia on El Ten Eleven."
 categories: 
   - "music"
-tags: 
+tags:
   - "2020s"
-  - "ambient-music"
   - "el-ten-eleven"
-  - "music"
   - "music-review"
-  - "post-rock"
   - "reflections"
   - "tergiversate-music-column"
 images: ["/blog/2020/09/tergiversate-el-ten-eleven-self-titled.png"]

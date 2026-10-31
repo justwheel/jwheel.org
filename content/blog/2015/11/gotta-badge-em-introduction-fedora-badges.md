@@ -5,7 +5,7 @@ description: "Introducing a new series - \"Gotta Badge 'Em All!\" This series ai
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-badges"

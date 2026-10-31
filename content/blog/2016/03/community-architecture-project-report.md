@@ -6,14 +6,13 @@ categories:
   - "education"
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"
   - "hfoss"
   - "python"
   - "rochester-institute-of-technology"
-  - "tahrir"
 ---
 
 For the [Humanitarian Free and Open Source Software Development](https://hfoss-ritjoe.rhcloud.com/) (HFOSS) course at the [Rochester Institute of Technology](https://www.rit.edu/), we were tasked with the [Community Architecture (CommArch) project](https://hfoss-ritjoe.rhcloud.com/static/hw/commarch.txt). For this project, we were tasked with analyzing an open source project's community and the general details surrounding the project. This blog post serves as the analysis our team prepared for the project.

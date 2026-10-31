@@ -5,17 +5,17 @@ description: "After almost eight months of work, the TeleIRC Team is happy to an
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "development"
   - "fedora-planet"
   - "irc"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
-  - "rochester-ny-usa"
   - "telegram"
   - "teleirc"
   - "upstream"
+  - "us-new-york"
   - "working-together"
 images: ["/content/teleirc-development-update.jpg"]
 ---

@@ -3,7 +3,6 @@ title: Legal Notice and Declaration of Licensing Terms
 author: Justin Wheeler
 description: This document declares the default licensing terms applicable to Contributions by Justin Wheeler when stored or processed by Service Providers.
 lastmod: 2025-05-12
-tags: ["bsd-3.0", "creative-commons", "cc-by"]
 
 ---
 :toc:

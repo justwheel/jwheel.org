@@ -4,12 +4,12 @@ date: 2023-05-11
 description: "Friend, are you okay?"
 categories: 
   - "desk-drawer"
-tags: 
+tags:
   - "2020s"
   - "el-ten-eleven"
   - "life-lessons"
   - "mental-health"
-  - "power"
+  - "politics"
   - "reflections"
   - "spirituality"
   - "what-its-all-about"

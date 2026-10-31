@@ -5,12 +5,12 @@ description: "The Science badge is awarded to Fedora contributors that help test
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"
   - "gotta-badge-em-all"
-  - "linux-kernel"
+  - "linux"
 ---
 
 _This article is part of an ongoing series about [how to earn specific Fedora badges](/blog/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Science badge!_

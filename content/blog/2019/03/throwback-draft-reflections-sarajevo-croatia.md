@@ -5,12 +5,12 @@ description: "This is an unfinished draft from the end of my 2017 study abroad s
 categories: 
   - "perspective"
   - "travel"
-tags: 
+tags:
   - "2010s"
-  - "dubrovnik-hr"
+  - "bosnia-herzegovina"
+  - "croatia"
   - "europe"
   - "history"
-  - "sarajevo-ba"
   - "throwback-drafts"
   - "travel"
   - "what-its-all-about"

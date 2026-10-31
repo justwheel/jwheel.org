@@ -4,10 +4,9 @@ date: 2017-12-27
 description: "Music is a key part of my life. I spend a lot of time listening and analyzing music. However, music is as much a personal experience as it is a social one too. In music, an artist shares their perspective and experience with the listener. The listener, in turn, shares"
 categories: 
   - "music"
-tags: 
+tags:
   - "2010s"
   - "culture"
-  - "music"
   - "music-review"
   - "tergiversate-music-column"
 images: ["/blog/2017/12/tergiversate-music-column.png"]

@@ -5,15 +5,15 @@ description: "The RITlug TeleIRC developer team celebrated the v1.3 release on M
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "development"
   - "fedora-planet"
-  - "fossmagic"
   - "irc"
   - "javascript"
   - "messaging"
   - "open-source-communities"
+  - "rit-foss"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
   - "telegram"

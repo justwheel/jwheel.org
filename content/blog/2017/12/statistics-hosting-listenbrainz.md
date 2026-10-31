@@ -6,17 +6,13 @@ categories:
   - "education"
   - "metabrainz"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "data"
   - "fedora-planet"
   - "getting-started"
   - "google"
-  - "google-bigquery"
   - "independent-study"
-  - "listenbrainz"
-  - "metabrainz"
-  - "music"
   - "musicbrainz"
   - "reflections"
   - "rit-2171"

@@ -6,14 +6,14 @@ categories:
   - "fedora"
   - "foss"
   - "red-hat"
-tags: 
+tags:
   - "2020s"
-  - "community-management"
+  - "fedora-commops"
   - "fedora-dei"
-  - "fedora-marketing"
   - "fedora-planet"
   - "internship"
   - "open-source-communities"
+  - "working-together"
 images: ["/blog/2024/03/win-win-for-all-outreachy.png"]
 ---
 

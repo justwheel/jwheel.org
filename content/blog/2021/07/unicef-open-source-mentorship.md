@@ -6,10 +6,8 @@ categories:
   - "foss"
   - "tech"
   - "unicef"
-tags: 
+tags:
   - "2020s"
-  - "community-governance"
-  - "community-management"
   - "digital-public-goods"
   - "humanitarian"
   - "librecorps"

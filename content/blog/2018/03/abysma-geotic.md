@@ -4,15 +4,12 @@ date: 2018-03-19
 description: "Abysma by Geotic is a cross between electronica and indie pop that pushes us to introspect on ourselves, acknowledge our worst qualities, and recognize they can be overcome. Justin W. Flory reviews the album in his music column, Tergiversate."
 categories: 
   - "music"
-tags: 
+tags:
   - "2010s"
   - "culture"
-  - "electronica"
-  - "indie-pop"
-  - "los-angeles-ca-usa"
-  - "music"
   - "music-review"
   - "tergiversate-music-column"
+  - "us-california"
 images: ["/blog/2018/03/tergiversate-abysma-geotic.png"]
 ---
 

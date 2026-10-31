@@ -5,7 +5,7 @@ description: "Hacktoberfest 2020 is here, and TeleIRC has issues ready to help y
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "development"
   - "events"

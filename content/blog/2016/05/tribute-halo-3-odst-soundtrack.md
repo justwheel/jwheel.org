@@ -4,9 +4,9 @@ date: 2016-05-02
 description: "A lone soldier treks through an empty city. Mystery fills the air. The Halo 3: ODST soundtrack is powerfully engaging, maybe not for the reasons you think!"
 categories: 
   - "music"
-tags: 
+tags:
   - "2010s"
-  - "halo"
+  - "gaming"
   - "music-review"
 images: ["/blog/2016/05/halo-3-odst-resized.jpg"]
 ---

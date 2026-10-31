@@ -5,12 +5,12 @@ description: "The municipality of Tirana, Albania recently migrated to NextCloud
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "albania"
   - "fedora-planet"
   - "government"
-  - "nextcloud"
+  - "infrastructure"
   - "open-labs-albania"
   - "oscal-open-source-conference-albania"
 images: ["/blog/2017/08/osdc_government_building_sky.jpg"]

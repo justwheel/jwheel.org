@@ -5,15 +5,15 @@ description: "On April 20th, 2019, the TeleIRC developers released TeleIRC v1.3.
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "development"
   - "fedora-planet"
-  - "fossmagic"
   - "irc"
   - "javascript"
   - "messaging"
   - "open-source-communities"
+  - "rit-foss"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
   - "telegram"

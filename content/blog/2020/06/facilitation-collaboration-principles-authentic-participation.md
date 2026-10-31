@@ -5,7 +5,7 @@ description: "This is the story about the facilitation of the Principles of Auth
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "activism"

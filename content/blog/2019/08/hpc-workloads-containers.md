@@ -5,9 +5,8 @@ description: "Containers are slowly taking over the world. Does this include the
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
-  - "cluster-computing"
   - "containers"
   - "fedora-planet"
   - "high-performance-computing-hpc"

@@ -5,18 +5,15 @@ description: "InfluxDB is a time-series database by InfluxData that lets you wor
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
-  - "databases"
+  - "data"
   - "fedora-planet"
   - "getting-started"
-  - "influxdata"
-  - "influxdb"
   - "infrastructure"
   - "metrics"
   - "research-and-learning"
   - "things-you-should-know-understand"
-  - "time-series-data"
 images: ["/blog/2017/08/osdc_520x292_opendata_0613mm.png"]
 ---
 

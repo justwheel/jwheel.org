@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "chaosscon"
@@ -17,11 +17,11 @@ tags:
   - "europe"
   - "events"
   - "fedora-planet"
-  - "fossmagic"
   - "github"
   - "librecorps"
   - "metrics"
   - "open-source-communities"
+  - "rit-foss"
   - "rochester-institute-of-technology"
   - "travel"
 images: ["/blog/2020/02/chaosscon-eu-2020.png"]

@@ -6,7 +6,7 @@ categories:
   - "fedora"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "fedora-ambassadors"
   - "fedora-commops"

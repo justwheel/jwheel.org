@@ -5,7 +5,7 @@ description: "There are many new changes in TeleIRC v2.0.0. This post explains m
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "communication"
   - "development"
@@ -13,10 +13,10 @@ tags:
   - "irc"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
-  - "rochester-ny-usa"
   - "telegram"
   - "teleirc"
   - "upstream"
+  - "us-new-york"
   - "working-together"
 images: ["/content/teleirc-development-update.jpg"]
 ---

@@ -5,12 +5,12 @@ description:
 categories:
   - perspective
 tags:
-  - 2020s
-  - ai-assisted
-  - fedora-planet
-  - reflections
-  - things-you-should-know-understand
-  - what-its-all-about
+  - "2020s"
+  - "ai-assisted"
+  - "fedora-planet"
+  - "reflections"
+  - "things-you-should-know-understand"
+  - "what-its-all-about"
 images: ["/blog/2026/04/one-day.png"]
 ---
 

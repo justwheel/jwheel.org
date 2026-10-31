@@ -4,15 +4,14 @@ date: 2018-03-06
 description: "Ever wondered how to dynamically grow your infrastructure to handle increased traffic and load? Figure out how with Kubernetes Horizontal Pod Autoscaling."
 categories: 
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "cloud-computing"
-  - "cluster-computing"
   - "containers"
   - "fedora-planet"
+  - "high-performance-computing-hpc"
   - "infrastructure"
   - "kubernetes"
-  - "scalability"
   - "system-administration"
 ---
 

@@ -5,12 +5,11 @@ description: "This first appeared on the Open Source Initiative Wiki. In light o
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "activism"
   - "fedora-planet"
   - "open-source-communities"
-  - "open-source-initiative-osi"
   - "open-source-licenses"
   - "reflections"
   - "what-its-all-about"

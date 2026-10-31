@@ -5,15 +5,14 @@ description: "I learned more about a man named Seth Vidal by chance. For Fedora 
 categories: 
   - "fedora"
   - "perspective"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "culture"
-  - "fedora-appreciation-week"
   - "fedora-planet"
   - "friends"
-  - "open-source-inspirations"
   - "life-lessons"
+  - "open-source-communities"
   - "opinion"
   - "reflections"
   - "things-you-should-know-understand"

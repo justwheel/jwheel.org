@@ -6,15 +6,16 @@ categories:
   - "education"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "dei"
   - "events"
   - "fedora-planet"
   - "hackathons"
   - "hfoss"
+  - "rit-wic"
   - "rochester-institute-of-technology"
-  - "women-in-computing-wic"
+  - "us-new-york"
 images: ["/content/WiCHacks-Opening-Ceremony.jpg"]
 ---
 

@@ -6,18 +6,18 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "events"
   - "fedora-planet"
-  - "fossmagic"
-  - "raspberry-pi"
+  - "infrastructure"
+  - "linux"
+  - "rit-foss"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
-  - "rochester-mini-maker-faire"
-  - "rochester-ny-usa"
   - "travel"
   - "university"
+  - "us-new-york"
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/17/12/rochester-mini-maker-faire)

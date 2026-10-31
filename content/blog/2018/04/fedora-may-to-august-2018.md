@@ -5,7 +5,7 @@ description: "Similar to last year, I am putting forward a note of planned absen
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-planet"

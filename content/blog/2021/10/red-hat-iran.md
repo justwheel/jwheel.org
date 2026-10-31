@@ -6,7 +6,7 @@ categories:
   - "fedora"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "access"
   - "activism"
@@ -15,7 +15,6 @@ tags:
   - "ethics"
   - "fedora-council"
   - "fedora-planet"
-  - "free-information"
   - "government"
   - "international"
   - "open-source-communities"

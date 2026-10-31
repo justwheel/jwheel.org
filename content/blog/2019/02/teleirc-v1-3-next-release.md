@@ -4,15 +4,15 @@ date: 2019-02-03
 description: "On Feb. 2nd, 2019, the Teleirc community held the first developers' meeting. Contributors planned the next sprint for Teleirc v1.3 expected in March 2019."
 categories: 
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "development"
   - "fedora-planet"
-  - "fossmagic"
   - "irc"
   - "javascript"
   - "messaging"
   - "open-source-communities"
+  - "rit-foss"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
   - "telegram"

@@ -5,7 +5,7 @@ description: "What major changes await Free Software and Open Source in the 2020
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "digital-era"
   - "ethics"

@@ -7,17 +7,13 @@ categories:
   - "metabrainz"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "containers"
   - "data"
-  - "docker"
   - "fedora-planet"
   - "getting-started"
   - "independent-study"
-  - "listenbrainz"
-  - "metabrainz"
-  - "music"
   - "musicbrainz"
   - "rit-2171"
   - "rochester-institute-of-technology"

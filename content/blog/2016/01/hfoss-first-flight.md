@@ -5,7 +5,7 @@ description: "Humanitarian Free and Open Source Software Development (HFOSS) is 
 categories: 
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-planet"
   - "getting-started"

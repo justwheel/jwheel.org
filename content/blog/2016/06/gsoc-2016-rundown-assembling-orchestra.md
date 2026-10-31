@@ -5,7 +5,7 @@ description: 'This week is the midterm evaluations for Google Summer of Code, or
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "ansible"
   - "fedora-infrastructure"

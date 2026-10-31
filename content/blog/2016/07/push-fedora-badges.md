@@ -4,7 +4,7 @@ date: 2016-07-08
 description: "Ever wondered about the magic behind Fedora Badges? Learn how to push a new Fedora Badge from the perspective of a badges systems administrator."
 categories: 
   - "fedora"
-tags: 
+tags:
   - "2010s"
   - "ansible"
   - "fedora-badges"

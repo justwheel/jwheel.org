@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "conferences"

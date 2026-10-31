@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "albania"
   - "events"
@@ -14,9 +14,8 @@ tags:
   - "hackathons"
   - "hacking"
   - "open-labs-albania"
-  - "sustainable-development-goals"
+  - "sustainability"
   - "teaching-open-source"
-  - "tirana-al"
   - "travel"
   - "united-nations"
 images: ["/content/BIZ_HighTrust_1110_A.png"]

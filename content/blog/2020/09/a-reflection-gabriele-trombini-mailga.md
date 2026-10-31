@@ -5,7 +5,7 @@ description: "Trigger warning: Grief, death. Two years passed since we last met 
 categories: 
   - "desk-drawer"
   - "fedora"
-tags: 
+tags:
   - "2020s"
   - "death"
   - "fedora-mindshare"

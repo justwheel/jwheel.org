@@ -7,21 +7,19 @@ categories:
   - "metabrainz"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "containers"
+  - "data"
   - "fedora-planet"
   - "google"
-  - "google-bigquery"
   - "independent-study"
-  - "listenbrainz"
-  - "metabrainz"
+  - "linux"
   - "metrics"
   - "musicbrainz"
   - "open-source-communities"
   - "rit-2171"
   - "rochester-institute-of-technology"
-  - "selinux"
 images: ["/content/listenbrainz-rit-independent-study.png"]
 ---
 

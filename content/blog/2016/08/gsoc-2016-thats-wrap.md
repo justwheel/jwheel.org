@@ -5,16 +5,17 @@ description: "August 22, 2016, marks the end of the Google Summer of Code (GSoC)
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "ansible"
-  - "devops"
   - "documentation"
   - "fedora-infrastructure"
   - "fedora-magazine"
   - "fedora-planet"
   - "gsoc"
+  - "infrastructure"
   - "summer-activities"
+  - "system-administration"
 images: ["/content/Google-Summer-of-Code-announcement.png"]
 ---
 

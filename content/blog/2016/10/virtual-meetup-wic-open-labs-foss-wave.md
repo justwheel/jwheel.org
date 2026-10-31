@@ -6,17 +6,17 @@ categories:
   - "education"
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "albania"
   - "fedora-planet"
-  - "foss-wave-india"
   - "india"
   - "open-labs-albania"
+  - "open-source-communities"
   - "oscal-open-source-conference-albania"
+  - "rit-wic"
   - "rochester-institute-of-technology"
   - "teaching-open-source"
-  - "women-in-computing-wic"
 images: ["/blog/2016/10/virtual-meetup-wic-open-labs-foss-wave.png"]
 ---
 

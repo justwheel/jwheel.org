@@ -5,7 +5,7 @@ description: "In August 2016, I will travel to Kraków, Poland for the annual Fe
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-ambassadors"
   - "fedora-commops"

@@ -5,12 +5,11 @@ description: "Does Python not exist for you in a Fedora Vagrant virtual machine?
 categories: 
   - "fedora"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "ansible"
+  - "development"
   - "fedora-planet"
-  - "vagrant"
-  - "virtual-machines-vm"
 ---
 
 Recently, I started to use Vagrant to test Ansible playbooks on Fedora machines. I'm using the Fedora 28 cloud base image. However, when I tried to provision my Vagrant box, I was warned the Python binary is missing.

@@ -5,12 +5,12 @@ description: I am moving to Germany by the end of 2026. This is a personal updat
 categories:
     - perspective
 tags:
-    - 2020s
-    - adventure
-    - europe
-    - germany
-    - international
-    - travel
+  - "2020s"
+  - "adventure"
+  - "europe"
+  - "germany"
+  - "international"
+  - "travel"
 images: ["guten-tag-germany-relocation.jpg"]
 ---
 

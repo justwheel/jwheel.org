@@ -5,7 +5,7 @@ description: "The Speak Up! badge is awarded to anyone who says something in an 
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"

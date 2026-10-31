@@ -5,7 +5,7 @@ description: "Fedora contributor Bee Padalkar wrote an analysis on Fedora's impa
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "events"
   - "fedora-commops"

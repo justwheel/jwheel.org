@@ -5,7 +5,7 @@ description: "Telegraphist is awarded to Fedora contributors and users who map t
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"

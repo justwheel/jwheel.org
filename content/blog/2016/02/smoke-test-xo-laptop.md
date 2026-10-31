@@ -2,17 +2,15 @@
 title: "HFOSS: Smoke test an XO laptop"
 date: 2016-02-22
 description: "For the next assignment in my HFOSS class, we were tasked to run a one hour smoke test on the XO laptops we were assigned to use for the semester."
-categories: 
+categories:
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-planet"
   - "hfoss"
-  - "olpc-xo"
   - "quality-assurance-qa"
   - "rochester-institute-of-technology"
-  - "sugar-on-a-stick"
 ---
 
 ![XO laptop used by the One Laptop Per Child (OLPC) program](https://upload.wikimedia.org/wikipedia/commons/4/42/XO-Beta1-mikemcgregor-2.jpg "The XO laptop deployed by the One Laptop Per Child (OLPC) program")

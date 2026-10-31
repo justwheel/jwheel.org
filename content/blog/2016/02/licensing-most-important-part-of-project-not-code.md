@@ -5,11 +5,10 @@ description: "Does your software project have licensing? Learn why the most impo
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "copyright"
   - "fedora-planet"
-  - "gplv3"
   - "hfoss"
   - "open-source-licenses"
   - "things-you-should-know-understand"

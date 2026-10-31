@@ -5,7 +5,7 @@ description: "Should we be too quick to discard negative, harmful responses in a
 categories: 
   - "perspective"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "chaoss-project"
   - "community"

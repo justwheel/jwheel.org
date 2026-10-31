@@ -5,7 +5,7 @@ description: "On November 7, 2017, members of the RIT community came together fo
 categories: 
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-planet"

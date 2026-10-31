@@ -4,7 +4,7 @@ date: 2021-08-05
 description: "Language is powerful. Words are subtle building blocks to how we imagine the world around us. So, with the goal of pursuing more equitable language, I propose the end of accommodations."
 categories: 
   - "desk-drawer"
-tags: 
+tags:
   - "2020s"
   - "access"
   - "accessibility"

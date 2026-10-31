@@ -6,7 +6,7 @@ categories:
   - "education"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "community"

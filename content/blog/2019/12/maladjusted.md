@@ -5,6 +5,7 @@ categories:
   - "perspective"
 tags:
   - "1960s"
+  - "2010s"
   - "activism"
   - "becoming-the-better-ally"
   - "dei"

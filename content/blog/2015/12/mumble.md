@@ -6,13 +6,12 @@ categories:
   - "fedora"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "fedora-packaging"
   - "fedora-planet"
   - "linux"
-  - "mumble"
-  - "packaging"
+  - "messaging"
 ---
 
 ## Mumble is back in Fedora

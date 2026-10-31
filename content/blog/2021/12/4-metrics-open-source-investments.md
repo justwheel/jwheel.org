@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "tech"
   - "unicef"
-tags: 
+tags:
   - "2020s"
   - "chaoss-project"
   - "data"

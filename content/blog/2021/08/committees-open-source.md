@@ -5,11 +5,9 @@ description: "Open Source communities often turn to a committee model for govern
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2020s"
   - "community"
-  - "community-governance"
-  - "community-management"
   - "dei"
   - "fedora-commops"
   - "fedora-mindshare"

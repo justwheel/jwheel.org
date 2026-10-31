@@ -5,7 +5,7 @@ description: "Parselmouth is awarded to Fedora contributors who assist in portin
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"

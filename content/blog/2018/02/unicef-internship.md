@@ -5,7 +5,8 @@ description: "In December, I received the happy news of an offer for a internshi
 categories: 
   - "foss"
   - "unicef"
-tags: 
+tags:
+  - "2010s"
   - "community"
   - "fedora-planet"
   - "hfoss"

@@ -6,7 +6,7 @@ categories:
   - "fedora"
   - "foss"
   - "red-hat"
-tags: 
+tags:
   - "2020s"
   - "fedora-planet"
   - "internship"

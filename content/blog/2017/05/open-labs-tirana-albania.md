@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "perspective"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "albania"
   - "community"
@@ -16,7 +16,6 @@ tags:
   - "open-source-communities"
   - "oscal-open-source-conference-albania"
   - "teaching-open-source"
-  - "tirana-al"
   - "travel"
 ---
 

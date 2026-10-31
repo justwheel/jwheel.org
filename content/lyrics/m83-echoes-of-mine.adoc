@@ -5,7 +5,9 @@ date: 2011-10-18
 locale: fr
 description: "Translation of M83's 'Echoes of Mine' from French to English. French lyrics from album book."
 url: /lyrics/m83/echoes-of-mine/
-tags: ["M83","Echoes of Mine","Hurry Up We're Dreaming","music","lyrics"]
+tags:
+  - "lyrics"
+  - "M83"
 
 ---
 :page-video: https://www.youtube-nocookie.com/embed/Aw73wifRdXo

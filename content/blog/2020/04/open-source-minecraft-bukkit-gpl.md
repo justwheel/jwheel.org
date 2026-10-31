@@ -5,9 +5,8 @@ description: "Once upon a time, I volunteered in the Minecraft open source commu
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2020s"
-  - "community-management"
   - "copyright"
   - "gaming"
   - "history"

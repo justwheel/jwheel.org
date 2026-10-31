@@ -5,7 +5,7 @@ description: "Our final project for the Humanitarian Free and Open Source Softwa
 categories: 
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-planet"
   - "getting-started"

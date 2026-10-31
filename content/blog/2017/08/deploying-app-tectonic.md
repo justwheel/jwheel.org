@@ -4,17 +4,15 @@ date: 2017-08-04
 description: "Start playing with CoreOS Tectonic by installing a simple web app to Kubernetes. You'll get hands-on experience with some Kubernetes concepts in this guide."
 categories: 
   - "tech"
-tags: 
+tags:
   - "2010s"
-  - "cluster-computing"
   - "containers"
-  - "coreos"
   - "fedora-planet"
   - "google"
   - "high-performance-computing-hpc"
   - "infrastructure"
   - "kubernetes"
-  - "scalability"
+  - "linux"
   - "system-administration"
 ---
 

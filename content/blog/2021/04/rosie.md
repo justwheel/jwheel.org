@@ -4,9 +4,8 @@ date: 2021-04-08
 description: "Read more of my poetry on my blog. I put on our playlist,Pure poetry to untrained ears. My heart taken by the hand,But led back to the Atlantic blue,Wondering if I am singing your tune?"
 categories: 
   - "poems"
-tags: 
+tags:
   - "2020s"
-  - "music"
 ---
 
 _Read more of [my poetry](/categories/poems/) on my blog._

@@ -4,12 +4,11 @@ date: 2023-05-09
 description: 'Brené Brown suggests seven elements to trust in her book, "Braving the Wilderness". You can remember these elements as an acronym: "BRAVING".'
 categories: 
   - "perspective"
-tags: 
+tags:
   - "2020s"
   - "becoming-the-better-ally"
   - "communication"
   - "community"
-  - "community-management"
   - "fedora-planet"
   - "life-lessons"
   - "open-source-communities"

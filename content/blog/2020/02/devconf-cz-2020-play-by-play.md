@@ -7,16 +7,15 @@ categories:
   - "foss"
   - "tech"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "cloud-computing"
   - "community"
-  - "community-management"
   - "conferences"
   - "czech-republic"
-  - "devconfcz"
   - "dei"
+  - "devconf"
   - "documentation"
   - "events"
   - "fedora-planet"

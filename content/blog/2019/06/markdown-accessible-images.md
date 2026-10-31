@@ -5,7 +5,7 @@ description: "Do you frequently write comments or READMEs in Markdown? Learn how
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2010s"
   - "access"
   - "accessibility"

@@ -6,15 +6,15 @@ categories:
   - "fedora"
   - "foss"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "conferences"
   - "czech-republic"
-  - "devconfcz"
   - "dei"
+  - "devconf"
   - "events"
-  - "fedora-activity-day-fad"
+  - "fedora-commops"
   - "fedora-dei"
   - "fedora-planet"
   - "open-source-communities"

@@ -4,7 +4,7 @@ date: 2017-04-08
 description: "Are you a REAL open source fan? Happiness Packets are one way to say thank you to others in open source. Take the #HappinessPacketChallenge right now!"
 categories: 
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-planet"

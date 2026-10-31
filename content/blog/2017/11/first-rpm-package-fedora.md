@@ -10,8 +10,6 @@ tags:
   - "2010s"
   - "fedora-packaging"
   - "fedora-planet"
-  - "packaging"
-  - "rpm"
 images: ["/blog/2017/11/newpackage.png"]
 ---
 

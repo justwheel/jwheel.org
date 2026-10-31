@@ -5,7 +5,7 @@ description: "Communicating the guidelines for requesting and creating artwork a
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "fedora-ambassadors"

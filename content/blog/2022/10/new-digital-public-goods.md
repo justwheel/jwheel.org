@@ -5,22 +5,19 @@ description: "This post describes my coaching and mentoring work with the UNICEF
 categories: 
   - "foss"
   - "unicef"
-tags: 
+tags:
   - "2020s"
   - "best-practices"
-  - "community-management"
   - "digital-public-goods"
-  - "humanitarian"
   - "hfoss"
+  - "humanitarian"
   - "international"
-  - "mentoring"
   - "open-source-communities"
   - "retrospective"
-  - "scalability"
   - "sustainability"
-  - "sustainable-development-goals"
   - "teaching-open-source"
   - "unicef"
+  - "united-nations"
   - "working-together"
 images: ["/blog/2022/10/UN0441160_0.jpeg"]
 ---

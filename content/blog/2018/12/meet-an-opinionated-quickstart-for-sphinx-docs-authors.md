@@ -5,7 +5,7 @@ description: "Do you write documentation with Sphinx? Check out this template re
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "best-practices"
   - "documentation"
@@ -15,7 +15,6 @@ tags:
   - "quality-assurance-qa"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
-  - "sphinx"
 images: ["/blog/2018/12/sphinx-docs-opinionated-quickstart.jpg"]
 ---
 

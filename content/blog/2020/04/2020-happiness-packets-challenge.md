@@ -4,7 +4,7 @@ date: 2020-04-23
 description: "Happiness Packets are an open source way to say thanks to others. Take the 2020 #HappinessPacketChallenge to spread cheer from 27 April to 3 May!"
 categories: 
   - "foss"
-tags: 
+tags:
   - "2020s"
   - "community"
   - "fedora-planet"

@@ -4,15 +4,15 @@ date: 2018-02-26
 description: "Facebook developer advocate Christine Abernathy attended the Rochester Institute of Technology in November to talk about the Facebook open source program."
 categories: 
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "facebook"
-  - "foss-talks"
-  - "fossmagic"
   - "open-source-communities"
+  - "rit-foss"
   - "rochester-institute-of-technology"
   - "social-media"
   - "teaching-open-source"
+  - "us-new-york"
 images: ["/blog/2018/02/LAW-Internet_construction_9401467_520x292_0512_dc.png"]
 ---
 

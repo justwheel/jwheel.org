@@ -6,15 +6,15 @@ categories:
     - fedora
     - foss
 tags:
-    - 2020s
-    - ai-assisted
-    - copyright
-    - ethics
-    - fedora-council
-    - fedora-planet
-    - linux
-    - llm-gen-ai
-    - open-source-communities
+  - "2020s"
+  - "ai-assisted"
+  - "copyright"
+  - "ethics"
+  - "fedora-council"
+  - "fedora-planet"
+  - "linux"
+  - "llm-gen-ai"
+  - "open-source-communities"
 images: ["/blog/2026/05/fedora-ai-assisted-contributions-policy.png"]
 ---
 

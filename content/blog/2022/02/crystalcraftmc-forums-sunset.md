@@ -4,7 +4,7 @@ date: 2022-02-07
 description: "On 6 February 2022, the CrystalCraftMC forums officially closed down. This announcement shares history and why the decision was made."
 categories: 
   - "perspective"
-tags: 
+tags:
   - "2020s"
   - "community"
   - "gaming"

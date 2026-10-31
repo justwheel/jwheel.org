@@ -5,7 +5,7 @@ description: "Is 2015 the year of the Linux desktop? As this year begins to come
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-planet"
   - "flock"

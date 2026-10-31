@@ -3,12 +3,12 @@ title: "How to set up GitHub organizations for clubs"
 date: 2016-10-17
 description: "When starting with GitHub, there are ways to effectively use GitHub organizations to boost productivity and organization. Here's how you do it."
 categories:
+  - "education"
   - "foss"
   - "tech"
 tags:
   - "2010s"
   - "community"
-  - "education"
   - "fedora-planet"
   - "github"
   - "rochester-institute-of-technology"

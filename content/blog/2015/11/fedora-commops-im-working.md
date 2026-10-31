@@ -5,7 +5,7 @@ description: "Over the past few months, I have worked closely with the Fedora Co
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "community"

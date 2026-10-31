@@ -6,7 +6,7 @@ categories:
   - "education"
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-magazine"
   - "fedora-planet"

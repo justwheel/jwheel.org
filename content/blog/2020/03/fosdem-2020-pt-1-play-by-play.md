@@ -5,19 +5,19 @@ description: "I attended FOSDEM 2020 on behalf of RIT LibreCorps to represent ou
 categories: 
   - "foss"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
-  - "capitalism"
   - "conferences"
   - "ethics"
   - "europe"
   - "events"
   - "fedora-planet"
   - "fosdem"
-  - "fossmagic"
   - "librecorps"
   - "open-source-design"
+  - "politics"
+  - "rit-foss"
   - "rochester-institute-of-technology"
   - "travel"
 images: ["/content/fosdem-2020.png"]

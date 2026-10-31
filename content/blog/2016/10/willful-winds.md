@@ -4,7 +4,7 @@ date: 2016-10-09
 description: "This post is published as part of a personal archival project of my poetry and other creative works. This poem was written in October 2016."
 categories: 
   - "poems"
-tags: 
+tags:
   - "2010s"
   - "archives-journals"
   - "throwback-drafts"

@@ -6,15 +6,15 @@ categories:
     - fedora
     - foss
 tags:
-    - 2020s
-    - ai-assisted
-    - community-management
-    - fedora-commops
-    - fedora-planet
-    - getting-started
-    - llm-gen-ai
-    - open-source-communities
-    - things-you-should-know-understand
+  - "2020s"
+  - "ai-assisted"
+  - "fedora-commops"
+  - "fedora-planet"
+  - "getting-started"
+  - "llm-gen-ai"
+  - "open-source-communities"
+  - "things-you-should-know-understand"
+  - "working-together"
 images: ["managing-multiple-git-repos-with-ai.jpg"]
 ---
 

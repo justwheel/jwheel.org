@@ -5,11 +5,10 @@ description: "What is a world that goes with or without? A world of access to fr
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2010s"
   - "access"
   - "dei"
-  - "free-information"
   - "opinion"
   - "privilege"
   - "wikipedia"

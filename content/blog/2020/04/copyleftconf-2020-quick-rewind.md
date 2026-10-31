@@ -6,7 +6,7 @@ categories:
   - "foss"
   - "perspective"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "conferences"
@@ -16,12 +16,12 @@ tags:
   - "europe"
   - "events"
   - "fedora-planet"
-  - "fossmagic"
   - "librecorps"
   - "open-source-communities"
   - "open-source-licenses"
   - "politics"
   - "reflections"
+  - "rit-foss"
   - "travel"
   - "what-its-all-about"
 images: ["/blog/2020/04/copyleftconf-2020-1.png"]

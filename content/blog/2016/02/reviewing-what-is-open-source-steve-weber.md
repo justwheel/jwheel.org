@@ -5,11 +5,12 @@ description: 'I review "What is Open Source?", Chapter 3 by Steve Weber as part 
 categories: 
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
+  - "culture"
   - "fedora-planet"
   - "hfoss"
-  - "literature"
+  - "writing"
 ---
 
 ![What is Open Source? - Steve Weber](http://steveweber.typepad.com/.a/6a00d83423046e53ef00e55004c30a8833-150wi "Steve Weber")

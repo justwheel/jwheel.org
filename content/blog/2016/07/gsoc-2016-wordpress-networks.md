@@ -5,7 +5,7 @@ description: "This week, with an initial playbook for creating a WordPress insta
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-infrastructure"
   - "fedora-planet"

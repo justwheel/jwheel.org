@@ -4,7 +4,7 @@ date: 2017-04-19
 description: "Originally published on 19 April 2017 at Medium.com.Republished on 25 October 2021 at jwfblog.wpengine.com. Many times, I’ve sat down to write this. The same number of times, I never finish and delete it all. Many times, I’ve wondered how to say the things I want to say. I’ve been doing"
 categories: 
   - "desk-drawer"
-tags: 
+tags:
   - "2010s"
   - "invisible-illness"
   - "mental-health"

@@ -5,7 +5,7 @@ description: "The RITlug TeleIRC team is working on TeleIRC v2.0.0. This is an u
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2020s"
   - "containers"
   - "development"

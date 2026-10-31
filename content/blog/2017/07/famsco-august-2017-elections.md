@@ -4,7 +4,7 @@ date: 2017-07-31
 description: "A new round of Fedora community leadership elections are coming up. Consider this point for the Fedora Ambassador Steering Committee (FAmSCo) election."
 categories: 
   - "fedora"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-ambassadors"

@@ -6,17 +6,16 @@ categories:
   - "foss"
   - "tech"
   - "unicef"
-tags: 
+tags:
   - "2010s"
-  - "business-process-management"
   - "communication"
   - "community"
-  - "community-management"
   - "fedora-planet"
   - "github"
-  - "kanban"
+  - "open-source-communities"
   - "unicef"
   - "unicef-internship-2018"
+  - "working-together"
 ---
 
 [_This article was originally published on Opensource.com._](https://opensource.com/article/18/4/keep-your-project-organized-git-repo)

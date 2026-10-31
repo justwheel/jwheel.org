@@ -6,11 +6,10 @@ categories:
   - "foss"
   - "perspective"
   - "tech"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
   - "activism"
-  - "capitalism"
   - "digital-era"
   - "ethics"
   - "fedora-planet"

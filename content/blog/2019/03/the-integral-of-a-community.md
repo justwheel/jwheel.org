@@ -4,14 +4,14 @@ date: 2019-03-05
 description: "What is a community and what does it mean to belong to one? What makes a community so important to someone? Read more to understand what community is."
 categories: 
   - "perspective"
-tags: 
+tags:
   - "2010s"
   - "community"
-  - "fossmagic"
   - "hfoss"
+  - "rit-foss"
   - "rochester-institute-of-technology"
-  - "rochester-ny-usa"
   - "throwback-drafts"
+  - "us-new-york"
   - "what-its-all-about"
 ---
 

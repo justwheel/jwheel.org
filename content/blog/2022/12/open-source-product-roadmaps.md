@@ -4,7 +4,7 @@ date: 2022-12-06
 description: "Recently, I came across three product roadmaps from Proton. They did a great job creating transparent product roadmaps. Here is what they did."
 categories: 
   - "foss"
-tags: 
+tags:
   - "2020s"
   - "best-practices"
   - "communication"

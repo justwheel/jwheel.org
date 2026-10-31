@@ -4,7 +4,7 @@ date: 2023-05-23
 description: "\"Digitalism\" is a poem I originally wrote in August 2022. the poem's birth came from being stuck between the analog and digital worlds."
 categories: 
   - "poems"
-tags: 
+tags:
   - "2020s"
   - "digital-era"
   - "fedora-planet"

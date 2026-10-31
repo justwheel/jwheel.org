@@ -6,11 +6,10 @@ categories:
   - "tech"
 tags:
   - "2010s"
-  - "bugfix"
-  - "cloudflare"
-  - "encryption"
+  - "development"
   - "fedora-planet"
-  - "ssl"
+  - "infrastructure"
+  - "web-development"
   - "wordpress"
 ---
 

@@ -6,15 +6,15 @@ categories:
   - "fedora"
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "ansible"
-  - "devops"
+  - "development"
   - "fedora-infrastructure"
   - "fedora-planet"
   - "gsoc"
-  - "vagrant"
-  - "virtual-machines-vm"
+  - "infrastructure"
+  - "system-administration"
 images: ["/content/Google-Summer-of-Code-announcement.png"]
 ---
 

@@ -6,15 +6,12 @@ categories:
   - "education"
   - "metabrainz"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "data"
   - "fedora-planet"
   - "getting-started"
   - "independent-study"
-  - "listenbrainz"
-  - "metabrainz"
-  - "music"
   - "musicbrainz"
   - "rit-2171"
   - "rochester-institute-of-technology"

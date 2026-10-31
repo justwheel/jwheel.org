@@ -7,11 +7,8 @@ categories:
 tags:
   - "2000s"
   - "2010s"
-  - "ambient-music"
   - "explosions-in-the-sky"
-  - "music"
   - "music-review"
-  - "post-rock"
 images: ["/blog/2016/10/All-of-a-Sudden-I-Miss-Everyone.jpg"]
 ---
 

@@ -5,7 +5,7 @@ description: "Grief is a strange emotion. Today, my memories and heart are on my
 categories: 
   - "desk-drawer"
   - "perspective"
-tags: 
+tags:
   - "2020s"
   - "becoming-the-better-ally"
   - "death"

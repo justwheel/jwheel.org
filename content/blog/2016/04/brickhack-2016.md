@@ -6,13 +6,13 @@ categories:
   - "education"
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
-  - "brickhack"
   - "events"
   - "fedora-ambassadors"
   - "fedora-planet"
   - "friends"
+  - "hackathons"
   - "hfoss"
   - "rochester-institute-of-technology"
 images: ["/blog/2016/04/Hacksesh-02-min.jpg"]

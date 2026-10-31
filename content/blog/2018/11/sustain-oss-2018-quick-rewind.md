@@ -2,21 +2,19 @@
 title: "Sustain OSS 2018: quick rewind"
 date: 2018-11-13
 description: "A quick recap of the Sustain OSS 2018 conference, covering topics such as human aspects of governance, financial sustainability models, diversity, and more."
-categories: 
+categories:
   - "foss"
+  - "metabrainz"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "community"
-  - "community-management"
   - "conferences"
   - "fedora-planet"
   - "hfoss"
-  - "metabrainz"
   - "open-source-communities"
   - "open-source-design"
-  - "scalability"
   - "sustain-oss"
   - "teaching-open-source"
   - "university"

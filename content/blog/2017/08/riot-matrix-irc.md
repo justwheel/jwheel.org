@@ -5,7 +5,7 @@ description: "IRC doesn't have to be complicated anymore. Introducing Riot, an o
 categories: 
   - "foss"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "communication"
   - "community"

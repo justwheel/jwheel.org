@@ -6,14 +6,14 @@ categories:
     - fedora
     - red-hat
 tags:
-    - 2020s
-    - ai-assisted
-    - events
-    - fedora-council
-    - fedora-planet
-    - flock
-    - open-source-communities
-    - working-together
+  - "2020s"
+  - "ai-assisted"
+  - "events"
+  - "fedora-council"
+  - "fedora-planet"
+  - "flock"
+  - "open-source-communities"
+  - "working-together"
 images: ["flock-fedora-2026-organizing.jpg"]
 ---
 :imagesdir: /blog/2026/07/

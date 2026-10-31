@@ -7,22 +7,22 @@ categories:
     - foss
     - red-hat
 tags:
-    - 2020s
-    - ai-assisted
-    - conferences
-    - devconf
-    - events
-    - fedora-ambassadors
-    - fedora-planet
-    - hackathons
-    - linux
-    - massachusetts
-    - open-source-communities
-    - outreach
-    - retrospective
-    - travel
-    - united-states
-    - university
+  - "2020s"
+  - "ai-assisted"
+  - "conferences"
+  - "devconf"
+  - "events"
+  - "fedora-ambassadors"
+  - "fedora-planet"
+  - "hackathons"
+  - "linux"
+  - "open-source-communities"
+  - "outreach"
+  - "retrospective"
+  - "travel"
+  - "united-states"
+  - "university"
+  - "us-massachusetts"
 images: ["devconf-us-2026.jpg"]
 ---
 

@@ -6,9 +6,9 @@ categories:
   - "education"
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
-  - "bugfix"
+  - "development"
   - "fedora-planet"
   - "getting-started"
   - "hfoss"

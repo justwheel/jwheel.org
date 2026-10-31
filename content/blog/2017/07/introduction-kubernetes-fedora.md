@@ -4,9 +4,8 @@ date: 2017-07-03
 description: "For containerized applications at scale, there are many challenges to consider. Kubernetes is one way to build resilient and scalable infrastructure."
 categories: 
   - "tech"
-tags: 
+tags:
   - "2010s"
-  - "cluster-computing"
   - "containers"
   - "fedora-planet"
   - "getting-started"
@@ -15,7 +14,6 @@ tags:
   - "infrastructure"
   - "kubernetes"
   - "research-and-learning"
-  - "scalability"
   - "system-administration"
   - "things-you-should-know-understand"
 images: ["/blog/2017/07/k8s-1-intro.jpg"]

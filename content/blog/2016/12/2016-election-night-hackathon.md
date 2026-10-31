@@ -5,7 +5,7 @@ description: "Over 140 students from across campus and across departments gather
 categories: 
   - "education"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "community"
   - "fedora-elections"

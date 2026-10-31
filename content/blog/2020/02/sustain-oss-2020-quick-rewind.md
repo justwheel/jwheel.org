@@ -5,19 +5,18 @@ description: "An event report from Sustain OSS 2020. I learned about community-f
 categories: 
   - "foss"
   - "travel"
-tags: 
+tags:
   - "2020-foss-conferences"
   - "2020s"
-  - "community-governance"
   - "conferences"
   - "dei"
   - "ethics"
   - "europe"
   - "events"
   - "fedora-planet"
-  - "fossmagic"
   - "librecorps"
   - "open-source-communities"
+  - "rit-foss"
   - "rochester-institute-of-technology"
   - "sustain-oss"
   - "travel"

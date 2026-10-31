@@ -4,7 +4,7 @@ date: 2021-01-17
 description: "When I launched my blog, I always envisioned writing cute snapshots of insight into my life. As much as I would publish them for the Internet, I was also publishing for myself. Or so, it started off this way."
 categories: 
   - "desk-drawer"
-tags: 
+tags:
   - "2020s"
   - "communication"
   - "reflections"

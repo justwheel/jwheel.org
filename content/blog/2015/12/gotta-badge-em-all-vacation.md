@@ -5,12 +5,11 @@ description: "The Vacation badge is awarded to contributors who mark when they w
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-planet"
   - "gotta-badge-em-all"
-  - "vacation"
 ---
 
 _This article is part of an ongoing series about [how to earn specific Fedora badges](/blog/2015/11/gotta-badge-em-introduction-fedora-badges/). Learn more about the Vacation badge!_

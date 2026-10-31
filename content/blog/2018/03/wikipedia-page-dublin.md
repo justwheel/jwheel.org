@@ -5,16 +5,14 @@ description: "My flight to NYC from Dublin was canceled and I had an extra day t
 categories: 
   - "foss"
   - "travel"
-tags: 
+tags:
   - "2010s"
   - "community"
-  - "dublin-ie"
+  - "dei"
   - "fedora-planet"
-  - "inspirational-women"
-  - "international-womens-day"
   - "ireland"
   - "travel"
-  - "wikimedia"
+  - "what-its-all-about"
   - "wikipedia"
   - "writing"
 ---

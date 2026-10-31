@@ -8,7 +8,7 @@ categories:
   - "unicef"
 tags:
   - "2020s"
-  - "mozilla"
+  - "digital-public-goods"
   - "open-source-communities"
   - "open-source-licenses"
   - "research-and-learning"

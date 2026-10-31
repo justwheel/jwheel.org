@@ -4,9 +4,8 @@ date: 2017-07-07
 description: "This tutorial builds on basic Kubernetes knowledge and shows you how to use Minikube to build a single-node cluster on your own desktop and deploy an app."
 categories: 
   - "tech"
-tags: 
+tags:
   - "2010s"
-  - "cluster-computing"
   - "containers"
   - "fedora-planet"
   - "getting-started"
@@ -14,7 +13,6 @@ tags:
   - "high-performance-computing-hpc"
   - "infrastructure"
   - "kubernetes"
-  - "scalability"
   - "system-administration"
 images: ["/blog/2017/07/k8s-2-minikube.jpg"]
 ---

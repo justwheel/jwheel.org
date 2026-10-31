@@ -4,7 +4,7 @@ date: 2016-07-18
 description: "The past week of my Google Summer of Code (GSoC 2016) proposal looks at writing documentation, handling upgrades, and putting on finishing touches."
 categories: 
   - "fedora"
-tags: 
+tags:
   - "2010s"
   - "ansible"
   - "fedora-commops"

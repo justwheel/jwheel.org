@@ -4,7 +4,7 @@ date: 2017-11-11
 description: "The world of digital devices alters modern experience of reality. Time no longer asserts priority or influence over a moment because of a smart phone."
 categories: 
   - "perspective"
-tags: 
+tags:
   - "2010s"
   - "digital-era"
   - "fedora-planet"

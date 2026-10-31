@@ -5,7 +5,7 @@ description: "A brief meditation on why you should write yourself into obsolesce
 categories: 
   - "foss"
   - "perspective"
-tags: 
+tags:
   - "2020s"
   - "communication"
   - "community"

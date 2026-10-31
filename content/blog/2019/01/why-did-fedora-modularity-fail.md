@@ -2,13 +2,13 @@
 title: "Why did Fedora Modularity fail in 2017? A brief reflection"
 date: 2019-01-21
 description: "Since June 2015, Fedora is working to ship modular versions of packages, known as Fedora Modularity. This article analyzes why Modularity failed in 2017."
-categories: 
+categories:
+  - "education"
   - "fedora"
   - "tech"
-tags: 
+tags:
   - "2010s"
   - "community"
-  - "education"
   - "fedora-infrastructure"
   - "fedora-packaging"
   - "fedora-planet"

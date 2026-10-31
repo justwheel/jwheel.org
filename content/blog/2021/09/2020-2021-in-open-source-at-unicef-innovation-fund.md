@@ -5,9 +5,8 @@ description: "The UNICEF Innovation Fund offers a unique Open Source mentorship 
 categories: 
   - "foss"
   - "unicef"
-tags: 
+tags:
   - "2020s"
-  - "community-governance"
   - "digital-public-goods"
   - "fedora-planet"
   - "humanitarian"

@@ -5,7 +5,7 @@ description: "The Extra! Extra! badge is awarded to Fedora contributors that wri
 categories: 
   - "fedora"
   - "foss"
-tags: 
+tags:
   - "2010s"
   - "fedora-badges"
   - "fedora-magazine"

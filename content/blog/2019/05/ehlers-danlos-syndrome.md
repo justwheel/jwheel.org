@@ -4,10 +4,8 @@ date: 2019-05-01
 description: "Ehlers-Danlos Syndrome (EDS) is a genetic disorder that has a huge impact on those living with it. But what is it and what can you do about it?"
 categories: 
   - "perspective"
-tags: 
+tags:
   - "2010s"
-  - "ehlers-danlos"
-  - "health"
   - "invisible-illness"
 images: ["/blog/2019/05/ehler-danlos-syndrome.png"]
 ---
