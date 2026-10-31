@@ -230,7 +230,7 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 
 ### Theme work
 
-- **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`) is live here via the submodule pin at its branch commit while the PR remains open — theme `main` does not yet contain it, so do not assume `git -C themes/toph/ log main` shows the feature; Markdown blockquotes, AsciiDoc `.quoteblock`, and `.verseblock` all render with the accent-bar card, and verse blocks use the body font rather than monospace.
+- **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`) is live here via the submodule pin; toph#88 (localized recent-posts partial with language-aware archive link and RTL arrow flow).
 - **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
@@ -239,7 +239,7 @@ The minimal fix is one additional pa11y crawl of the same build with a `--config
 - **toph#103** (Hugo 0.169.0 deprecations): five templates read reserved front-matter fields through `.Params`/`.Param` — `layouts/_default/li.html`, `layouts/_default/card.html`, `layouts/blog/list.html`, `layouts/categories/terms.html`, and `layouts/partials/projects-carousel.html` — emitting deprecation notices on every site build; migrate each to the corresponding `Page` method (`.Description`, `.Title`) before Hugo removes the redirect.
 - **toph#75** (mode-aware syntax highlighting): latent on this site — no Markdown post uses a lexed code fence, so Hugo's `monokai` default never renders — but `markup.highlight.style: github` in `config.yaml` is the preventive interim.
 - **toph#81** (exampleSite dark palette): contributor-driven; review is gated on #78's both-modes auditing.
-- **Smalls**: toph#95 (`main.css` minify plus reproducible fingerprints), toph#88 (i18n strings in recent-posts), toph#82 (print stylesheet code-color leak).
+- **Smalls**: toph#95 (`main.css` minify plus reproducible fingerprints), toph#82 (print stylesheet code-color leak).
 - **Parked**: toph#52 (comments; Staticman vs. Remark42 decision), toph#87 (theme-aware hero images), toph#96 (Bootstrap JS tree-shaking).
 
 ### Site work
