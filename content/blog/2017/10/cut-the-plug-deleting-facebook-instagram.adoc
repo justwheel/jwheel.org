@@ -1,0 +1,145 @@
+---
+title: "Cut the plug: Deleting Facebook and Instagram"
+date: 2017-10-22
+description: "Reflections on why I am permanently deleting my Facebook and Instagram accounts, how to stay in touch, and choosing honesty and open values over vanity metrics."
+categories:
+  - "perspective"
+  - "tech"
+tags:
+  - "2010s"
+  - "culture"
+  - "digital-era"
+  - "facebook"
+  - "life-lessons"
+  - "reflections"
+  - "social-media"
+images: ["cut-the-plug.jpg"]
+---
+:imagesdir: /blog/2017/10/
+
+_Originally published on 22 October 2017 at link:https://medium.com/@justwheel/cut-the-plug-deleting-facebook-and-instagram-6cbe7c86d9c9[Medium.com]_.
+_Republished on 02 November 2026 at link:/blog/[jwheel.org/blog]_.
+
+'''
+
+In the past, I used Medium for personal life updates separate from my blog.
+So I decided to write this announcement here too.
+
+
+[[tldnr]]
+== TL;DNR
+
+I am permanently deleting my Facebook and Instagram accounts on November 5th, 2017.
+If you want to know how to keep in touch with me or why I decided on this, read below.
+
+
+[[where-to-find-me]]
+== Where to find me
+
+I am limiting my social media presence to a minimum and using other platforms for sharing my life.
+The best places to keep up with me are…
+
+* Blog: link:/blog/[jwheel.org/blog/]
+* LinkedIn: link:https://www.linkedin.com/in/jwwheel/[linkedin.com/in/jwwheel/]
+
+You can also ask for my Signal.
+
+
+[[why]]
+== Why?
+
+I have wanted to delete my Facebook and Instagram for a long time, but like many others, it seemed so difficult.
+In a world where everything (from information to people) is accessible with a quick tap, how do you connect with friends new and old?
+How do you keep in touch with friends a mile or eight thousand miles away?
+I thought about this all for a while, then I read link:https://www.recode.net/2017/10/22/16510702/how-to-quit-facebook-addiction-backup-data-delete-account[this article] (thanks link:https://www.linkedin.com/in/donwatkins/[Don Watkins] for sharing).
+
+The article helps resolve doubts about committing to this decision.
+But still… why?
+
+[[how-to-social-media]]
+=== "How to: Social media"
+
+Social media is helpful and uplifting when used correctly, or draining and depressing when used incorrectly.
+But really, what _is_ the right way or not to use social media?
+When you are down, it is easy to fill holes in your life with someone else’s life adventures.
+When you feel stuck, your lens changes from observation to comparison.
+When you are sad, it is easy to become more sad from reading the articles someone shares (since most mainstream news sites only report the negative anyways, regardless of bias).
+If you are down, stuck, or sad, the last thing you are thinking is whether you’re using social media "correctly".
+
+My social media accounts started to feel like crutches instead of a tool.
+It felt like a lazy way to keep up with friends… by only reading, but never interacting.
+That one-way communication is like getting a friend request from "harsh self-criticism" or even "isolation".
+Yet I was always too timid and worried of "missing something" to reject this imaginary friend request.
+
+Then I decided I was tired of feeling this way.
+
+[[moment-of-realization]]
+=== Moment of realization
+
+My turning point happened when someone told me they were envious of my travels from a picture I took somewhere I visited.
+Their tone implied that my life was more exciting and happy than theirs.
+You hear someone say this, and you instantly think of the mornings where you wake up with link:/blog/2017/04/lights/[crippling depression] and getting out of bed feels like the biggest accomplish you will make all day.
+And then you wonder…
+
+What sort of picture was I painting for myself?
+Suddenly I was acutely aware of this and how I share my life with others.
+I prefer honesty over vanity, yet I felt complacent with the same problem for others that sometimes plagued me.
+It felt dirty, like someone was using me to do harm without my knowledge.
+
+Then, when I read the article on how to quit Facebook, I decided this was the time for both Facebook and Instagram.
+
+[[social-media-in-2017]]
+=== Social media in 2017
+
+In addition to my personal dilemma with social media, the growing criticism and skepticism of how information (propaganda, news, or otherwise) is shared concerned me.
+What algorithm decides what I see or don’t see?
+How is that decision made?
+How has an algorithm decided to "profile" me to decide what to show me?
+
+This raises another question… how is my data used?
+How has my personality made someone else money in ad revenue and "market research" data?
+When I created my Facebook account at 13, I never read the Terms of Service or Facebook Privacy Policy.
+I was never notified to _accept_ changes to the policies, but when they were changed, I was notified with the expectation to be complicit with the changes.
+
+I was tired of being complicit with a service whose interests viewed me as a metric instead of a person — and I doubt those interests will ever change.
+
+
+[[why-not-twitter]]
+== Why not Twitter?
+
+[WARNING]
+====
+Oops, this did not age well! 😉
+I no longer use Twitter, but I kept this here for posterity.
+Before the X takeover, Twitter was one of my most-used social media platforms personally and professionally.
+====
+
+I plan to delete my Facebook and Instagram accounts, but not my Twitter account?
+What is with the double standard?
+Why is Twitter different?
+
+For now, I still use Twitter for both personal and professional interactions (where the others were mostly personal).
+I still use it in a way that I find productive and effective for me personally.
+
+Does this mean I will always use Twitter?
+No, but for now, I am still there.
+
+
+[[stay-open]]
+== Stay open
+
+I spend a lot of time in open source communities and one of the things you hear often is open leadership, open organizations, and open practices.
+We spend a lot of time equating the idea of "openness" with professional values and practices.
+And from my time in open source… it works!
+
+But it is not just professional.
+Openness is important at a personal level too.
+Our hearts should default to open, to share love instead of hate.
+For every word of hate, it takes thrice in words of love to compensate.
+My challenge to others is to live with an open heart and make your personal habits remain true to who you are.
+
+Good luck to us all.
+
+'''
+
+_Image credit: link:https://unsplash.com/photos/silhouette-of-man-during-sunset-8lZttgeu_7o[Максим Степаненко] on link:https://unsplash.com[Unsplash]_.

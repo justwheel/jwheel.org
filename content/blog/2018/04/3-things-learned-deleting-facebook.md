@@ -2,7 +2,7 @@
 title: "Six months later: 3 things I learned from deleting Facebook"
 date: 2018-04-02
 description: "Six months ago, I deleted my Facebook and Instagram accounts. Along the way, I learned a few lessons on creating a healthy diet of media and pop culture consumption in a world of constant connectivity and endless media reservoirs."
-categories: 
+categories:
   - "perspective"
   - "tech"
 tags:
@@ -17,13 +17,12 @@ tags:
 images: ["/blog/2018/04/3-things-learned-deleting-facebook.png"]
 ---
 
-Six months ago, I deleted my Facebook and Instagram accounts. Beyond data privacy concerns, social media became a virtual band-aid applied to moments of weakness and sadness for me. I became more aware of the effects of social media on my mood and general outlook on the world, as I explained in my decision to [delete my accounts](https://medium.com/@jflory7/cut-the-plug-deleting-facebook-and-instagram-6cbe7c86d9c9). Six months now passed since I deleted my accounts. Along the way, I learned a few lessons on creating a healthy diet of media and pop culture consumption in a world of constant connectivity and endless memes.
+Six months ago, I deleted my Facebook and Instagram accounts. Beyond data privacy concerns, social media became a virtual band-aid applied to moments of weakness and sadness for me. I became more aware of the effects of social media on my mood and general outlook on the world, as I explained in my decision to [delete my accounts](/blog/2017/10/cut-the-plug-deleting-facebook-instagram/). Six months now passed since I deleted my accounts. Along the way, I learned a few lessons on creating a healthy diet of media and pop culture consumption in a world of constant connectivity and endless memes.
 
 This article explains changes I made to how I use social media and my smart phone since deleting my accounts. Hopefully you find these tips useful too.
 
 ![The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Photo from SparkXL.](/blog/2018/04/Phone-Zombie.jpg "The picture is dramatic, but when you spend more time thinking about how you use your phone, you realize how the world uses our phones and the Internet. Image credit: SparkXL (https://www.sparkxl.com/2017/11/22/slaves-to-our-screens-3/).")
 
-<!--more-->
 
 ## 1\. Social media on-the-go is a no
 
