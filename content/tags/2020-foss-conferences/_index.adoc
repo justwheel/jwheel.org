@@ -1,0 +1,21 @@
+---
+title: "2020 FOSS Conferences"
+description: "Event reports and reflections from a semester of Free and Open Source conferences in early 2020."
+---
+
+Between February and June 2020, I published a run of link:/tags/conferences/[conference] reports from a semester of travel across link:/tags/europe/[Europe].
+The sequence began in January 2020 with link:/tags/devconf/[DevConf CZ] in Brno, January 24–27.
+From there I moved to Brussels for link:/tags/sustain-oss/[Sustain OSS] on January 30, link:/tags/chaosscon/[CHAOSScon EU] on January 31, link:/tags/fosdem/[FOSDEM] on February 1–2, and CopyleftConf on February 3.
+It was a compressed stretch of link:/tags/travel/[travel] that ended only weeks before the pandemic shut everything down.
+
+I attended and wrote most of these reports on behalf of the link:/tags/librecorps/[RIT LibreCorps] program of the link:/tags/rit-foss/[FOSS@MAGIC initiative], which partially sponsored the work.
+They were also the fieldwork for an link:/tags/independent-study/[independent study] in my final semester at the link:/tags/rochester-institute-of-technology/[Rochester Institute of Technology], completed for the Free and Open Source Software and Free Culture minor.
+That study is why the writing reaches past travel notes into larger questions: how link:/tags/open-source-communities/[open source communities] sustain themselves, how a link:/tags/activism/[social movement] forms, and what user freedom means for link:/tags/llm-gen-ai/[LLM-gen-AI].
+Recurring threads across the reports include link:/tags/ethics/[ethics], link:/tags/dei/[diversity, equity, and inclusion], link:/tags/working-together/[collaboration], and link:/tags/open-source-licenses/[open source licenses].
+
+Taken together, these posts record a semester that shaped how I think about open source going into the pandemic years.
+They were a major learning opportunity, and the perspective I carried out of them still informs the work I do today.
+The thinking continued after the travel ended: link:/blog/2020/12/three-predictions-for-free-software-in-the-2020s/[Three predictions for Free Software in the 2020s] grew out of the questions these events raised.
+One essay from the same period, link:/blog/2020/04/open-source-minecraft-bukkit-gpl/[The day open source died: a story about Minecraft, Bukkit, and the GPL], carries the history that kept resurfacing along the way.
+
+These are the event reports and reflections from that semester.

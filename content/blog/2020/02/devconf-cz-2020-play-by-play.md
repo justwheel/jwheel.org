@@ -1,7 +1,7 @@
 ---
 title: "DevConf CZ 2020: play by play"
 date: 2020-02-13
-description: "DevConf CZ 2020 took place from Friday, January 24th to Sunday January 27th in Brno, Czech Republic: DevConf.CZ 2020 is the 12th annual, free, Red Hat sponsored community conference for developers, admins, DevOps engineers, testers, documentation writers and other contributors to open source technologies. The conference includes topics on Linux,"
+description: "My third DevConf CZ in Brno, January 24–27, 2020, on behalf of RIT LibreCorps: inclusion, infrastructure testing, and the conversations that matter."
 categories: 
   - "fedora"
   - "foss"

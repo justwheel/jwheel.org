@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM 2020, pt. 2: Can Free Software include ethical AI systems?"
 date: 2020-04-21
-description: "This post is a follow-up to FOSDEM 2020, pt. 1: Play by play. This post summarizes the talk given by me and my colleague, Mike Nolan, at FOSDEM 2020. FOSDEM 2020 took place from Saturday, 1 February, 2020 to Sunday, 2 February, 2020 in Brussels, Belgium (shortly after Sustain OSS"
+description: "A follow-up to my FOSDEM 2020 play-by-play: the talk Mike Nolan and I gave on ethical AI systems in Free Software, and the three AI freedoms we proposed."
 categories: 
   - "foss"
   - "tech"
