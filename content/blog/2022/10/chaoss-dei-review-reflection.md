@@ -8,7 +8,7 @@ tags:
   - "2020s"
   - "accessibility"
   - "becoming-the-better-ally"
-  - "chaoss-project"
+  - "chaoss"
   - "data"
   - "data-analysis"
   - "fedora-planet"

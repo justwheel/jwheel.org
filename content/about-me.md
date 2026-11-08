@@ -9,7 +9,7 @@ In this role, Justin participates as a member of the [Fedora Council](/tags/fedo
 Among many other things too.
 
 With over a decade of experience in [Open Source](/categories/foss/), Justin often works in fast-moving, innovative organizations and communities.
-For nearly a decade, he participates in the [CHAOSS](/tags/chaoss-project/) project and community.
+For nearly a decade, he participates in the [CHAOSS](/tags/chaoss/) project and community.
 He was part of a [Ford Foundation research cohort](/blog/2022/10/chaoss-dei-review-reflection/) in 2021–2022 and contributed to the DEI Working Group.
 Presently, he is a co-chair of the [CHAOSS AI Alignment Working Group](https://github.com/chaoss/wg-ai-alignment).
 

@@ -7,7 +7,7 @@ categories:
   - "tech"
 tags:
   - "2020s"
-  - "chaoss-project"
+  - "chaoss"
   - "community"
   - "data"
   - "data-analysis"

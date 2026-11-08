@@ -13,7 +13,7 @@ tags:
   - "india"
   - "open-labs-albania"
   - "open-source-communities"
-  - "oscal-open-source-conference-albania"
+  - "oscal"
   - "rit-wic"
   - "rochester-institute-of-technology"
   - "teaching-open-source"

@@ -1,0 +1,12 @@
+---
+title: "CHAOSS Project"
+description: "Content about the CHAOSS Project and community health analytics in open source software."
+aliases:
+  - "/tags/chaoss-project/"
+---
+
+link:https://www.chaoss.community/[CHAOSS] is an acronym for _Community Health Analytics in Open Source Software_.
+The project helps people who want to know more about the health of the open source projects they are engaged with, because unhealthy projects can have negative impacts on the community involved as well as the organizations that rely on them.
+Its work serves open source contributors, communities, companies, and foundations, each with different questions about where to invest effort and how to measure impact.
+
+These are my blog posts about CHAOSS, a community I have participated in for nearly a decade and where I co-chair the AI Alignment Working Group.

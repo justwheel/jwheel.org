@@ -8,7 +8,7 @@ categories:
   - "unicef"
 tags:
   - "2020s"
-  - "chaoss-project"
+  - "chaoss"
   - "data"
   - "data-analysis"
   - "dei"

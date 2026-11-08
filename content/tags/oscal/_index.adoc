@@ -1,0 +1,13 @@
+---
+title: "Open Source Conference Albania (OSCAL)"
+description: "Content about OSCAL, the retired Open Source Conference Albania held in Tirana through 2023."
+aliases:
+  - "/tags/oscal-open-source-conference-albania/"
+---
+
+Open Source Conference Albania, or simply *OSCAL*, was the first annual conference in Albania organized to promote software freedom, open source software, free culture, and open knowledge.
+It was organized by Open Labs, the Albanian community that promoted free and open source culture beginning in 2012.
+OSCAL brought together free and open source technology users, developers, academics, government agencies, and people who believe software should be free and open for local communities and governments to develop and customize.
+The 2023 edition in Tirana was the last edition, and the link:https://web.archive.org/web/20240608094316/https://oscal.openlabs.cc/[archived conference site] remains available.
+
+These are my blog posts about OSCAL, which I attended for several years, and the Open Labs community around it.

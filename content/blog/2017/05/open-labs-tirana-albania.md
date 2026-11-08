@@ -14,7 +14,7 @@ tags:
   - "fedora-planet"
   - "open-labs-albania"
   - "open-source-communities"
-  - "oscal-open-source-conference-albania"
+  - "oscal"
   - "teaching-open-source"
   - "travel"
 ---

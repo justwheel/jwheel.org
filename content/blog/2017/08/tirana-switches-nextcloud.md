@@ -12,7 +12,7 @@ tags:
   - "government"
   - "infrastructure"
   - "open-labs-albania"
-  - "oscal-open-source-conference-albania"
+  - "oscal"
 images: ["/blog/2017/08/osdc_government_building_sky.jpg"]
 ---
 

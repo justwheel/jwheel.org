@@ -7,7 +7,7 @@ categories:
     - red-hat
 tags:
   - "2020s"
-  - "chaoss-project"
+  - "chaoss"
   - "events"
   - "fedora-planet"
   - "llm-gen-ai"

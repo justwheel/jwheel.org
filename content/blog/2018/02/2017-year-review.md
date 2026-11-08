@@ -38,7 +38,7 @@ tags:
   - "musicbrainz"
   - "open-labs-albania"
   - "open-source-communities"
-  - "oscal-open-source-conference-albania"
+  - "oscal"
   - "social-media"
   - "study-abroad"
   - "travel"
