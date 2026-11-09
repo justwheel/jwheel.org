@@ -43,12 +43,25 @@ hugo server
 hugo server --buildFuture
 
 # Production build
-hugo --minify
+HUGO_ENVIRONMENT=production TZ=America/New_York hugo --gc --minify
+
+# Verification build into a throwaway destination
+hugo --buildFuture --destination /tmp/agents/opencode/site-check
 
 # Submodule initialization and updates
 git submodule update --init
 git submodule update --remote --rebase
 ```
+
+`--buildDrafts` does not include future-dated posts; add `--buildFuture` to preview anything scheduled.
+Build to a fresh destination instead of trusting `public/`, which is gitignored and can still hold pages from before a migration.
+Substitute your own harness directory in the destination path — see "Temporary files" below.
+
+### Temporary files
+
+Write scratch files, drafts, payloads, and build destinations under `/tmp/agents/<harness>/`: `/tmp/agents/opencode/` under OpenCode, `/tmp/agents/codex/` under Codex, `/tmp/agents/claude-code/` under Claude Code, and the matching name for any other harness.
+`/tmp` is RAM-backed, so write each artifact once and never mirror it to a second path; a duplicate copy costs memory and can exhaust `/tmp` on a long session.
+Remove large build destinations when they are no longer needed.
 
 ## Content Architecture & Asset Pipeline
 
@@ -61,6 +74,8 @@ git submodule update --remote --rebase
 Most tags have no page and fall back to the generated listing; a term page supplies an introduction, a title, and a description.
 - `content/*.{md,adoc}`: Root pages (`_index`, `about-me`, `legal`, `federation`).
 `content/_index.*.adoc` files **must** declare `layout: biography` in front matter; omitting it causes Hugo to silently fall back to `_default/list.html` without warnings, rendering an unstyled list of regular pages.
+- `archetypes/` belongs to the theme: `themes/toph/archetypes/blog.md` and `blog.adoc` scaffold the full front matter, and this repo has no `archetypes/` directory to override them.
+`hugo new` therefore produces a complete post in either format; the AsciiDoc archetype omits `toc` from front matter because `:toc:` is the native control there.
 - `static/`: Unmanaged assets served verbatim — `archive/v1`–`v4` (legacy site snapshots), `docs/` (PDF downloads), `favicon.ico`, and `robots.txt`.
 `static/img/` no longer exists.
 - `assets/pages/`: Page-specific images processed by Hugo (hero photo, about profile, with `projects/` and `footer/` subdirectories).
@@ -97,6 +112,22 @@ The length is view-specific: 250 in the list view (`li.html`) and featured cards
 - **Image Captions**: Markdown uses title syntax `![alt](src "caption text")`.
 URLs inside captions should be bare; Goldmark auto-links them.
 
+### Taxonomy maintenance
+
+Tags and categories are both taxonomies (`category: categories`, `tag: tags`), paginated at 10 posts per page.
+A category is a browsable facet that always has a term page; a tag is a free-form keyword that usually falls back to the generated listing.
+A term page lives beside its taxonomy — `content/categories/<term>/_index.md` or `content/tags/<term>/_index.{md,adoc}` — and supplies a title, an optional description, and an introduction.
+
+- **Fold a tag into its category when the two duplicate each other.**
+Leave an `aliases:` entry on the category term page so the retired `/tags/<term>/` URL still resolves; `content/categories/travel/_index.md` is the worked example, and `content/tags/chaoss/_index.adoc` shows the same alias pattern for a renamed tag.
+- **Retire a tag outright when it is too broad to narrow a search and no successor term exists.**
+A purge needs no redirect: `google`, `upstream`, `history`, and `javascript` were removed that way, leaving the smallest affected post at four tags.
+- **Edit tag and category lines structurally, never with `sed` or a pattern replace.**
+Front-matter values repeat across keys: `  - "travel"` once matched 41 lines, of which only 23 were under `tags:`.
+Parse the front matter, operate on the named key's block, and compare element counts before and after.
+- **Verify taxonomy work from a fresh build.**
+`/categories/index.html` carries an `aria-label="N posts"` badge per term, and `/tags/index.html` carries one `data-name="<tag>"` per cloud entry; a retired term should also vanish from the sitemap and the RSS feeds.
+
 ### Featured Images and Sharing Metadata
 
 Blog posts are standalone files, so a relative front matter `images:` filename refers to the post's content directory, not the domain root or the post's permalink directory.
@@ -106,6 +137,20 @@ Do not work around a metadata regression by converting posts into leaf bundles, 
 Verify the generated sharing metadata as well as the visible cover image: a correct on-page image does not prove that social previews have the correct URL.
 For local images, check that the emitted absolute metadata URL points to the published asset and retains any configured deployment subpath.
 See the theme's own guidance for the shared image-resolution and metadata implementation.
+
+### Cover images
+
+The house standard for generated covers is a 1890×800 JPEG (≈2.36:1) stored beside the post, so one asset serves the page hero, the OpenGraph tag, and the Twitter Card.
+Image models garble headlines, so the reliable pipeline is to generate the artwork without text, erase any stray glyphs, then composite the headline and subtitle with `magick` or PIL.
+Use Atkinson Hyperlegible Next ExtraBold for headlines and SemiBold for subtitles; the family is installed at `/usr/share/fonts/atkinson-hyperlegible-next-fonts/`, and ExtraBold is its heaviest weight, so there is no Black.
+Atkinson Hyperlegible Mono, at `/usr/share/fonts/atkinson-hyperlegible-mono-fonts/`, covers code and monospace details in the same artwork.
+Vertex-hosted image models are blocked by this organization's policy (`constraints/vertexai.allowedModels`), so use the OpenAI image provider.
+A future-dated post's cover still publishes while the page itself is withheld; that asymmetry is expected.
+
+**Credit the image provider, not the chat model.**
+A generated featured image carries a trailing italic credit line naming the API that produced the image, as in `_Featured image generated by LLM-gen-AI using the OpenAI image API._`
+The model that wrote the post did none of the drawing, and token spend is tracked per provider, so crediting the orchestrating model makes the cost unattributable.
+When the provider behind an image is not recorded, ask before guessing.
 
 ## AsciiDoc Parity (Non-Negotiable)
 
@@ -186,7 +231,11 @@ After a push, confirm the Pages run succeeded and that production is serving the
 `themes/toph/` is pinned to a specific commit, and that pointer is part of this repository's history.
 
 - Bump it in the **same commit** as the site changes that depend on it, so the two halves of a cross-repository change stay reviewable together.
-A theme bump landing alone, divorced from the content change that motivated it, reads as an unexplained version churn.
+A theme-only bump is still correct when the theme commit is self-contained — a fix, a refactor, or an archetype that no site file reacts to; a81f3e7 (print palette) and 683fdbb (blog archetypes) are the precedents.
+Do not pad such a commit with unrelated site work to satisfy the pairing rule.
+- Edits made inside `themes/toph/` are theme work: the superproject records only the commit pointer, so uncommitted theme edits never ride along with a site commit and must land in the theme repository first.
+- `.git/config` in this checkout has no `submodule.themes/toph` entry, so `git submodule status` prints a leading `-` before the current pin.
+The checkout is still valid and `git add themes/toph` records the pointer correctly; `git submodule init` registers it locally if the marker is unwanted.
 - The theme's `theme.toml` declares `min_version = "0.166.0"`.
 That is a support floor for downstream users and is deliberately lower than the pinned build version — do not raise it to match.
 
@@ -217,27 +266,29 @@ User executes these manually.
 Check `git status --porcelain` before staging to avoid capturing untracked in-progress drafts.
 Never run `git reset` without permission (user stages manually to track work).
 - **Commit Messages**: Format: `<gitmoji> <component>: <summary>`.
+The component may carry a parenthesized scope naming the sub-area, as in `content(tags):` or `themes(toph):`; this repo uses `blog:`, `content(<area>):`, `AGENTS:`, and `themes(toph):`.
 Body: Explain **WHY** (rationale, problem solved, alternatives considered), not WHAT or HOW (avoid diff narration).
 Three to six sentences typical.
 Follow the 50/72 rule: subject line ≤ 50 characters, body lines wrapped at ≤ 72 characters.
 Wrap body lines **greedily** — pack each line with as many words as fit without reaching 73 characters, rather than breaking early for balance.
 Wrap technical identifiers, file paths, layout names, and code entities in backticks (`` ` ``).
 Backticks must never be split across line breaks (must open and close on the same line).
+A commit hash stays **bare**, never in backticks: GitHub autolinks a hash only when it is plain text, so backticks silently suppress the link.
 - **Trailer**: `Assisted-by: <model name> (<context window>)`.
 Read the exact model from the current session environment before writing it.
 Never copy a model name from this file, from earlier in the conversation, or from a previous session — the user may switch models mid-session, and any literal written here will be wrong for most agents that read it.
 Do **not** cite Fedora policy in the commit message or documentation.
 - **Sign-off**: Suggest `git commit --signoff` (never write `Signed-off-by` in text).
-- **Drafting**: Draft commit messages to `/tmp/commit-<name>.txt` (unique filename, human-readable).
+- **Drafting**: Draft commit messages to `/tmp/agents/<harness>/commit-<name>.txt` (unique filename, human-readable).
+`/tmp` is periodically cleaned — server restarts wipe it — so if a message file disappears before it is used, rewrite it there.
 Present user command as a single unbroken line:
-`git add <path> && git commit --edit --file=/tmp/commit-<name>.txt --gpg-sign --signoff`
-`/tmp` is periodically cleaned — server restarts wipe it — so if a message file disappears before it is used, rewrite it.
-The harness-preferred location is `/tmp/opencode`.
+`git add <path> && git commit --edit --file=/tmp/agents/<harness>/commit-<name>.txt --gpg-sign --signoff`
+A line beginning with `#` is a comment to Git and is stripped, so confirm `grep -c '^#'` returns 0 before handing over.
 - **Worktrees**: Isolated worktrees suit parallel or agent-driven changes that must not touch the main checkout.
 A new worktree needs `git submodule update --init` before it can build.
 Move an uncommitted change back with a `git diff` patch applied in the main repo, then remove the worktree and its branch.
 - **Version Tags**: Tag messages use setext headings (underlined with `-`), never `##` (default `--cleanup=strip` removes `#`).
-Draft to `/tmp/tag-<repo>-<version>.txt`, check `grep -c '^#'` is 0, tag with `--cleanup=verbatim --sign`.
+Draft to `/tmp/agents/<harness>/tag-<repo>-<version>.txt`, check `grep -c '^#'` is 0, tag with `git tag --cleanup=verbatim --file=/tmp/agents/<harness>/tag-<repo>-<version>.txt --sign <version> <commit>`.
 Tag message files must end with a trailing newline: because `--cleanup=verbatim` does not normalize whitespace, a missing trailing newline causes Git to append the PGP signature block directly onto the last line of text, causing GPG verification to fail (`error: no signature found`).
 
 ## GitHub API Access (CRITICAL)
@@ -252,15 +303,15 @@ If unsure whether consent exists, it does not; stop and ask.
 Anything composed after approval — a header, disclaimer, footer, or title — is new unreviewed content requiring a fresh approval round.
 Never combine "make this change" and "send it" into one step.
 - **Execution Protocol**:
-1. Write payload to `/tmp/` (harness-preferred: `/tmp/opencode`).
+1. Write payload to `/tmp/agents/<harness>/` (see "Temporary files").
 2. Present payload/diff to user for review.
-3. Present copy-pasteable `gh` command (e.g., `gh issue comment <n> --body-file=/tmp/...`).
+3. Present copy-pasteable `gh` command (e.g., `gh issue comment <n> --body-file=/tmp/agents/<harness>/comment.txt`).
 4. The user runs it, or — for the delegated cases below — the agent runs it after consent.
 - **Issue-mutation delegation**: The user has granted the agent permission to execute **issue** mutations — comments, labels, assignments, milestones, and open/close/reopen state changes — after consenting to the reviewed payload.
 This does **not** extend to pull requests, reviews, releases, tags, branches, or repository settings; the user still runs those.
 It is scoped to `justwheel/jwheel.org`, so anything under `themes/toph/` follows the theme's stricter rule until that file is updated.
-- **AI Disclosure**: Disclose AI assistance on GitHub issues/PRs as `"LLM-gen-AI"`.
-Never name specific models or vendors in comments.
+- **AI Disclosure**: On GitHub surfaces — issues, pull requests, and comments — disclose AI assistance as `"LLM-gen-AI"` and never name a specific model or vendor.
+Site content is separate: a generated featured image credits the image API in the post body, as described under "Cover images".
 
 ## Writing Conventions
 
@@ -285,7 +336,10 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 
 ### Theme work
 
-- **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`) is live here via the submodule pin; toph#88 (localized recent-posts partial with language-aware archive link and RTL arrow flow); toph#82 (print stylesheet no longer leaks the dark-mode code color), landed in `85f45c2` and pinned here in `a81f3e7`.
+- **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`); toph#88 (localized recent-posts partial with language-aware archive link and RTL arrow flow); toph#82 (print stylesheet no longer leaks the dark-mode code color) in 85f45c2; and the blog archetype scaffold in 1ab9ae1, which gives both formats the same front matter.
+All are live here through the submodule pin at 683fdbb.
+- **Stale term-page example**: `themes/toph/layouts/_default/term.html` cites `/tags/history/` in its docstring, a path retired by the four-tag purge.
+It is a comment, not a rendered link, so it ships harmlessly; the replacement with a generic example is applied locally and still needs a theme commit plus submodule bump.
 - **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
@@ -305,9 +359,10 @@ Add `markup.highlight.style` only when a post actually needs lexed highlighting,
 - **#24 performance closed**: final measurements were 94 Performance / 2.85 s LCP locally (median of three runs) and 99 / 1.1 s on PageSpeed Insights, closing the issue as complete against its ≥ 90 and < 2.5 s targets.
 PSI and local best-case runs clear both targets, but local run-to-run variance still straddles 2.5 s.
 Remaining work is deferred to separate issues: consolidating the same-origin render-blocking CSS (`bootstrap.min.css`, `bootstrap-icons.min.css`, and `main.css`) via `resources.Concat`, the analytics-driven TBT cost, and GitHub Pages' fixed `max-age=600` cache lifetime.
-- **#25 title font resolved**: Jaro swapped in (`5513c96`), resolving the dark-theme drop-shadow ghosting defect.
-- **Landed**: October 2026 posts translated to Arabic with English `[[anchor]]` identifiers preserved (`211e208`), and `content/lyrics/m83-echoes-of-mine.adoc` migrated to AsciiDoc `[verse]` blocks (`d3cc132`) — `[verse]` is the correct block type for lyrics and poetry.
-- **Pending blog drafts**: `content/blog/2026/11/fedora-copr-intro.adoc` is untracked and pending completion.
+- **#25 title font resolved**: Jaro swapped in (5513c96), resolving the dark-theme drop-shadow ghosting defect.
+- **Landed**: October 2026 posts translated to Arabic with English `[[anchor]]` identifiers preserved (211e208), and `content/lyrics/m83-echoes-of-mine.adoc` migrated to AsciiDoc `[verse]` blocks (d3cc132) — `[verse]` is the correct block type for lyrics and poetry.
+- **Copr post scheduled**: `content/blog/2026/11/fedora-copr-intro.adoc` is committed with its `fedora-copr-intro.jpg` cover and dated 2026-11-10T08:00Z, so it appears on the first cron rebuild after that morning rather than on the next push.
+- **Taxonomy consolidated**: `travel` folded into its category with a `/tags/travel/` alias (eb79883), and `google`, `upstream`, `history`, and `javascript` retired (7ba4484), taking the tag cloud from 158 to 153 terms.
 - **#23 llms.txt**: theme output format plus a curation decision (recent-N vs. a `featured:` flag vs. a data file; whether non-English files emit).
 - **#3 closed as not planned**: the friend shout-outs archetype was closed on 2026-11-08; it does not fit the site's direction, and an ordinary post or a `footer` entry already covers the use case.
 
