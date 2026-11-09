@@ -1,0 +1,151 @@
+---
+title: "Copr, explained: the sandbox where Fedora packaging starts"
+date: 2026-11-10T08:00:00-00:00
+description: What Fedora Copr is, what it offers packagers and users, and why its sandbox-like design makes it a safe place to experiment with RPM packages.
+categories:
+  - fedora
+tags:
+  - "2020s"
+  - "ai-assisted"
+  - "development"
+  - "fedora-infrastructure"
+  - "fedora-packaging"
+  - "fedora-planet"
+  - "getting-started"
+  - "history"
+  - "infrastructure"
+  - "quality-assurance-qa"
+images: ["fedora-copr-intro.jpg"]
+---
+
+In 2017, I wanted a small tool to change my laptop's screen brightness.
+I found one that worked, but Fedora did not have an RPM package for it.
+So I set out to package it myself.
+*Fedora Copr* made that first attempt far less stressful.
+I wrote up that first package at the time: link:/blog/2017/11/first-rpm-package-fedora/[_How I created my first RPM package in Fedora_].
+Copr remains one of the most useful tools in the Fedora contribution ecosystem.
+
+This post is the introduction I wish I had read before I started.
+It explains what Copr is, why packagers and users rely on it, and why its sandbox-like design matters now.
+
+
+[[what]]
+== What Copr is
+
+Copr, short for Community Projects, is a build service.
+You give it a source RPM (SRPM), and it builds the package and hosts the results in a DNF or YUM repository.
+Copr runs on link:/tags/fedora-infrastructure[Fedora infrastructure].
+You can use the public instance at link:https://copr.fedorainfracloud.org[copr.fedorainfracloud.org].
+
+If you use Arch Linux, Copr is the closest parallel to the link:https://wiki.archlinux.org/title/Arch_User_Repository[Arch User Repository (AUR)].
+Both are community spaces where people share packages for others to use.
+The AUR shares build scripts, and you build the package on your own machine.
+Copr goes a step further.
+It builds the RPM for you and hosts the repository, so you enable it and install with DNF.
+
+You need a Fedora Account System (FAS) login to create a project.
+You do not need special approval.
+You can build for several Fedora releases, EPEL releases, and other targets in one step.
+One SRPM can produce packages for many releases and architectures.
+
+[[why]]
+=== Why packagers use Copr
+
+When I started, my biggest question was whether my package would build on the releases I cared about.
+Koji is Fedora's official build system, and I used scratch builds there to test.
+Copr solved a different problem.
+It let me host the package, install it on my own machine, and share a repository with others before I submitted anything for review.
+
+Koji scratch builds caught a Fedora 27 failure that I fixed before I submitted my package for review.
+Copr is not a replacement for that process.
+It is a place to test first.
+
+[[enablement]]
+=== Copr as an instant enablement path
+
+Recently, I used Copr to package something new I was working on.
+I packaged a set of Markdown files, each one an link:https://agentskills.io/specification[Agent Skill], from the link:https://forge.fedoraproject.org/ai-ml/skills-library[Fedora Agent Skills Library] into a single RPM.
+I published it in the link:https://copr.fedorainfracloud.org/coprs/g/ai-ml/agent-skills/[AI/ML SIG Copr project] and started sharing it for testing and use.
+
+My plan is to package `agent-skills` officially in Fedora.
+Copr made that first step possible because it gave me the fastest path to get an RPM into users' hands.
+Users got a semi-official channel to install the package now, and I got real feedback while the official process moves along.
+
+
+[[sandbox]]
+== Copr as a sandbox
+
+Copr works well as a sandbox.
+Several design choices make that true.
+
+* *Projects are separate*.
+  Packages in your Copr project do not enter Fedora's official repositories.
+  Your experiments stay in your own repository.
+* *Packaging rules are relaxed*.
+  Copr packages do not have to follow the Fedora Packaging Guidelines.
+  The guidelines are still recommended, but you can test ideas before you meet every rule.
+* *Projects can expire*.
+  You can set a project to delete itself after a number of days.
+  This suits short tests and one-off experiments.
+* *Old builds are removed*.
+  By default, Copr keeps one build per package and deletes the others after 14 days.
+  Projects on the newer Pulp backend keep the five most recent successful builds per package instead, so test projects do not grow forever.
+
+A sandbox does not mean anything goes.
+Copr is Free Software, and its repositories are signed.
+However, the Copr maintainers do not review every package.
+Before you install a package from a Copr project, check who maintains it.
+If you can, look at the SRPM and spec file.
+Projects distributed in Copr must also follow Fedora's license rules.
+
+
+[[innovation-lifecycle]]
+== Where Copr fits in the innovation discussion
+
+Fedora is discussing a link:https://discussion.fedoraproject.org/t/draft-council-proposal-for-the-fedora-innovation-lifecycle/190996[Council proposal for an Innovation Lifecycle].
+The proposal includes a "sandbox stage" for experimental work that is too large for a single change proposal.
+One of its stated goals is to isolate risk.
+Experiments should be able to break without affecting the main distribution or the people who depend on it.
+
+The proposal also notes that it does not yet define standard sandbox infrastructure.
+Copr is not part of that proposal.
+It already shows what a low-risk space for experiments can look like.
+Work stays separate from official releases, feedback comes quickly, and strong packages can follow a path into Fedora.
+I hope we keep that spirit as the larger discussion moves forward.
+
+[[packaging-fallback]]
+=== Packaging as a fallback
+
+Distribution methods will change over time.
+Right now, RPM packaging works well.
+It is tested, proven, and well understood by Fedora contributors and users.
+When we do not know how to share something new, RPM packaging is a path we can always fall back on.
+It provides versioning and a distribution mechanism for large varieties of software.
+Copr makes that RPM packaging fallback fast.
+
+
+[[getting-started]]
+== Getting started
+
+You need a FAS account, a project, and an SRPM or RPM spec.
+These commands create a project for Fedora Rawhide and submit a build:
+
+[source,bash]
+----
+copr-cli create --chroot fedora-rawhide-x86_64 my-first-project
+copr-cli build my-first-project ./my-package.spec
+----
+
+For more detail, read the link:https://docs.copr.fedorainfracloud.org/user_documentation.html[Copr user documentation].
+
+
+[[final-thoughts]]
+== Final thoughts
+
+Copr gave me a low-risk way to learn packaging, and it can do the same for you.
+If you have a package that is too early for Fedora, build it in Copr, share it, and learn from the results.
+Thank you to everyone who maintains Copr and helps packagers use it.
+
+'''
+
+_Featured image generated by LLM-gen-AI using DeepSeek V4.1 Flash_.
