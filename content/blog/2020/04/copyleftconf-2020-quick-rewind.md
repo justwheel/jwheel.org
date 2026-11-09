@@ -22,7 +22,6 @@ tags:
   - "politics"
   - "reflections"
   - "rit-foss"
-  - "travel"
   - "what-its-all-about"
 images: ["/blog/2020/04/copyleftconf-2020-1.png"]
 ---

@@ -19,7 +19,6 @@ tags:
   - "rit-foss"
   - "rochester-institute-of-technology"
   - "sustain-oss"
-  - "travel"
   - "working-together"
 images: ["/blog/2020/02/sustain-oss-2020.png"]
 ---

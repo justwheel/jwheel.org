@@ -16,7 +16,6 @@ tags:
   - "fosdem"
   - "librecorps"
   - "llm-gen-ai"
-  - "travel"
 images: ["/content/fosdem-2020.png"]
 ---
 

@@ -23,7 +23,6 @@ tags:
   - "open-source-communities"
   - "rit-foss"
   - "rochester-institute-of-technology"
-  - "travel"
 images: ["/blog/2020/02/chaosscon-eu-2020.png"]
 ---
 

@@ -15,7 +15,6 @@ tags:
   - "rit-foss"
   - "rit-linux-users-group-ritlug"
   - "rochester-institute-of-technology"
-  - "travel"
   - "university"
   - "us-new-york"
 ---

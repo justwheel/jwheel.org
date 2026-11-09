@@ -4,6 +4,7 @@ date: 2021-03-14
 description: "Four years ago, on March 13th in 2017, I woke up for breakfast in the city of Sarajevo in Bosnia & Herzegovina. As I ate breakfast on the morning of March 14th of 2021 in the seemingly eternal era of COVID-19, it struck me."
 categories: 
   - "desk-drawer"
+  - "travel"
 tags:
   - "2010s"
   - "2020s"
@@ -11,7 +12,6 @@ tags:
   - "balkans"
   - "europe"
   - "reflections"
-  - "travel"
 ---
 
 Four years ago, on March 13th in 2017, I woke up for breakfast in the city of [Sarajevo](https://en.wikipedia.org/wiki/Sarajevo) in [Bosnia & Herzegovina](https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina). As I ate breakfast on the morning of March 14th of 2021 in the seemingly eternal era of COVID-19, it struck me.

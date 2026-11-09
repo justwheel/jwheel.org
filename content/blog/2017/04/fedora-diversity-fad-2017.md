@@ -18,7 +18,6 @@ tags:
   - "fedora-dei"
   - "fedora-planet"
   - "open-source-communities"
-  - "travel"
 images: ["/blog/2017/04/fedora-diversity-fad-2017.png"]
 ---
 

@@ -16,7 +16,6 @@ tags:
   - "open-labs-albania"
   - "sustainability"
   - "teaching-open-source"
-  - "travel"
   - "united-nations"
 images: ["/content/BIZ_HighTrust_1110_A.png"]
 ---

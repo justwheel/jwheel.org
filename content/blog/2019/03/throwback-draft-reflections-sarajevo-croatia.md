@@ -12,7 +12,6 @@ tags:
   - "europe"
   - "history"
   - "throwback-drafts"
-  - "travel"
   - "what-its-all-about"
   - "writing"
 ---

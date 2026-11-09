@@ -15,7 +15,6 @@ tags:
   - "getting-started"
   - "privilege"
   - "summer-activities"
-  - "travel"
 images: ["/blog/2021/08/pershendetje-tirane.jpg"]
 ---
 

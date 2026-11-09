@@ -6,7 +6,7 @@ description: "Event reports and reflections from a semester of Free and Open Sou
 Between February and June 2020, I published a run of link:/tags/conferences/[conference] reports from a semester of travel across link:/tags/europe/[Europe].
 The sequence began in January 2020 with link:/tags/devconf/[DevConf CZ] in Brno, January 24–27.
 From there I moved to Brussels for link:/tags/sustain-oss/[Sustain OSS] on January 30, link:/tags/chaosscon/[CHAOSScon EU] on January 31, link:/tags/fosdem/[FOSDEM] on February 1–2, and CopyleftConf on February 3.
-It was a compressed stretch of link:/tags/travel/[travel] that ended only weeks before the pandemic shut everything down.
+It was a compressed stretch of link:/categories/travel/[travel] that ended only weeks before the pandemic shut everything down.
 
 I attended and wrote most of these reports on behalf of the link:/tags/librecorps/[RIT LibreCorps] program of the link:/tags/rit-foss/[FOSS@MAGIC initiative], which partially sponsored the work.
 They were also the fieldwork for an link:/tags/independent-study/[independent study] in my final semester at the link:/tags/rochester-institute-of-technology/[Rochester Institute of Technology], completed for the Free and Open Source Software and Free Culture minor.

@@ -11,7 +11,6 @@ tags:
   - "minecon"
   - "minecraft"
   - "spigotmc"
-  - "travel"
   - "us-california"
 images: ["/blog/2016/11/spigotmc-california-minecon.jpg"]
 ---

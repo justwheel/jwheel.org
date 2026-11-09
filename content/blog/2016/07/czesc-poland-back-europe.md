@@ -5,6 +5,7 @@ description: "In August 2016, I will travel to Kraków, Poland for the annual Fe
 categories: 
   - "fedora"
   - "foss"
+  - "travel"
 tags:
   - "2010s"
   - "fedora-ambassadors"
@@ -13,7 +14,6 @@ tags:
   - "flock"
   - "flock-2016"
   - "poland"
-  - "travel"
 images: ["/blog/2016/07/poland-flock-2016.png"]
 ---
 

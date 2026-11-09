@@ -19,7 +19,6 @@ tags:
   - "linux-weekend"
   - "open-labs-albania"
   - "teaching-open-source"
-  - "travel"
 images: ["/blog/2017/04/ARP6625.jpg"]
 ---
 

@@ -19,7 +19,6 @@ tags:
   - "politics"
   - "rit-foss"
   - "rochester-institute-of-technology"
-  - "travel"
 images: ["/content/fosdem-2020.png"]
 ---
 

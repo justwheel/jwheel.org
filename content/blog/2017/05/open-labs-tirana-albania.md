@@ -16,7 +16,6 @@ tags:
   - "open-source-communities"
   - "oscal"
   - "teaching-open-source"
-  - "travel"
 ---
 
 The past few months have brought many changes for me. I traveled throughout Europe to experience some of the open source conferences and communities across the continent. Along the way, I met incredible people with powerful stories about their own communities. However, there is one community that I knew about before I came to Europe. The [Open Labs Hackerspace](https://openlabs.cc/en/) in Tirana, Albania is a special community that I was fortunate enough to discover and meet. Together, they have helped set in motion the open source way in their own city.

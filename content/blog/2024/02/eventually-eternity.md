@@ -4,10 +4,10 @@ date: 2024-02-27
 description: 'A poem to describe love from a constantly suspended state of waiting and wonder. "And the stolen moment, promises eventually for eternity."'
 categories: 
   - "poems"
+  - "travel"
 tags:
   - "2020s"
   - "reflections"
-  - "travel"
 images: ["/blog/2024/02/eventually-for-eternity.jpg"]
 ---
 

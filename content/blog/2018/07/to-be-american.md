@@ -4,6 +4,7 @@ date: 2018-07-28
 description: "What parts of our culture make us proud and content or disappointed and shameful? I started to wonder about my identity and what it means to be an American."
 categories: 
   - "perspective"
+  - "travel"
 tags:
   - "2010s"
   - "community"
@@ -13,7 +14,6 @@ tags:
   - "international"
   - "politics"
   - "reflections"
-  - "travel"
   - "us-illinois"
   - "what-its-all-about"
 ---

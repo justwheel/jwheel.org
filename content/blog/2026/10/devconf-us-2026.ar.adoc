@@ -6,6 +6,7 @@ categories:
     - fedora
     - foss
     - red-hat
+    - travel
 tags:
   - "2020s"
   - "ai-assisted"
@@ -19,7 +20,6 @@ tags:
   - "open-source-communities"
   - "outreach"
   - "retrospective"
-  - "travel"
   - "united-states"
   - "university"
   - "us-massachusetts"

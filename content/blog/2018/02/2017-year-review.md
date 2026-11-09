@@ -41,7 +41,6 @@ tags:
   - "oscal"
   - "social-media"
   - "study-abroad"
-  - "travel"
   - "unicef"
   - "united-nations"
   - "us-illinois"

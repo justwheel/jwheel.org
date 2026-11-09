@@ -11,7 +11,6 @@ tags:
   - "dei"
   - "fedora-planet"
   - "ireland"
-  - "travel"
   - "what-its-all-about"
   - "wikipedia"
   - "writing"
