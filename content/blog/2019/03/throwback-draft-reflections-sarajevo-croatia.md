@@ -10,7 +10,6 @@ tags:
   - "bosnia-herzegovina"
   - "croatia"
   - "europe"
-  - "history"
   - "throwback-drafts"
   - "what-its-all-about"
   - "writing"

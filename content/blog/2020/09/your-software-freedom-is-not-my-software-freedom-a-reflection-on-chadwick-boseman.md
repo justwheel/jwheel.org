@@ -14,7 +14,6 @@ tags:
   - "dei"
   - "digital-era"
   - "ethics"
-  - "history"
   - "international"
   - "life-lessons"
   - "opinion"

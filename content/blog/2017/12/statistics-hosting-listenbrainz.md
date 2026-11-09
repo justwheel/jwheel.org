@@ -11,7 +11,6 @@ tags:
   - "data"
   - "fedora-planet"
   - "getting-started"
-  - "google"
   - "independent-study"
   - "musicbrainz"
   - "reflections"

@@ -14,7 +14,6 @@ tags:
   - "ethics"
   - "fedora-planet"
   - "fosdem"
-  - "history"
   - "life-lessons"
   - "llm-gen-ai"
   - "open-source-licenses"

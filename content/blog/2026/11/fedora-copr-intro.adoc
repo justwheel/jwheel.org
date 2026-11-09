@@ -12,7 +12,6 @@ tags:
   - "fedora-packaging"
   - "fedora-planet"
   - "getting-started"
-  - "history"
   - "infrastructure"
   - "quality-assurance-qa"
 images: ["fedora-copr-intro.jpg"]

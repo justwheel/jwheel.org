@@ -14,7 +14,6 @@ tags:
   - "ethics"
   - "fedora-planet"
   - "friends"
-  - "history"
   - "life-lessons"
   - "open-source-communities"
   - "open-source-licenses"

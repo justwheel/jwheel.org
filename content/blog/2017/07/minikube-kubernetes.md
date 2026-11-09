@@ -9,7 +9,6 @@ tags:
   - "containers"
   - "fedora-planet"
   - "getting-started"
-  - "google"
   - "high-performance-computing-hpc"
   - "infrastructure"
   - "kubernetes"

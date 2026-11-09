@@ -10,7 +10,6 @@ tags:
   - "fedora-badges"
   - "fedora-planet"
   - "gotta-badge-em-all"
-  - "upstream"
 ---
 
 ## Telegraphist: What is it?

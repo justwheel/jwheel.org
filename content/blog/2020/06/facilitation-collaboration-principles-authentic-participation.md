@@ -12,13 +12,11 @@ tags:
   - "communication"
   - "conferences"
   - "fedora-planet"
-  - "history"
   - "open-source-communities"
   - "retrospective"
   - "sustain-oss"
   - "sustainability"
   - "things-you-should-know-understand"
-  - "upstream"
   - "working-together"
 images: ["/content/BIZ_HighTrust_1110_A.png"]
 ---

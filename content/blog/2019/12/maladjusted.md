@@ -10,7 +10,6 @@ tags:
   - "becoming-the-better-ally"
   - "dei"
   - "government"
-  - "history"
   - "humanitarian"
   - "life-lessons"
   - "politics"

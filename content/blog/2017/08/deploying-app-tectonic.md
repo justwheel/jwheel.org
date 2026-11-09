@@ -8,7 +8,6 @@ tags:
   - "2010s"
   - "containers"
   - "fedora-planet"
-  - "google"
   - "high-performance-computing-hpc"
   - "infrastructure"
   - "kubernetes"

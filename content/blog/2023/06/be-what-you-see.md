@@ -9,7 +9,6 @@ tags:
   - "activism"
   - "becoming-the-better-ally"
   - "dei"
-  - "history"
   - "life-lessons"
   - "opinion"
   - "privilege"

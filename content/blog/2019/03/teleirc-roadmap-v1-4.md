@@ -10,7 +10,6 @@ tags:
   - "development"
   - "fedora-planet"
   - "irc"
-  - "javascript"
   - "messaging"
   - "open-source-communities"
   - "rit-foss"
@@ -18,7 +17,6 @@ tags:
   - "rochester-institute-of-technology"
   - "telegram"
   - "teleirc"
-  - "upstream"
 images: ["/content/teleirc-development-update.jpg"]
 ---
 

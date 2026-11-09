@@ -9,7 +9,6 @@ tags:
   - "2020s"
   - "copyright"
   - "gaming"
-  - "history"
   - "independent-study"
   - "minecraft"
   - "open-source-communities"

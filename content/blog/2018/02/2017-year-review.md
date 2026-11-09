@@ -29,7 +29,6 @@ tags:
   - "fosdem"
   - "hackathons"
   - "happiness-packets"
-  - "history"
   - "independent-study"
   - "india"
   - "international"

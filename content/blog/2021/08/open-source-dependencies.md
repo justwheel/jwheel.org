@@ -12,7 +12,6 @@ tags:
   - "fedora-infrastructure"
   - "fedora-planet"
   - "hfoss"
-  - "history"
   - "open-source-communities"
   - "open-source-licenses"
   - "politics"

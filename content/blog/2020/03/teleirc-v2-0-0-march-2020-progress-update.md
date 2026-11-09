@@ -18,7 +18,6 @@ tags:
   - "rochester-institute-of-technology"
   - "telegram"
   - "teleirc"
-  - "upstream"
   - "working-together"
 images: ["/content/teleirc-development-update.jpg"]
 ---

@@ -12,7 +12,6 @@ tags:
   - "containers"
   - "data"
   - "fedora-planet"
-  - "google"
   - "independent-study"
   - "linux"
   - "metrics"

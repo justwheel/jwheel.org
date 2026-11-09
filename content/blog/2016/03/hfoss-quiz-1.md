@@ -9,7 +9,6 @@ tags:
   - "2010s"
   - "fedora-planet"
   - "hfoss"
-  - "history"
   - "rochester-institute-of-technology"
 ---
 
