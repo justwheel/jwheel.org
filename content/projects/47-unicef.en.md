@@ -1,7 +1,7 @@
 ---
 title: UNICEF
 date: 2022-09-20
-description: "First Open Source Technical Advisor at the UNICEF Office of Innovation, helping Venture Fund startups launch Open Source products."
+description: "First Open Source Technical Advisor at the UNICEF Office of Innovation from June 2020 to September 2022, helping Venture Fund startups launch Open Source products."
 slug: unicef
 hide_sitemap: true
 categories: ["projects"]

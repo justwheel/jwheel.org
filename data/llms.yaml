@@ -1,21 +1,15 @@
 # Machine-readable index (/llms.txt) and native source publishing.
 #
-# This feature is entirely opt-in. Toph ships no working default: when this
-# file is absent, or `enabled` is not the YAML boolean `true`, the build emits
-# no index, no source files, and no <link> relations. Deleting this file
-# reverts the site to a plain Hugo build.
-#
-# Schema and behaviour: themes/toph/README.md, "Machine-readable index and
-# source files". The opt-in flag, the index language, the source prefix, and the
-# source language list are checked at build time.
+# Opt-in only: with this file absent, or `enabled` not the YAML boolean true,
+# the build emits no index, no source files, and no <link> relations. Schema:
+# themes/toph/README.md, "Machine-readable index and source files". Curation
+# policy and rationale: AGENTS.md, "Machine-readable index and source
+# publishing".
 
 enabled: true
 
-# The human-facing index. Only one language is indexed, because a translated
-# index multiplies maintenance for very little gain; the source files
-# themselves are still published for every language.
+# One indexed language; sources are still published for every language.
 index:
-  enabled: true
   language: en
   title: Justin Wheeler
   summary: Building the human infrastructure of open source.
@@ -26,30 +20,17 @@ index:
     a reconstruction of the rendered page. Each entry also links to the
     rendered page, which is the better citation target.
 
-# Unmodified copies of every published Markdown and AsciiDoc file. `prefix`
-# is the path they publish under, so changing it moves every source URL and
-# the checker needs the matching `--source-prefix`.
+# Native source copies. `prefix` sets their URL path, so the checker is invoked
+# with the matching `--source-prefix`.
 sources:
-  enabled: true
   prefix: src
-  languages: all
-  # Pages whose rendered HTML stays public but whose source file is not
-  # published, and which therefore advertise no `<link rel="alternate">`.
-  # The rendered page is still the citation target; only verbatim reuse of the
-  # file is withheld.
+  # HTML stays public; only the exported file and its <link> are withheld.
   exclude_pages:
-    # Third-party lyrics: the page transcribes someone else's song, so the
-    # repository copy is not offered for machine ingestion.
     - lyrics/m83-echoes-of-mine
-    # The Desk Drawer term page alone. Its posts are ordinary published
-    # writing and keep their sources; only the category introduction is
-    # withheld. There is no category-level switch, so excluding the whole
-    # category would mean listing all twelve posts here by path.
+    # Term page only; its posts keep their sources.
     - categories/desk-drawer
 
-# Ordered index sections. `pages` keeps the order written here; `section` is
-# sorted newest first. `featured` is an ordered list of page paths that always
-# lead its section.
+# `pages` keeps the order written here; `section` is newest first.
 sections:
   - title: Pages
     pages:
@@ -63,9 +44,7 @@ sections:
 
   - title: Writing
     section: blog
-    # Ordered by Search Console evidence rather than by recency or by what the
-    # site would like to be known for: these are the posts people actually
-    # search for. Below these, newest first.
+    # Search Console evidence, not recency: these are what people search for.
     featured:
       - /blog/2020/04/open-source-minecraft-bukkit-gpl
       - /blog/2020/10/cryptographic-autonomy-license-cal-1-0
@@ -73,13 +52,10 @@ sections:
       - /blog/2019/08/hpc-workloads-containers
       - /blog/2016/10/set-up-github-organizations-clubs
       - /blog/2017/11/first-rpm-package-fedora
-    # Six featured plus the twenty newest, so featuring older work does not
-    # evict the current posts that were already indexed.
+    # Six featured plus the twenty newest.
     limit: 26
 
-  # Explicit term pages, in the order the generated topic listing used to
-  # produce them. The taxonomy selector is retired: it pulled in structural
-  # sections and could not be curated.
+  # Explicit term pages, in the order written.
   - title: Topics
     pages:
       - /categories/foss
@@ -95,6 +71,7 @@ sections:
       - /categories/music
       - /categories/poems
 
+# Footer links that are not index entries.
 optional:
   - title: Full blog archive
     url: /blog/

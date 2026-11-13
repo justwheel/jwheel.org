@@ -111,8 +111,7 @@ Both halves are described in `themes/toph/README.md`, "Machine-readable index an
   Sources keep their front matter and shortcodes, which is the point: the index points at the repository's own text rather than a conversion of it, so AsciiDoc stays AsciiDoc.
 - **Curation is data, not front matter.** `sections` in `data/llms.yaml` decides what the index lists; `featured` is an ordered list of page paths that lead the Writing section, filled out by the newest posts to `limit`.
   No archetype field exists for this and none should be added — a per-post flag would put index policy into every post file instead of one.
-- **Topics is an explicit page list, not taxonomy discovery.** The theme's automatic `taxonomy` selector was retired because it pulled in structural sections and could not be curated.
-  Topics enumerates the twelve term pages in `data/llms.yaml` in the order the old generated listing produced them; add or reorder a topic there rather than relying on post counts.
+- **Topics is an explicit page list.** The theme has no taxonomy selector, so Topics enumerates the twelve term pages in `data/llms.yaml` in the order written; add or reorder a topic there.
   `/categories/tweets/` has no `_index` file, so it appears as an HTML-only entry; that is expected, not a reason to create a term page.
 - **Add a post to the index only through `featured`.** Recent posts already appear automatically; featuring something is the only manual act.
 - **`featured` follows search evidence, not narrative.** The posts that lead Writing were picked from Search Console performance — impressions and clicks — rather than from what is newest or most on-message, because the index exists to be cited for questions people actually ask.
@@ -121,7 +120,7 @@ Both halves are described in `themes/toph/README.md`, "Machine-readable index an
   The rendered HTML stays public and stays citable; only the byte-for-byte copy, its `/src/` path, and the page's `<link rel="alternate">` go away.
   An excluded page that the index still selects degrades to an HTML-only entry, so the Desk Drawer term page carries no source link in `/llms.txt` while its posts do.
   There is no category-level switch: the theme matches exact page paths and section names, so excluding a whole category means listing every post in it.
-- **`sources.languages: all`** is intentional: the index is English-only, but translated posts still publish their own `.adoc`/`.md` under their own language prefix.
+- **Every language publishes its own sources.** `sources.languages` is omitted so the theme's all-languages default applies: the index is English-only, but translated posts still publish their own `.adoc`/`.md` under their own language prefix.
 - **Never edit `public/`.** Source copies are `os.ReadFile` output; a hand edit there is overwritten on the next build and will fail the CI byte-fidelity check if it is not.
 - **`static/robots.txt` is separate from this feature.** Hugo does not generate it (`enableRobotsTXT: false`), so the theme's opt-in flag cannot change crawler policy by accident.
 - **Verify before pushing.** Run the checker against a throwaway production build when changing `data/llms.yaml`:
