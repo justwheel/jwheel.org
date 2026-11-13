@@ -98,8 +98,34 @@ Do not "fix" a `/pages/...` reference by moving the file into `static/`; that by
 ### Build artifacts
 
 - `public/` is the rendered site and `resources/_gen/` is the Hugo resource cache; both are gitignored and must never be edited by hand.
-- `data/` at the site root is empty.
+- `data/llms.yaml` is the only site-level data file: it opts in to the theme's `/llms.txt` and source publishing (see "Machine-readable index and source publishing").
 Theme tokens live in `themes/toph/data/` (`style.yaml`, `social.yaml`), and a site-level `data/style.yaml` is only ever an override for a defect the theme has not fixed.
+
+### Machine-readable index and source publishing
+
+The theme owns the mechanism (`themes/toph/layouts/partials/llms/`); this repository owns only curation, in `data/llms.yaml`.
+Both halves are described in `themes/toph/README.md`, "Machine-readable index and source files"; this section records the site-specific decisions.
+
+- **What is published.** `/llms.txt`, plus a byte-identical copy of every published page's `.md` or `.adoc` source at `/src/<language>/<content-relative-path>`, minus the paths named in `sources.exclude_pages`.
+  The `src` prefix is a site choice made in `data/llms.yaml`; it moves every source URL, so the checker is invoked with the matching `--source-prefix src`.
+  Sources keep their front matter and shortcodes, which is the point: the index points at the repository's own text rather than a conversion of it, so AsciiDoc stays AsciiDoc.
+- **Curation is data, not front matter.** `sections` in `data/llms.yaml` decides what the index lists; `featured` is an ordered list of page paths that lead the Writing section, filled out by the newest posts to `limit`.
+  No archetype field exists for this and none should be added — a per-post flag would put index policy into every post file instead of one.
+- **Topics is an explicit page list.** The theme has no taxonomy selector, so Topics enumerates the twelve term pages in `data/llms.yaml` in the order written; add or reorder a topic there.
+  `/categories/tweets/` has no `_index` file, so it appears as an HTML-only entry; that is expected, not a reason to create a term page.
+- **Add a post to the index only through `featured`.** Recent posts already appear automatically; featuring something is the only manual act.
+- **`featured` follows search evidence, not narrative.** The posts that lead Writing were picked from Search Console performance — impressions and clicks — rather than from what is newest or most on-message, because the index exists to be cited for questions people actually ask.
+  `/lyrics/m83/echoes-of-mine/` is the site's best-performing page and is deliberately absent: it sits outside `blog`, so `llms/select.html` would fail the build, and it transcribes someone else's song, so it is not something to invite a model to ingest.
+- **`sources.exclude_pages` withholds a file without unpublishing the page.** Two paths are listed there: the third-party lyrics transcription, and the Desk Drawer term page, whose introduction is withheld while the twelve essays behind it keep their sources.
+  The rendered HTML stays public and stays citable; only the byte-for-byte copy, its `/src/` path, and the page's `<link rel="alternate">` go away.
+  An excluded page that the index still selects degrades to an HTML-only entry, so the Desk Drawer term page carries no source link in `/llms.txt` while its posts do.
+  There is no category-level switch: the theme matches exact page paths and section names, so excluding a whole category means listing every post in it.
+- **Every language publishes its own sources.** `sources.languages` is omitted so the theme's all-languages default applies: the index is English-only, but translated posts still publish their own `.adoc`/`.md` under their own language prefix.
+- **Never edit `public/`.** Source copies are `os.ReadFile` output; a hand edit there is overwritten on the next build and will fail the CI byte-fidelity check if it is not.
+- **`static/robots.txt` is separate from this feature.** Hugo does not generate it (`enableRobotsTXT: false`), so the theme's opt-in flag cannot change crawler policy by accident.
+- **Verify before pushing.** Run the checker against a throwaway production build when changing `data/llms.yaml`:
+  `python3 themes/toph/.github/scripts/check_llms.py --public /tmp/agents/opencode/site-check --content content --base-url https://jwheel.org/ --source-prefix src --expect enabled --expect-sources enabled`
+  The CI step uses the same flags against `public/`; `--expect enabled` matters because `auto` would accept a build that lost the index as an intentional opt-out.
 
 ### Durable Content Rules (NEVER BREAK)
 
@@ -363,7 +389,8 @@ Remaining work is deferred to separate issues: consolidating the same-origin ren
 - **Landed**: October 2026 posts translated to Arabic with English `[[anchor]]` identifiers preserved (211e208), and `content/lyrics/m83-echoes-of-mine.adoc` migrated to AsciiDoc `[verse]` blocks (d3cc132) — `[verse]` is the correct block type for lyrics and poetry.
 - **Copr post scheduled**: `content/blog/2026/11/fedora-copr-intro.adoc` is committed with its `fedora-copr-intro.jpg` cover and dated 2026-11-10T08:00Z, so it appears on the first cron rebuild after that morning rather than on the next push.
 - **Taxonomy consolidated**: `travel` folded into its category with a `/tags/travel/` alias (eb79883), and `google`, `upstream`, `history`, and `javascript` retired (7ba4484), taking the tag cloud from 158 to 153 terms.
-- **#23 llms.txt**: theme output format plus a curation decision (recent-N vs. a `featured:` flag vs. a data file; whether non-English files emit).
+- **#23 llms.txt landed**: `/llms.txt` plus native `.md`/`.adoc` source copies, driven entirely by `data/llms.yaml`; see "Machine-readable index and source publishing".
+The `featured:` question was settled in favour of a data-file list, and non-English *indexes* were dropped while non-English *sources* still publish.
 - **#3 closed as not planned**: the friend shout-outs archetype was closed on 2026-11-08; it does not fit the site's direction, and an ordinary post or a `footer` entry already covers the use case.
 
 ### Session-verified gotchas

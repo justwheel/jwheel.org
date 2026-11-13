@@ -181,9 +181,13 @@ languages:
   ar:
     direction: rtl
     label: عربي
+    weight: 2
   en:
     label: English
+    weight: 1
   es:
     label: español
+    weight: 3
   hi:
     label: हिन्दी
+    weight: 4

@@ -1,5 +1,6 @@
 ---
 title: Desk Drawer
+description: "Personal writings, reflections, and creative works that I choose to share publicly, collected in one category."
 hide_sitemap: true
 ---
 

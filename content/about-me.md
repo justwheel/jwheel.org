@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: "Free Software activist and Open Source maintainer working on the human health and well-being of the communities around the code."
 images: ["/pages/about-me-profile.jpg"]
 ---
 

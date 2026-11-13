@@ -1,7 +1,7 @@
 ---
 title: One Day
 date: 2026-04-07T08:00:00-00:00
-description:
+description: "How I migrated this blog from WordPress to Hugo with my own theme, keeping every post, image, and URL from a decade of writing."
 categories:
   - perspective
 tags:

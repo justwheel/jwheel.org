@@ -1,6 +1,7 @@
 ---
 title: "Open@RIT"
 date: 2020-09-09
+description: "Member of the Open@RIT Advisory Board since September 2020, the Open Source Programs Office of the Rochester Institute of Technology."
 slug: open-rit
 icon: /pages/projects/rit.png
 hide_sitemap: true
