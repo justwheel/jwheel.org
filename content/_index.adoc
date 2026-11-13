@@ -1,5 +1,6 @@
 ---
 layout: biography
+description: "Justin Wheeler is a Free Software activist and open source advocate working on community leadership and digital infrastructure at Red Hat."
 ---
 Justin Wheeler is a Free Software activist and open source advocate focused on community leadership and digital infrastructure.
 As the Fedora Community Architect at Red Hat, he designs and maintains the core support structures that enable a global community of contributors to thrive.

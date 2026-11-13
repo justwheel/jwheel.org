@@ -1,0 +1,104 @@
+# Machine-readable index (/llms.txt) and native source publishing.
+#
+# This feature is entirely opt-in. Toph ships no working default: when this
+# file is absent, or `enabled` is not the YAML boolean `true`, the build emits
+# no index, no source files, and no <link> relations. Deleting this file
+# reverts the site to a plain Hugo build.
+#
+# Schema and behaviour: themes/toph/README.md, "Machine-readable index and
+# source files". The opt-in flag, the index language, the source prefix, and the
+# source language list are checked at build time.
+
+enabled: true
+
+# The human-facing index. Only one language is indexed, because a translated
+# index multiplies maintenance for very little gain; the source files
+# themselves are still published for every language.
+index:
+  enabled: true
+  language: en
+  title: Justin Wheeler
+  summary: Building the human infrastructure of open source.
+  intro: |
+    This index links to the original source file for each page, published
+    verbatim from the site repository. Those files keep their Hugo front
+    matter, comments, and shortcodes, so they are the author's text rather than
+    a reconstruction of the rendered page. Each entry also links to the
+    rendered page, which is the better citation target.
+
+# Unmodified copies of every published Markdown and AsciiDoc file. `prefix`
+# is the path they publish under, so changing it moves every source URL and
+# the checker needs the matching `--source-prefix`.
+sources:
+  enabled: true
+  prefix: src
+  languages: all
+  # Pages whose rendered HTML stays public but whose source file is not
+  # published, and which therefore advertise no `<link rel="alternate">`.
+  # The rendered page is still the citation target; only verbatim reuse of the
+  # file is withheld.
+  exclude_pages:
+    # Third-party lyrics: the page transcribes someone else's song, so the
+    # repository copy is not offered for machine ingestion.
+    - lyrics/m83-echoes-of-mine
+    # The Desk Drawer term page alone. Its posts are ordinary published
+    # writing and keep their sources; only the category introduction is
+    # withheld. There is no category-level switch, so excluding the whole
+    # category would mean listing all twelve posts here by path.
+    - categories/desk-drawer
+
+# Ordered index sections. `pages` keeps the order written here; `section` is
+# sorted newest first. `featured` is an ordered list of page paths that always
+# lead its section.
+sections:
+  - title: Pages
+    pages:
+      - /
+      - /about-me
+      - /legal
+      - /federation
+
+  - title: Projects
+    section: projects
+
+  - title: Writing
+    section: blog
+    # Ordered by Search Console evidence rather than by recency or by what the
+    # site would like to be known for: these are the posts people actually
+    # search for. Below these, newest first.
+    featured:
+      - /blog/2020/04/open-source-minecraft-bukkit-gpl
+      - /blog/2020/10/cryptographic-autonomy-license-cal-1-0
+      - /blog/2020/04/how-did-free-software-build-a-social-movement
+      - /blog/2019/08/hpc-workloads-containers
+      - /blog/2016/10/set-up-github-organizations-clubs
+      - /blog/2017/11/first-rpm-package-fedora
+    # Six featured plus the twenty newest, so featuring older work does not
+    # evict the current posts that were already indexed.
+    limit: 26
+
+  # Explicit term pages, in the order the generated topic listing used to
+  # produce them. The taxonomy selector is retired: it pulled in structural
+  # sections and could not be curated.
+  - title: Topics
+    pages:
+      - /categories/foss
+      - /categories/fedora
+      - /categories/tech
+      - /categories/perspective
+      - /categories/education
+      - /categories/travel
+      - /categories/tweets
+      - /categories/desk-drawer
+      - /categories/red-hat
+      - /categories/metabrainz
+      - /categories/music
+      - /categories/poems
+
+optional:
+  - title: Full blog archive
+    url: /blog/
+  - title: Sitemap
+    url: sitemap.xml
+  - title: Blog RSS feed
+    url: rss/blog/index.xml
