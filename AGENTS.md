@@ -113,8 +113,9 @@ Both halves are described in `themes/toph/README.md`, "Machine-readable index an
   Sources keep their front matter and shortcodes, which is the point: the index points at the repository's own text rather than a conversion of it, so AsciiDoc stays AsciiDoc.
 - **Curation is data, not front matter.** `sections` in `data/llms.yaml` decides what the index lists; `featured` is an ordered list of page paths that lead the Writing section, filled out by the newest posts to `limit`.
   No archetype field exists for this and none should be added — a per-post flag would put index policy into every post file instead of one.
-- **Topics is an explicit page list.** The theme has no taxonomy selector, so Topics enumerates the twelve term pages in `data/llms.yaml` in the order written; add or reorder a topic there.
-  `/categories/tweets/` has no `_index` file, so it appears as an HTML-only entry; that is expected, not a reason to create a term page.
+- **Topics is an explicit page list.** The theme has no taxonomy selector, so Topics enumerates the thirteen category pages in `data/llms.yaml` in the order written; add or reorder a topic there.
+  Twelve of them have term pages; `/categories/tweets/` has no `_index` file, so it appears as an HTML-only entry, which is expected and not a reason to create one.
+  A new category is not indexed until its path is added there, because the list is written by hand rather than derived from the taxonomy.
 - **Add a post to the index only through `featured`.** Recent posts already appear automatically; featuring something is the only manual act.
 - **`featured` follows search evidence, not narrative.** The posts that lead Writing were picked from Search Console performance — impressions and clicks — rather than from what is newest or most on-message, because the index exists to be cited for questions people actually ask.
   `/lyrics/m83/echoes-of-mine/` is the site's best-performing page and is deliberately absent: it sits outside `blog`, so `llms/select.html` would fail the build, and it transcribes someone else's song, so it is not something to invite a model to ingest.
