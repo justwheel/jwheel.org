@@ -156,7 +156,7 @@ A purge needs no redirect: `google`, `upstream`, `history`, and `javascript` wer
 Front-matter values repeat across keys: `  - "travel"` once matched 41 lines, of which only 23 were under `tags:`.
 Parse the front matter, operate on the named key's block, and compare element counts before and after.
 - **Verify taxonomy work from a fresh build.**
-`/categories/index.html` carries an `aria-label="N posts"` badge per term, and `/tags/index.html` carries one `data-name="<tag>"` per cloud entry; a retired term should also vanish from the sitemap and the RSS feeds.
+`/categories/index.html` carries an `aria-label="N posts"` badge per term, and `/tags/index.html` carries one `data-name` attribute per cloud entry — count `data-name=` rather than a quoted pattern, because Hugo leaves most values unquoted; a retired term should also vanish from the sitemap and the RSS feeds.
 
 ### Featured Images and Sharing Metadata
 
@@ -229,7 +229,7 @@ A new user-visible string in a shortcode needs a key added to all four theme fil
 A handful of keys in `config.yaml` change behavior an agent will otherwise trip over:
 
 - `enableGitInfo: true` fills `.Lastmod` from git history, which drives the "last updated" line, Schema.org `dateModified`, `article:modified_time`, and sitemap `<lastmod>`; removing it changes published metadata, not just build speed.
-- `ignoreLogs: [shortcode-x-getremote]` suppresses X/Twitter embed warnings for deleted accounts (issue #12); the warnings are expected, not a regression.
+- `ignoreLogs: [shortcode-x-getremote]` suppresses X/Twitter embed warnings for deleted accounts (issue #12, closed); 23 `x` embeds remain in content, so the entry is still load-bearing rather than leftover.
 - `params.fonts.default: Atkinson Hyperlegible Next` with `default_weight: ":wght@500"` is the body font, fetched and self-hosted at build time by the theme's `fonts.html`.
 The family ships latin and latin-ext only, so `ar` and `hi` pages fall back to the browser's `sans-serif`.
 `title` (Jaro) and `header` (Roboto Slab) are unchanged, and the body face is now the same family the generated covers use for headlines.
@@ -395,9 +395,9 @@ PSI and local best-case runs clear both targets, but local run-to-run variance s
 Remaining work is deferred to separate issues: consolidating the same-origin render-blocking CSS (`bootstrap.min.css`, `bootstrap-icons.min.css`, and `main.css`) via `resources.Concat`, the analytics-driven TBT cost, and GitHub Pages' fixed `max-age=600` cache lifetime.
 - **#25 title font resolved**: Jaro swapped in (5513c96), resolving the dark-theme drop-shadow ghosting defect.
 - **Landed**: October 2026 posts translated to Arabic with English `[[anchor]]` identifiers preserved (211e208), and `content/lyrics/m83-echoes-of-mine.adoc` migrated to AsciiDoc `[verse]` blocks (d3cc132) — `[verse]` is the correct block type for lyrics and poetry.
-- **Copr post scheduled**: `content/blog/2026/11/fedora-copr-intro.adoc` is committed with its `fedora-copr-intro.jpg` cover and dated 2026-11-10T08:00Z, so it appears on the first cron rebuild after that morning rather than on the next push.
+- **Copr post published**: `content/blog/2026/11/fedora-copr-intro.adoc` went out with its `fedora-copr-intro.jpg` cover (dated 2026-11-10T08:00Z) on the first cron rebuild after that morning, which is the worked example of a post that appears on a scheduled build rather than on a push.
 - **Taxonomy consolidated**: `travel` folded into its category with a `/tags/travel/` alias (eb79883), and `google`, `upstream`, `history`, and `javascript` retired (7ba4484), taking the tag cloud from 158 to 153 terms.
-- **#23 llms.txt landed**: `/llms.txt` plus native `.md`/`.adoc` source copies, driven entirely by `data/llms.yaml`; see "Machine-readable index and source publishing".
+- **#23 llms.txt landed**: `/llms.txt` plus native `.md`/`.adoc` source copies, driven entirely by `data/llms.yaml`, merged as 193ee71 (PR #27) on 2026-11-14; see "Machine-readable index and source publishing".
 The `featured:` question was settled in favour of a data-file list, and non-English *indexes* were dropped while non-English *sources* still publish.
 - **#3 closed as not planned**: the friend shout-outs archetype was closed on 2026-11-08; it does not fit the site's direction, and an ordinary post or a `footer` entry already covers the use case.
 
