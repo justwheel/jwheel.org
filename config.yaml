@@ -144,7 +144,7 @@ params:
       secondary: "#f5f0fa"
       accent: "#6D64A2"
       background: "#121212"
-  description: Homepage of Justin Wheeler, an Open Source contributor and Free Software advocate from Georgia, USA.
+  description: Justin Wheeler is a Free Software activist and open source advocate writing about community leadership, digital infrastructure, and the people who build both.
   fonts:
     default: Open Sans
     default_weight: ":wght@500"
@@ -178,12 +178,16 @@ params:
 # --- internationalization settings ---
 defaultContentLang: en
 languages:
+  en:
+    label: English
+    weight: 1
   ar:
     direction: rtl
     label: عربي
-  en:
-    label: English
+    weight: 10
   es:
     label: español
+    weight: 20
   hi:
     label: हिन्दी
+    weight: 30

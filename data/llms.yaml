@@ -1,0 +1,81 @@
+# Machine-readable index (/llms.txt) and native source publishing.
+#
+# Opt-in only: with this file absent, or `enabled` not the YAML boolean true,
+# the build emits no index, no source files, and no <link> relations. Schema:
+# themes/toph/README.md, "Machine-readable index and source files". Curation
+# policy and rationale: AGENTS.md, "Machine-readable index and source
+# publishing".
+
+enabled: true
+
+# One indexed language; sources are still published for every language.
+index:
+  language: en
+  title: Justin Wheeler
+  summary: Building the human infrastructure of open source.
+  intro: |
+    This index links to the original source file for each page, published
+    verbatim from the site repository. Those files keep their Hugo front
+    matter, comments, and shortcodes, so they are the author's text rather than
+    a reconstruction of the rendered page. Each entry also links to the
+    rendered page, which is the better citation target.
+
+# Native source copies. `prefix` sets their URL path, so the checker is invoked
+# with the matching `--source-prefix`.
+sources:
+  prefix: src
+  # HTML stays public; only the exported file and its <link> are withheld.
+  exclude_pages:
+    - lyrics/m83-echoes-of-mine
+    # Term page only; its posts keep their sources.
+    - categories/desk-drawer
+
+# `pages` keeps the order written here; `section` is newest first.
+sections:
+  - title: Pages
+    pages:
+      - /
+      - /about-me
+      - /legal
+      - /federation
+
+  - title: Projects
+    section: projects
+
+  - title: Writing
+    section: blog
+    # Search Console evidence, not recency: these are what people search for.
+    featured:
+      - /blog/2020/04/open-source-minecraft-bukkit-gpl
+      - /blog/2020/10/cryptographic-autonomy-license-cal-1-0
+      - /blog/2020/04/how-did-free-software-build-a-social-movement
+      - /blog/2019/08/hpc-workloads-containers
+      - /blog/2016/10/set-up-github-organizations-clubs
+      - /blog/2017/11/first-rpm-package-fedora
+    # Six featured plus the twenty newest.
+    limit: 26
+
+  # Explicit term pages, in the order written.
+  - title: Topics
+    pages:
+      - /categories/foss
+      - /categories/fedora
+      - /categories/tech
+      - /categories/perspective
+      - /categories/education
+      - /categories/travel
+      - /categories/tweets
+      - /categories/desk-drawer
+      - /categories/red-hat
+      - /categories/metabrainz
+      - /categories/music
+      - /categories/poems
+
+# Footer links that are not index entries.
+optional:
+  - title: Full blog archive
+    url: /blog/
+  - title: Sitemap
+    url: sitemap.xml
+  - title: Blog RSS feed
+    url: rss/blog/index.xml

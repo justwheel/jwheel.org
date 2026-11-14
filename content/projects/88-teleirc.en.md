@@ -1,6 +1,7 @@
 ---
 title: TeleIRC
 date: 2016-05-01
+description: "Core committer and stand-in project manager for TeleIRC, a Telegram and IRC bridge written in Go, from 2016 to 2020."
 slug: teleirc
 icon: "https://github.com/RITlug/teleirc/raw/main/assets/png/horizontal_color.png"
 hide_sitemap: true

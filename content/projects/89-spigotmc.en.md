@@ -1,6 +1,7 @@
 ---
 title: SpigotMC
 date: 2014-04-15
+description: "Community moderator and staff member of the open source SpigotMC project from 2014 to 2016, supporting a forum of over 400,000 members."
 slug: spigotmc
 icon: "https://static.spigotmc.org/img/spigot-og.png"
 hide_sitemap: true

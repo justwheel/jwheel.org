@@ -113,6 +113,19 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
+      # /llms.txt and the source copies are published by the theme, not by
+      # Hugo's own output formats, so nothing else would catch a silent
+      # regression in them. Verified against the artifact that ships.
+      - name: Verify /llms.txt and source publishing
+        run: |
+          python3 themes/toph/.github/scripts/check_llms.py \
+            --public public \
+            --content content \
+            --base-url "${{ steps.pages.outputs.base_url }}/" \
+            --source-prefix src \
+            --expect enabled \
+            --expect-sources enabled
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v5
         with:

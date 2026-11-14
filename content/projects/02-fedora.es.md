@@ -8,7 +8,7 @@ categories: ["projects"]
 
 ---
 
-Soy contribuidor de [Fedora Linux][19] desde agosto de 2015.
+Soy contribuidor de [Fedora Linux][19] desde enero de 2014.
 Fedora Linux es un [Bien Público Digital][20] creado por la comunidad del [Proyecto Fedora][1]
 (_ver [reconocimiento][21]_).
 

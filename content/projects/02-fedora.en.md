@@ -1,6 +1,7 @@
 ---
 title: Fedora Project
 date: 2022-10-01
+description: "Contributor to Fedora Linux since January 2014, a Digital Public Good built by the Fedora Project community."
 slug: fedora
 icon: /pages/projects/fedora.png
 hide_sitemap: true
@@ -8,7 +9,7 @@ categories: ["projects"]
 
 ---
 
-I am a contributor to [Fedora Linux][19] since August 2015.
+I am a contributor to [Fedora Linux][19] since January 2014.
 Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project community][1]
 (_see [recognition][21]_).
 

@@ -1,6 +1,7 @@
 ---
 title: UNICEF
 date: 2022-09-20
+description: "First Open Source Technical Advisor at the UNICEF Office of Innovation, full-time from June 2020 to September 2022 and consulting through June 2023."
 slug: unicef
 hide_sitemap: true
 categories: ["projects"]
@@ -15,6 +16,8 @@ There, I supported [UNICEF Venture Fund][2] startup companies in launching Open 
 In all, I mentored 23 companies from 19 countries on community strategies for their Open Source products.
 Of those, fourteen achieved global recognition as [Digital Public Goods][6] and three were acquired in multi-million dollar acquisitions.
 Additionally, I also designed a fixed-term Open Source community mentoring program for startup companies and developer communities that later expanded to Technical Assistance programs for software development and data science & AI.
+
+My full-time work concluded in September 2022, and I continued as a part-time consultant from October 2022 until June 2023, when my last contract with UNICEF ended.
 
 #### UNICEF MagicBox, Office of Innovation
 

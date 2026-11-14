@@ -1,6 +1,7 @@
 ---
 title: Red Hat
 date: 2022-10-10
+description: "Fourth Fedora Community Architect at Red Hat since October 2022, leading initiatives that grow the Fedora user and developer communities."
 slug: red-hat
 icon: /pages/projects/red-hat.png
 hide_sitemap: true

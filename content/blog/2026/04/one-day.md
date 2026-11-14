@@ -1,7 +1,7 @@
 ---
 title: One Day
 date: 2026-04-07T08:00:00-00:00
-description:
+description: "Migrating this blog from WordPress to Hugo with my own theme, and what caregiving, my mother's and grandmother's deaths, a new marriage, and a move to Germany taught me about grief and joy."
 categories:
   - perspective
 tags:

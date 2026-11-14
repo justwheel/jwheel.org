@@ -1,5 +1,6 @@
 ---
 title: About Me
+description: "A longer-form biography of Justin Wheeler: his work in Free and Open Source, the communities he has been part of, and the life that led him there."
 images: ["/pages/about-me-profile.jpg"]
 ---
 
@@ -19,7 +20,7 @@ While at UNICEF, Justin designed and executed a guided twelve-month Open Source 
 Together with a team of mentors, Justin mentored twenty-three start-up companies from nineteen countries and five continents.
 Of these companies, fourteen achieved global recognition as [Digital Public Goods](https://digitalpublicgoods.net/digital-public-goods/) and three were acquired in multi-million dollar acquisitions.
 
-As a [Fedora](/categories/fedora/) community member since 2015, Justin has played an influential role in shaping its direction.
+As a [Fedora](/categories/fedora/) community member since 2014, Justin has played an influential role in shaping its direction.
 He is an advocate for DEI and co-founded the [Fedora DEI Team](https://docs.fedoraproject.org/en-US/dei/) in 2016.
 He also co-founded the [Fedora Community Ops](https://docs.fedoraproject.org/en-US/commops/) team to help drive greater collaboration among remote, asynchronous teams.
 In 2022, he was a driving force for helping Fedora earn its own global recognition [as a Digital Public Good](https://www.digitalpublicgoods.net/r/fedora-linux).

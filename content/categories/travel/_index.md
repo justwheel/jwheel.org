@@ -1,5 +1,6 @@
 ---
 title: Travel
+description: "Travel stories and event reports from trips abroad, along with personal reflections on what travel teaches."
 aliases:
   - "/tags/travel/"
 ---
