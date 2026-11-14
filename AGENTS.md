@@ -7,9 +7,11 @@ Guidance for AI coding agents working in the `jwheel.org` repository.
 Personal website for Justin Wheeler (https://jwheel.org/), built with Hugo using the custom **Toph** theme.
 Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
-- **Hugo Extended**: Pinned to **0.169.0** locally and in CI.
+- **Hugo**: Pinned to **0.170.0** locally and in this site's CI.
+The standard (non-extended) build is sufficient: the theme contains no Sass, and WebP encoding plus `resources.Publish` are in the standard binary.
 - **Dart Sass**: 1.106.1 in CI.
 - The theme requires minimum Hugo 0.166.0.
+- The theme's own CI runs 0.170.0 as well, so both repositories build and test on the same version; keep them in step when bumping either.
 
 ## Two-Repository Architecture
 
@@ -241,7 +243,8 @@ Without the schedule, such a post stays invisible until the next push.
 Do not remove or reschedule the cron trigger without accounting for this.
 - Pull requests run the build only; the `deploy` job's `main`-only gate makes it display as a skipped check on every PR.
 This is known noise, not a failure.
-- CI pins `HUGO_VERSION: 0.169.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
+- CI pins `HUGO_VERSION: 0.170.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
+Both workflows download the plain `hugo_*` `.deb` rather than `hugo_extended_*`, which is why the local install and CI stay interchangeable.
 Dart Sass is installed although the theme contains no Sass; this is deliberate and should not be "cleaned up".
 - **Asciidoctor must be installed for any build**: CI runs `sudo gem install asciidoctor --no-document`, and `config.yaml` allowlists the binary under `security.exec.allow`.
 Hugo shells out to it for `.adoc`, so a missing binary fails the build outright (`asciidoctor not found in $PATH`) rather than degrading the page.
@@ -364,9 +367,8 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 ### Theme work
 
 - **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`); toph#88 (localized recent-posts partial with language-aware archive link and RTL arrow flow); toph#82 (print stylesheet no longer leaks the dark-mode code color) in 85f45c2; and the blog archetype scaffold in 1ab9ae1, which gives both formats the same front matter.
-All are live here through the submodule pin at 683fdbb.
-- **Stale term-page example**: `themes/toph/layouts/_default/term.html` cites `/tags/history/` in its docstring, a path retired by the four-tag purge.
-It is a comment, not a rendered link, so it ships harmlessly; the replacement with a generic example is applied locally and still needs a theme commit plus submodule bump.
+All are live here through the submodule pin at 13a6ec9, which the `/llms.txt` merge (193ee71) advanced from the earlier 683fdbb and also carries the theme's side of that feature.
+The theme's own CI moved to Hugo 0.170.0 in that same pin, and this site's workflow now matches it.
 - **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
