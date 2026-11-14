@@ -229,6 +229,10 @@ A handful of keys in `config.yaml` change behavior an agent will otherwise trip 
 
 - `enableGitInfo: true` fills `.Lastmod` from git history, which drives the "last updated" line, Schema.org `dateModified`, `article:modified_time`, and sitemap `<lastmod>`; removing it changes published metadata, not just build speed.
 - `ignoreLogs: [shortcode-x-getremote]` suppresses X/Twitter embed warnings for deleted accounts (issue #12); the warnings are expected, not a regression.
+- `params.fonts.default: Atkinson Hyperlegible Next` with `default_weight: ":wght@500"` is the body font, fetched and self-hosted at build time by the theme's `fonts.html`.
+The family ships latin and latin-ext only, so `ar` and `hi` pages fall back to the browser's `sans-serif`.
+`title` (Jaro) and `header` (Roboto Slab) are unchanged, and the body face is now the same family the generated covers use for headlines.
+Body text is `1.0625rem` (17px), one step above Bootstrap's `1rem` default, set in the theme's `base/_global.css`; the rem-based heading scale is unaffected.
 - `params.taxonomy_exclude: ["footer", "projects"]` keeps those sections out of taxonomy listings while still rendering them in their own carousels and columns.
 - `googleAnalytics` plus the `privacy` block (`anonymizeIP`, Do Not Track, enhanced YouTube/privacy modes) is real third-party script; it is the main source of Total Blocking Time and run-to-run Lighthouse variance.
 - `markup.asciidocExt.preserveTOC: true` is the only `markup` sub-key set; see toph#75 under Known Defects before adding a highlight style.

@@ -146,7 +146,7 @@ params:
       background: "#121212"
   description: Justin Wheeler is a Free Software activist and open source advocate writing about community leadership, digital infrastructure, and the people who build both.
   fonts:
-    default: Open Sans
+    default: Atkinson Hyperlegible Next
     default_weight: ":wght@500"
     title: Jaro
     header: Roboto Slab
