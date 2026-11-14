@@ -6,7 +6,6 @@ categories:
   - "desk-drawer"
   - "travel"
 tags:
-  - "2010s"
   - "2020s"
   - "albania"
   - "balkans"
