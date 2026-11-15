@@ -143,6 +143,21 @@ The length is view-specific: 250 in the list view (`li.html`) and featured cards
 - **Image Captions**: Markdown uses title syntax `![alt](src "caption text")`.
 URLs inside captions should be bare; Goldmark auto-links them.
 
+### Biography and the current role
+
+Four surfaces introduce Justin and move together: `content/_index.*.adoc` in all four languages, `content/projects/01-red-hat.*.md`, the English-only `content/about-me.md`, and `params.biography.job_title` in `config.yaml`, which feeds Schema.org `jobTitle` on every page.
+
+- **Two roles, two headings.** Since October 2026 he is _AI Alignment Community Architect, RHEL Upstreams_; from October 2022 to September 2026 he was Red Hat's fourth _Fedora Community Architect_.
+  Keep the current role under its own `####` heading and the completed tenure under a second one, following the UNICEF profile's multi-heading pattern, instead of rewriting the old role into the present tense.
+- **Program office on first mention.** Spell out `Open Source & AI Program Office (OSAIPO)` and link it to `https://redhatofficial.github.io/`, then use the acronym.
+  Follow the page's own link style: AsciiDoc homepages use `link:` macros, project profiles use inline or reference links.
+- **Flock stays qualitative.** Attendance grew 75% from 2023 to 2026 and reached venue capacity, and the in-person conference became an income-generating event with record sponsorship income.
+  Do not publish precise budget or sponsorship amounts, and do not imply that Nest lacked sponsors.
+- **Aspirations are not programs.** CentOS expansion and broader RHEL upstream work are goals rather than existing programs, and the Fedora Agent Skills Library is an effort in progress.
+  Keep the author's "access to inference" wording rather than narrowing it to "local inference", and do not describe the Docs MCP server or contributor compute access as shipped programs.
+- **The Fedora contributor list mirrors the employment split.** Current activity carries the AI/ML SIG, Data WG, Docs co-lead work, and the release ranges still running; past activity carries Council service and the Fedora Community Architect entries, dated by release.
+  Keep those ranges identical in every language, because a translator is most likely to renumber them.
+
 ### Taxonomy maintenance
 
 Tags and categories are both taxonomies (`category: categories`, `tag: tags`), paginated at 10 posts per page.
@@ -213,11 +228,16 @@ The site is published in four languages, configured under `languages:` in `confi
 
 - Translations are per-file suffixes, not separate trees: `content/projects/01-red-hat.{en,es,ar,hi}.md` or `content/blog/YYYY/MM/slug.{en,ar}.adoc`.
 - Not all content is translated.
-Only `content/_index.*.adoc` carries all four languages.
-Of the seven project pages, just `01-red-hat` and `02-fedora` are fully localized; `47-unicef`, `48-open-rit`, `49-librecorps`, `88-teleirc`, and `89-spigotmc` are English-only.
+The homepage (`content/_index.*.adoc`) and the `01-red-hat`, `02-fedora`, and `47-unicef` project profiles carry all four languages; `48-open-rit`, `49-librecorps`, `88-teleirc`, and `89-spigotmc` are English-only.
 `about-me.md`, `legal.adoc`, and `federation.adoc` are English-only.
 Blog posts are primarily English; only `2026/10/devconf-us-2026` and `2026/10/managing-multiple-git-repos-with-ai` have Arabic translations.
 Draft blog posts (`draft: true`) must not be translated until finalized and published.
+- **A project translation is what makes the profile appear at all.** The biography layout collects projects with `where site.RegularPages ".Params.categories" "intersect" (slice "projects")`, and `site.RegularPages` is language-scoped, so a profile with no translation is missing from both the project section and the carousel in that language rather than falling back to English.
+  Translating the profile is the entire fix and needs no theme change; the four English-only profiles are invisible outside `en` for exactly this reason.
+  Check a new translation in both places it renders, its own `/es/projects/...` page and the embedded section on that language's homepage, because the two reach the reader through different templates.
+- **The latest author-edited English is canonical.** When English changes, recheck the translations against it instead of assuming an earlier pass still matches: front matter `description`, inline and reference-style links, headings, list hierarchy, dates, release ranges, and package names all drift independently of the prose.
+- **Internal links follow the language of the page they land on.** A root-relative link renders as `/ar/tags/...` when that language has the target page and as the English `/tags/...` when it does not, so the absence of `/es/tags/...` or `/hi/tags/...` reflects which pages are translated, not a broken link.
+  A hand-written `_index` file is not required for a generated term page to exist: the Arabic term pages appear because translated Arabic posts carry those tags.
 - **Anchor Link Parity**: When translating AsciiDoc blog posts, preserve the original English `[[anchor]]` identifiers verbatim directly above translated headings.
 This guarantees link parity across language variants for deep links and fragment identifiers.
 - Arabic is right-to-left.
@@ -293,6 +313,11 @@ Do not conflate the two.
 - **Prove State Before Asserting**: Always run the proving command first; the user explicitly accepts extra tool calls.
 A negative grep proves pattern absence, not positive correctness.
 Enumerate all surfaces before claiming exhaustiveness.
+- **A passing build is a snapshot, not a proof of the working tree.** The author edits files while an agent works, so a source-fidelity check can fail on a page the agent never touched.
+Diff the mismatched file before concluding the build is wrong: a concurrent edit means rebuild, never revert the author's text.
+- **Build with the production environment.** A default `hugo` run prints no INFO-level notices, so deprecations such as toph#103 exist only under `hugo --logLevel info`; a clean default build does not prove there is nothing to fix.
+- **Commit the index, not the working tree.** When asked to commit what is already staged, read `git status --porcelain` before anything else and stage nothing further: a directory-wide `git add` would capture an in-progress post the author has not staged, while a bare `git commit` touches only the index and leaves that work alone.
+  If a staged file and its working-tree copy have diverged, re-stage that file only after confirming the newer version is the finished one.
 
 ## Git Workflow & Conventions (CRITICAL)
 
@@ -301,6 +326,7 @@ User executes these manually.
 - **Staging**: Prefer directory/glob arguments over long explicit file lists.
 Check `git status --porcelain` before staging to avoid capturing untracked in-progress drafts.
 Never run `git reset` without permission (user stages manually to track work).
+When the index already holds the finished change, stage nothing at all — see "Commit the index, not the working tree" under Verification.
 - **Commit Messages**: Format: `<gitmoji> <component>: <summary>`.
 The component may carry a parenthesized scope naming the sub-area, as in `content(tags):` or `themes(toph):`; this repo uses `blog:`, `content(<area>):`, `AGENTS:`, and `themes(toph):`.
 Body: Explain **WHY** (rationale, problem solved, alternatives considered), not WHAT or HOW (avoid diff narration).
@@ -373,8 +399,9 @@ The fix is theme-side (see below) and lands as a theme PR plus submodule bump in
 ### Theme work
 
 - **Landed on site**: toph PR #102 (editorial blockquote and verse styling — `components/_blockquote.css`, `quote:` tokens in `data/style.yaml`); toph#88 (localized recent-posts partial with language-aware archive link and RTL arrow flow); toph#82 (print stylesheet no longer leaks the dark-mode code color) in 85f45c2; and the blog archetype scaffold in 1ab9ae1, which gives both formats the same front matter.
-All are live here through the submodule pin at 13a6ec9, which the `/llms.txt` merge (193ee71) advanced from the earlier 683fdbb and also carries the theme's side of that feature.
-The theme's own CI moved to Hugo 0.170.0 in that same pin, and this site's workflow now matches it.
+All are live here through a sequence of pins: 13a6ec9 carried the theme's side of `/llms.txt` and its own CI move to Hugo 0.170.0, and the current pin d0381ef adds the larger body text (f343ce5) and the lowercase `social` nav label (4809a23).
+The lowercase label belongs upstream because every downstream site inherits the same menu row, and a site-level override would have duplicated the English i18n file to change one word.
+The theme's own CI and this site's workflow both pin Hugo 0.170.0, and they should stay in step.
 - **AsciiDoc subpath image rebasing**: `render-page-content.html` currently rebases AsciiDoc hyperlinks (`href`), but root-relative AsciiDoc image `src="(/[^/" ][^"]*)"` outputs remain domain-root-relative, breaking under subpath deployments like preview builds or project Pages sites. Parity requires extending the post-processing helper to rebase image `src` paths without mutating already-resolved or external URLs.
 - **Linked-image render hooks**: `render-image.html` needs an `.IsBlock` conditional (block images get `figure`/`figcaption`, inline ones a bare `img` with the title as an advisory `title` attribute), and `render-link.html` must unwrap `figure` elements arriving as link inner content.
 `.IsBlock` reports true even for images inside links, so the link-hook unwrap is required; block detection additionally requires `wrapStandAloneImageWithinParagraph: false` in site config, added here and in the exampleSite when the hook ships.
@@ -401,6 +428,8 @@ Remaining work is deferred to separate issues: consolidating the same-origin ren
 - **#23 llms.txt landed**: `/llms.txt` plus native `.md`/`.adoc` source copies, driven entirely by `data/llms.yaml`, merged as 193ee71 (PR #27) on 2026-11-14; see "Machine-readable index and source publishing".
 The `featured:` question was settled in favour of a data-file list, and non-English *indexes* were dropped while non-English *sources* still publish.
 - **#3 closed as not planned**: the friend shout-outs archetype was closed on 2026-11-08; it does not fit the site's direction, and an ordinary post or a `footer` entry already covers the use case.
+- **Biography split landed**: 69da4fb moved the homepage, Red Hat profile, About Me page, and `job_title` to the AI Alignment Community Architect role, kept the Fedora Community Architect years as dated history, and carried the same split into the Spanish, Arabic, and Hindi pages.
+- **UNICEF translated**: 74b546e added the `47-unicef` profile in Spanish, Arabic, and Hindi, which is what returned it to the project section and carousel on those three homepages; see "Biography and the current role" for the surfaces that move together.
 
 ### Session-verified gotchas
 
