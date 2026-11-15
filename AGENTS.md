@@ -8,7 +8,8 @@ Personal website for Justin Wheeler (https://jwheel.org/), built with Hugo using
 Site content is licensed CC BY-NC-SA 4.0; theme is licensed MPL-2.0.
 
 - **Hugo**: Pinned to **0.170.0** locally and in this site's CI.
-The standard (non-extended) build is sufficient: the theme contains no Sass, and WebP encoding plus `resources.Publish` are in the standard binary.
+As of 0.170.0 there is a single Hugo binary; the extended edition is gone, so there is no edition to choose and no `hugo_extended_*` artifact to download.
+The theme contains no Sass, so nothing here needs a transpiler, and that is unchanged by the edition merge.
 - **Dart Sass**: 1.106.1 in CI.
 - The theme requires minimum Hugo 0.166.0.
 - The theme's own CI runs 0.170.0 as well, so both repositories build and test on the same version; keep them in step when bumping either.
@@ -249,7 +250,7 @@ Do not remove or reschedule the cron trigger without accounting for this.
 - Pull requests run the build only; the `deploy` job's `main`-only gate makes it display as a skipped check on every PR.
 This is known noise, not a failure.
 - CI pins `HUGO_VERSION: 0.170.0` and `DART_SASS_VERSION: 1.106.1` to match local development.
-Both workflows download the plain `hugo_*` `.deb` rather than `hugo_extended_*`, which is why the local install and CI stay interchangeable.
+Both workflows download the plain `hugo_*` `.deb`, which is now the only artifact; the `hugo_extended_*` names still resolve to compatibility aliases and are not the supported path.
 Dart Sass is installed although the theme contains no Sass; this is deliberate and should not be "cleaned up".
 - **Asciidoctor must be installed for any build**: CI runs `sudo gem install asciidoctor --no-document`, and `config.yaml` allowlists the binary under `security.exec.allow`.
 Hugo shells out to it for `.adoc`, so a missing binary fails the build outright (`asciidoctor not found in $PATH`) rather than degrading the page.
