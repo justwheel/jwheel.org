@@ -3,6 +3,7 @@ title: UNICEF
 date: 2022-09-20
 description: "First Open Source Technical Advisor at the UNICEF Office of Innovation, full-time from June 2020 to September 2022 and consulting through June 2023."
 slug: unicef
+icon: /pages/projects/unicef-innovation-logo.png
 hide_sitemap: true
 categories: ["projects"]
 
