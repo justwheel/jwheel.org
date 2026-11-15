@@ -1,7 +1,7 @@
 ---
 title: Red Hat
 date: 2022-10-10
-description: "Fourth Fedora Community Architect at Red Hat since October 2022, leading initiatives that grow the Fedora user and developer communities."
+description: "AI Alignment Community Architect for RHEL Upstreams at Red Hat since October 2026; previously Fedora Community Architect from October 2022 to September 2026."
 slug: red-hat
 icon: /pages/projects/red-hat.png
 hide_sitemap: true
@@ -9,35 +9,20 @@ categories: ["projects"]
 
 ---
 
-In October 2022, I joined [Red Hat][1] as the fourth [_Fedora Community Architect_][2] (FCA).
-The Fedora Community Architect (FCA) is employed full-time by Red Hat to lead initiatives that grow the Fedora user and developer communities.
-They also help make Red Hat and Fedora interactions more transparent and open.
+#### AI Alignment Community Architect, RHEL Upstreams
 
-Although I continue several of my capacities [as a long-time Fedora Project contributor][3], my role at Red Hat directs my focus in a few specific areas:
+Since October 2026, I serve as _AI Alignment Community Architect_ for RHEL Upstreams in the [Open Source & AI Program Office (OSAIPO)](https://redhatofficial.github.io/) at [Red Hat](/categories/red-hat).
+My starting question is **“alignment with whom?”**
+I help upstream communities shape the creation, use, and adoption of [LLM-gen-AI](/tags/llm-gen-ai/) around their own values and interests, with room for contributors who use these tools and those who choose not to.
 
-* **Architectural support**:
-  Guidance, coaching, and mentoring on how to participate and contribute in the Fedora community.
-  This includes mentoring to community volunteers as well as my Red Hat colleagues working on downstream products who also contribute upstream.
-* **Community leadership**:
-  Participate in community leadership bodies (e.g. Fedora Council, Mindshare Committee) to represent the interests of Red Hat and the motivations of our contributor community.
-  I also participate in discussion and execution around strategic direction for the Fedora Project.
-* **Events**:
-  Global in-person and virtual events are a primary focus of my role.
-  This includes organization of the [Flock contributor conference][4] and other regional events, such as [FOSDEM][5], [DevConf CZ][6], [SCaLE][7], and others.
-  It is also inclusive of the various virtual events that we run throughout the year, such as Fedora release parties, Fedora Week of Diversity, Fedora Appreciation Week, and others.
-* **Financial forecasting and budgeting**:
-  Planning, forecasting, recording, and coordinating payments from the Fedora Project fiscal budget, provided by Red Hat.
-  I work with various stakeholders to account for how Fedora spends its financial resources, mostly around SaaS services, event planning and execution, and marketing resources (i.e. swag).
-* **Swag**:
-  I maintain the global inventory of Fedora swag and I am responsible for ordering new items into our inventory.
-  I work with contributors around the world to distribute items for regional and community events.
+My work currently centers on [Fedora](/categories/fedora/), where I lead the effort to build the [Fedora Agent Skills Library](https://forge.fedoraproject.org/ai-ml/skills-library), develop [AI/ML SIG documentation](https://docs.fedoraproject.org/en-US/ai-ml/) and workflows, and serve as a [Fedora Docs Team](https://docs.fedoraproject.org/en-US/fedora-docs/team-info/) co-lead.
+I work toward responsible AI-assisted contribution and broader access to inference, so participation does not depend on privileged access to commercial platforms.
+As this work develops, I aim to extend that community-centered approach to CentOS and other RHEL upstreams.
 
-There are many other aspects of the Fedora community that I support through my role, but these are the major highlights.
+#### Fedora Community Architect
 
-[1]: https://www.redhat.com/
-[2]: https://docs.fedoraproject.org/en-US/council/fca/
-[3]: /#fedora
-[4]: https://fedoraproject.org/flock/
-[5]: https://fosdem.org/
-[6]: https://www.devconf.info/cz/
-[7]: https://www.socallinuxexpo.org/
+From October 2022 to September 2026, I served as Red Hat’s fourth [_Fedora Community Architect_](https://docs.fedoraproject.org/en-US/council/fca/).
+Working with fellow organizers, I helped rebuild [Flock to Fedora](/tags/flock/) after its pandemic hiatus: attendance grew 75% from 2023 to 2026, reaching venue capacity, while we transformed the in-person conference into an income-generating event and achieved record sponsorship income.
+
+I stewarded Fedora’s community budget and worked to restore transparent access to event support, including reimbursements for non-Red Hat contributors.
+I also led the effort to restore access to Fedora in [Syria](https://fedoramagazine.org/fedora-syria/), working with Fedora colleagues and Red Hat and IBM legal teams to secure approval for lifting the infrastructure IP block.

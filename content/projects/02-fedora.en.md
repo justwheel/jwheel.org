@@ -9,41 +9,48 @@ categories: ["projects"]
 
 ---
 
-I am a contributor to [Fedora Linux][19] since January 2014.
+I am a contributor to the [Fedora Project][19] and Fedora Linux since January 2014.
 Fedora Linux is a [Digital Public Good][20] created by the [Fedora Project community][1]
 (_see [recognition][21]_).
 
-#### Current volunteering in Fedora
+#### Current activity in Fedora
 
-Here is a list of the things I am currently doing in Fedora (_see [Fedora Linux release history][22]_):
+Here is what I am currently doing in Fedora (_see [Fedora Linux release history][22]_):
 
-* [**Diversity, Equity, and Inclusion (DEI) Team**][2]:
-  Founding member & core contributor (_Fedora Linux releases 24 to present_)
-* [**Community Operations** (CommOps)][7]:
+* [**AI/ML SIG**][24]:
+  Core contributor (_Fedora Linux releases 43 to present_)
+* [**Ambassadors**][4]:
+    * North American Ambassador (_Fedora Linux releases 25 to 44_)
+    * European Ambassador (_Fedora Linux releases 45 to present_)
+* [**Badges**][5]:
+  Core contributor (_Fedora Linux releases 24 to 32, 44 to present_)
+* [**Community Blog**][6]:
+  Editor-in-chief (_Fedora Linux releases 22 to 29, 39 to 41, 44 to present_)
+* [**Community Ops** (CommOps)][7]:
   Founding member and team co-lead (_Fedora Linux releases 22 to 30, 33 to 36, 40 to present_)
-* [**Fedora Council**][8]:
-    * Elected member (_Fedora Linux release 26_)
-    * [DEI Advisor][16] (_Fedora Linux releases 33, 34_)
-    * [Community Architect][23] (_Fedora Linux releases 37 to present_)
+* [**Data WG**][25]:
+  Core contributor (_Fedora Linux releases 43 to present_)
+* [**Documentation Team**][18]:
+    * Core contributor, writer, & reviewer (_Fedora Linux releases 27 to 32, 41 to present_)
+    * Team co-lead (_Fedora Linux releases 43 to present_)
+    * AI/ML SIG docs captain (_Fedora Linux releases 44 to present_)
+* [**DEI Team**][2]:
+  Founding member & core contributor (_Fedora Linux releases 24 to present_)
 * [**Marketing**][14]:
     * Team lead (_Fedora Linux releases 25 to 28_)
     * Core contributor (_Fedora Linux releases 23 to 28, 39 to present_)
 * [**Packager**][3]:
-  `mpris-scrobbler`, `playerctl`, `zork`, `protonvpn-cli` (_Fedora Linux releases 26 to present_)
+  `mpris-scrobbler`, `playerctl`, `zork`, `hugo` (_Fedora Linux releases 26 to present_)
 
-#### Past volunteering in Fedora
+#### Past activity in Fedora
 
 I have done more in the Fedora Project over the years.
 I served in the following positions previously (_see [Fedora Linux release history][22]_):
 
-* [**Ambassadors**][4]:
-  North America representative (_Fedora Linux releases 25 to 29_)
-* [**Badges**][5]:
-  Sponsored system administrator (_Fedora Linux releases 24 to 32_)
-* [**Community Blog**][6]:
-  Editor-in-chief (_Fedora Linux releases 22 to 29, 39 to 41_)
-* [**Documentation Team**][18]:
-  Core team contributor & writer (_Fedora Linux releases 27 to 32_)
+* [**Fedora Council**][8]:
+    * Elected member (_Fedora Linux release 26_)
+    * [DEI Advisor][16] (_Fedora Linux releases 33, 34_)
+    * [Community Architect][23] (_Fedora Linux releases 38 to 44_)
 * [**Fedora Happiness Packets**][9]:
   Outreachy 2019 mentor, project manager (_Fedora Linux releases 29 to 31_)
 * [**Fedora Magazine**][10]:
@@ -52,12 +59,13 @@ I served in the following positions previously (_see [Fedora Linux release histo
   Moderator (_Fedora Linux releases 24 to 28_)
 * [**Google Summer of Code 2016**][12]:
   Student intern (_Fedora Linux releases 23, 24_)
-* [**i3wm SIG**][17]:
+* [**i3 SIG**][17]:
   Core contributor (_Fedora Linux releases 33, 34_)
 * [**Join SIG**][13]:
   Mentor (_Fedora Linux releases 23 to 28_)
 * [**Mindshare Committee**][15]:
-  Founding member (_Fedora Linux releases 27, 28_)
+    * Founding member (_Fedora Linux releases 27, 28_)
+    * [Fedora Community Architect][23] (_Fedora Linux releases 38 to 44_)
 
 [1]: https://docs.fedoraproject.org/en-US/project/
 [2]: https://docs.fedoraproject.org/en-US/diversity-inclusion/
@@ -72,13 +80,15 @@ I served in the following positions previously (_see [Fedora Linux release histo
 [11]: https://fedoraproject.org/wiki/SIGs/Games
 [12]: https://docs.fedoraproject.org/en-US/mentored-projects/gsoc/2016/
 [13]: https://docs.fedoraproject.org/en-US/fedora-join/
-[14]: https://fedoraproject.org/wiki/Marketing
+[14]: https://docs.fedoraproject.org/en-US/marketing/
 [15]: https://docs.fedoraproject.org/en-US/mindshare-committee/
 [16]: https://docs.fedoraproject.org/en-US/diversity-inclusion/roles/council-advisor/
 [17]: https://docs.fedoraproject.org/en-US/i3/
-[18]: https://docs.fedoraproject.org/en-US/fedora-docs/
-[19]: https://getfedora.org
+[18]: https://docs.fedoraproject.org/en-US/fedora-docs/team-info/
+[19]: https://fedoraproject.org
 [20]: https://digitalpublicgoods.net/digital-public-goods/
 [21]: https://www.digitalpublicgoods.net/r/fedora-linux
 [22]: https://en.wikipedia.org/wiki/Fedora_version_history#Release_history
 [23]: https://docs.fedoraproject.org/en-US/council/fca/
+[24]: https://docs.fedoraproject.org/en-US/ai-ml/
+[25]: https://docs.fedoraproject.org/en-US/fdwg/

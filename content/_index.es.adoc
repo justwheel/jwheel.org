@@ -1,8 +1,8 @@
 ---
 layout: biography
 ---
-Justin Wheeler es un activista del Software Libre y defensor del código abierto (open source) enfocado en el liderazgo comunitario y la infraestructura digital.
-Como Arquitecto de Comunidad de Fedora en Red Hat, diseña y mantiene las estructuras de soporte fundamentales que permiten a una comunidad global de contribuidores prosperar.
-Su trabajo está impulsado por un profundo compromiso de fomentar la inclusión global en la tecnología.
-Esta filosofía dio forma a su impactante rol en UNICEF, donde guió a startups de todo el mundo para convertirse en exitosos Bienes Públicos Digitales.
-Esta continúa definiendo su liderazgo dentro del Proyecto Fedora, donde ha sido un colaborador clave durante más de una década.
+*Justin Wheeler* es un activista del Software Libre y arquitecto de comunidad de código abierto (open source) enfocado en las personas detrás de la infraestructura digital.
+Actualmente, Justin trabaja en link:/categories/red-hat/[Red Hat], donde se desempeña como Arquitecto de Comunidad de Alineación de IA para el ecosistema de Upstreams de RHEL en la link:https://redhatofficial.github.io/[Open Source & AI Program Office (OSAIPO)].
+Su trabajo plantea _“¿alineación con quién?”_
+Acompaña a las comunidades a dar forma a la adopción de link:/tags/llm-gen-ai/[LLM-gen-AI] en torno a sus propios valores e intereses, poniendo en el centro los valores comunitarios, la elección de los contribuidores y el acceso equitativo.
+El compromiso de Justin con el acceso equitativo conecta más de una década de participación en Fedora con su trabajo anterior en link:/categories/unicef/[UNICEF], donde guió a startups en la creación de link:/tags/digital-public-goods/[Bienes Públicos Digitales].
