@@ -63,27 +63,25 @@ This move came months after I ended a semester of a study abroad program and liv
 
 ![Saying goodbye to my mom and sister at the airport before flying to Dubrovnik](/blog/2018/02/photo_2017-01-17_19-09-11.jpg "Saying goodbye to my mom and sister at the airport before flying to Dubrovnik")
 
-From January to May 2017, I participated in a study abroad program with my university to [Dubrovnik, Croatia](https://en.wikipedia.org/wiki/Dubrovnik). RIT has full campuses in both Zagreb and Dubrovnik. This made planning the semester abroad easy, but also encouraged me to go somewhere I might not have gone otherwise.
+From January to May 2017, I participated in a study abroad program with my university to [Dubrovnik, Croatia](/tags/croatia/). RIT has full campuses in both Zagreb and Dubrovnik. This made planning the semester abroad easy, but also encouraged me to go somewhere I might not have gone otherwise.
 
 My choice to study in Croatia was well-rewarded. On paper, I earned 12 credit hours, but I took away more than what I learned in class. My most important lessons came in the form of midnight bus rides to Albania, photograph exhibits capturing genocide in Sarajevo, and hugs from normally faraway friends in Czechia. My time abroad began a process in finding myself that has continued since my time in Europe.
 
 #### DevConf 2017 / Fedora Diversity FAD
 
-At the beginning of the year, the Fedora [Diversity Team](https://fedoraproject.org/wiki/Diversity) held a "Fedora Activity Day" (FAD) event in Brno, Czechia. If you're outside of the Fedora community, think of a FAD as a focused, in-person team sprint. Together with our team in-person and remote, we mapped out our goals and plans for 2017 and set out to continue the work we began nearly three years ago.
+At the beginning of the year, the Fedora [Diversity Team](/tags/fedora-dei/) held a "Fedora Activity Day" (FAD) event in Brno, Czechia. If you're outside of the Fedora community, think of a FAD as a focused, in-person team sprint. Together with our team in-person and remote, we mapped out our goals and plans for 2017 and set out to continue the work we began nearly three years ago.
 
-![](/blog/2018/02/DSC_0031.jpg "Diversity Team group photo at our team sprint in Brno, Czechia")
+![Six members of the Fedora Diversity Team stand side by side in front of a grid of gray and blue square acoustic wall panels during their January 2017 face-to-face meeting. The group is dressed in casual winter attire—including fleece pullovers, sweaters, hoodies, and jeans—and faces the camera with warm smiles.](/blog/2018/02/DSC_0031.jpg "Diversity Team group photo at our team sprint in Brno, Czechia")
 
 In addition to the work we accomplished together, it was fulfilling for me to see my teammates that span three continents. I spent a week with not only my teammates but also my friends. The days we get to spend together are a privileged few in the year, and it was fulfilling and motivating for me to spend some of our time together in a way that wasn't Pagure tickets or IRC meetings.
 
-Read more about our team sprint in this event report:
-
-https://communityblog.fedoraproject.org/fedora-diversity-fad-2017/
+Read more about our team sprint [in this event report](https://communityblog.fedoraproject.org/fedora-diversity-fad-2017/).
 
 #### FOSDEM 2017
 
 ![I didn't get many photos during FOSDEM, but this one seemed fitting enough.](/blog/2018/02/MwwPknD.jpg "I didn't get many photos during FOSDEM, but this one seemed fitting enough. Photo: Bhagyashree Padalkar")
 
-In February, I attended the Free and Open Source Software Developers European Meeting (FOSDEM) for the first time. [FOSDEM](https://fosdem.org) is the largest open source conference in Europe, bringing together over 8,000 open source enthusiasts, contributors, and leaders from around the globe.
+In February, I attended the Free and Open Source Software Developers European Meeting (FOSDEM) for the first time. [FOSDEM](/tags/fosdem/) is the largest open source conference in Europe, bringing together over 8,000 open source enthusiasts, contributors, and leaders from around the globe.
 
 I had the privilege to attend as a member of the Fedora community, so my time was between the Fedora booth to meet the community and catching interesting talks. I also gave a talk of my own on the main track, [_What open source and J.K. Rowling have in common_](https://archive.fosdem.org/2017/schedule/event/storytelling/)! I gave this talk to a smaller audience at DevConf, but the FOSDEM audience was considerably larger.
 
@@ -105,19 +103,15 @@ Most of my trip in Sarajevo consisted of museums. I visited various museums, ran
 
 ###### Tirana
 
-I visited Tirana, Albania four times on my trip abroad. In Tirana, my heart was captured by the people there. For years, I read about the [Open Labs Hackerspace](https://openlabs.cc/en/) community based in Tirana and I always imagined an opportunity to see it in person. I actually remember my first encounter with their community was an [Ada Lovelace Day event report](https://blog.azizaj.com/ada-lovelace-day/). And somehow, the circumstances shifted where I was able to meet their community and immerse myself in the culture, if only for a short time.
+I visited Tirana, Albania four times on my trip abroad. In Tirana, my heart was captured by the people there. For years, I read about the [Open Labs Hackerspace](/tags/open-labs-albania/) community based in Tirana and I always imagined an opportunity to see it in person. I actually remember my first encounter with their community was an [Ada Lovelace Day event report](https://blog.azizaj.com/ada-lovelace-day/). And somehow, the circumstances shifted where I was able to meet their community and immerse myself in the culture, if only for a short time.
 
 ![My visits to Tirana are best defined by the people who impacted my time there.](/blog/2018/02/DSC_0187.jpg "My visits to Tirana are best defined by the people who impacted my time there.")
 
-During my times in Tirana, I participated in the [first-ever 48 hour hackathon](https://opensource.com/article/17/3/open-labs-48-hour-hackathon-albania) to support the UN's [Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html) (SDGs), the first edition of [Linux Weekend](https://fedoramagazine.org/students-fedora-linux-weekend-2017/), and the annual [Open Source Conference Albania](https://oscal.openlabs.cc/) (OSCAL).
-
- 
-
-https://fedoramagazine.org/students-fedora-linux-weekend-2017/
+During my times in Tirana, I participated in the [first-ever 48 hour hackathon](https://opensource.com/article/17/3/open-labs-48-hour-hackathon-albania) to support the UN's [Sustainable Development Goals](http://www.undp.org/content/undp/en/home/sustainable-development-goals.html) (SDGs), the first edition of [Linux Weekend](https://fedoramagazine.org/students-fedora-linux-weekend-2017/), and the annual [Open Source Conference Albania](/tags/oscal/) (OSCAL).
 
 ## India
 
-At the end of my study abroad experience in Croatia, a unique opportunity presented itself to me. I did not buy my return airfare back to the US before I left for Croatia. When price-checking for my trip back, I noticed it was a few hundred dollars extra if I decided to spend a week in India before flying back to the US.
+At the end of my study abroad experience in Croatia, a unique opportunity presented itself to me. I did not buy my return airfare back to the US before I left for Croatia. When price-checking for my trip back, I noticed it was a few hundred dollars extra if I decided to spend a week in [India](/tags/india/) before flying back to the US.
 
 I booked the tickets.
 
@@ -139,15 +133,15 @@ I never expected an Indian visa stamp in my passport in 2017, yet it happened. I
 
 ## Chicago: Urban experience
 
-After my semester abroad and visiting India, I was whisked back to the United States, only to pack up once again for another new experience. From June to August, I lived in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago) to work an internship at [Jump Trading](http://jumptrading.com/). Chicago had a feeling of nostalgia for me because much of my father's family has origins tracing back to Chicago. But I would find myself losing more of my heart in Chicago than I realized.
+After my semester abroad and visiting India, I was whisked back to the United States, only to pack up once again for another new experience. From June to August, I lived in [Chicago, Illinois](/tags/us-illinois/) to work an internship at [Jump Trading](https://www.jumptrading.com/). Chicago had a feeling of nostalgia for me because much of my father's family has origins tracing back to Chicago. But I would find myself losing more of my heart in Chicago than I realized.
 
 ![The view from my apartment in Chicago. Could this even be real??](/blog/2018/02/DSC_0001.jpg "The view from my apartment window in Chicago. Could this even be real??")
 
 #### The internship
 
-I worked with a fantastic team of people on exciting projects. Professionally, my time in Chicago was motivating and empowering. I was provided the opportunity to learn and also contribute. I walked in with a dreadful feeling of imposter syndrome and left feeling more confident in my own learning abilities. [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), and [time-series data](https://opensource.com/article/17/8/influxdb-time-series-database-stack) became a part of my daily work life, when I had little to no knowledge before then.
+I worked with a fantastic team of people on exciting projects. Professionally, my time in Chicago was motivating and empowering. I was provided the opportunity to learn and also contribute. I walked in with a dreadful feeling of imposter syndrome and left feeling more confident in my own learning abilities. [Docker](https://www.docker.com/), [Kubernetes](/tags/kubernetes/), and [time-series data](https://opensource.com/article/17/8/influxdb-time-series-database-stack) became a part of my daily work life, when I had little to no knowledge before then.
 
-By the time my internship finished, I helped contribute to our team's goal of standing up Kubernetes and [contributing a few patches](https://github.com/kubernetes/minikube/commits?author=jflory7) in Kubernetes projects like Minikube. I have great mentors to thank for not only direct, technical assistance but also motivational mentorship and empowerment too.
+By the time my internship finished, I helped contribute to our team's goal of standing up Kubernetes and [contributing a few patches](https://github.com/kubernetes/minikube/commits?author=justwheel) in Kubernetes projects like Minikube. I have great mentors to thank for not only direct, technical assistance but also motivational mentorship and empowerment too.
 
 #### Everything else
 
@@ -163,19 +157,17 @@ I left Chicago and was offered a new contract for the following summer in 2018. 
 
 ## Year of Fedora
 
-2017 was full of time and effort spent in the Fedora community. In addition to the Diversity FAD, I was elected to the [Fedora Council](https://docs.fedoraproject.org/fedora-project/council/charter.html) (on my third attempt), attended the annual Fedora contributor conference, Flock, and also narrowed my scope for contributions.
+2017 was full of time and effort spent in the Fedora community. In addition to the Diversity FAD, I was elected to the [Fedora Council](/tags/fedora-council/) (on my third attempt), attended the annual Fedora contributor conference, Flock, and also narrowed my scope for contributions.
 
-When I began contributing to Fedora, I was contributing to many things. Marketing, community operations, Fedora Badges, Fedora Magazine, Ambassadors, Games SIG, Join SIG, the Diversity Team, and maybe a few more things. After a while, I realized my contributions carried great width but poor depth. In 2017, I "reconfigured" my time in Fedora to focus in on the areas where I felt my time yielded the highest impact. This is Fedora [CommOps](https://fedoraproject.org/wiki/CommOps) and the [Diversity Team](https://fedoraproject.org/wiki/Diversity).
+When I began contributing to Fedora, I was contributing to many things. Marketing, community operations, Fedora Badges, Fedora Magazine, Ambassadors, Games SIG, Join SIG, the Diversity Team, and maybe a few more things. After a while, I realized my contributions carried great width but poor depth. In 2017, I "reconfigured" my time in Fedora to focus in on the areas where I felt my time yielded the highest impact. This is Fedora [CommOps](/tags/fedora-commops/) and the [Diversity Team](/tags/fedora-dei/).
 
 I resigned as Fedora Magazine editor-in-chief and also formally stepped down from other teams. It made me sad, but I knew it was the right decision for me. I'm happy to spend more time working in fewer projects at a greater depth and focus than I had before.
 
 #### Flock 2017
 
-[Flock](https://flocktofedora.org/), Fedora's annual contributor conference, was held from Aug. 29 to Sep. 1 in Cape Cod, Massachusetts. Every year, Flock is an empowering experience for me because of the face-time I get with the people I spend much of my year working with remotely. This year was no different, and many new faces were mixed in with the old ones.
+[Flock](/tags/flock/), Fedora's annual contributor conference, was held from Aug. 29 to Sep. 1 in Cape Cod, Massachusetts. Every year, Flock is an empowering experience for me because of the face-time I get with the people I spend much of my year working with remotely. This year was no different, and many new faces were mixed in with the old ones.
 
-The highlights for me were in three forms: the [CommOps session](https://flock2017.sched.com/event/Bm9a/commops-and-metrics-workshop), the [Diversity Team session](https://flock2017.sched.com/event/Bm8o/diversity-team-hackfest), and the [Fedora Magazine session](https://flock2017.sched.com/event/Bm8p/fedora-magazine-workshop). Together with [Sachin Kamath](https://twitter.com/iamskamath), we led the CommOps session. You can read more about our session here:
-
-https://communityblog.fedoraproject.org/metrics-docs-flock-2017/
+The highlights for me were in three forms: the [CommOps session](https://flock2017.sched.com/event/Bm9a/commops-and-metrics-workshop), the [Diversity Team session](https://flock2017.sched.com/event/Bm8o/diversity-team-hackfest), and the [Fedora Magazine session](https://flock2017.sched.com/event/Bm8p/fedora-magazine-workshop). Together with [Sachin Kamath](https://forge.fedoraproject.org/skamath), we led the CommOps session. You can read more about our session [on the Fedora Community Blog](https://communityblog.fedoraproject.org/metrics-docs-flock-2017/).
 
 The Diversity Team and Magazine sessions were also valuable for both teams to get feedback from the rest of the community. In the Diversity Team session, we had many active participants outside of our team that reminded us the importance of narrowing our focus for higher impact. I also attended other interesting sessions held by the community, like the [future of fedmsg](https://flock2017.sched.com/event/Bm9C/the-future-of-fedmsg) by Jeremy Cline.
 
@@ -187,7 +179,7 @@ More details on this will be found in its own event report!
 
 ## ListenBrainz indie study
 
-In my fall semester of 2017, I took on an [independent study](/tags/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](https://metabrainz.org/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
+In my fall semester of 2017, I took on an [independent study](/tags/rit-2171/) to further explore the ListenBrainz project. [ListenBrainz](https://listenbrainz.org/) is an open source social platform to document the music you listen to over time. If you're familiar with Last.fm or Libre.fm, it's a similar concept, but the focus is more on the data than the social features. ListenBrainz is supported by the [MetaBrainz Foundation](/categories/metabrainz/), also the guiding body for the more well-known [MusicBrainz](https://musicbrainz.org/doc/About) project.
 
 In my independent study, I had a chance to contribute documentation and community tools (like issue / PR templates), as well as explore how the project gathers and builds metrics. I didn't make my original milestone of major code contributions to the project, but I better understood the community and tried to help in the areas of low coverage, like documentation.
 
@@ -195,7 +187,7 @@ The experience was insightful for me and provided me an excuse to work on someth
 
 ## Opensource.com community moderator
 
-At the beginning of 2017, I was brought on board as an [Opensource.com](https://opensource.com/) community moderator. Together with other community moderators and site staff, I help contribute new content and source new writers to the site. My invitation to the community moderator team came shortly after the announcement that I received the [2017 People's Choice Award](https://opensource.com/article/17/2/community-awards-2017). When [Rikki Endsley](https://twitter.com/rikkiends) invited me to the team, it felt like a natural alignment to my passion for storytelling.
+At the beginning of 2017, I was brought on board as an [Opensource.com](https://opensource.com/) community moderator. Together with other community moderators and site staff, I help contribute new content and source new writers to the site. My invitation to the community moderator team came shortly after the announcement that I received the [2017 People's Choice Award](https://opensource.com/article/17/2/community-awards-2017). When [Rikki Endsley](https://www.linkedin.com/in/rikkiendsley/) invited me to the team, it felt like a natural alignment to my passion for storytelling.
 
 #### All Things Open 2017
 
@@ -223,11 +215,9 @@ You can read more about the challenge in my [original blog post](/blog/2017/04/h
 
 Earlier in this post, I alluded to how I felt like I began to find myself when I was abroad. My study abroad experience was the beginning of a longer process that leads into present day.
 
-In April, [I went public](https://medium.com/@jflory7/turn-on-the-lights-267603e553b5) with my depression, both to help take a weight off my shoulder and to be a voice for others who are afraid to speak up. I was always concerned of the reaction from publishing something like that, but I was met with nothing but loving-kindness from friends and strangers. It gave me new confidence to live more openly and wear my values in the open.
+In April, [I went public](/blog/2017/04/lights/) with my depression, both to help take a weight off my shoulder and to be a voice for others who are afraid to speak up. I was always concerned of the reaction from publishing something like that, but I was met with nothing but loving-kindness from friends and strangers. It gave me new confidence to live more openly and wear my values in the open.
 
-The story continued in October, when I decided to delete my Facebook and Instagram accounts.
-
-https://medium.com/@jflory7/cut-the-plug-deleting-facebook-and-instagram-6cbe7c86d9c9
+The story continued in October, when I decided to [delete my Facebook and Instagram accounts](/blog/2017/10/cut-the-plug-deleting-facebook-instagram/).
 
 I considered this for a couple of years before, but I pulled the trigger in October. Like many others, it felt almost too much of a task to disconnect myself from this huge network of people and friends. But the negative impacts of it were draining me and trapping me. Since I deleted my accounts, I've noticed a positive impact in overall levels of happiness and awareness. However, I don't think the social media accounts alone are the reason for this.
 
@@ -237,7 +227,7 @@ In the near future, I hope to do a follow-up post to my decision to cut away fro
 
 It's already February in 2018 when I finished this post. This year, I thought it would be the year when I get the post out closer to the new year, but somehow I always slip. In either case, it gives me a chance to take in some of the new opportunities and excitement of the new year before reflecting and looking back.
 
-This year, I'm working an internship with [UNICEF](https://www.unicef.org/) to help lead on open source community engagement and supporting the non-technical areas of their [MagicBox platform](http://unicefstories.org/magicbox/). In the one month I've been doing this, I feel like I have tens of articles I could write about, but the experience is still maturing for me.
+This year, I'm working an internship with [UNICEF](https://www.unicef.org/) to help lead on open source community engagement and supporting the non-technical areas of their [MagicBox platform](https://www.unicef.org/innovation/Magicbox). In the one month I've been doing this, I feel like I have tens of articles I could write about, but the experience is still maturing for me.
 
 I also have another round in Chicago to look forward to over the summer. I'll get to work with the same team as last year on similar projects, and I'm looking forward to going back.
 
